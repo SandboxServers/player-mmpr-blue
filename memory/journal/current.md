@@ -220,3 +220,7 @@
 - 21:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":54,"z":223}},{"do":"goto","target":{"x":188,"y":54,"z":222}}]}
 - 21:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:39 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}},{"do":"wait","seconds":5},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":186,"y":56,"z":223}},{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
+- 21:39 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":186,"y":58,"z":222}}]}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":188,"y":54,"z":222}},{"do":"goto","target":{"x":186,"y":56,"z":223}}]}
+- 21:40 act: {"say":"Trini, I'm at 191,53,222 in the water pit, standing on dirt. Please place dirt at 190,54,222 and 191,54,222 beside me so I can step up. Thank you.","actions":[{"do":"unstick"}]}
