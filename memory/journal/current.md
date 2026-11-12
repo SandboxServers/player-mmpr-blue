@@ -147,3 +147,5 @@
 - 20:55 act: {"actions":[{"do":"goto","target":{"x":192,"y":57,"z":224}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 20:55 act: {"actions":[{"do":"mine","block":"sand","count":2}]}
 - 20:56 act: {"say":"Zack, Kimberly: place dirt/sand under you and stack upward. Can one of you give me a dirt block?","actions":[{"do":"wait","seconds":60}]}
+- 20:57 act: {"actions":[{"do":"unstick"}]}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":196,"y":54,"z":224}}]}
