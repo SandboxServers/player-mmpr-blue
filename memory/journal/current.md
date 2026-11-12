@@ -288,3 +288,7 @@
 - 22:37 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:38 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":68,"z":366}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_pickaxe","count":1}],"say":"Jason, crafting works here with a table placed. Place a table, then craft planks, then pickaxe. Coming to you."}
+- 22:39 act: {"actions":[{"do":"goto","target":{"x":-244,"y":68,"z":341}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Jason, I'm coming with a crafting table."}
+- 22:40 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"x":-244,"y":68,"z":341},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 22:40 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"target":{"x":-244,"y":68,"z":341}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
+- 22:42 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"target":{"x":-244,"y":68,"z":341}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
