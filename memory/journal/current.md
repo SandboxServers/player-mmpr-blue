@@ -87,3 +87,4 @@
 - 18:54 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}},{"do":"goto","target":{"x":188,"y":60,"z":224}}]}
 - 18:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":53,"z":224}}],"reasoning":"Try unstick a
 - 18:55 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":191,"y":54,"z":223}}],"reasoning":"Try mining adjacent stone and a jump up again."}
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
