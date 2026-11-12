@@ -155,3 +155,4 @@
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
 - 21:00 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
 - 21:01 act: {"say":"Kimberly, could you give me your birch planks? I can build a step out of the pit."}
+- 21:03 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
