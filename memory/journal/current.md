@@ -157,3 +157,5 @@
 - 21:01 act: {"say":"Kimberly, could you give me your birch planks? I can build a step out of the pit."}
 - 21:03 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
 - 21:04 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
+- 21:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":54,"z":227}}]}
+- 21:05 act: {"say":"Kimberly, please give me your birch planks. Zack, your dirt too. I'll stack up and climb out.","actions":[{"do":"wait","seconds":60}]}
