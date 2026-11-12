@@ -250,3 +250,6 @@
 - 21:51 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":20}]}
 - 21:51 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":54,"z":222}},{"do":"goto","target":{"x":190,"y":55,"z":222}}]}
 - 21:51 act: {"say":"Zack, Kimberly: I'm stuck in the water at 191,54,222 and can't move. If you're on solid ground, please place dirt at 190,54,222 or 191,55,222. Thank you.","actions":[{"do":"wait","seconds":60}
+- 21:52 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":55,"z":222}},{"do":"goto","target":{"x":188,"y":55,"z":222}}]}
+- 21:52 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":20},{"do":"goto","target":{"x":188,"y":54,"z":222}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":355}}]}
