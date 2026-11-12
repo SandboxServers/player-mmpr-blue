@@ -81,3 +81,6 @@
 - 18:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":60,"z":223}}]}
 - 18:44 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":64,"z":226}}]}
 - 18:50 act: {"actions":[{"do":"goto","target":{"x":191,"y":64,"z":226}}],"say":"Zack, thanks for coming. I'm trying to climb out."}
+- 18:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":64,"z":226}}]}
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":191,"y":60,"z":223}}]}
+- 18:51 say: {"text":"Billy still in the water pit at 191,53,223. Trini, please drop dirt at the edge when you can."}
