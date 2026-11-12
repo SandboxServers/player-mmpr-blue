@@ -304,3 +304,5 @@
 - 22:47 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:47 say: {"text":"Jason, my pickaxe crafting also does nothing. Sorry, I can't help with that."}
 - 22:50 say: {"text":"Jason, I'm at the base (-271,68,365). Come here and I'll craft your pickaxe with my table."}
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}]}
+- 23:00 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
