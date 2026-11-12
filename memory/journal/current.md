@@ -26,3 +26,7 @@
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":188,"y":66,"z":224}}]}
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":199,"y":59,"z":232}}]}
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":181,"y":65,"z":236}}]}
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":182,"y":66,"z":235}}]}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":200,"y":58,"z":234}}]}
+- 17:51 act: {"intent":{"goal":"flee_skeleton","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":205,"y":60,"z":240}}]}
