@@ -284,3 +284,7 @@
 - 22:36 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:36 say: {"text":"Jason, I tried crafting a wooden pickaxe from planks and sticks. Tell me where you are and I'll bring it if it works."}
 - 22:36 say: {"text":"Jason, my pickaxe craft didn't work either; it likely needs a crafting table nearby. I can't help tonight. Good luck."}
+- 22:37 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 22:37 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:38 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":68,"z":366}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_pickaxe","count":1}],"say":"Jason, crafting works here with a table placed. Place a table, then craft planks, then pickaxe. Coming to you."}
