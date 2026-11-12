@@ -185,3 +185,6 @@
 - 21:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:22 act: {"say":"Trini, Billy and Kimberly are in the pit at 190,53,223. Please stack dirt at 190,54-56,223 so we can climb.","actions":[{"do":"wait","seconds":60}]}
 - 21:22 act: {"actions":[{"do":"place","block":"sand","at":"feet"}]}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
+- 21:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":190,"y":54,"z":223}}]}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
