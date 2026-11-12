@@ -80,3 +80,4 @@
 - 18:39 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
 - 18:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":60,"z":223}}]}
 - 18:44 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":64,"z":226}}]}
+- 18:50 act: {"actions":[{"do":"goto","target":{"x":191,"y":64,"z":226}}],"say":"Zack, thanks for coming. I'm trying to climb out."}
