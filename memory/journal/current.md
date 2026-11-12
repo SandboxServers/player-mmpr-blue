@@ -23,3 +23,6 @@
 - 17:46 act: {"actions":[{"do":"goto","target":{"x":182,"y":64,"z":236}},{"do":"mine","block":"birch_log","count":4}]}
 - 17:47 act: {"actions":[{"do":"unstick"}]}
 - 17:47 act: {"actions":[{"do":"goto","target":{"x":182,"y":64,"z":236}},{"do":"mine","block":"birch_log","count":4}]}
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":188,"y":66,"z":224}}]}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":199,"y":59,"z":232}}]}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":181,"y":65,"z":236}}]}
