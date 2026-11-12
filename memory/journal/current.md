@@ -65,3 +65,5 @@
 - 18:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
 - 18:30 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 18:31 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":189,"y":53,"z":223}},{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 18:32 act: {"say":"Jason, yes please! I'm stuck in a water pit at 191,53,223. Drop dirt/cobble near the edge or give them to me. Thank you!"}
