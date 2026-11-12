@@ -1,0 +1,3 @@
+work out how this world's materials and tools fit together; design and build useful devices (storage, doors, tools); keep his friends from rushing into a danger he can see coming.
+
+As a team: find the other friends, and keep within reach of them once found. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of the friends is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world together, and build what the whole group can use.
