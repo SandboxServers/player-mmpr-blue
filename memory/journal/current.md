@@ -90,3 +90,7 @@
 - 18:58 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
 - 19:01 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
 - 19:02 say: {"text":"Billy in the pit at 191,53,223. Please drop dirt or cobble at the edge, or a pickaxe. Thank you."}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
+- 19:05 act: {"actions":[{"do":"unstick"}]}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
+- 19:05 say: {"text":"Billy still stuck in the pit at 191,53,223. Anyone with dirt, cobble or a pickaxe, please drop it at the edge."}
