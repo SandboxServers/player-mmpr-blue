@@ -180,3 +180,8 @@
 - 21:19 act: {"say":"Trini, Billy is stuck too, at 189,53,223 beside Kimberly. Please stack dirt at 189,54-56,223. Thank you.","actions":[{"do":"wait","seconds":90}]}
 - 21:20 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:20 act: {"actions":[{"do":"wait","seconds":10},{"do":"unstick"},{"do":"goto","target":{"x":191,"y":57,"z":223}}],"say":"Trini, please place dirt at 190,53,223 and 189,54,223."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":54,"z":223}}]}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:22 act: {"say":"Trini, Billy and Kimberly are in the pit at 190,53,223. Please stack dirt at 190,54-56,223 so we can climb.","actions":[{"do":"wait","seconds":60}]}
+- 21:22 act: {"actions":[{"do":"place","block":"sand","at":"feet"}]}
