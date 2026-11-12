@@ -312,3 +312,5 @@
 - 23:15 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 23:15 act: {"say":"Crafting a wooden pickaxe was accepted for me with 8 planks, 12 sticks and a table in my pack. Try \"craft wooden_pickaxe\" by name, near a table.","actions":[{"do":"note","text":"Day101: craf
 - 23:19 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}},{"do":"mine","block":"wheat","count":4},{"do":"mine","block":"potatoes","count":4},{"do":"mine","block":"carrots","count":2}]}
+- 23:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
