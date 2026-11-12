@@ -298,3 +298,6 @@
 - 22:45 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:46 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":68,"z":366}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 22:46 act: {"say":"Jason, my crafts and placing also do nothing right now. I can't make a pickaxe. Sorry.","actions":[{"do":"note","text":"Day100: craft/place both silently fail at base; inventory unchanged. Try
+- 22:46 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:46 act: {"actions":[{"do":"wait","seconds":3}]}
+- 22:46 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":68,"z":366}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
