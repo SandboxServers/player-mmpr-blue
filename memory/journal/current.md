@@ -280,3 +280,4 @@
 - 22:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}},{"do":"sleep"}]}
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}},{"do":"sleep"}]}
 - 22:29 act: {"actions":[{"do":"note","text":"Day 99: at base (-271,68,365), beds nearby, healthy. Kimberly pit rescue handled by Trini/Tommy."}],"say":"Good morning. Kimberly, hold on, Tommy and Trini are close."
+- 22:35 say: {"text":"Jason: a pickaxe is 3 planks on top and 2 sticks below, needs a crafting table nearby. Make planks from logs first."}
