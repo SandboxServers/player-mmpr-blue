@@ -261,3 +261,4 @@
 - 21:57 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
 - 22:03 act: {"actions":[{"do":"sleep"}]}
 - 22:03 act: {"actions":[{"do":"sleep"}]}
+- 22:06 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
