@@ -317,3 +317,6 @@
 - 23:29 act: {"actions":[{"do":"goto","target":{"x":-253,"y":68,"z":353}}]}
 - 23:31 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
 - 23:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-268,"y":68,"z":360}}]}
+- 23:33 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 23:34 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-251,"y":68,"z":353}}]}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-268,"y":68,"z":360}}]}
