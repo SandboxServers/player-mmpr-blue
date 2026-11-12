@@ -253,3 +253,6 @@
 - 21:52 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":55,"z":222}},{"do":"goto","target":{"x":188,"y":55,"z":222}}]}
 - 21:52 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":20},{"do":"goto","target":{"x":188,"y":54,"z":222}}]}
 - 21:52 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":355}}]}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}},{"do":"mine","block":"wheat","count":6},{"do":"craft","item":"bread","count":2}]}
+- 21:53 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}}]}
+- 21:54 act: {"actions":[{"do":"mine","block":"wheat","count":6},{"do":"craft","item":"bread","count":2}]}
