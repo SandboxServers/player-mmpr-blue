@@ -59,3 +59,6 @@
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
 - 18:27 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
 - 18:27 act: {"say":"Billy here, stuck in a deep-water pit at 191,53,223 with no tools. If anyone can bring blocks or a pickaxe, please help.","actions":[{"do":"wait","seconds":120}]}
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
