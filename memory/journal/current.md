@@ -271,3 +271,6 @@
 - 22:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":356}}]}
 - 22:12 act: {"intent":{"goal":"reach_carrots","program":"travel","arguments":{"x":-252,"y":68,"z":356},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
 - 22:12 act: {"intent":{"goal":"reach_carrots","program":"travel","arguments":{"target":{"x":-252,"y":68,"z":356}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":356}}]}
+- 22:16 act: {"actions":[{"do":"unstick"}]}
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":356}}]}
