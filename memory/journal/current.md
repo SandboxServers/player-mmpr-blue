@@ -327,3 +327,4 @@
 - 23:39 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}},{"do":"mine","block":"wheat","count":4},{"do":"mine","block":"potatoes","count":4}]}
 - 23:40 act: {"actions":[{"do":"unstick"}]}
 - 23:40 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
