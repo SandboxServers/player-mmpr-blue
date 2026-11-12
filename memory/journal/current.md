@@ -98,3 +98,6 @@
 - 19:06 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
 - 19:21 act: {"actions":[{"do":"unstick"}]}
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 19:22 act: {"say":"Zack, could you give me some dirt? I'm stuck in this water pit.","actions":[{"do":"mine","block":"stone","count":3}]}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":190,"y":54,"z":223}},{"do":"place","block":"dirt","at":"feet"}]}
