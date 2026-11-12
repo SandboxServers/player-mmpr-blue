@@ -173,3 +173,8 @@
 - 21:11 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 21:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
 - 21:13 act: {"actions":[{"do":"goto","target":{"x":195,"y":54,"z":224}}]}
+- 21:14 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 21:15 act: {"actions":[{"do":"unstick"}]}
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":215}}]}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}],"say":"Trini, I'm at 189,53,223 in the pit too. Heading up your pillar."}
+- 21:19 act: {"say":"Trini, Billy is stuck too, at 189,53,223 beside Kimberly. Please stack dirt at 189,54-56,223. Thank you.","actions":[{"do":"wait","seconds":90}]}
