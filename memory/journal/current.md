@@ -135,3 +135,11 @@
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:50 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1}]}
 - 20:50 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":230}}]}
+- 20:53 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
+- 20:54 act: {"actions":[{"do":"unstick"}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":223}}],"say":"Trini, Jason: I'm in the water pit at 191,53,223. Dirt at the edge please."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":196,"y":53,"z":223}}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":195,"y":54,"z":225}}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":196,"y":57,"z":226}}]}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":196,"y":55,"z":226}},{"do":"unstick"}]}
+- 20:54 act: {"say":"I'm out of the pit! At 192,57,224. Thank you both. No need for dirt.","actions":[{"do":"note","text":"Escaped water pit at day 94; at 192,57,224 on stone, health 20. Inventory empty."}]}
