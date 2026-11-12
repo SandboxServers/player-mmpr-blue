@@ -308,3 +308,4 @@
 - 23:00 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 23:02 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 23:02 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
+- 23:08 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Jason, I'm at the beds (-272,68,365). Come get a pickaxe."}
