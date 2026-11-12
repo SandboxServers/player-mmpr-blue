@@ -315,3 +315,5 @@
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}},{"do":"mine","block":"wheat","count":4},{"do":"mine","block":"potatoes","count":4},{"do":"mine","block":"carrots","count":2}]}
 - 23:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
 - 23:29 act: {"actions":[{"do":"goto","target":{"x":-253,"y":68,"z":353}}]}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":353}}]}
+- 23:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-268,"y":68,"z":360}}]}
