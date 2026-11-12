@@ -164,3 +164,4 @@
 - 21:07 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":224}}]}
 - 21:07 act: {"say":"Kimberly, you hold birch planks: please place one at your feet, or give me one. Trini/Jason, drop dirt at the pit edge, I'll stack up.","actions":[{"do":"wait","seconds":60}]}
 - 21:08 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
+- 21:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
