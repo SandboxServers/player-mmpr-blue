@@ -88,3 +88,5 @@
 - 18:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":53,"z":224}}],"reasoning":"Try unstick a
 - 18:55 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":191,"y":54,"z":223}}],"reasoning":"Try mining adjacent stone and a jump up again."}
 - 18:58 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
+- 19:02 say: {"text":"Billy in the pit at 191,53,223. Please drop dirt or cobble at the edge, or a pickaxe. Thank you."}
