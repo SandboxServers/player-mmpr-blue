@@ -150,3 +150,5 @@
 - 20:57 act: {"actions":[{"do":"unstick"}]}
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":196,"y":54,"z":224}}]}
 - 20:58 act: {"actions":[{"do":"goto","target":{"x":196,"y":54,"z":224}}],"say":"Zack, can you give me the dirt? I'll build up."}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
+- 20:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
