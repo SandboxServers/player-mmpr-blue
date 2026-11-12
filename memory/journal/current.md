@@ -262,3 +262,12 @@
 - 22:03 act: {"actions":[{"do":"sleep"}]}
 - 22:03 act: {"actions":[{"do":"sleep"}]}
 - 22:06 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Body waking; the old farm noted in memory is about 25 blocks away, within range. Check it for crops."}
+- 22:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}]}
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":354}}]}
+- 22:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":68,"z":358}}]}
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":355}},{"do":"mine","block":"carrots","count":1}]}
+- 22:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-252,"y":68,"z":356}}]}
+- 22:12 act: {"intent":{"goal":"reach_carrots","program":"travel","arguments":{"x":-252,"y":68,"z":356},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
+- 22:12 act: {"intent":{"goal":"reach_carrots","program":"travel","arguments":{"target":{"x":-252,"y":68,"z":356}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_opera
