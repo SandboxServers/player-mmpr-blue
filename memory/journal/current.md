@@ -258,3 +258,4 @@
 - 21:54 act: {"actions":[{"do":"mine","block":"wheat","count":6},{"do":"craft","item":"bread","count":2}]}
 - 21:56 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
 - 21:57 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
