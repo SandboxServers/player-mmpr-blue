@@ -127,3 +127,4 @@
 - 20:18 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
 - 20:19 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":191,"y":54,"z":224}}]}
 - 20:21 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
+- 20:24 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"stone","at":"feet"}]}
