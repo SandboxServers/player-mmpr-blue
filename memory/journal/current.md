@@ -131,3 +131,4 @@
 - 20:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
 - 20:46 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":226}}]}
 - 20:47 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"}]}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}],"say":"Jason, thank you. I'm at the pit, trying to walk south."}
