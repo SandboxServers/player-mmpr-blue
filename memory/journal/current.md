@@ -143,3 +143,7 @@
 - 20:54 act: {"actions":[{"do":"goto","target":{"x":196,"y":57,"z":226}}]}
 - 20:54 act: {"actions":[{"do":"goto","target":{"x":196,"y":55,"z":226}},{"do":"unstick"}]}
 - 20:54 act: {"say":"I'm out of the pit! At 192,57,224. Thank you both. No need for dirt.","actions":[{"do":"note","text":"Escaped water pit at day 94; at 192,57,224 on stone, health 20. Inventory empty."}]}
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":192,"y":57,"z":224}},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 20:55 act: {"actions":[{"do":"mine","block":"sand","count":2}]}
+- 20:56 act: {"say":"Zack, Kimberly: place dirt/sand under you and stack upward. Can one of you give me a dirt block?","actions":[{"do":"wait","seconds":60}]}
