@@ -306,3 +306,5 @@
 - 22:50 say: {"text":"Jason, I'm at the base (-271,68,365). Come here and I'll craft your pickaxe with my table."}
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}]}
 - 23:00 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 23:02 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
