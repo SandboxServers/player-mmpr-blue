@@ -309,3 +309,5 @@
 - 23:02 act: {"actions":[{"do":"unstick"},{"do":"sleep"}]}
 - 23:02 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
 - 23:08 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Jason, I'm at the beds (-272,68,365). Come get a pickaxe."}
+- 23:15 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 23:15 act: {"say":"Crafting a wooden pickaxe was accepted for me with 8 planks, 12 sticks and a table in my pack. Try \"craft wooden_pickaxe\" by name, near a table.","actions":[{"do":"note","text":"Day101: craf
