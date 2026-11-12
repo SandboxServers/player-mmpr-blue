@@ -292,3 +292,6 @@
 - 22:40 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"x":-244,"y":68,"z":341},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 22:40 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"target":{"x":-244,"y":68,"z":341}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
 - 22:42 act: {"intent":{"goal":"bring_table_to_jason","program":"travel","arguments":{"target":{"x":-244,"y":68,"z":341}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 22:45 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:45 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-270,"y":68,"z":366}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 22:45 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Jason, I'm at base (-271,68,365) with a crafting table. Come here; I'll try to make you a pickaxe."}
