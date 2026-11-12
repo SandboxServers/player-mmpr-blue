@@ -75,3 +75,4 @@
 - 18:37 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":188,"y":69,"z":223},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 18:37 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":223}}]}
 - 18:37 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":54,"z":223}}]}
+- 18:38 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":54,"z":223}}]}
