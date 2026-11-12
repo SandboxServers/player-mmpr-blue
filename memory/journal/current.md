@@ -161,3 +161,6 @@
 - 21:05 act: {"say":"Kimberly, please give me your birch planks. Zack, your dirt too. I'll stack up and climb out.","actions":[{"do":"wait","seconds":60}]}
 - 21:06 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":224}}]}
 - 21:06 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":195,"y":53,"z":224}}]}
+- 21:07 act: {"say":"Kimberly, you hold birch planks: please place one at your feet, or give me one. Trini/Jason, drop dirt at the pit edge, I'll stack up.","actions":[{"do":"wait","seconds":60}]}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":189,"y":54,"z":223}}]}
