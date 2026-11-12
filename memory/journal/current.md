@@ -94,3 +94,5 @@
 - 19:05 act: {"actions":[{"do":"unstick"}]}
 - 19:05 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
 - 19:05 say: {"text":"Billy still stuck in the pit at 191,53,223. Anyone with dirt, cobble or a pickaxe, please drop it at the edge."}
+- 19:06 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack, you hold dirt. Place it in the water beside us to make a step, and I'll climb."}
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
