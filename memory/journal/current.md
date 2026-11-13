@@ -347,3 +347,4 @@
 - 00:31 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
 - 00:31 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
 - 00:32 act: {"actions":[{"do":"note","text":"Day105: full health/hunger, 4 oak logs. Others trying to leave pit; nothing to do."},{"do":"wait","seconds":60}]}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
