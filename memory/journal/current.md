@@ -460,3 +460,13 @@
 - 04:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":53,"z":348}}]}
 - 04:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":52,"z":348}},{"do":"goto","target":{"x":-237,"y":53,"z":349}}]}
 - 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-237,"y":53,"z":349}}]}
+- 04:51 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"place","block":"dirt","at":"feet"}],"say":"Billy, still in the pit at -237,52,349 with 22 dirt. Trying a side step and stack
+- 04:51 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-235,"y":54,"z":349}},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stack dirt under me to climb one block at
+- 04:52 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-235,"y":55,"z":349}}],"say":"Billy, still in the pit at -235,53,349. Stacking dirt under me, climbing now.","reasoning
+- 04:52 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-235,"y":54,"z":349}}],"reasoning":"Dirt above me is the cap; mine it and step up."}
+- 04:52 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":54,"z":349}},{"do":"goto","target":{"x":-236,"y":55,"z":349}}],"reasoning":"The gap is up on the left; dig toward
+- 04:53 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-236,"y":52,"z":347}},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-236,"y":53,"z":347}},{"do":"mine"
+- 04:55 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":52,"z":347}}],"reasoning":"One more try after the wait: unstick, then stack cobbleston
+- 04:55 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":53,"z":347}},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":54,"z
+- 04:55 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":53,"z":347}}],"reasoning":"Unstick first, then stack and step, as it worked before."}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":-236,"y":54,"z":347}},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":55,"z":347}}],"reasoning":"Perched at
