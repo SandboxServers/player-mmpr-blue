@@ -365,3 +365,14 @@
 - 01:04 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
 - 01:06 act: {"actions":[{"do":"goto","target":{"x":-282,"y":68,"z":368}}]}
 - 01:06 act: {"actions":[{"do":"note","text":"Day107: walking works in small steps. Beds at -282,69,371. Sleep at night."}]}
+- 01:11 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I have a pickaxe now. Kimberly and Trini, I'm coming to dig you out.","reasoning":"Craft a pickaxe from my planks and sticks, then 
+- 01:11 act: {"intent":{"goal":"reach_kimberly_pit","program":"travel","arguments":{"x":-223,"y":62,"z":349},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"
+- 01:11 act: {"intent":{"goal":"reach_kimberly_pit","program":"travel","arguments":{"x":-223,"y":62,"z":349},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"
+- 01:12 act: {"intent":{"goal":"reach_pit","program":"travel","arguments":{"x":-223,"y":62,"z":349},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":349}}]}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-233,"y":66,"z":353}}],"say":"Trini, I'm nearby with a pickaxe. I'll dig toward you from the edge."}
+- 01:12 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"dirt","count":3}],"say":"Kimberly, I'm right beside you with a pickaxe. Stack dirt under your feet one block at a time, and I'll dig a step next 
+- 01:13 act: {"actions":[{"do":"mine","block":"stone","count":4}],"say":"Kimberly, I'm mining you some stone to stack with."}
+- 01:14 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Make a spare pickaxe so I can give one to Zack, who has none and is boxed in."}
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-274,"y":63,"z":317}}],"say":"Zack, I'm bringing you a pickaxe. Heading to you now."}
+- 01:14 act: {"actions":[{"do":"unstick"}],"say":"I'm still at the pit edge at -233,58,349, boxed in by everyone. Zack, I'll bring a pickaxe once I can move.","reasoning":"I'm wedged in the crowded pit; free mysel
