@@ -1179,3 +1179,27 @@
 - 20:38 act: {"intent":{"goal":"find_chicken","program":"travel","arguments":{"target":{"x":-304,"y":69,"z":296}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1
 - 20:38 act: {"say":"Kimberly, welcome. I'm Billy. No chicken in sight here yet. Wheat is unripe, so leave it. Villagers by the table turn on you, so stay back."}
 - 20:41 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks"
+- 20:42 say: {"text":"Jason, the beds are taken and it is night. I am staying near here until morning. Do you know where the chicken or cow went?"}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Night, beds nearby. Jason is resting nearby too. Try the bed once more; if occupied, wait.","say":"Jason, than
+- 20:47 say: {"text":"Good morning, Jason. I am going out to look for a chicken or cow. Shout if you see one."}
+- 20:47 act: {"intent":{"goal":"find_food_animal","program":"travel","arguments":{"x":-300,"y":68,"z":330},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"ma
+- 20:47 act: {"intent":{"goal":"find_food_animal","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 20:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":68,"z":300}}],"reasoning":"Travel was blocked by the pit. Unstick, then try a nearer open point to the north-west."}
+- 20:47 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"reasoning":"Enclosed by my own pit walls. Dig out through dirt, then get free."}
+- 20:48 act: {"intent":{"goal":"find_cow","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":420}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
+- 20:48 act: {"intent":{"goal":"search_south_east_cows","program":"travel","arguments":{"target":{"x":-235,"y":68,"z":445}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 20:49 act: {"intent":{"goal":"flee_skeleton","program":"flee","arguments":{},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}},"say":"A skeleton is shooting at me from the 
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-212,"y":70,"z":452}}],"reasoning":"Health falling from skeleton arrows. Get out of its sight to the east, away from the drop to the south-east.","say":"Skeleton
+- 20:51 act: {"actions":[],"say":"Kimberly, I'm at -213,70,452, east of the skeleton. I'm hungry and out of food. Any bread would help. Zack, if you find meat, tell me.","reasoning":"Health steady; skeleton 23 blo
+- 20:52 act: {"actions":[],"say":"Thank you, Kimberly. Please hand it over, I'll eat it right away. I'll share food with you if I find any.","reasoning":"Kimberly is in reach with her bread. Thank her and wait for
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-213,"y":70,"z":450}}],"say":"Stepping back north one block, Kimberly. Hand it over now.","reasoning":"Kimberly's give bounced for distance. Step back north, cle
+- 20:53 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. I'm eating it now.","reasoning":"Kimberly gave bread; a reflex ate some but hunger is still 17. Eat again."}
+- 20:53 act: {"actions":[],"say":"Kimberly, thank you. I'm searching north for animals now. Will shout if I find any.","reasoning":"Bread is gone. Need meat. Search north away from the skeleton."}
+- 20:53 act: {"actions":[],"intent":{"goal":"search_north_for_animals","program":"travel","arguments":{"target":{"x":-214,"y":70,"z":420}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"lim
+- 20:53 act: {"actions":[],"intent":{"goal":"search_further_north_for_animals","program":"travel","arguments":{"target":{"x":-214,"y":70,"z":380}},"wake_on":["goal_completed","directly_addressed","unexpected_damag
+- 20:57 act: {"say":"Trini, I have no food either. I'm searching east for cows and sheep now.","intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-180,"y":70,"z":380}},"wake_o
+- 20:57 act: {"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-150,"y":70,"z":380}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 20:58 act: {"intent":{"goal":"search_southeast_for_animals","program":"travel","arguments":{"target":{"x":-150,"y":70,"z":400}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":-159,"y":76,"z":409}}],"reasoning":"Dusk and hungry. Two item stacks lie just south of me on the ground, possibly food. Check them first, then build a shelter.",
+- 20:59 act: {"actions":[{"do":"eat"}],"reasoning":"Morning. Kimberly says she gave me her bread. Try to eat whatever food I have."}
+- 20:59 act: {"intent":{"goal":"build_dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
