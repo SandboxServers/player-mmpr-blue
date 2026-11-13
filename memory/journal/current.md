@@ -655,3 +655,10 @@
 - 09:10 act: {"intent":{"goal":"hold_near_beds_till_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
 - 09:15 act: {"say":"Billy here, awake at -237,68,341 on dirt. Health and hunger full. Looking for food animals nearby, pigs or cows, when hunger drops.","actions":[{"do":"note","text":"Woke day 131 at -237,68,341
 - 09:19 act: {"say":"Billy: night is here and I'm in the open at -237,68,341. Building a shelter now with the blocks I carry.","intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter",
+- 09:30 act: {"intent":{"goal":"help_jason_shaft","program":"travel","arguments":{"target":{"x":-239,"y":69,"z":344}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block_o
+- 09:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":"ag_tommy_01"}],"say":"Billy: I'm out of the enclosure and walking to Tommy at the shaft top with dirt."}
+- 09:30 act: {"say":"Billy: I'm at -238,64,341 with 26 dirt and 12 cobblestone. Jason, tell me exactly which block to place and where, and I'll do it."}
+- 09:31 act: {"intent":{"goal":"dig_stair_for_jason","program":"travel","arguments":{"target":{"x":-238,"y":60,"z":345}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world
+- 09:31 act: {"say":"Billy: my travel keeps failing with no movement, so I can't dig Jason's stair reliably. Tommy, you have the cobblestone and are at the rim, so please place a stair up beside the shaft. I'll br
+- 09:33 act: {"say":"Billy: Zack, you're closest with the dirt and cobblestone, so you take the bottom of Jason's shaft. I can't reach it reliably. I'm staying at -238,64,341 with 27 dirt and 12 cobblestone if any
+- 09:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
