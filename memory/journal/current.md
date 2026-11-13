@@ -1112,3 +1112,37 @@
 - 19:40 act: {"actions":[{"do":"sleep"}]}
 - 19:48 act: {"actions":[{"do":"sleep"}]}
 - 19:48 act: {"say":"Zack, I'm heading southeast toward the pig near -192, 419 to look for food, and I'll bring back whatever I can find.","intent":{"goal":"find_pig_southeast","program":"travel","arguments":{"x":
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"It's night, so I'm going to the yellow bed to sleep.","reasoning":"Night, six days without sleep, bed is near. Try s
+- 20:01 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Beds occupied by neighbours who are sleeping. Wait for one to free, then retry once."}
+- 20:02 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry the bed once after the wait. If it fails again, I stop retrying the same thing and look for another way."}
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Morning. Thanks Tommy, I'm going to the farm to look for wheat, carrots or beetroot.","reasoning":"I have no food, but hunger is st
+- 20:06 act: {"actions":[{"do":"unstick"}],"reasoning":"Enclosed by white terracotta; the goto cannot path out. Unstick is the tool for this."}
+- 20:06 act: {"actions":[{"do":"wait","seconds":60}],"say":"I'm boxed in by white terracotta west of the beds and can't get out. If anyone has a pickaxe, please dig me a way out.","reasoning":"Unstick failed; I ha
+- 20:07 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"reasoning":"Walls may have changed while I waited. One fresh try with unstick then goto; if both fail, I wait for help."
+- 20:08 act: {"actions":[{"do":"wait","seconds":120}],"say":"Still walled in at the yellow beds. Anyone with a pickaxe, please dig me out from the west side.","reasoning":"Both unstick and goto have failed twice. 
+- 20:09 act: {"actions":[{"do":"wait","seconds":60}],"say":"Zack, I'm at -263, 66, 352, right beside the yellow beds, walled in by white terracotta on the west and north. Please dig from the west toward the farm. 
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":353}}],"say":"Thank you Zack! I'm out. Heading to the farm now.","reasoning":"Zack dug me out. Go to the farm for food, the thing I need most."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"Zack, thanks. The farm looks empty then. I'm going to the sheep spot at -257, 66, 375 to look for food.","reasoning":"Farm is empty
+- 20:10 act: {"actions":[{"do":"unstick"}],"say":"I'm down in a dirt pit at the beds now. Zack, could you dig me out again?","reasoning":"Still enclosed in dirt. Unstick once, then rely on Zack's pickaxe."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"reasoning":"Health steady after the fall. Try the route to the sheep spot again; if blocked, ask for help."}
+- 20:11 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack, don't dig for me, I'm free. I'm at the sheep spot now, -257, 66, 374. No sheep here yet. I'll look around for animals.","reasoning":"I'm out and at
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":374}}],"say":"No sheep here for me either. I'm searching west, toward -285, 66, 374. I'll call out if I find animals.","reasoning":"Others cover 
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":374}}],"reasoning":"The earlier goto was refused as busy. Now the wait is done, so send it once."}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":380}}],"say":"Kimberly, thanks for the cow lead. I'm searching further west, so the cow is yours to share.","reasoning":"Kimberly has the cow. I 
+- 20:12 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in a pit at -310,75,380. Unstick first, then head for the cow with the others."}
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"I'm hungry too, 19, and I'm out of the pit. I'm heading back toward the sheep spot. Tell me if you find food there.","reasoning":"T
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-251,"y":68,"z":430}}],"say":"Kimberly, I'm hungry, 18. I'm coming to you for the beef. Where are you now?","reasoning":"Food is the top need. Kimberly holds the
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-245,"y":69,"z":432}}],"say":"Zack, sorry about the explosion. I'm checking the items on the ground here for food.","reasoning":"Dropped items nearby may be beef
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":434}},{"do":"goto","target":{"x":-236,"y":69,"z":434}}],"reasoning":"Pick up the dropped items, which may include beef, then head for the cow to 
+- 20:13 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Going for the cow now. Kimberly, Tommy, if you're near, I'll share.","reasoning":"Food is urgent at hunger 18. A cow is within reach, so attack it ba
+- 20:13 act: {"actions":[{"do":"eat"}],"say":"I got beef from the cow and I'm eating it now. Zack, I'll bring your items back to the beds.","reasoning":"Eat the beef to bring hunger up. Then collect Zack's items a
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":428}},{"do":"goto","target":{"x":-240,"y":69,"z":426}},{"do":"goto","target":{"x":-239,"y":69,"z":428}}],"say":"Eating worked, I'm at 20 now. Tri
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-238,"y":70,"z":429}},{"do":"goto","target":{"x":-236,"y":69,"z":429}},{"do":"goto","target":{"x":-272,"y":68,"z":366}}],"say":"Zack, I picked up coal, planks, d
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"cobblestone","count":17},{"do":"give","to":"ag_zack_01","item":"oak_planks","count":6},{"do":"give","to":"ag_zack_01","item":"coal","count":1},{"do":
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"cobblestone","count":17}],"reasoning":"Retry the give to Zack now that the previous action has ended. One item at a time."}
+- 20:14 act: {"actions":[],"say":"Zack, my hand-off keeps failing as busy. I have your cobblestone, 6 planks, coal and a torch. I'm standing right next to you. Could you pick them up from me, or tell me where to d
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"cobblestone","count":17}],"say":"Zack, here are your 17 cobblestone. I'll hand over the planks and coal next.","reasoning":"Zack is in reach now and 
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"oak_planks","count":6},{"do":"give","to":"ag_zack_01","item":"coal","count":1},{"do":"give","to":"ag_zack_01","item":"torch","count":1}],"say":"Zack,
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"coal","count":1}],"reasoning":"Planks went through. Coal and torch came back to me. Try coal alone."}
+- 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"torch","count":1}],"reasoning":"Coal given. Last item for Zack is the torch."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"reasoning":"All items are handed to Zack. It is getting dark and I have 7 days without sleep. Move to a bed and try to rest."}
