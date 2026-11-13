@@ -491,3 +491,5 @@
 - 05:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3},{"do":"goto","target":{"x":-234,"y":58,"z":348}}]}
 - 05:13 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":5},{"do":"place","block":"dirt","at":"feet"}]}
 - 05:13 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 05:13 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 05:17 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
