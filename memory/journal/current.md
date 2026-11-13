@@ -508,3 +508,4 @@
 - 05:59 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Test whether planks place where dirt and cobblestone failed. Record the result either way."}
 - 05:59 act: {"intent":{"goal":"shelter_dirt_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
 - 06:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Check if direct placement still works after the shelter attempt failed."}
+- 06:02 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_opera
