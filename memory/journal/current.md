@@ -1203,3 +1203,4 @@
 - 20:59 act: {"actions":[{"do":"goto","target":{"x":-159,"y":76,"z":409}}],"reasoning":"Dusk and hungry. Two item stacks lie just south of me on the ground, possibly food. Check them first, then build a shelter.",
 - 20:59 act: {"actions":[{"do":"eat"}],"reasoning":"Morning. Kimberly says she gave me her bread. Try to eat whatever food I have."}
 - 20:59 act: {"intent":{"goal":"build_dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
+- 21:01 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_oper
