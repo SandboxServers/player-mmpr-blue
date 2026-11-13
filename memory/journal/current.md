@@ -1302,3 +1302,15 @@
 - 22:36 act: {"actions":[{"do":"goto","target":{"x":-385,"y":81,"z":336}}],"say":"Going west to look for the pig I saw near -385, 81, 336. Jason, Tommy, I'll report if I find animals."}
 - 22:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Something exploded near me in the dark. I'm heading back east to the beds now."}
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"It is night and I am at the white beds. Sleep here, then reflect. Hunger 19 is enough to last the night.","say
+- 22:43 act: {"reasoning":"Sleep worked at the white beds. Hunger 19, no one near. Next: food hunt west at first light.","say":"I slept at the white beds. I'm going west at first light to look for sheep or cows.",
+- 22:43 act: {"reasoning":"Reached the west spot at night, no animals in sight. Try eating a pumpkin to see how much it helps.","actions":[{"do":"eat"}]}
+- 22:47 act: {"reasoning":"Dawn is here. Ask the group what they know about sheep or cows, then look west.","say":"Dawn. Has anyone seen sheep or cows? Raw pumpkin does not feed me here. I'm going west to look.","
+- 22:47 act: {"reasoning":"Retry the west travel with the correct argument shape.","intent":{"goal":"find_sheep_or_cow","program":"travel","arguments":{"target":{"x":-330,"y":67,"z":318}},"wake_on":["directly_addr
+- 22:48 act: {"reasoning":"No sheep here at -330,67,317. Trini found mutton from sheep to the west; ask where, and stay put until told.","say":"Trini, Kimberly: where exactly did the sheep to the west stand? I'm a
+- 22:48 act: {"reasoning":"Trini is in reach. Ask her directly where she found the sheep, and ask for a bit of the mutton if she can spare it.","say":"Trini, you're right here. Which way was the sheep, and how far
+- 22:50 act: {"reasoning":"Still no sheep here. Push west a bit further, away from the drops to the northwest, and keep watch for animals.","say":"Heading west to look for sheep. Trini, Jason, Tommy, follow if you
+- 22:50 act: {"reasoning":"Reached -360 with no animals. Try further west toward Trini's position.","say":"Trini, I'm at -360, 66, 317. I'll go west past you. Tell me if you see any sheep.","intent":{"goal":"find_
+- 22:50 act: {"reasoning":"Still no animals at -395. Jason is following. Keep searching west, watching for sheep or cows.","say":"Jason, come along. No sheep here yet. I'm pushing further west to look.","intent":{
+- 22:50 act: {"reasoning":"The west travel failed. Try a different direction, southwest, toward Trini's area.","say":"Trini, I'm at -396, 65, 316. The way further west failed, so I'll try southwest toward you.","i
+- 22:50 act: {"reasoning":"Travel failed twice from the same spot, so the path is blocked. Get free first, then look at the ground ahead.","actions":[{"do":"unstick"}]}
+- 22:50 act: {"reasoning":"Unstick worked. Try a shorter southwest hop to a nearby point, to test the path.","intent":{"goal":"find_animals_short_hop","program":"travel","arguments":{"target":{"x":-400,"y":65,"z":
