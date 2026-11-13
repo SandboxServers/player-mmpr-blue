@@ -514,3 +514,6 @@
 - 06:07 act: {"intent":{"goal":"gather_cobble","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
 - 06:08 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"reasoning":"Boxed in by my own shelter walls. Dig out through dirt, then find stone and food."}
 - 06:08 act: {"actions":[{"do":"mine","block":"stone","count":5}],"intent":{"goal":"gather_cobble","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unexpected_damage","
+- 06:11 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 06:11 act: {"intent":{"goal":"shelter_dirt_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
+- 06:13 act: {"say":"Trini, I'm not sure yet. The build shelter spent dirt but I'm still open at -236,58,350. I'll try once more and tell you what works.","intent":{"goal":"rest_until_safe","program":"rest","argum
