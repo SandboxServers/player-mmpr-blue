@@ -1354,3 +1354,14 @@
 - 23:37 act: {"say":"Zack, I'm not boxed in anymore, I can walk out. I'm heading to you at -430,67,349. Then we look for sheep or cows together.","actions":[{"do":"goto","target":"ag_zack_01"}],"intent":{"goal":"j
 - 23:39 act: {"say":"Zack, I can't see you from here. It's dusk, so I'm building a stone shelter right where I stand and staying sealed in for the night.","actions":[],"intent":{"goal":"shelter_for_night","program
 - 23:40 act: {"actions":[{"do":"note","text":"Dusk, day 174. Enclosed in stone at -433,68,351, health 20, hunger 18. Zack is nearby and sheltering. Staying sealed for the night, then food at first light."}],"say":
+- 23:40 act: {"say":"Thanks, Zack. Stay sealed and we will look for food at first light.","intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"l
+- 23:48 act: {"say":"Jason, good morning. I'm free now, and yes, I need food. I have no food in my pack, hunger is 18. Do you know where cows or sheep are?"}
+- 23:49 act: {"say":"Jason, I have no food either, only seeds, stone and dirt. Zack and I will head southwest to look for sheep and cows. If you find any, call out.","intent":{"goal":"search_southwest_for_animals"
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-455,"y":68,"z":370}}]}
+- 23:49 act: {"say":"Zack, Jason, the direct way southwest is blocked here. I'll go around to the west and call out if I see sheep or cows.","actions":[{"do":"goto","target":{"x":-445,"y":68,"z":362}}],"intent":{"
+- 23:50 act: {"say":"Zack, Jason, I'm at -443,68,351 and the way west is blocked too. I'll try south next.","actions":[{"do":"goto","target":{"x":-443,"y":68,"z":365}}]}
+- 23:50 act: {"actions":[{"do":"unstick"}]}
+- 23:50 act: {"say":"Unstuck. Trying southwest again from here, Zack.","actions":[{"do":"goto","target":{"x":-450,"y":68,"z":360}}]}
+- 23:50 act: {"say":"Zack, the stone keeps blocking the way southwest. I'll dig through the stone to clear a path.","actions":[{"do":"mine","block":"stone","count":3}]}
+- 23:50 act: {"say":"Jason, I'm at -445,68,351, boxed in by stone. Mining did not clear it. Come to me and we'll find a way out together."}
+- 23:51 act: {"say":"Jason, Zack, I see no clear side from here. Keep digging west and tell me when there's an opening, and I'll follow."}
