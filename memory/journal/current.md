@@ -691,3 +691,5 @@
 - 11:08 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":6},{"do":"give","to":"ag_trini_01","item":"dirt","count":10}],"say":"Trini, I'm here by the beds. Giving you 6 cobble and 10 di
 - 11:09 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
 - 11:09 act: {"actions":[{"do":"goto","target":{"x":-238,"y":65,"z":342}}],"reasoning":"An item lies 2 blocks east, possibly a dropped potato. I'll pick it up."}
+- 11:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operations
+- 11:19 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operations
