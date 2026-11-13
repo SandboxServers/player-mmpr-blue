@@ -1043,3 +1043,60 @@
 - 18:00 act: {"actions":[{"do":"sleep"}]}
 - 18:00 act: {"actions":[{"do":"sleep"}],"say":"Billy here, at the beds. I have no food, hunger 16. Tommy, if the bread is still spare, I would be grateful for it in the morning. I have 3 coal to trade.","reasonin
 - 18:02 act: {"say":"Thank you all. I have no food, hunger 16, but health is steady. I'll stay by the beds and take Tommy's bread at first light.","intent":{"goal":"wait_for_first_light","program":"rest","argument
+- 18:07 act: {"say":"Billy here, at the beds, hungry. Trini, I can reach you. Hand over the wheat when you can, thank you.","intent":{"goal":"await_food_at_beds","program":"rest","arguments":{},"wake_on":["directl
+- 18:07 act: {"say":"Thank you, Trini. I see no wheat in my pack yet. Could you give it to me directly? Kimberly, I'd gladly take your beetroot too."}
+- 18:08 act: {"say":"Billy at the yellow beds, -273,68,364, by the crafting table to the east. Trini, Kimberly, come into sight and I'll be ready. Thanks."}
+- 18:08 act: {"say":"Billy standing by the beds now, in the open. Trini, Zack, I'm in sight. Please hand the wheat over."}
+- 18:09 act: {"say":"Zack, you go first with Trini's wheat, you're hungrier. I'm Billy, still at the beds, hunger 16. Trini, please hand the wheat to Zack."}
+- 18:11 act: {"say":"Thank you, Trini, I have 2 wheat now. Bread at the table needs 3 wheat, so I need one more. Jason, could you spare a wheat? I'll make bread and share it with Zack."}
+- 18:14 act: {"say":"Billy here. I have 2 wheat and need one more to make a loaf of bread at the table. Whoever finds wheat or an animal, bring it to the beds and I'll share.","intent":{"goal":"hold_at_beds_for_fo
+- 18:16 act: {"say":"Zack, if you have bread, I'm at hunger 16 and would be glad of a share. I have 2 wheat ready if you need it for more."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Billy here. Dusk, and I'm going to bed by the beds. I have 2 wheat, one short of bread. At first light I'll look for
+- 18:21 act: {"actions":[{"do":"sleep"}]}
+- 18:21 act: {"intent":{"goal":"get_clear_of_villager","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":372}}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":395}}],"say":"Billy here, morning. I'm going south-east to look for animals or wheat, a direction nobody has searched yet. I'll bring anything ba
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-244,"y":68,"z":411}}]}
+- 18:29 act: {"intent":{"goal":"get_away_from_wolf","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operations":32}}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":372}}],"say":"Billy here. Nothing edible to the south-east, only logs, birch, and a wolf, so I'm heading back toward the beds."}
+- 18:31 act: {"say":"Billy here. I still hold 2 wheat and need one more for bread. Tommy, if you find wheat at the old farm, bring it to the table at -268, 67, 366 and I will craft bread there.","intent":{"goal":"
+- 18:34 act: {"say":"Jason, I have seen no cows, pigs or sheep. My search turned up only logs, a wolf and an arrow. I still hold 2 wheat and need one more for bread. Tommy is checking the old farm for wheat."}
+- 18:38 act: {"say":"Kimberly, Billy here. I am hungry and would be glad of some beef. I'm coming to you now.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 18:38 act: {"say":"Kimberly, I'm Billy, right beside you. Could I have one beef? Trini and Jason are hungry too, so share what you can."}
+- 18:39 act: {"say":"Kimberly, I'm ready. Please give me one beef now, I'm right beside you. Thank you."}
+- 18:39 act: {"say":"Kimberly, nothing has reached my pack yet. Give the beef to Jason or Tommy first, they are hungry too. Thank you for trying."}
+- 18:40 act: {"say":"Billy here. I'll go west to the cows myself and try to take one. Trini, keep your last beef for Jason or Tommy, they are hungrier than I am.","intent":{"goal":"reach_cows_west","program":"trav
+- 18:40 act: {"say":"Billy: my walk west failed and I'm perched on a ledge. Going back to the beds for the night. Morning, I'll look for cows again.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}}]}
+- 18:40 act: {"say":"Billy going to bed here at the beds. Tommy, Trini, Zack, Jason, Kimberly: if you find food, leave it by the beds and tell me.","actions":[{"do":"sleep"}]}
+- 18:40 act: {"say":"Billy here, morning. Still hungry, no food. I'm going west to the cows near -313, 81, 369 by the flat route.","actions":[{"do":"goto","target":{"x":-300,"y":67,"z":368}}]}
+- 18:40 act: {"say":"Billy: it is dark again and the way west is blocked. Going back to the beds, away from the iron golems.","actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}}]}
+- 18:40 act: {"actions":[{"do":"sleep"}],"say":"Billy back at the beds, resting until light. Zack, glad you ate."}
+- 18:40 act: {"say":"Billy, morning. I'm going west to the cows near -313, 81, 369 again, by a route north of the earlier block.","actions":[{"do":"goto","target":{"x":-305,"y":67,"z":355}}],"intent":{"goal":"find
+- 18:41 act: {"say":"Billy here. I'm coming to the yellow bed now, and I'll take a share of the beef in the morning.","actions":[{"do":"goto","target":{"x":-282,"y":69,"z":369}}]}
+- 18:41 act: {"say":"Billy at the beds. I have no sword, so I'll stay clear of the villager fight and keep to the edge.","actions":[]}
+- 18:44 act: {"say":"Kimberly, Billy here. I'm hungry at 16 with no food. Could I have a share of the beef after Zack and Jason?","actions":[{"do":"goto","target":{"x":-266,"y":67,"z":358}}]}
+- 18:44 act: {"say":"Kimberly, I'm coming closer. Billy, hungry at 16, waiting for my share of beef.","actions":[{"do":"goto","target":{"x":-261,"y":66,"z":359}}]}
+- 18:44 act: {"say":"Kimberly, Billy here, right beside you. I'm hungry at 16. Could you give me one beef?","actions":[]}
+- 18:44 act: {"say":"Kimberly, I'm moving next to you now for my beef.","actions":[{"do":"goto","target":{"x":-260,"y":66,"z":358}}]}
+- 18:45 act: {"say":"Kimberly, I'm next to you now. Billy, hunger 16, ready for one beef.","actions":[]}
+- 18:46 act: {"say":"Thank you Kimberly. I'll stand by the bed for the night and take the beef at first light.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}},{"do":"sleep"}]}
+- 18:50 act: {"say":"Morning. The beef won't reach anyone, so I'm going to look for cows myself, to the west past the south side of the beds.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":376}}],"intent":
+- 18:51 act: {"say":"Tommy, my wheat can't be eaten, it only makes bread with three. I have two. If anyone finds a third, we'll make bread together at the table. Have you seen any cows here?","actions":[]}
+- 18:52 act: {"say":"Zack, Tommy, I see no cows here either. I'll search west, past the water, and call out if I find any.","actions":[{"do":"goto","target":{"x":-325,"y":78,"z":372}}]}
+- 18:52 act: {"say":"No cows yet. Searching a bit further west.","actions":[{"do":"goto","target":{"x":-340,"y":78,"z":372}}]}
+- 18:52 act: {"say":"No cows or food here. I'll search a little further west, and I'll tell you if I find any.","intent":{"goal":"search_cows_west","program":"travel","arguments":{"target":{"x":-360,"y":78,"z":372
+- 18:53 act: {"say":"A zombie and a skeleton are on me. I have no sword, so I'm heading back east toward the beds.","intent":{"goal":"flee_to_beds","program":"flee","arguments":{"target":{"x":-263,"y":67,"z":356}}
+- 18:53 act: {"say":"Kimberly, I died to a skeleton out west and respawned here with nothing. I'm right beside you now. Could I have one beef, please?","intent":{"goal":"get_beef_at_beds","program":"rest","argumen
+- 18:57 act: {"say":"Kimberly, Billy here, I'm at the yellow beds, standing still and hungry. I'll wait until you can see me."}
+- 18:58 act: {"say":"Night is coming. I'm staying at the yellow beds, away from the golem. Kimberly, I'll look for you in the morning for a beef.","actions":[{"do":"goto","target":{"x":-264,"y":67,"z":357}},{"do":
+- 18:59 act: {"say":"Kimberly, Billy here, standing still at (-264,66,357) by the beds. One beef, please."}
+- 19:03 act: {"actions":[{"do":"sleep"}],"say":"It's night. I'm sleeping here by the beds and will wait for Kimberly's beef at first light."}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}]}
+- 19:08 act: {"intent":{"goal":"wait_for_beef_at_yellow_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Bi
+- 19:11 act: {"actions":[{"do":"wait","seconds":30}],"say":"Kimberly, Billy still here by the yellow beds, in your sight. Hunger 20 and no food yet. One beef when you can, please."}
+- 19:11 act: {"actions":[{"do":"wait","seconds":20}],"say":"Kimberly, Billy is at -262, 66, 356, just north of the yellow beds, standing still in your sight. Hunger 20. One beef, please."}
+- 19:12 act: {"actions":[{"do":"wait","seconds":5}],"say":"Kimberly, you're right, my hunger reads full at 20. Give your last beef to Trini, who is at 17, or Zack. I'll be glad of the next one. Thank you."}
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"say":"Night is here. I'm at the yellow beds, hunger full, no hostiles in view. Going to sleep."}
+- 19:28 act: {"actions":[{"do":"wait","seconds":10}],"say":"Morning. Billy at -263, 66, 352 by the yellow beds, in the open. Hunger 20, no items. If any beef is spare after Tommy and Zack, I'd be glad of it."}
+- 19:29 act: {"actions":[{"do":"wait","seconds":5}],"say":"Kimberly, Zack first, his health is low. Billy is full at 20 with nothing to give, so Tommy and Zack get the beef. I'll stand here."}
+- 19:29 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack, I'm full at 20 with nothing to give, so I'm staying put by the yellow beds. Kimberly, the beef goes to Tommy and Zack first.","intent":{"goal":"hol
