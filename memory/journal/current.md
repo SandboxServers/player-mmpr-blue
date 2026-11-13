@@ -766,3 +766,23 @@
 - 13:11 act: {"actions":[{"do":"goto","target":{"x":-205,"y":64,"z":250}},{"do":"goto","target":{"x":-215,"y":64,"z":242}}],"reasoning":"Short gotos work where the long travel intent stalled. Keep moving north-wes
 - 13:12 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":248}},{"do":"goto","target":{"x":-210,"y":64,"z":240}}],"reasoning":"Previous path was blocked. Try a different nearby waypoint north-west."}
 - 13:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":63,"z":254}},{"do":"goto","target":{"x":-198,"y":63,"z":249}}],"reasoning":"Long gotos fail; short steps work. Try two short steps nort
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-198,"y":63,"z":255}}],"reasoning":"Short step north-west away from water per errand."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-196,"y":63,"z":252}}],"reasoning":"Short northward step, away from water."}
+- 13:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":63,"z":254}}],"reasoning":"Trapped on grass edge; unstick then short north step."}
+- 13:12 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-195,"y":63,"z":254}}],"reasoning":"Stone walls block north; mine a passage then step north."}
+- 13:13 act: {"actions":[{"do":"mine","block":"stone","count":8},{"do":"goto","target":{"x":-196,"y":63,"z":257}}],"reasoning":"Dig further to escape stone enclosure."}
+- 13:13 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-197,"y":60,"z":254}}],"reasoning":"Keep digging north-ward through stone toward open ground."}
+- 13:13 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-198,"y":59,"z":258}}],"reasoning":"Errand is to mine north through stone toward open ground, then look for food.","say":
+- 13:13 act: {"actions":[{"do":"goto","target":{"x":-197,"y":59,"z":259}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-197,"y":59,"z":257}}],"reasoning":"Continue mining north one or two blo
+- 13:13 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-197,"y":59,"z":258}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-197,"y":59,"z":257}}],"reasonin
+- 13:14 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-197,"y":59,"z":258}}],"reasoning":"Goto keeps failing; unstick and retry one block north."}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-199,"y":59,"z":258}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-199,"y":59,"z":257}}],"reasoning":"Retry northward digging from current
+- 13:14 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-199,"y":59,"z":259}}],"reasoning":"Grass is two blocks north; mine the stone in between and step out."}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-203,"y":60,"z":253}}],"reasoning":"Short NW step per errand, then look."}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-203,"y":60,"z":253}}]}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-203,"y":61,"z":254}}]}
+- 13:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-201,"y":61,"z":257}}]}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-199,"y":61,"z":252}}]}
+- 13:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-199,"y":61,"z":255}}]}
+- 13:18 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":{"name":"shelter","blocks":[]},"block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_w
+- 13:22 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-197,"y":61,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-199,"y":61,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-198,"
