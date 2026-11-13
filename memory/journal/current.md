@@ -1146,3 +1146,10 @@
 - 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"coal","count":1}],"reasoning":"Planks went through. Coal and torch came back to me. Try coal alone."}
 - 20:14 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"torch","count":1}],"reasoning":"Coal given. Last item for Zack is the torch."}
 - 20:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"reasoning":"All items are handed to Zack. It is getting dark and I have 7 days without sleep. Move to a bed and try to rest."}
+- 20:15 act: {"say":"Zack, Jason, I have no food and hunger is 20. Where is the farm or the sheep spot? I'm heading that way.","intent":{"goal":"find_food_at_farm","program":"travel","arguments":{"target":{"x":-27
+- 20:15 act: {"intent":{"goal":"reach_sheep_spot_for_food","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_w
+- 20:15 act: {"intent":{"goal":"check_dropped_items_for_food","program":"travel","arguments":{"target":{"x":-238,"y":69,"z":428}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"ma
+- 20:18 act: {"intent":{"goal":"reach_beds_to_help_zack","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":367}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wor
+- 20:18 say: {"text":"Zack, I'm coming to the beds now. I have no pickaxe, so I'll look at how the cobblestone is set and find a way to free you."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
