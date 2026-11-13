@@ -820,3 +820,5 @@
 - 13:54 act: {"actions":[],"say":"Thanks Tommy. Trini, I have 36 dirt and 6 wheat seeds, no food. I'll trade dirt for food if you find some. I'm holding by the lake at -201, 57, 259.","reasoning":"Tommy has no spa
 - 13:59 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
 - 13:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-202,"y":57,"z":259}},{"do":"place","block":"dirt","at":{"x":-200,"y":57,"z":259}},{"do":"place","block":"dirt","at":{"x":-201,"y":57,"z":258}},{"do"
+- 13:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_blo
+- 13:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_bloc
