@@ -470,3 +470,19 @@
 - 04:55 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":53,"z":347}},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":54,"z
 - 04:55 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":53,"z":347}}],"reasoning":"Unstick first, then stack and step, as it worked before."}
 - 04:55 act: {"actions":[{"do":"goto","target":{"x":-236,"y":54,"z":347}},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":55,"z":347}}],"reasoning":"Perched at
+- 05:00 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":3}],"say":"Still in the pit at -236,51,346. Trying to stack up out of it.","reasoning":"Stuck in a 
+- 05:00 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":54,"z":347}}],"reasoning":"Perched at y=53 on air. Place cobblestone at feet to support, then step up t
+- 05:00 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Billy, still at -236,53,347, healthy. Mining the stone ahead to open a side step. Thanks Trini and Tommy for the cobblestone.","reasoning":"
+- 05:00 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Retry the side mine after unstick, since the last attempt failed inside the body."}
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":3}],"say":"Billy, now at -236,52,349 on stone, health 20. Stacking cobblestone to climb. Thank you Trini.","reasonin
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Previous place collided with a running action. Retry now that the body is idle."}
+- 05:01 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Clear the stuck action state, then place the stacking block."}
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Body appears idle now. One more stack attempt before waiting for dawn."}
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"The stack worked once; repeat to climb another block."}
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Keep stacking; each place has raised me one block."}
+- 05:01 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Near the rim; one more block up."}
+- 05:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-235,"y":58,"z":349}}],"reasoning":"Two more blocks up and east toward the rim near the table."}
+- 05:02 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-235,"y":58,"z":348}}],"reasoning":"Place dirt to gain height, then step to the rim level beside the table."}
+- 05:02 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-235,"y":58,"z":347}}],"reasoning":"Open the gap north by mining dirt, then step up through it."}
+- 05:02 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Clear the blocked state, then raise height one more block with dirt."}
+- 05:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":58,"z":349}}],"reasoning":"Stack one more block then step to y=58, the level of the rim."}
