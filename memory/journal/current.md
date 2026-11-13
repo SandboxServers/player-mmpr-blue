@@ -677,3 +677,4 @@
 - 10:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":63,"z":346}}]}
 - 10:33 act: {"actions":[{"do":"goto","target":"Trini"}]}
 - 10:33 act: {"say":"Trini, Tommy: my legs are not moving me toward the pool; I'm still at -238,64,341. I have 12 cobblestone and 24 dirt for you if anyone gets within reach.","actions":[{"do":"note","text":"Day 1
+- 10:40 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
