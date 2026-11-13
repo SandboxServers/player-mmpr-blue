@@ -1204,3 +1204,24 @@
 - 20:59 act: {"actions":[{"do":"eat"}],"reasoning":"Morning. Kimberly says she gave me her bread. Try to eat whatever food I have."}
 - 20:59 act: {"intent":{"goal":"build_dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
 - 21:01 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_oper
+- 21:02 act: {"say":"Tommy, Trini, Kimberly: I'm sealed in a dirt shelter at -159,73,412, no food, hunger 16. I'll join the search for cows or sheep at first light.","intent":{"goal":"wait_for_first_light","progra
+- 21:10 act: {"say":"Dawn. Billy heading west-southwest to join the group near -270,67,330 for the cow and sheep search. Calling out any animal I see.","intent":{"goal":"join_search_group","program":"travel","argu
+- 21:10 act: {"intent":{"goal":"join_search_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 21:11 act: {"say":"Billy at -270,66,330 with the group. Jason reported pigs near -380,78,336. I'll head there to look for food; calling out if I see any.","intent":{"goal":"reach_pig_sighting","program":"travel"
+- 21:11 act: {"say":"Pigs in sight to the west, one at -362,76,335. I'm going for it.","actions":[{"do":"goto","target":{"x":-360,"y":76,"z":335}},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do
+- 21:11 act: {"say":"I got a pig and have 2 porkchops. Eating now. Trini, Jason, the pig is yours to share if you need it.","actions":[{"do":"eat"},{"do":"eat"}]}
+- 21:12 act: {"say":"Kimberly, I ate my two porkchops already, sorry. I'm going for the pig at -359,76,332 now and will give you any meat I get.","actions":[{"do":"goto","target":{"x":-358,"y":76,"z":332}},{"do":"
+- 21:12 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 21:13 act: {"say":"Trini, here: giving you 2 porkchops. Tommy, Zack, Kimberly, I have one more; come get it if you're hungry. Be careful west, something there hit Tommy.","actions":[{"do":"give","to":"ag_trini_0
+- 21:13 act: {"say":"Trini, here is my last porkchop.","actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}]}
+- 21:13 act: {"say":"Trini, the porkchop is yours. Tommy, Zack, Kimberly: I am out of food, and pigs are near -397,122,359. I'll go hunt one.","actions":[{"do":"goto","target":{"x":-396,"y":122,"z":360}}],"intent"
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":-390,"y":123,"z":366}},{"do":"attack","target":"pig"}]}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":-386,"y":111,"z":376}}]}
+- 21:14 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 21:14 act: {"actions":[{"do":"eat"}]}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":-371,"y":107,"z":383}},{"do":"attack","target":"rabbit"}]}
+- 21:14 act: {"actions":[{"do":"eat"}]}
+- 21:14 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 21:15 act: {"actions":[{"do":"unstick"}],"say":"The shelter build stopped partway; I'm in a pit I built. Getting out to look."}
+- 21:15 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dama
+- 21:15 act: {"actions":[],"say":"I'm sealed in a dirt burrow for now. Food is fine at hunger 20. I'll rest here until night."}
