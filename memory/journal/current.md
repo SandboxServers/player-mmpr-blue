@@ -1322,3 +1322,17 @@
 - 22:55 act: {"say":"Yes, Kimberly, let's wall in together. I have 19 dirt and will build a wall here now. Zack, come to us.","intent":{"goal":"group_night_wall","program":"build","arguments":{"blueprint":"wall","
 - 22:55 act: {"actions":[{"do":"note","text":"Night at -396,68,334 with Jason, Kimberly, Zack nearby. Wall build again placed nothing; we are open. No hostile seen. Waiting for light to search west for sheep or co
 - 22:55 act: {"say":"Everyone, my wall did not build; I'm standing on stone at -396, 68, 334. Come here and place your dirt, planks and cobble around me. Kimberly, keep your planks for now and place them yourself 
+- 23:00 act: {"say":"Billy here. I'm enclosed at -396,68,334 on stone. Trini, you're the open one: place your dirt on the square just west of you. At first light we go west for sheep or cows.","actions":[],"intent
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-396,"y":68,"z":334}}],"say":"Trini, I'm stepping off the south square now. Place your dirt there."}
+- 23:01 act: {"say":"Billy: from my side I'm enclosed on every side, no gap. Kimberly, check your back, the north side at -396,68,333 is the likeliest. Don't place more unless you see air.","actions":[]}
+- 23:09 act: {"say":"Billy: it's day. Skeletons are north of the wall, and Trini died there. Everyone get out of the north line. Kimberly, come with me southwest, we look for food there.","actions":[{"do":"goto","
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-402,"y":68,"z":343}}]}
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":-410,"y":68,"z":350}}],"say":"Kimberly, good. Keep close. We look for cows or sheep to the southwest."}
+- 23:11 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"say":"I'm boxed in too, at -410,68,349. Mining a way out to the south."}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-420,"y":68,"z":349}}]}
+- 23:11 act: {"say":"Billy here, at -419,68,349, southwest of the wall. Looking for cows or sheep. Jason, Kimberly, come this way.","actions":[]}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-430,"y":68,"z":358}}],"say":"Jason, Zack: heading southwest now to look for cows or sheep."}
+- 23:12 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-430,"y":68,"z":352}}]}
+- 23:12 act: {"say":"I'm out of the stone at -430,68,351, heading on southwest. Zack, Jason, Kimberly: if you see a cow or sheep, call it out.","actions":[{"do":"goto","target":{"x":-440,"y":68,"z":358}}]}
+- 23:12 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":4}]}
+- 23:13 act: {"say":"Agreed. I'm at -432,68,348 on stone with 67 cobblestone. I'll build a shelter here and wall in; come to me.","actions":[],"intent":{"goal":"night_shelter","program":"build","arguments":{"bluep
