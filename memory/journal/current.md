@@ -1314,3 +1314,11 @@
 - 22:50 act: {"reasoning":"The west travel failed. Try a different direction, southwest, toward Trini's area.","say":"Trini, I'm at -396, 65, 316. The way further west failed, so I'll try southwest toward you.","i
 - 22:50 act: {"reasoning":"Travel failed twice from the same spot, so the path is blocked. Get free first, then look at the ground ahead.","actions":[{"do":"unstick"}]}
 - 22:50 act: {"reasoning":"Unstick worked. Try a shorter southwest hop to a nearby point, to test the path.","intent":{"goal":"find_animals_short_hop","program":"travel","arguments":{"target":{"x":-400,"y":65,"z":
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":-390,"y":67,"z":328}}],"say":"Billy here, hunger 18, no food yet. Heading southwest toward Trini to look for sheep or cows.","intent":{"goal":"reach_trini_sw","p
+- 22:52 act: {"actions":[{"do":"goto","target":{"x":-398,"y":66,"z":336}}],"say":"Trini, I'm at -390, 66, 328. Moving a little further southwest to look for sheep."}
+- 22:52 act: {"actions":[{"do":"note","text":"Day 172 dusk at -396,68,334 on stone. Hunger 18, no animals seen. Walked SW with Trini/Kimberly search; route blocked to the west. Building a dirt wall for the night."
+- 22:52 act: {"actions":[{"do":"note","text":"Night wall build did not enclose me (only 1 block placed). Holding in place on stone at -396,68,334; no monsters in view. Will wait for light and keep searching west a
+- 22:54 act: {"say":"Jason, I'm here at -396, 68, 334 with you. No sheep or cows seen since the walk. Kimberly is coming too. Let's keep close and go west together when it's light."}
+- 22:55 act: {"say":"Yes, Kimberly, let's wall in together. I have 19 dirt and will build a wall here now. Zack, come to us.","intent":{"goal":"group_night_wall","program":"build","arguments":{"blueprint":"wall","
+- 22:55 act: {"actions":[{"do":"note","text":"Night at -396,68,334 with Jason, Kimberly, Zack nearby. Wall build again placed nothing; we are open. No hostile seen. Waiting for light to search west for sheep or co
+- 22:55 act: {"say":"Everyone, my wall did not build; I'm standing on stone at -396, 68, 334. Come here and place your dirt, planks and cobble around me. Kimberly, keep your planks for now and place them yourself 
