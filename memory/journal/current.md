@@ -1041,3 +1041,4 @@
 - 17:59 act: {"say":"Trini, I have 2 wheat. I'm coming to the beds to share it, and I'll look for a place to sleep nearby.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_trin
 - 17:59 act: {"say":"Trini, here is my wheat, 2 of it. Tommy is bringing bread, so this is a start.","actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2},{"do":"goto","target":{"x":-263,"y":67,"z":
 - 18:00 act: {"actions":[{"do":"sleep"}]}
+- 18:00 act: {"actions":[{"do":"sleep"}],"say":"Billy here, at the beds. I have no food, hunger 16. Tommy, if the bread is still spare, I would be grateful for it in the morning. I have 3 coal to trade.","reasonin
