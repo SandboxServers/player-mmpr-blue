@@ -1038,3 +1038,6 @@
 - 17:57 act: {"say":"I'm at the beds, -237,69,345, with 2 wheat. Kimberly, Trini, Zack, if you can see me, call out."}
 - 17:58 act: {"say":"Tommy, I'm heading to your table at -261,68,352 with my 2 wheat. Zack and Trini are hungrier, so bread goes to them first.","actions":[{"do":"goto","target":{"x":-260,"y":68,"z":352}}],"intent
 - 17:58 act: {"say":"Tommy, I'm at the -261 table now, but I'll follow you to -202,58,351. I'll hand you my 2 wheat there so you have 5 for bread. Trini, Zack, hold on.","actions":[{"do":"goto","target":"Tommy"}]}
+- 17:59 act: {"say":"Trini, I have 2 wheat. I'm coming to the beds to share it, and I'll look for a place to sleep nearby.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_trin
+- 17:59 act: {"say":"Trini, here is my wheat, 2 of it. Tommy is bringing bread, so this is a start.","actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2},{"do":"goto","target":{"x":-263,"y":67,"z":
+- 18:00 act: {"actions":[{"do":"sleep"}]}
