@@ -705,3 +705,11 @@
 - 11:29 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_to_grass","program":"travel","arguments":{"x":-230,"y":64,"z":342},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limit
 - 11:29 act: {"actions":[{"do":"goto","target":{"x":-228,"y":64,"z":342}}],"say":"I'm heading east onto open ground to look for animals or crops. Anyone who finds food, tell me.","intent":{"goal":"reach_open_groun
 - 11:29 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_
+- 11:29 act: {"intent":{"goal":"seal_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_bloc
+- 11:33 say: {"text":"Billy here, at the beds with no food either. I'm not sealed in yet, so I'll stay still and watch for dawn, then search north and east for food."}
+- 11:37 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":344}},{"do":"give","to":"Kimberly","item":"cobblestone","count":8}],"intent":{"goal":"help_kimberly_wall_in","program":"travel","arguments":{"x":
+- 11:39 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":63,"z":345}},{"do":"give","to":"Kimberly","item":"cobblestone","count":8}],"say":"Kimberly, I'm trying to reach you now with 8 cobblest
+- 11:40 say: {"text":"Kimberly, I can't get to you; my body is boxed in at the beds. Zack or Trini, please take the cobblestone to her. I'm staying put until morning."}
+- 11:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"say":"Morning, day 139. I'm heading east toward Zack's grass to look for food.","intent":{"goal":"search_food_east_grass
+- 11:52 say: {"text":"Jason, Kimberly is bringing you her potato. I have none, but I'm nearby at the beds with 12 cobblestone and 33 dirt if you need blocks."}
+- 11:56 act: {"actions":[{"do":"give","to":"Jason","item":"dirt","count":14}],"say":"Jason, sending 14 dirt now. Good luck with the shelter."}
