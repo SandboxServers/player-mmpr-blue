@@ -635,3 +635,16 @@
 - 08:28 act: {"intent":{"goal":"search_food_sw","program":"travel","arguments":{"target":{"x":-262,"y":69,"z":358}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks
 - 08:33 act: {"intent":{"goal":"return_to_beds_day129","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":346}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
 - 08:37 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":-232,"y":69,"z":332}}],"reasoning":"Errand step 1: head north-east, away from golems and village, to look for animals or crops.","intent":{"goal":"search_food_no
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":320}}],"reasoning":"Still no animals in view. Continue north-east to scan for food.","intent":{"goal":"search_food_north_east_2","program":"trave
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":343}}],"intent":{"goal":"return_to_beds_and_shelter","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":343}},"wake_on":["goal_complet
+- 08:50 act: {"actions":[],"say":"Trini, Billy here. I have no food either. I'm back at the beds with 13 dirt if the shaft needs it.","intent":{"goal":"find_food_west_free","program":"gather","arguments":{"block":
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":70,"z":342}},{"do":"craft","item":"stone_hoe","count":1}],"say":"On it: crafting a stone hoe, then planting Billy's wheat near the beds."}
+- 08:53 act: {"actions":[{"do":"craft","item":"stone_hoe","count":1}]}
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-235,"y":69,"z":347}}]}
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-234,"y":69,"z":349}}]}
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":346}}]}
+- 08:57 say: {"text":"Zack, I haven't tilled anything yet. I only crafted the hoes. I'll tell you if I find a way."}
+- 09:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"Craft planks from the 4 logs held, per errand step 1."}
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-237,"y":68,"z":340}},{"do":"mine","block":"oak_log","count":2},{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Planks now 21. Mine 2 oak logs nearby,
+- 09:01 act: {"actions":[],"intent":{"goal":"sealed_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage","p
