@@ -648,3 +648,8 @@
 - 09:01 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"Craft planks from the 4 logs held, per errand step 1."}
 - 09:01 act: {"actions":[{"do":"goto","target":{"x":-237,"y":68,"z":340}},{"do":"mine","block":"oak_log","count":2},{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Planks now 21. Mine 2 oak logs nearby,
 - 09:01 act: {"actions":[],"intent":{"goal":"sealed_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage","p
+- 09:02 act: {"say":"Billy here. I'm sealed in the shelter at the beds, health and hunger both 20. It's night, so I'll wait for daylight, then look for animals to the south and east.","actions":[{"do":"note","text
+- 09:06 act: {"say":"Morning. Going east from the beds to look for animals, away from the water. Will call out if I find any.","intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"x":-200,"y"
+- 09:09 act: {"say":"Billy: thanks Zack. Heading to the pig near -203,71,363 now.","intent":{"goal":"reach_pig_food","program":"travel","arguments":{"x":-203,"y":71,"z":363},"wake_on":["directly_addressed","unexpe
+- 09:10 act: {"say":"Thanks Trini, keep your porkchop for someone hungrier. I'm at 20 hunger, so I'll go find a pig myself near -203,71,363.","actions":[{"do":"goto","target":{"x":-203,"y":71,"z":363}}]}
+- 09:10 act: {"intent":{"goal":"hold_near_beds_till_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
