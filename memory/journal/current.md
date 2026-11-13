@@ -1281,3 +1281,15 @@
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 22:22 act: {"say":"Trini, I'm here. Thank you for keeping the wool. I'll take it now.","intent":{"goal":"rest_at_bed_after_wool","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
 - 22:22 act: {"say":"Goodnight, Trini. Thank you for the wool. Goodnight, all."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night, Trini. Billy is in the white bed at the beds now. Trini, I will take the wool at first light."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Morning, Trini. I am at the beds, -270,67,319. Come within reach and I will take the wool. Then I go for the pig."}
+- 22:23 act: {"say":"Thank you, Trini. I have the wool. Now I go for the pig for food.","actions":[{"do":"note","text":"Day 170 morning: got white wool from Trini at the beds. Heading to pig at -385,81,336 for foo
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-385,"y":81,"z":336}}]}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":312}}]}
+- 22:23 act: {"say":"Trini, I already have the white wool, thank you. I am heading back to the beds for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 22:24 act: {"intent":{"goal":"find_pig_food","program":"gather","arguments":{"block":"porkchop","count":1},"wake_on":["unexpected_damage","directly_addressed","goal_completed"],"limits":{"max_world_ticks":1200,"
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":-372,"y":81,"z":350}}],"reasoning":"A creeper is closing from the north-west, 13 blocks off. Move away to the south-east first.","say":"Trini, the wool is in my 
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":-330,"y":75,"z":335}}],"reasoning":"Dawn. A creeper is 5 blocks north-west and skeletons are shooting to the north. Move east, away from them, toward the beds an
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-380,"y":81,"z":336}}],"reasoning":"It is morning and no threats are in view. Food comes first, so I go back west to the pig spot in daylight."}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":70,"z":328}}],"say":"Jason, the pig at the west spot has wandered off and I'm hungry. Could you bring me the pumpkins you set aside for me? I'm heading 
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":322}}],"say":"Jason, I'm coming to you by the beds now, moving north of the golem.","reasoning":"Jason has pumpkins at the beds. An iron golem is
