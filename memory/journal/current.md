@@ -350,3 +350,5 @@
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
 - 00:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}},{"do":"sleep"}]}
 - 00:39 say: {"text":"Kimberly, keep heading northeast out of the pit; I'm at the beds if you need anything."}
+- 00:45 act: {"say":"Welcome, Tommy. The beds are here."}
+- 00:45 act: {"say":"Beds are at x -282, y 69, z 371. Come over, I'm right beside them."}
