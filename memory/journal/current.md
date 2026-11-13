@@ -1279,3 +1279,4 @@
 - 22:21 act: {"say":"Trini, I'm here at the beds. Could you give me the white wool now? Thank you, and goodnight.","actions":[{"do":"note","text":"Day 170 night: escaped crafting-table pit by mining dirt ahead. Re
 - 22:21 act: {"actions":[{"do":"note","text":"Handoff: sheltered by beds at -271,67,318. Trini holds my wool, to be given at first light. Pig at -385,81,336; crafting table at -275,63,317. Jason owes 3 pumpkins."}
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 22:22 act: {"say":"Trini, I'm here. Thank you for keeping the wool. I'll take it now.","intent":{"goal":"rest_at_bed_after_wool","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
