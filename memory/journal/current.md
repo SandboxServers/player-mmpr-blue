@@ -498,3 +498,6 @@
 - 05:24 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
 - 05:26 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operations
 - 05:28 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-236,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":58,"z":349}},{"do"
+- 05:32 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Try a different placement method: unstick, then place at feet, and check the result."}
+- 05:32 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-236,"y":57,"z":348}},{"do"
+- 05:37 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":{"x":-236,"y":58,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":58,"z":349}},{"do":"place","bl
