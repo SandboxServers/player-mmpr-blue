@@ -1293,3 +1293,12 @@
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":-380,"y":81,"z":336}}],"reasoning":"It is morning and no threats are in view. Food comes first, so I go back west to the pig spot in daylight."}
 - 22:29 act: {"actions":[{"do":"goto","target":{"x":-300,"y":70,"z":328}}],"say":"Jason, the pig at the west spot has wandered off and I'm hungry. Could you bring me the pumpkins you set aside for me? I'm heading 
 - 22:30 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":322}}],"say":"Jason, I'm coming to you by the beds now, moving north of the golem.","reasoning":"Jason has pumpkins at the beds. An iron golem is
+- 22:31 act: {"say":"Jason, I'm coming to the crafting table for my pumpkins now.","intent":{"goal":"reach_jason_for_pumpkins","program":"travel","arguments":{"target":{"x":-239,"y":68,"z":340}},"wake_on":["direct
+- 22:31 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm close now. Hand me the pumpkins when I'm in reach."}
+- 22:31 act: {"say":"Jason, I'm in reach now. Could I have the pumpkins? I have no food. Thank you.","actions":[{"do":"wait","seconds":10}]}
+- 22:31 act: {"say":"Jason, I'm right beside you. Could you give me my pumpkins now?"}
+- 22:31 act: {"say":"Thank you, Jason, I have the three pumpkins. Tommy and Kimberly, I hope you get yours too."}
+- 22:32 act: {"intent":{"goal":"find_pig_west","program":"travel","arguments":{"x":-385,"y":81,"z":336},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_b
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-385,"y":81,"z":336}}],"say":"Going west to look for the pig I saw near -385, 81, 336. Jason, Tommy, I'll report if I find animals."}
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Something exploded near me in the dark. I'm heading back east to the beds now."}
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"It is night and I am at the white beds. Sleep here, then reflect. Hunger 19 is enough to last the night.","say
