@@ -735,3 +735,27 @@
 - 12:31 act: {"actions":[{"do":"mine","block":"dirt","count":6},{"do":"goto","target":{"x":-222,"y":66,"z":344}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-222,"y":66,"z":344
 - 12:38 act: {"intent":{"goal":"shelter_for_night_4","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
 - 12:38 act: {"intent":{"goal":"shelter_for_night_5","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
+- 12:46 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_of_pit_and_find_food","program":"travel","arguments":{"target":"grass_near_-237_63_344","note":"dig out of the pit with stone pickaxe, then look
+- 12:46 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-232,"y":64,"z":344}}],"intent":{"goal":"dig_out_east","program":"travel","arguments":{"target":{"x":-232,"y":64,"z":344}
+- 12:47 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"reasoning":"Pit walls are dirt on every side. Mine dirt to open a path, then check."}
+- 12:47 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":64,"z":344}}],"reasoning":"Position has not changed across several tries. Retry unstick, mine, t
+- 12:47 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-239,"y":64,"z":344}}],"reasoning":"Still enclosed. Tunnel through the dirt in one direction and step into it."}
+- 12:47 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":64,"z":344}}],"reasoning":"Not enclosed now. Mine a bit more toward open ground and try to walk out."}
+- 12:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-238,"y":64,"z":344}},{"do":"mine","block":"stone","count":2}],"reasoning":"Gap is up. Raise myself by placing dirt und
+- 12:48 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-238,"y":64,"z":344}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-238,"y":65,"z":344}}],"reas
+- 12:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-238,"y":66,"z":344}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","ta
+- 12:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":67,"z":344}},{"do":"unstick"}],"reasoning":"Still boxed at the same height. Dig out sideways at this level and wa
+- 12:48 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-238,"y":68,"z":343}}],"reasoning":"Planks block the north side at my level. Mine one and step through."}
+- 12:48 act: {"actions":[{"do":"goto","target":{"x":-238,"y":68,"z":343}},{"do":"unstick"}],"reasoning":"Planks are gone from the north side now; try stepping north and out."}
+- 12:48 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"reasoning":"Enclosed by cobblestone to the east. Mine out through it."}
+- 12:49 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":344}},{"do":"goto","target":{"x":-234,"y":67,"z":344}}],"reasoning":"Gap opened to the east; walk toward grass."}
+- 12:49 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":67,"z":344}}],"reasoning":"Still boxed; clear the next east block and try again."}
+- 12:49 act: {"actions":[{"do":"goto","target":{"x":-220,"y":68,"z":344}}],"reasoning":"Nothing edible in view. Walk east to scan new ground."}
+- 12:49 act: {"actions":[{"do":"goto","target":{"x":-205,"y":68,"z":330}}],"reasoning":"Still no food; trees only. Scan further northeast."}
+- 12:49 act: {"actions":[{"do":"goto","target":{"x":-215,"y":68,"z":315}}],"reasoning":"Trees here too. One more leg north to scan for animals before reporting."}
+- 12:49 act: {"actions":[{"do":"goto","target":{"x":-190,"y":68,"z":290}},{"do":"goto","target":{"x":-175,"y":68,"z":275}}],"intent":{"goal":"search_food_northeast","program":"travel","arguments":{"target":{"x":-1
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":-172,"y":68,"z":276}}],"intent":{"goal":"search_food_northeast_edge","program":"travel","arguments":{"target":{"x":-172,"y":68,"z":276}},"wake_on":["goal_complet
+- 12:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-180,"y":63,"z":268}}]}
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":-181,"y":63,"z":262}}]}
+- 12:51 say: {"text":"Billy here. I'm out on the grass near -187,63,263. No food found yet. If anyone has spare food, I'd be grateful."}
+- 12:56 act: {"intent":{"goal":"search_food_south","program":"travel","arguments":{"x":-205,"y":66,"z":300},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"m
