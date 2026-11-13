@@ -540,3 +540,6 @@
 - 06:36 act: {"intent":{"goal":"wait_for_blocks_from_zack","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":8}}
 - 06:37 say: {"text":"Zack, Billy at -237,51,349 in the pit. Placing at my feet fails for me. Please drop a few cobblestone just north of me, at -237,52,348."}
 - 06:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":50,"z":348}},{"do":"unstick"}],"reasoning":"Side placement north at y50, try once; if it fails, wait for dawn."}
+- 06:47 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Zack, thank you. My inventory still shows only 3 cobblestone, so I'll try placing it now.","reasoning":"Dawn. Try 
+- 06:49 say: {"text":"Kimberly, I'm at -237,51,349, a few blocks north-east of Jason. Drop oak planks at the edge near -236,52,348 if you can reach it. I'll place them on my east face."}
+- 06:51 say: {"text":"Kimberly, thank you. I can't reach your planks from here either. Keep them, and dig a path from the north-east toward -236,50,349 if you can do it safely. I'll wait here."}
