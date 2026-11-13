@@ -1365,3 +1365,9 @@
 - 23:50 act: {"say":"Zack, the stone keeps blocking the way southwest. I'll dig through the stone to clear a path.","actions":[{"do":"mine","block":"stone","count":3}]}
 - 23:50 act: {"say":"Jason, I'm at -445,68,351, boxed in by stone. Mining did not clear it. Come to me and we'll find a way out together."}
 - 23:51 act: {"say":"Jason, Zack, I see no clear side from here. Keep digging west and tell me when there's an opening, and I'll follow."}
+- 23:52 act: {"say":"Jason, Trini, Zack: I'm still boxed in at -445,67,351 with no food. I'll dig a way out toward you.","actions":[{"do":"mine","block":"stone","count":3}],"intent":{"goal":"dig_out_toward_group",
+- 23:53 act: {"actions":[{"do":"unstick"}]}
+- 23:53 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
+- 23:55 act: {"actions":[{"do":"unstick"}],"say":"Zack, Jason, Trini: I'm still boxed in at -443,67,351. Leave food for me when you can. I'll keep trying to dig out."}
+- 23:55 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
+- 23:59 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
