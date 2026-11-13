@@ -822,3 +822,34 @@
 - 13:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-202,"y":57,"z":259}},{"do":"place","block":"dirt","at":{"x":-200,"y":57,"z":259}},{"do":"place","block":"dirt","at":{"x":-201,"y":57,"z":258}},{"do"
 - 13:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_blo
 - 13:59 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_bloc
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Morning, Zack. I have no food either. I'm heading west to Trini's bed to look for food and a bed of my own.","intent":{"goal":"reac
+- 14:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":354}}],"say":"Trini, Zack, I'm in deep water near -200,54,288, so I'm coming to you slowly by land."}
+- 14:10 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"I'm in deep water at -210,54,302, drifting. Placing stone to climb out. Zack, I'll drop you dirt once I'm on land.
+- 14:10 act: {"actions":[{"do":"unstick"}]}
+- 14:10 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 14:10 act: {"actions":[{"do":"unstick"}]}
+- 14:10 act: {"actions":[],"say":"I drowned in the lake and came back at the spawn with nothing. Kimberly, I'm here. Is there food or a spare tool nearby?"}
+- 14:11 act: {"actions":[],"say":"Thanks, Kimberly. Jason, I'd gladly take some food when you're at the beds. I have nothing now, so I'll stay on the grass here, away from the water."}
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Jason, I'm on the grass by the spawn, not in the water. I'll head to the yellow bed 4 west of here, on land. Stay out of the dirt b
+- 14:12 act: {"actions":[],"say":"Jason, I'm right here by the yellow bed. Thank you. When you come, I'll take the wheat if you can spare it, and I'll share anything I find."}
+- 14:17 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"It's dusk. I'm going to try the yellow bed here on land for the night. Zack, I'm glad you're out. Jason, come when y
+- 14:17 act: {"actions":[{"do":"sleep"}]}
+- 14:23 act: {"actions":[],"say":"Tommy, I'm Billy, right next to you with an empty pack. If you have any wheat or food left, I'd be grateful. If not, sleep safe."}
+- 14:25 act: {"actions":[],"say":"Tommy, I'm right here at the yellow bed, on the grass at -240, 69, 344. Please bring the wheat, and thank you."}
+- 14:26 act: {"actions":[],"say":"Tommy, I'm standing on the planks just east of the yellow bed, at -240, 69, 344. Kimberly is right next to me. Please hand me the wheat."}
+- 14:26 act: {"actions":[],"say":"Tommy, I can see the sky here, I'm on open planks just east of the yellow bed. If you can't get out, you can drop the wheat into the open by the bed, or tell me which side to walk
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":343}}],"say":"Tommy, I'm stepping east onto open planks, at -239, 69, 343. Try the give again."}
+- 14:28 act: {"actions":[],"say":"My step east failed, so I'm still at the bed. Tommy, if the give keeps failing, let's wait. Jason's wheat is coming too. I'll hold still here."}
+- 14:28 act: {"actions":[],"say":"Tommy, keep your wheat for now; you need food too. I'm full for the moment. If you see an animal or seeds, tell me where."}
+- 14:46 say: {"text":"Morning, Trini. My pack is still empty. Tommy says he is holding his wheat for me, and I am still waiting on it. If you find seeds or an animal, call out the spot."}
+- 14:47 say: {"text":"Zack, thank you. I'd take some seeds if you can spare them, and I can till a patch here by the beds. Tommy, the wheat has not reached me yet. I'm still waiting on it."}
+- 14:48 say: {"text":"Tommy, I'm standing on open planks at the yellow bed, just east of the bed block. Can you see me now? Zack, I'll come to you for seeds once I know the way is clear."}
+- 14:48 say: {"text":"Tommy, thank you. My pack still shows nothing, so the wheat did not come across. Keep it for whoever is hungriest. Trini's sheep is good news. I'll wait here for now and come for seeds if Zac
+- 14:49 act: {"intent":{"goal":"reach_sheep_north","program":"travel","arguments":{"target":{"x":-236,"y":69,"z":280}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 14:49 act: {"intent":{"goal":"reach_sheep_north_leg","program":"travel","arguments":{"target":{"x":-236,"y":69,"z":312}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 14:49 act: {"intent":{"goal":"reach_sheep_north_final","program":"travel","arguments":{"target":{"x":-236,"y":69,"z":282}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 14:49 say: {"text":"Trini, I'm at your side now, up north. Where is the sheep? I have no food yet, and I'd take a share."}
+- 14:50 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":277}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 14:50 say: {"text":"I'm at the sheep spot, -227, 68, 278. I don't see the sheep or Tommy. Has anyone got it? If you have food to spare, I'll take a share."}
+- 14:51 say: {"text":"Jason, Tommy: I'm here at the spot with an empty pack and no food. I'll take whatever wheat you can spare, and I'll wait here where you can see me. Kimberly, let's share what comes."}
+- 14:53 say: {"text":"Tommy, I'll stay here at -227, 68, 278 for Jason's wheat. If you dig out and come north to me, I'll take a share."}
