@@ -672,3 +672,8 @@
 - 10:07 act: {"say":"Billy: Kimberly, I have no food, only stone, dirt and planks. I'm at -237,64,341 and can walk to the spawn if you stay put.","intent":{"goal":"return_to_spawn_for_kimberly","program":"travel",
 - 10:19 act: {"intent":{"goal":"wall_for_night_2","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limi
 - 10:27 act: {"say":"Billy: Tommy, I have no food. I'm at -237,64,341 with 12 cobble and 21 dirt. I'm not close enough to place blocks on the water. Whoever can get within reach of him, I'll drop my cobble to you.
+- 10:32 act: {"intent":{"goal":"reach_pool_help","program":"travel","arguments":{"x":-241,"y":64,"z":344},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":-243,"y":63,"z":346}}],"say":"Trini, on my way to the pool edge with cobblestone."}
+- 10:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":63,"z":346}}]}
+- 10:33 act: {"actions":[{"do":"goto","target":"Trini"}]}
+- 10:33 act: {"say":"Trini, Tommy: my legs are not moving me toward the pool; I'm still at -238,64,341. I have 12 cobblestone and 24 dirt for you if anyone gets within reach.","actions":[{"do":"note","text":"Day 1
