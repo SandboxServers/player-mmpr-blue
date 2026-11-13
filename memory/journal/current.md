@@ -589,3 +589,11 @@
 - 07:12 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick
 - 07:18 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Dusk is c
 - 07:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Keep trying to stack up out of the shaft b
+- 07:25 act: {"say":"Billy here. I'm at the bottom of the shaft, climbing by placing cobblestone at my feet.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cob
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":346}}],"intent":{"goal":"reach_rim","program":"travel","arguments":{"target":{"x":-230,"y":62,"z":346}},"wake_on":["goal_completed","precondition
+- 07:32 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-230,"y":62,"z":346}}],"intent":{"goal":"reach_rim","program":"travel","arguments":{"target":{"x":-230,"y":62,"z":346}},"
+- 07:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":57,"z":348}}]}
+- 07:33 act: {"say":"Billy here, at -237,57,348 in the shaft on dirt. I can't walk out. Kimberly or Trini, please drop 4 dirt or planks straight onto my head at -237,58,348.","actions":[{"do":"place","block":"dirt
+- 07:34 act: {"say":"Billy: I'm up to y58 by stacking at my feet. Climbing on my own now.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone",
+- 07:34 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","a
+- 07:35 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","a
