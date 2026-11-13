@@ -358,3 +358,4 @@
 - 01:00 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
 - 01:01 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}]}
 - 01:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}]}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}]}
