@@ -600,3 +600,6 @@
 - 07:35 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-240,"y":69,"z":345},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block
 - 07:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":345}}],"say":"Heading to the yellow bed at -241,69,344. Still hungry, no food yet."}
 - 07:38 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":343}},{"do":"open","at":{"x":-238,"y":69,"z":342}}]}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":342}},{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"Back online. Checking the chest for food.","intent":{"goal":"find_food_at_chest","prog
+- 07:39 act: {"actions":[{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"Thanks Trini. I'm checking this chest for food, then I'll bed down nearby."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"note","text":"Day 126 dusk: connection back. Chest at -238,69,342 looked empty. Hunger 18. Going to bed at -241,69,344; will ask Tri
