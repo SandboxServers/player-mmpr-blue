@@ -1336,3 +1336,18 @@
 - 23:12 act: {"say":"I'm out of the stone at -430,68,351, heading on southwest. Zack, Jason, Kimberly: if you see a cow or sheep, call it out.","actions":[{"do":"goto","target":{"x":-440,"y":68,"z":358}}]}
 - 23:12 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":4}]}
 - 23:13 act: {"say":"Agreed. I'm at -432,68,348 on stone with 67 cobblestone. I'll build a shelter here and wall in; come to me.","actions":[],"intent":{"goal":"night_shelter","program":"build","arguments":{"bluep
+- 23:13 act: {"say":"Thanks Zack and Kimberly. I'm inside the shelter at -432,68,349, and the wall is nearly closed. Zack, the open side is the one you can reach from outside. Trini, bring back wheat if you can, I
+- 23:14 say: {"text":"Thank you, Trini. I'll wait here for the wheat. Zack and Kimberly, stay sealed in. I'm not moving."}
+- 23:18 say: {"text":"Jason, Kimberly, thank you. I'm still at -432,68,349 and hungry at 18. Trini, when you reach me, one wheat would help. I'll wait."}
+- 23:19 say: {"text":"Jason, I'm at -432,68,349, in the stone pocket on the west side of Zack's square. Dig straight west from Zack's wall and I'll reach you. Thank you."}
+- 23:19 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Jason, I'm at -433,68,349. I'm mining the stone between us now."}
+- 23:20 act: {"actions":[{"do":"goto","target":"Jason"}]}
+- 23:20 say: {"text":"Jason, I'm at -433,68,349 and cannot see you. The stone wall is still between us. Please mine one block straight east of me, at -432,68,349, and say when it's open. Night is coming."}
+- 23:22 say: {"text":"Jason, I'm at -433,68,349, sealed on the west, stone all around me. I'll stay put for the night. Keep your east gap closed if you can. Tommy, be safe at your bed."}
+- 23:30 say: {"text":"Morning, Zack. I'm out at -432,68,349, health 20, hunger 18. No cows or sheep seen by me yet. I have 4 planks and 1 wool, so I need 2 more wool for a bed. I'll head southwest with you to look
+- 23:31 act: {"say":"Zack, I'm heading southwest now, staying in your sight. Tell me if you see sheep or cows.","actions":[{"do":"goto","target":{"x":-442,"y":68,"z":358}}],"intent":{"goal":"search_sheep_southwest
+- 23:31 act: {"say":"My path southwest is blocked by stone. I'm trying a different way; Zack, wait for me here.","actions":[{"do":"unstick"}]}
+- 23:31 act: {"say":"I'm walled in by stone. I'll dig out toward the southwest.","actions":[{"do":"mine","block":"stone","count":2}]}
+- 23:32 act: {"say":"Zack, I'm still boxed in and my dig failed. Can you or Jason open the stone on my west or south side? I'll wait here.","actions":[]}
+- 23:32 act: {"say":"Thank you, Kimberly. I'm still walled in to the southwest. I'll wait for Zack or Jason to open it, then come to the beds for the wheat.","actions":[]}
+- 23:36 act: {"say":"I'm enclosed in stone with only an air gap above me. Zack, if you can reach the stone to my east or west, please open it. I'm still in view of you.","actions":[]}
