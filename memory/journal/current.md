@@ -597,3 +597,6 @@
 - 07:34 act: {"say":"Billy: I'm up to y58 by stacking at my feet. Climbing on my own now.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone",
 - 07:34 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","a
 - 07:35 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5},{"do":"place","block":"cobblestone","a
+- 07:35 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"x":-240,"y":69,"z":345},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":345}}],"say":"Heading to the yellow bed at -241,69,344. Still hungry, no food yet."}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":343}},{"do":"open","at":{"x":-238,"y":69,"z":342}}]}
