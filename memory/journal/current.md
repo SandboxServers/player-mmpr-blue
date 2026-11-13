@@ -713,3 +713,6 @@
 - 11:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-192,"y":69,"z":350}}],"say":"Morning, day 139. I'm heading east toward Zack's grass to look for food.","intent":{"goal":"search_food_east_grass
 - 11:52 say: {"text":"Jason, Kimberly is bringing you her potato. I have none, but I'm nearby at the beds with 12 cobblestone and 33 dirt if you need blocks."}
 - 11:56 act: {"actions":[{"do":"give","to":"Jason","item":"dirt","count":14}],"say":"Jason, sending 14 dirt now. Good luck with the shelter."}
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":345}},{"do":"give","to":"Kimberly","item":"cobblestone","count":8}],"say":"Trini, I'll try to take cobblestone to Kimberly's feet now."}
+- 11:57 say: {"text":"Trini, Kimberly: my feet won't move, so I can't bring the cobblestone. Zack or anyone nearby, please take it to her. I'm still at the beds with food at zero."}
+- 11:58 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
