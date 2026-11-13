@@ -1225,3 +1225,4 @@
 - 21:15 act: {"actions":[{"do":"unstick"}],"say":"The shelter build stopped partway; I'm in a pit I built. Getting out to look."}
 - 21:15 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dama
 - 21:15 act: {"actions":[],"say":"I'm sealed in a dirt burrow for now. Food is fine at hunger 20. I'll rest here until night."}
+- 21:20 say: {"text":"Billy here, sealed in the burrow at -378,107,385 for the night. Hunger 20, health 20. I have no food to spare right now; I'll check the pumpkin field and Tommy at first light."}
