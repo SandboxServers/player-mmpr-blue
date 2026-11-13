@@ -879,3 +879,162 @@
 - 15:12 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":336}},{"do":"craft","item":"oak_planks","count":16}]}
 - 15:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","d
 - 15:13 say: {"text":"Goodnight, Billy. Food first in the morning."}
+- 15:14 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit, enclosed. Get out before anything else.","say":"I'm stuck in a pit near -259,66,336. Trying to climb out."}
+- 15:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Still in a pit. Stack dirt under me to climb up."}
+- 15:14 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"reasoning":"Dirt step did not raise me. Try planks under feet, a different block."}
+- 15:14 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"},{"do":"unstick"}],"reasoning":"Planks at feet lifted me one block. Stack more to climb out."
+- 15:14 act: {"actions":[{"do":"goto","target":{"x":-246,"y":66,"z":344}}],"reasoning":"Out of the pit. Golem approaching from north; move away toward the signs.","intent":{"goal":"reach_signs","program":"travel",
+- 15:14 act: {"actions":[{"do":"note","text":"Sign near -247,64,347 says Kimberly (ag_kimberly_01) died day 134. Water and drop to the south at -248,61,346."}],"reasoning":"Out of the pit, safe for now. Head to th
+- 15:15 act: {"intent":{"goal":"reach_bed_west","program":"travel","arguments":{"x":-268,"y":67,"z":326},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_w
+- 15:15 act: {"say":"Zack, I hear you. I'm at -247,66,343 and not boxed in, but my travel has not moved me yet. I'll try to reach you and dig a tunnel from the east.","actions":[{"do":"goto","target":{"x":-268,"y"
+- 15:17 act: {"say":"Kimberly, you are alive! The sign by the water says you were slain on day 134, so I thought you were gone. I am at the yellow beds near -268,66,326 and I will hold the spot for you. Zack, I wi
+- 15:18 act: {"say":"Tommy, welcome. I'm Billy, at the yellow beds. Kimberly, come on in, I'm holding the bed area. There's an enderman two blocks away, so keep low.","actions":[{"do":"sleep"}]}
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Yellow beds are taken, so I'm going to the white beds to the north, near -270,67,336."}
+- 15:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Goodnight Kimberly, and thank you Tommy for the offer of wheat. I'm going to the white bed now."}
+- 15:19 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"x":-270,"y":67,"z":336},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max
+- 15:19 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"x":-270,"y":67,"z":336},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_
+- 15:19 act: {"say":"Trini! It's Billy. I'm 19 blocks away at -284,67,351. I'll come to the beetroot at -290,69,291 with you. Let's eat together and then share what we each know.","actions":[{"do":"goto","target":
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":290}},{"do":"mine","block":"wheat","count":2}],"say":"Kimberly, good to hear you are safe. I am at the wheat now; I will get some food for us."}
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":293}},{"do":"mine","block":"beetroot","count":2}],"say":"Trini, I see the ripe beetroot at -292,69,294 and -290,69,293. I am going for it now, an
+- 15:20 act: {"actions":[{"do":"mine","block":"beetroots","count":2}]}
+- 15:20 act: {"actions":[{"do":"eat"}],"say":"Trini, I have a beetroot. A golem is closing from the south-east, so stay close to me."}
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"I am full, so I'll keep this beetroot. Trini, the beds are at -271,67,336. I'm going there to sleep."}
+- 15:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, good that you are fed. I am heading to the white bed to sleep."}
+- 15:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 15:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Goodnight, Trini. I'm going to the white bed."}
+- 15:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 15:21 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 15:21 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":364}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 15:21 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, I'm going to sleep in this bed. Stay near if you can."}
+- 15:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:23 act: {"actions":[{"do":"sleep"}],"say":"Tommy, good to hear you're fed. I'm trying the white bed here to sleep."}
+- 15:24 act: {"actions":[{"do":"unstick"}]}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:25 act: {"actions":[],"say":"Tommy, I haven't seen sheep yet. The food I know is the wheat and beetroot field near x -292, z 288, and one ripe wheat there. I'm heading to the white bed to sleep."}
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Tommy, I'm trying a bed by the old wheat field now."}
+- 15:26 act: {"actions":[],"say":"Every bed I reach has a villager in it. I'll stay awake and wait for morning."}
+- 15:29 act: {"actions":[],"say":"Zack, I'm glad you're out. Kimberly, thank you for digging him free. I'm up at -282,67,319 with one wheat and one beetroot."}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":-289,"y":69,"z":289}}],"say":"Tommy, I'm heading to the farm at -290,69,288 too. The ripe wheat is at -290,69,287. I'll harvest it and share.","intent":{"goal":"
+- 15:34 act: {"actions":[],"say":"I'm at the farm. The wheat and beetroot here look unripe now, so I'll wait for them to ripen. Trini, if you find any ripe, I'd share one for bread."}
+- 15:38 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["goal
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-284,"y":68,"z":300}}],"say":"A villager just turned on me here. I'm backing off south-west to get clear of it."}
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":-289,"y":69,"z":290}},{"do":"mine","block":"wheat","count":2}],"intent":{"goal":"harvest_ripe_wheat","program":"gather","arguments":{"block":"wheat","count":2},"
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":-289,"y":69,"z":288}},{"do":"mine","block":"wheat","count":1},{"do":"goto","target":{"x":-287,"y":68,"z":294}}],"intent":{"goal":"stay_near_golem_until_dawn","pr
+- 15:43 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom is on me. I'm fighting it with my hands, next to the golem."}
+- 15:43 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-287,"y":69,"z":289}}],"say":"The phantom is out of sight for now. I'm eating my beetroot and staying near the golem."}
+- 15:44 act: {"actions":[],"say":"I'm out of beetroot, but I still have 2 wheat. I'll wait by the golem until morning."}
+- 15:47 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Morning, all. I have 2 wheat for Zack if he can reach me. The wheat near the golems isn't ripe yet, so I'll make a sword and check th
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":288}},{"do":"mine","block":"wheat","count":3}]}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":286}},{"do":"mine","block":"wheat","count":3}]}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-295,"y":68,"z":294}},{"do":"craft","item":"bread","count":1},{"do":"mine","block":"beetroots","count":1}]}
+- 15:47 act: {"actions":[{"do":"eat"}],"say":"I made bread from the ripe wheat. Eating it now, and I'll share the ripe wheat at the field by the fence."}
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-289,"y":69,"z":285}},{"do":"mine","block":"wheat","count":2}]}
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-283,"y":68,"z":296}}],"say":"Golem is attacking me. Backing off to the south-east."}
+- 15:52 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Zack, Tommy: ripe wheat is at the fence field, around -293,69,285 and -290,69,284. I have 2 wheat to share. Come to me at -283,68,295 and I'
+- 15:52 act: {"actions":[],"say":"Jason, I'm at the fence field by the crafting table, near -295,68,290. Keep your 2 wheat for Zack, who is hungrier. I have 2 wheat too."}
+- 15:52 act: {"actions":[{"do":"attack","target":"villager"}],"say":"Villager, stop. I'm defending myself."}
+- 15:53 act: {"actions":[],"say":"Billy here. I died near the fence field at -289,69,312 (a golem and a villager). My things are lying there, but the golem is still close, so I am staying away. I have nothing now.
+- 15:57 act: {"actions":[],"say":"Zack, I'm empty-handed and too far to reach you, but Kimberly and Jason are close. Keep building toward the shore. I'll stay here by the beds."}
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-255,"y":68,"z":342}}]}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-255,"y":66,"z":342}}]}
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":343}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal
+- 16:07 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}}],"say":"Billy here, I have no food and no items. Hungry, and the beds were all taken last night. Could anyone spare some bread or wheat? I 
+- 16:07 act: {"actions":[{"do":"goto","target":{"x":-222,"y":64,"z":350}}],"say":"Anyone with bread, wheat or any food to spare? I'm heading east toward the lake, away from the enderman. Will work for it.","intent
+- 16:08 act: {"actions":[{"do":"goto","target":{"x":-205,"y":64,"z":350}}],"say":"Kimberly, get Zack out first, the wheat can wait. Once he's out, could I have some of your food? I've had none since I died.","inte
+- 16:08 act: {"actions":[],"say":"Kimberly, Zack's air is at 8. Place your dirt in the water right beside him now. I'm empty-handed, so I'll watch and stay out of your way."}
+- 16:08 act: {"actions":[],"say":"Kimberly, keep the wheat for Zack, he needs it more. Thank you for offering. Zack, you're doing well, keep still."}
+- 16:10 act: {"say":"Kimberly, once Zack is out, could I have some of your food? I've had none since I died."}
+- 16:15 act: {"say":"Jason, thank you. Yes, I'd gladly take your wheat. I'm on the shore at the lake edge, where you can reach me."}
+- 16:15 act: {"say":"Jason, I'm on the lake shore at about -201,64,352, standing on dirt next to Kimberly's column. Bring the wheat here whenever you're free."}
+- 16:18 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 16:28 act: {"say":"Morning, Kimberly. Thanks. Jason, I'm here on the shore at -201,64,352. Tommy mentioned a farm near -251,68,353 with carrots and beetroot; I'll head there if you don't reach me first."}
+- 16:32 act: {"intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 16:33 act: {"say":"Jason, I'm right here at -202,63,351, next to Kimberly. Dig to me and I'll take the wheat. The farm trip was blocked, so I'm staying put."}
+- 16:33 act: {"say":"Jason, I have no tools, my gear is at the death site, so digging is slow for me. Can you open a gap toward the shore, or tell me which way you are? I'll stand where you can reach me."}
+- 16:34 act: {"say":"Thank you, Jason. I'll stay right here at -202,63,351."}
+- 16:38 act: {"actions":[{"do":"eat"}],"say":"I have 2 wheat in my pack now, so I'm eating. Thank you, Kimberly and Jason."}
+- 16:38 act: {"say":"Wheat can't be eaten raw, so I'll need 3 wheat to craft bread, at a crafting table. Beetroot or carrots would be eaten as they are. Kimberly, if you bring ripe ones from the farm, I'll be at -
+- 16:50 act: {"intent":{"goal":"reach_farm_for_food_day154","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 16:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":350}}]}
+- 16:50 act: {"actions":[{"do":"unstick"}]}
+- 16:50 act: {"intent":{"goal":"reach_farm_for_food_day154b","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 16:50 act: {"say":"Tommy, Zack, I'm boxed in by stone at -203,58,350. I have no pickaxe. When Trini is out, could someone with a pickaxe open a path west or up for me? I'm starving (hunger 17) and need the farm.
+- 16:51 act: {"say":"Thank you, Zack and Kimberly. I'm at -203,58,350, and there's a crafting table right beside me. I'll wait here."}
+- 16:53 act: {"say":"Zack, I'm free to walk out now, nothing is blocking me. Once I'm out, I'll walk to the farm at -251,68,353 for beetroot or carrots. Thank you."}
+- 16:54 act: {"intent":{"goal":"reach_farm_for_food_day154c","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 16:54 act: {"say":"Jason, Trini: Tommy says the way is open. I have 2 wheat and need one more for bread. Could you bring me your wheat when you can walk?","intent":{"goal":"wait_for_jason_wheat","program":"rest"
+- 16:55 act: {"say":"Jason, I'm waiting here on the shore at -204,58,350. Bring the wheat when you arrive, and I'll craft bread."}
+- 16:56 act: {"say":"Jason, I'm the one who's closest with 2 wheat. Give me one wheat and I'll craft bread right here.","intent":{"goal":"wait_for_jason_wheat_2","program":"rest","arguments":{},"wake_on":["directl
+- 16:57 act: {"say":"Kimberly, thank you. My path to the farm keeps getting blocked, and I'm at the shore at -204,58,350. If you can bring the beetroot here, I'll take it. I'm the hungriest by now."}
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":352}}],"say":"Kimberly, I'm coming up to you now.","intent":{"goal":"reach_kimberly_beetroot","program":"travel","arguments":{"target":{"x":-199,
+- 16:59 act: {"say":"Kimberly, my route is blocked and there is a threat near me. Please bring the beetroot down to me here at the shore, if it is safe."}
+- 16:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":64,"z":351}}],"say":"Kimberly, I'm coming up to you at -200,64,351 by a new way."}
+- 16:59 act: {"say":"Kimberly, the path up is blocked both ways. Could you come down to the shore at -200,57,351? Zack is here with me."}
+- 17:03 act: {"say":"Zack, I'm perched on a ledge at -200,58,349 with no shelter, but I'll stay still tonight. Morning, Kimberly can bring the beetroot."}
+- 17:07 act: {"say":"Morning. Kimberly, I'm still here at -200,58,349 on the ledge. Please bring the beetroot down when you can."}
+- 17:08 act: {"say":"Zack should get the first beetroot, Kimberly. I'll take the second one if there is one, or whatever you can spare after that."}
+- 17:10 act: {"say":"Kimberly, I'm on the ledge at -200,58,349, right below the cobble edge. Zack is 2 blocks from me. Come to the nearest block above us."}
+- 17:12 act: {"say":"Thank you, Kimberly. I'm still on the ledge at -200,58,349. Zack, when you're up, please share if you can. Kimberly, the beetroot is for me; I'll meet you at the nearest safe block above."}
+- 17:13 act: {"say":"Kimberly, thank you. I'm right here on the ledge. Zack, take your time getting out. I'll wait."}
+- 17:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, I'm at -200,58,349 on air with stone and water below. I'll try to build a dirt pillar up toward you, and I'll say when I'm at yo
+- 17:14 act: {"say":"I can't build up from here; there is no solid block under my feet. I'll stay put on the ledge. Kimberly, could you build a dirt pillar from the stone edge toward -200,58,349? Jason, bring the 
+- 17:14 act: {"say":"Kimberly, I have 9 dirt and 4 cobblestone. If you can get in sight, I'll give them to you so you can build up to me. Otherwise keep the beetroot for now."}
+- 17:18 act: {"say":"Thank you, Zack. Dusk is here and I'm still on the ledge. If the dirt reaches me I'll use it to wall in the ledge for the night."}
+- 17:19 act: {"say":"Tommy, I have 2 wheat. With your 1 that makes 3, enough for bread at a crafting table. Let's pool it once someone can reach a table."}
+- 17:23 act: {"say":"Kimberly, I'm still on the ledge at -200,58,349 with no way up yet. I'll wait for you to come into sight."}
+- 17:24 act: {"say":"Kimberly, I'm on the ledge at -200,58,349. Can you see me now?"}
+- 17:28 act: {"say":"Morning all. I'm still perched on the ledge at -200,58,349 with no way down. Tommy and Trini, if you can reach me with blocks, bring dirt or stone to pillar up. I have 2 wheat for bread."}
+- 17:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"dirt","count":1}],"say":"Zack, I'm on the ledge at -200,58,349. I'll try to hand you something back. Please hand me dirt: 10 would let me pillar down
+- 17:29 act: {"actions":[{"do":"mine","block":"dirt","count":4}]}
+- 17:30 act: {"actions":[{"do":"unstick"}],"say":"I fell into the water after a dig failed. Getting out now."}
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-199,"y":61,"z":352}}]}
+- 17:30 act: {"actions":[{"do":"unstick"}]}
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":350}}]}
+- 17:30 act: {"actions":[{"do":"unstick"}]}
+- 17:30 act: {"actions":[{"do":"unstick"}],"say":"I fell into a deep water pool near -199,53,349 and I'm trying to swim out. Zack, Kimberly: I can't see you either. Stay put and don't dig near the water."}
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":-202,"y":55,"z":349}}]}
+- 17:31 act: {"actions":[{"do":"unstick"}],"say":"I'm in the water at -199,55,348, air 12. Trying to swim to the ledge now."}
+- 17:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-199,"y":62,"z":352}}],"say":"I'm sinking in the water at -202,49,349, air 8. Zack, Jason, I can't see you from down here. I'm trying to get up.
+- 17:32 act: {"actions":[{"do":"unstick"}],"say":"Kimberly, Zack, Jason: I'm at -198,56,350, floating on the water, not sinking now. Can you see me?"}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-200,"y":58,"z":349}}],"say":"Jason, I'm swimming for the ledge at -200,58,349 now."}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-200,"y":58,"z":349}}],"say":"I'm out of the water, standing on dirt at -200,57,349. Zack, Kimberly, Jason, can you see me? I need the beetroot when you can."}
+- 17:32 act: {"actions":[],"say":"Kimberly, Jason, I'm on the dirt at -200,57,349 and I can see Zack. Please hand me the beetroot or the wheat when you can reach me. I'm very hungry."}
+- 17:32 act: {"actions":[],"say":"Zack, thank you for the dirt. I'm hungry too, and I have only 2 wheat, not enough for bread. If you have spare food after you eat, please share it with me."}
+- 17:33 act: {"actions":[],"say":"Tommy, I'll bring my 2 wheat to the table at -261,68,352 for the bread pool. Jason, keep the wheat you promised me, I'll take it when you're level with me."}
+- 17:34 act: {"actions":[],"say":"Jason, keep the wheat for Zack and me. Zack, I'm standing right beside you on the dirt at -200,57,349. Let's bring the wheat to the table here at -202,58,351."}
+- 17:35 act: {"actions":[],"say":"Jason, give the beetroot to Zack first since he's lower on hunger. Then the 2 wheat to me, when you're within reach. I'm right here at -200,57,349."}
+- 17:39 act: {"actions":[],"say":"It's getting dark. I'm in a dirt pocket at -200,57,349 with water to the north. Jason, bring the wheat when you can reach me."}
+- 17:44 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I can see you. You're lower on food than me, so take my 2 wheat. Jason's wheat can come to me later."}
+- 17:48 act: {"actions":[],"say":"Dawn. Zack, keep the wheat; you need it more. Jason, if you have the other 2 wheat, I'm still at -200,57,349, hunger 17. I'll look for the farm once it's light."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":351}}],"say":"Kimberly, I'm coming up to you now. Hungry, so I'd take the beetroot after Zack."}
+- 17:49 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-199,"y":62,"z":351}}]}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":351}}],"say":"Kimberly, I'm out of the water at -199,61,351 and hungry. If you can see me, the beetroot would help."}
+- 17:49 act: {"actions":[{"do":"unstick"}],"say":"I'm walled in by cobblestone at -199,61,351. Kimberly, if you can see me, please toss or give the beetroot when you're in reach."}
+- 17:50 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-199,"y":62,"z":352}}],"say":"Kimberly, I'm at -199,59,353 on stone, pillaring up to you. Tommy, I'll take your 
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":-199,"y":64,"z":352}}],"say":"I'm at -199,61,352 and climbing. Zack first for the beetroot, then me. Tommy, the 1 wheat when I'm in view."}
+- 17:50 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-199,"y":63,"z":352}}]}
+- 17:50 act: {"say":"Jason, I'm stuck in the stone at -199,61,352, and the block above is not mine to dig. Can you dig a gap at -199,62,352 or -199,63,352?","actions":[{"do":"unstick"}],"intent":{"goal":"reach_jas
+- 17:50 act: {"say":"Jason, I'm at -199,61,351 on grass, pillaring up now. Keep the wheat; I'll come to you.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-200,"y":63,"z":
+- 17:50 act: {"actions":[{"do":"mine","block":"cobblestone","count":1},{"do":"unstick"}],"say":"I'm walled in by cobblestone with no pickaxe. Kimberly, Zack, Jason: could someone dig or place a gap at -199,62,351 
+- 17:50 act: {"say":"I'm free at -199,60,353 on cobblestone, not enclosed. Jason, Kimberly, Zack: I can see none of you. Give me wheat when you're in sight.","actions":[{"do":"place","block":"cobblestone","at":"fe
+- 17:51 act: {"say":"Thank you, Tommy. I'm at -199,60,353 and pillaring up toward you now.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-199,"y":63,"z":351}}]}
+- 17:51 act: {"say":"Tommy, the stone above me at -199,62,353 is blocking my pillar. I'm at -199,60,353 on cobblestone; please open a gap at -199,62,352 or -199,61,352, then I'll climb.","actions":[{"do":"wait","s
+- 17:52 act: {"say":"I'm still at -199,60,353, boxed in. Jason or Zack, if you can see me, please drop wheat at my feet or give it when in reach. Thank you.","actions":[{"do":"unstick"}]}
+- 17:52 act: {"say":"I'm at -199,60,353, still boxed in on cobblestone. Zack, dig toward me and I'll climb. Jason, drop the wheat when I'm in reach.","intent":{"goal":"reach_wheat","program":"rest","arguments":{},
+- 17:52 act: {"say":"Thank you, Zack. I'm picking up the wheat now.","actions":[{"do":"goto","target":{"x":-200,"y":59,"z":354}}]}
+- 17:52 act: {"say":"Zack, I'm dropping my dirt and cobblestone into your hands to clear room for the wheat.","actions":[{"do":"give","to":"ag_zack_01","item":"dirt","count":2},{"do":"give","to":"ag_zack_01","item
+- 17:53 act: {"say":"Zack, there's an item on the ground at -201,59,352. I'm going to pick it up.","actions":[{"do":"goto","target":{"x":-201,"y":59,"z":352}}]}
+- 17:54 act: {"say":"I have 2 wheat now, thank you Zack. Jason, if you can reach me, give me your 3 wheat and I'll craft bread at the table."}
+- 17:54 act: {"say":"Jason, I'm climbing up toward you now.","actions":[{"do":"goto","target":{"x":-199,"y":62,"z":352}}]}
+- 17:54 act: {"say":"I'm at -199,61,352 with 2 wheat. Jason, I'm nearly in reach. Give me your 3 wheat please.","actions":[{"do":"goto","target":{"x":-199,"y":63,"z":351}}]}
+- 17:54 act: {"say":"I'm out, at -199,64,351, and Jason is in reach. Jason, please give me the 3 wheat now. Then I'll craft bread at the table."}
+- 17:55 act: {"say":"Jason, I only have 2 wheat. Your give failed, so the 3 may be on the ground near you. Please drop them at your feet, and I'll step onto them."}
+- 17:55 act: {"say":"Thank you, Jason. I'll keep my 2 wheat. Kimberly, if your beetroot is still free, I'd take it. I'm going to look west for animals with Trini."}
+- 17:57 act: {"say":"Trini, I'm coming south-west after you with Zack. I have 2 wheat to share.","intent":{"goal":"follow_trini_for_food","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directl
+- 17:57 act: {"say":"I'm heading west on the stone, past the lake, to look for animals.","actions":[{"do":"goto","target":{"x":-212,"y":64,"z":352}}]}
+- 17:57 act: {"say":"Kimberly, I'm coming toward the beds to meet you. Hand over the beetroot when I'm in sight.","actions":[{"do":"goto","target":{"x":-238,"y":69,"z":345}}]}
+- 17:57 act: {"say":"I'm at the beds, -237,69,345, with 2 wheat. Kimberly, Trini, Zack, if you can see me, call out."}
+- 17:58 act: {"say":"Tommy, I'm heading to your table at -261,68,352 with my 2 wheat. Zack and Trini are hungrier, so bread goes to them first.","actions":[{"do":"goto","target":{"x":-260,"y":68,"z":352}}],"intent
+- 17:58 act: {"say":"Tommy, I'm at the -261 table now, but I'll follow you to -202,58,351. I'll hand you my 2 wheat there so you have 5 for bread. Trini, Zack, hold on.","actions":[{"do":"goto","target":"Tommy"}]}
