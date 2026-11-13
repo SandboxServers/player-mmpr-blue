@@ -684,3 +684,7 @@
 - 10:49 act: {"actions":[{"do":"goto","target":{"x":-243,"y":64,"z":346}},{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, Tommy: I'm bringing 12 cobblestone to the pool. Watch for g
 - 10:49 act: {"actions":[{"do":"goto","target":{"x":-243,"y":64,"z":346}}],"reasoning":"Previous goto did not move me; try once more, then check position."}
 - 10:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":64,"z":346}}],"reasoning":"Goto has stalled; my notes say unstick clears it. Try that then goto."}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":-243,"y":64,"z":346}}],"say":"Jason, I'm heading to the pool with cobble for Tommy and Trini.","reasoning":"Jason is counting on me to bring cobble. Try the rout
+- 10:53 act: {"actions":[],"say":"Trini, Tommy: I can't reach the pool, my steps keep stalling. I'm staying by the beds with 12 cobble if the way clears.","reasoning":"Goto keeps stalling and a golem is on Trini. 
+- 10:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, you're at the beds now, so I'm giving you my 12 cobblestone. I have no food either.","reasoning":"Trini is h
+- 10:57 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
