@@ -536,3 +536,7 @@
 - 06:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Thanks Kimberly. Cobblestone at my feet is also blocked. Could you give me 4 cobblestone? I'll try again when they
 - 06:29 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}]}
 - 06:33 say: {"text":"Zack: I'm at -237,51,349, stuck. Please drop cobblestone or dirt at the pit edge near me. I'll not dig west or south (water). Thank you."}
+- 06:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Billy: trying the place-at-feet then unstick method now.","rea
+- 06:36 act: {"intent":{"goal":"wait_for_blocks_from_zack","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":8}}
+- 06:37 say: {"text":"Zack, Billy at -237,51,349 in the pit. Placing at my feet fails for me. Please drop a few cobblestone just north of me, at -237,52,348."}
+- 06:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":50,"z":348}},{"do":"unstick"}],"reasoning":"Side placement north at y50, try once; if it fails, wait for dawn."}
