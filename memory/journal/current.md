@@ -394,3 +394,10 @@
 - 01:50 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":7}],"say":"Trini, I'm still stuck, so I'm giving you my 7 cobblestone for Zack or whoever needs it.","reasoning":"My route is b
 - 01:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Unstick worked once before; try it again and retry the path to Zack.","intent":{"goal":"reach_zack","program
 - 01:57 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"I have dirt now, which the others used to climb. Stacking under my feet is the way up. Dusk is coming, so I want ou
+- 01:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Billy here, in the coal pit at -232,58,349. Stacking dirt to climb out. Night is coming.","reasoning":"Night, not sheltered, in a pit. Sta
+- 01:59 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-232,"y":60,"z":349}}],"reasoning":"Keep stacking dirt to climb out of the pit before full night."}
+- 01:59 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":{"x":-232,"y":59,"z":349}}],"reasoning":"Feet placement failed. Try unstick, mine stone, then pla
+- 01:59 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Billy at -230,58,349 on stone, not enclosed. Trying to stack dirt to climb. Thanks Kimberly and Jason.","reasoning":"New spot, try stackin
+- 01:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-231,"y":58,"z":349}},{"do":"place","block":"dirt","at":{"x":-230,"y":58,"z":348}}],"reasoning":"Feet placement blocked. Try placing dirt on the side
+- 02:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"shelter_wall","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"
+- 02:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Morning. Billy at -230,58,349, still in the pit. Heading to the farm for food once I'm out.","reasoning":"Daylight. Try s
