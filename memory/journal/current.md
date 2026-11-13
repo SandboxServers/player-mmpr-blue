@@ -447,3 +447,16 @@
 - 03:57 act: {"actions":[{"do":"goto","target":{"x":-239,"y":51,"z":346}}]}
 - 03:57 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
 - 04:05 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":53,"z":348}}]}
+- 04:25 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
+- 04:26 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-237,"y":52,"z":347}},{"do":"goto","target":{"x":-237,"y":54,"z":347}}],"reasoning":"Try to get unstuck and step up using dirt, then
+- 04:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-237,"y":53,"z":349}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-237,"y":54,"z":349}}],"reas
+- 04:26 act: {"actions":[{"do":"goto","target":{"x":-237,"y":53,"z":349}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-237,"y":54,"z":349}},{"do":"place","block":"dirt","at":"feet"},{"do":
+- 04:29 say: {"text":"Billy here, at -237,52,349 on stone. I'm digging up to get out instead of placing. Will shout when I'm clear."}
+- 04:29 act: {"actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Brief says dig up. Mine nearby stone to open a staircase, then check position."}
+- 04:29 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-236,"y":53,"z":349}}],"reasoning":"Keep carving stone beside Billy and try stepping into the opened space to climb."}
+- 04:29 act: {"actions":[{"do":"goto","target":{"x":-237,"y":53,"z":348}},{"do":"mine","block":"stone","count":1},{"do":"goto","target":{"x":-237,"y":54,"z":348}}],"reasoning":"Test whether a goto upward through a
+- 04:33 say: {"text":"Trini, could you drop or give me a few cobblestone or dirt? I'm still stuck at -237,52,349 and need blocks to stack up."}
+- 04:34 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-237,"y":53,"z":349}}]}
+- 04:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":53,"z":348}}]}
+- 04:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":52,"z":348}},{"do":"goto","target":{"x":-237,"y":53,"z":349}}]}
+- 04:46 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-237,"y":53,"z":349}}]}
