@@ -344,3 +344,4 @@
 - 00:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"white_terracotta","count":2}]}
 - 00:29 act: {"actions":[{"do":"goto","target":{"x":-255,"y":68,"z":349}}]}
 - 00:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":351}},{"do":"mine","block":"oak_log","count":3}]}
+- 00:31 act: {"actions":[{"do":"mine","block":"oak_log","count":3}]}
