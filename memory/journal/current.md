@@ -803,3 +803,10 @@
 - 13:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-197,"y":63,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-195,"y":63,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-196,"
 - 13:30 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":{"x":-196,"y":64,"z":259}}]}
 - 13:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-197,"y":64,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-195,"y":64,"z":259}},{"do":"place","block":"cobblestone","at":{"x":-196,"
+- 13:39 act: {"reasoning":"Night, sealed in my stone pit at -195,65,259, health 20, hunger 20. Safe to rest. Sleep here, then reflect.","say":"Night. I'm sealed in my pit and will rest here until light.","actions"
+- 13:39 act: {"reasoning":"Sleep failed for lack of a bed. I am sealed in a pit, health and hunger full. Safer to wait out the night here than to dig out in the dark.","say":"No bed here, so I'll wait out the nigh
+- 13:47 act: {"reasoning":"Dawn. I'm out of the pit with health 20 and hunger 20 but no food. I have a stone hoe and 6 wheat seeds; Jason is asking how to make farmland. I'll tell him what I know and offer to shar
+- 13:47 act: {"reasoning":"Still walled in by stone. Dig one stone ahead to open a way out toward dirt, then find grass or dirt to plant the seeds on.","actions":[{"do":"mine","block":"stone","count":2}]}
+- 13:47 act: {"reasoning":"Mining ahead changed nothing, and I am still boxed in. Try unstick to find a way out, then look at what is around.","say":"Jason, I'm still boxed in too. Trying to dig out, then I'll tes
+- 13:47 act: {"reasoning":"I can't mine stone: I have only a stone hoe, no pickaxe, and the pit walls are stone. Craft a crafting table from oak planks, then a stone pickaxe from cobblestone and sticks, and dig ou
+- 13:48 act: {"reasoning":"I have a stone pickaxe now and stand on my table, one block up. Mine the stone around me to get out toward the shore and dirt.","say":"I have a pickaxe now. Digging out toward the shore.
