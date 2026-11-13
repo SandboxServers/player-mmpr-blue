@@ -662,3 +662,8 @@
 - 09:31 act: {"say":"Billy: my travel keeps failing with no movement, so I can't dig Jason's stair reliably. Tommy, you have the cobblestone and are at the rim, so please place a stair up beside the shaft. I'll br
 - 09:33 act: {"say":"Billy: Zack, you're closest with the dirt and cobblestone, so you take the bottom of Jason's shaft. I can't reach it reliably. I'm staying at -238,64,341 with 27 dirt and 12 cobblestone if any
 - 09:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 09:50 act: {"say":"Billy: Kimberly, I have no food, only wheat seeds, sorry. Trini and Tommy are nearest the beds for porkchop. Jason, I'm still at -238,64,341 with 20 dirt and 12 cobble if you need it dropped w
+- 09:50 act: {"say":"Billy: I can't reach -239,56,345 from -238,64,341. My placements only work within arm's reach and my last moves dropped me into this hole. Zack or Tommy at the rim, please place it. I'm holdin
+- 09:51 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Billy: Trini, sending you my 12 cobblestone. Tommy has more if you need the last one."}
+- 09:51 act: {"say":"Billy: Trini, my give failed because you're out of reach from this pit at -238,64,341. I can't walk to the beds reliably. Tommy has 54 cobblestone and is closer to the beds."}
+- 09:58 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
