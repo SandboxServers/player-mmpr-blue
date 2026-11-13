@@ -1226,3 +1226,29 @@
 - 21:15 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dama
 - 21:15 act: {"actions":[],"say":"I'm sealed in a dirt burrow for now. Food is fine at hunger 20. I'll rest here until night."}
 - 21:20 say: {"text":"Billy here, sealed in the burrow at -378,107,385 for the night. Hunger 20, health 20. I have no food to spare right now; I'll check the pumpkin field and Tommy at first light."}
+- 21:25 say: {"text":"Billy here, sealed in my dirt pit at -378,107,385. No bed, so I stay put till light. Hunger full, health steady. Hold on, Jason and Zack."}
+- 21:29 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 21:29 act: {"intent":{"goal":"reach_beds_near_trini","program":"travel","arguments":{"target":{"x":-300,"y":70,"z":340}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 21:29 act: {"intent":{"goal":"keep_clear_of_golem","program":"travel","arguments":{"target":{"x":-285,"y":68,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 21:33 act: {"intent":{"goal":"reach_sheep_for_wool","program":"travel","arguments":{"target":{"x":-380,"y":110,"z":378}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 21:35 act: {"intent":{"goal":"find_sheep_near_logs","program":"travel","arguments":{"target":{"x":-290,"y":68,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 21:36 act: {"say":"Trini, thank you. I'm at -350, 76, 361 now. Where are you? I'll come to you for the wool.","intent":{"goal":"reach_trini_for_wool","program":"travel","arguments":{"target":{"x":-374,"y":77,"z"
+- 21:36 act: {"say":"Trini, my route failed. I'm at -361, 89, 408. I'm heading to the oak logs near -292, 70, 345 now.","intent":{"goal":"reach_trini_at_logs","program":"travel","arguments":{"target":{"x":-292,"y"
+- 21:37 act: {"say":"Trini, I'm at the oak logs near -292, 68, 345. I don't see you yet. Where are you standing?"}
+- 21:37 act: {"say":"Thanks, Trini. I'm at -292, 68, 345 and I can see someone to the east. I'll stay put and wait for you to come close."}
+- 21:38 act: {"say":"Trini, I'm coming toward you now.","actions":[{"do":"goto","target":{"x":-290,"y":67,"z":341}}]}
+- 21:38 act: {"say":"Trini, I'm at -290, 67, 341 now and I'm ready for the wool. It's getting dark. Please hand it over when you see me."}
+- 21:38 act: {"say":"Trini, I won't come to the beds in the dark, the golem is there. Keep the wool safe and we'll meet here at first light."}
+- 21:42 act: {"reasoning":"Open ground at night with no bed. Wall myself in with the 18 dirt.","actions":[{"do":"place","block":"dirt","at":{"x":-289,"y":67,"z":341}},{"do":"place","block":"dirt","at":{"x":-291,"y
+- 21:45 act: {"reasoning":"Iron golems 8 blocks northeast. Move away southwest and keep watch.","intent":{"goal":"withdraw_from_golems","program":"travel","arguments":{"target":{"x":-318,"y":70,"z":378}},"wake_on"
+- 21:46 act: {"reasoning":"Away from golems, no threats in view, thunder. Stay still until dawn.","say":"Night is here. I'm resting out in the open away from the golems, and I'll meet Trini for the wool at first l
+- 21:48 act: {"say":"Morning, Trini. I'm coming to the oak logs at -292,70,345 first. Please bring the wool there.","intent":{"goal":"reach_trini_for_wool","program":"travel","arguments":{"target":{"x":-300,"y":70
+- 21:48 act: {"say":"Trini, I'm at the oak logs, -299,70,340. Iron golem is about 10 blocks southeast of me. Can you come meet me here?"}
+- 21:48 act: {"say":"Good, Trini. I can see you. Hand over the white wool whenever you're ready, and I'll go looking for sheep to the southwest after."}
+- 21:54 act: {"say":"Iron golem is 3 blocks from me. I'm moving southwest now. Trini, leave the wool with someone safe or bring it to the cherry trees to the southwest, and I'll come back.","intent":{"goal":"get_c
+- 21:54 act: {"intent":{"goal":"find_sheep_for_wool_southwest","program":"travel","arguments":{"target":{"x":-374,"y":77,"z":440}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 21:57 act: {"intent":{"goal":"dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 21:57 act: {"intent":{"goal":"reach_sheep_for_wool","program":"travel","arguments":{"target":{"x":-382,"y":110,"z":378}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 21:58 act: {"intent":{"goal":"shelter_for_night_here","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 21:58 act: {"actions":[{"do":"unstick"}],"say":"The shelter wall on the east side was blocked, so I'm in a pit. I'm climbing out; it's still daylight, so I'll search for sheep before dark."}
+- 21:58 act: {"intent":{"goal":"search_grass_for_sheep","program":"travel","arguments":{"target":{"x":-397,"y":118,"z":362}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
