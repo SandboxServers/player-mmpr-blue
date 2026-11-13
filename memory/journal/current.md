@@ -608,3 +608,21 @@
 - 07:53 act: {"say":"Billy, at -233,68,340 on grass, still hungry 18 with no food. Anyone with bread, carrots or meat, please bring some. Thank you.","intent":{"goal":"wait_for_food","program":"rest","arguments":{
 - 07:55 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"x":-210,"y":68,"z":340},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,
 - 07:59 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"reasoning":"Night in the open with no shelter. The bed at -241,69,344 is close; go there to rest safely."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-228,"y":69,"z":348}}],"reasoning":"Search open grass east and south-east for animals, keeping clear of the south drop."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-228,"y":69,"z":344}}],"reasoning":"Retry moving east to open grass; the last move did not change position."}
+- 08:00 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":69,"z":346}}],"reasoning":"Movement seems blocked by trees; try unstick then a nearby open target."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-218,"y":68,"z":344}}],"reasoning":"No animals in sight yet; push east over open grass within the 30-block radius."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-218,"y":68,"z":344}}],"intent":{"goal":"find_and_eat_animal","program":"travel","arguments":{"target":{"x":-218,"y":68,"z":344}},"wake_on":["goal_completed","di
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-218,"y":68,"z":342}}],"intent":{"goal":"find_and_eat_animal","program":"travel","arguments":{"target":{"x":-218,"y":68,"z":342}},"wake_on":["goal_completed","di
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-212,"y":69,"z":350}}],"intent":{"goal":"find_and_eat_animal","program":"travel","arguments":{"target":{"x":-212,"y":69,"z":350}},"wake_on":["goal_completed","di
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Sleep failed because I was not in a bed. Move onto the bed and try again."}
+- 08:03 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm now on the bed. Try sleeping again."}
+- 08:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":315}}],"intent":{"goal":"search_food_north","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":315}},"wake_on":["goal_completed","unex
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-228,"y":68,"z":322}}],"intent":{"goal":"search_food_northeast","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":322}},"wake_on":["goal_completed","
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":326}}],"intent":{"goal":"search_food_northeast_2","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":326}},"wake_on":["goal_completed"
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-232,"y":68,"z":316}}],"intent":{"goal":"search_food_north_final","program":"travel","arguments":{"target":{"x":-232,"y":68,"z":316}},"wake_on":["goal_completed"
+- 08:11 act: {"say":"Billy here, hunger 18 and no food. Trini, when you are out, I'd be glad of some of those carrots. Zack, I'm near the beds at -240,69,344 if you need anything.","intent":{"goal":"await_food_fro
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":344}}],"intent":{"goal":"meet_trini_for_carrots","program":"travel","arguments":{"destination":{"x":-236,"y":69,"z":344}},"wake_on":["directly_ad
+- 08:15 act: {"actions":[{"do":"eat"}],"say":"Thanks Trini, got it. Good luck with the climb, Kimberly.","reasoning":"Trini gave me a carrot. Eat it to ease hunger."}
