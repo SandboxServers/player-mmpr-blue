@@ -504,3 +504,5 @@
 - 05:41 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":58,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":57,"z":349}},{"do":"place","block":"dirt","at":{"x":-237,"y":57,"z":349}},{"do"
 - 05:48 act: {"intent":{"goal":"shelter_dawn","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_opera
 - 05:57 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Retry placement at feet to see whether it works now at dusk.","say":"Billy here, st
+- 05:59 act: {"actions":[{"do":"unstick"}],"say":"Billy here, still in the pit at -236,57,349. Trying unstick, then a plank placement.","reasoning":"Placement fails for everyone; unstick is the built-in way out of
+- 05:59 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Test whether planks place where dirt and cobblestone failed. Record the result either way."}
