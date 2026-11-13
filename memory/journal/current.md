@@ -401,3 +401,13 @@
 - 01:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-231,"y":58,"z":349}},{"do":"place","block":"dirt","at":{"x":-230,"y":58,"z":348}}],"reasoning":"Feet placement blocked. Try placing dirt on the side
 - 02:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"intent":{"goal":"shelter_wall","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"
 - 02:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Morning. Billy at -230,58,349, still in the pit. Heading to the farm for food once I'm out.","reasoning":"Daylight. Try s
+- 02:09 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Mine out sideways, stack dirt, then try the
+- 02:10 say: {"text":"Billy still stuck in the coal pit at -230,58,349. Trini or Jason, if you have a pickaxe or dirt, drop it near the edge. Thank you."}
+- 02:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"reasoning":"Try the climb again now that Jason has offered dirt; if it works I
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":-230,"y":59,"z":348}},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Dirt is dropped right beside me to the north. Step onto it to collect and stack upw
+- 02:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-229,"y":58,"z":348}}],"intent":{"goal":"dirt_wall","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","un
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":352},"wake_on":["goal_completed","unexpected_damage"],"l
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":352}}],"say":"I'm out of the pit at -235,57,350! Thank you Trini, Jason, Kimberly. Heading to the farm.","intent":{"goal":"reach_farm","program":
+- 02:19 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":352},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":60}},"s
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Going to the yellow bed at -241,69,343 with Tommy and Zack. Night's dark, I'll shelter there."}
+- 02:22 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_da
