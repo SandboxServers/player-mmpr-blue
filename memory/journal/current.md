@@ -1153,3 +1153,22 @@
 - 20:18 say: {"text":"Zack, I'm coming to the beds now. I have no pickaxe, so I'll look at how the cobblestone is set and find a way to free you."}
 - 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
 - 20:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:26 act: {"intent":{"goal":"reach_first_light_safely","program":"rest","arguments":{"until":"day"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"
+- 20:26 act: {"say":"Billy here, I'm at the white beds too, and I'll come along for the cow at first light. I have no food either.","actions":[]}
+- 20:27 act: {"intent":{"goal":"join_cow_hunt","program":"travel","arguments":{"x":-252,"y":68,"z":444},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_b
+- 20:28 act: {"intent":{"goal":"meet_group_at_trini","program":"travel","arguments":{"x":-276,"y":69,"z":377},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":290}}],"say":"Kimberly, thank you. I'm going to the ripe wheat near -294,69,290 for food now."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":289}},{"do":"mine","block":"wheat","count":3}]}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":290}},{"do":"mine","block":"wheat","count":2}],"say":"Kimberly, I found ripe wheat here. I'll get enough to make bread if I can reach a table."}
+- 20:29 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"bread","count":1}],"say":"I'm making a crafting table here from my last 
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":286}},{"do":"mine","block":"wheat","count":2}],"say":"I made a crafting table and bread. I'm getting the ripe wheat now.","intent":{"goal":"harve
+- 20:29 act: {"actions":[{"do":"mine","block":"wheat","count":2},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"bread","count":1}],"intent":{"goal":"gather_wheat_and_bread","program":"ga
+- 20:30 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Kimberly, Tommy, Zack: I have 2 wheat and 1 bread. I'll get one more ripe wheat and make bread at my table here. Tommy, the ripe wheat by -2
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-292,"y":68,"z":283}},{"do":"mine","block":"wheat","count":1}],"say":"Kimberly, I'm going to the ripe wheat by the north sign, on my own."}
+- 20:30 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"say":"Kimberly, yes. Give me 1 wheat and I'll have 3, and I'll make bread here at this table for you and Tommy and Zack."}
+- 20:30 act: {"actions":[],"say":"Kimberly, I have the table placed here and 2 wheat. Please give me 1 wheat and I'll craft bread right away."}
+- 20:30 act: {"actions":[{"do":"craft","item":"bread","count":2}],"say":"Kimberly, thank you, I have 6 wheat now. Making 2 bread here at my table at -292,69,283. Tommy, come here and I'll share."}
+- 20:31 act: {"actions":[],"say":"I have 3 bread. Tommy, come to my table and I'll give you one. Zack, I'll bring one to you at your table if you'll wait. Kimberly, thank you for the wheat."}
+- 20:31 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"bread","count":1}],"say":"Tommy, here is one bread for your leather. Watch the villager to your west, it's attacking."}
+- 20:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"bread","count":1}],"say":"Kimberly, here is a bread for you. Good luck with the sword."}
+- 20:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"bread","count":1}],"say":"Kimberly, my last bread is for you. Jason, sorry, that one went to you by mistake.","intent":{"goal":"hold_camp_by_tabl
