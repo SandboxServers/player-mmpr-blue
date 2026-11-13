@@ -411,3 +411,11 @@
 - 02:19 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"x":-250,"y":68,"z":352},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":60}},"s
 - 02:22 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Going to the yellow bed at -241,69,343 with Tommy and Zack. Night's dark, I'll shelter there."}
 - 02:22 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_da
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Coming to the beds at -241,69,343, Zack. Thank you for sharing."}
+- 02:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Morning! I'm heading to the beds at -241,69,343. Tommy, could I have a potato when I get there?","intent":{"goal":"reach_beds","pro
+- 02:27 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"l
+- 02:27 act: {"actions":[{"do":"note","text":"Day 111 morning: still boxed in at -234,56,349. Shelter, pillar and goto all failed. Need dirt or a dig-out from friends."}],"say":"Still stuck at -234,56,349, Trini, 
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":-236,"y":56,"z":349}},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Thank you Jason, Trini, Kimberly, Tommy. Picking up the dirt and climbing toward t
+- 02:28 act: {"actions":[{"do":"goto","target":{"x":-237,"y":56,"z":349}}],"say":"Thanks Tommy, Kimberly. I'll wait here while you stack up, then follow you out."}
