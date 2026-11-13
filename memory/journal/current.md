@@ -1172,3 +1172,5 @@
 - 20:31 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"bread","count":1}],"say":"Tommy, here is one bread for your leather. Watch the villager to your west, it's attacking."}
 - 20:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"bread","count":1}],"say":"Kimberly, here is a bread for you. Good luck with the sword."}
 - 20:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"bread","count":1}],"say":"Kimberly, my last bread is for you. Jason, sorry, that one went to you by mistake.","intent":{"goal":"hold_camp_by_tabl
+- 20:33 act: {"say":"Trini, thank you for the leather. The ripe wheat is nearly gone, so I'll harvest what is ripe and bake you bread as soon as I can.","intent":{"goal":"gather_wheat_for_bread","program":"gather"
+- 20:33 act: {"say":"Trini, the leather came through, thank you. The wheat is all unripe now, so I have no bread. I'm going after the chicken to the south-west and will share what I get.","actions":[{"do":"goto","
