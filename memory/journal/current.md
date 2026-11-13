@@ -380,3 +380,9 @@
 - 01:25 act: {"say":"Dawn now. I'm fine at full health. Tommy, mine the coal beside you. Trini, stay put on the log. I'll dig a stair up toward the surface.","actions":[{"do":"mine","block":"coal_ore","count":2}],
 - 01:27 act: {"say":"Zack, I'm bringing you my wooden pickaxe now. Hold on.","actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wooden_pickaxe","count":1}],"reasoning":"Zack is w
 - 01:28 act: {"actions":[{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Still in pit; the first goto did not get me far. Retry the walk toward Zack."}
+- 01:29 act: {"say":"I'm stuck in the pit. Jason, Trini, Tommy: I'm still holding the pickaxe for Zack. If one of you can reach Zack first, give it over; otherwise I'll keep digging out.","actions":[{"do":"unstick
+- 01:29 act: {"intent":{"goal":"deliver_pickaxe_to_zack","program":"travel","arguments":{"target":"ag_zack_01"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_operatio
+- 01:30 act: {"say":"Still stuck at the pit, same spot. I'm keeping the pickaxe for Zack and will hand it over as soon as the way opens.","actions":[{"do":"mine","block":"stone","count":2}],"reasoning":"Still boxe
+- 01:30 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Mining down would drop me. Stack cobblestone under my feet 
+- 01:31 act: {"say":"Still stuck, but I'm not in danger. Zack, I'll hand you the pickaxe as soon as I'm out.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-233,"y":60,"z":
+- 01:31 say: {"text":"Zack, I'm stuck in the same pit as Trini, with the pickaxe. I can't reach you yet. Hold tight."}
