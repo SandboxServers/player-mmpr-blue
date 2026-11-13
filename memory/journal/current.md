@@ -626,3 +626,12 @@
 - 08:11 act: {"say":"Billy here, hunger 18 and no food. Trini, when you are out, I'd be glad of some of those carrots. Zack, I'm near the beds at -240,69,344 if you need anything.","intent":{"goal":"await_food_fro
 - 08:15 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":344}}],"intent":{"goal":"meet_trini_for_carrots","program":"travel","arguments":{"destination":{"x":-236,"y":69,"z":344}},"wake_on":["directly_ad
 - 08:15 act: {"actions":[{"do":"eat"}],"say":"Thanks Trini, got it. Good luck with the climb, Kimberly.","reasoning":"Trini gave me a carrot. Eat it to ease hunger."}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-255,"y":68,"z":344}}],"reasoning":"Search west first, away from the drop to the east and southeast."}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-265,"y":68,"z":360}}],"reasoning":"Head southwest, still in the search area, checking for animals."}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":336}}],"reasoning":"Position moved only partway; keep heading west in short hops, avoiding the drops to the southwest."}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":344}}],"reasoning":"Two villagers are west; they are not food animals. Keep searching west in short steps."}
+- 08:16 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":343}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 08:20 act: {"say":"Trini, thanks. I have no food needs right now, so keep your dirt for Jason and Tommy. I'm at the beds for the night.","actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}
+- 08:28 act: {"intent":{"goal":"search_food_sw","program":"travel","arguments":{"target":{"x":-262,"y":69,"z":358}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks
+- 08:33 act: {"intent":{"goal":"return_to_beds_day129","program":"travel","arguments":{"target":{"x":-240,"y":69,"z":346}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 08:37 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
