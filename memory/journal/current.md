@@ -493,3 +493,5 @@
 - 05:13 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
 - 05:13 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
 - 05:17 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 05:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-234,"y":58,"z":350}},{"do":"place","block":"dirt","at":{"x":-235,"y":58,"z":351}}],"rea
+- 05:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-235,"y":58,"z":349}},{"do":"place","block":"dirt","at":{"x":-235,"y":59,"z":350}}],"reasoning":"View shows one gap to the right and down. Close the 
