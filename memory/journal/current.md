@@ -523,3 +523,5 @@
 - 06:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":55,"z":343}}],"reasoning":"Blocked on the walk; repeat the unstick-then-walk method that worked before."}
 - 06:13 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Stacking dirt under feet may raise me out of the ledge. One try, then check."}
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-237,"y":54,"z":340}}],"say":"I'm out of the pit ledge, at -237,54,347 on sand. Stacking dirt under my feet and then unstick got me up. Tommy, Trini, try that.",
+- 06:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":56,"z":343}}],"reasoning":"Repeat the method that gained height before; then walk north."}
+- 06:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":55,"z":343}}],"say":"Tommy, you're out? Tell me where you walked. I'm still on the sand ledge at -237,54,347.","reasoning":"Tommy got o
