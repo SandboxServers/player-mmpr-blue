@@ -878,3 +878,4 @@
 - 15:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"mine","block":"oak_log","count":6}],"intent":{"goal":"gather_oak_for_shelter","program":"gather","arguments":{"block":"oak_log","count":
 - 15:12 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":336}},{"do":"craft","item":"oak_planks","count":16}]}
 - 15:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","d
+- 15:13 say: {"text":"Goodnight, Billy. Food first in the morning."}
