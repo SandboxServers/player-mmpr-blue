@@ -1353,3 +1353,4 @@
 - 23:36 act: {"say":"I'm enclosed in stone with only an air gap above me. Zack, if you can reach the stone to my east or west, please open it. I'm still in view of you.","actions":[]}
 - 23:37 act: {"say":"Zack, I'm not boxed in anymore, I can walk out. I'm heading to you at -430,67,349. Then we look for sheep or cows together.","actions":[{"do":"goto","target":"ag_zack_01"}],"intent":{"goal":"j
 - 23:39 act: {"say":"Zack, I can't see you from here. It's dusk, so I'm building a stone shelter right where I stand and staying sealed in for the night.","actions":[],"intent":{"goal":"shelter_for_night","program
+- 23:40 act: {"actions":[{"do":"note","text":"Dusk, day 174. Enclosed in stone at -433,68,351, health 20, hunger 18. Zack is nearby and sheltering. Staying sealed for the night, then food at first light."}],"say":
