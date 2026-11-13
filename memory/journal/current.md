@@ -376,3 +376,7 @@
 - 01:14 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Make a spare pickaxe so I can give one to Zack, who has none and is boxed in."}
 - 01:14 act: {"actions":[{"do":"goto","target":{"x":-274,"y":63,"z":317}}],"say":"Zack, I'm bringing you a pickaxe. Heading to you now."}
 - 01:14 act: {"actions":[{"do":"unstick"}],"say":"I'm still at the pit edge at -233,58,349, boxed in by everyone. Zack, I'll bring a pickaxe once I can move.","reasoning":"I'm wedged in the crowded pit; free mysel
+- 01:16 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Tommy, I'll lead. I'm mining a stair toward Trini now, one block at a time. Trini, stay on the birch log."}
+- 01:25 act: {"say":"Dawn now. I'm fine at full health. Tommy, mine the coal beside you. Trini, stay put on the log. I'll dig a stair up toward the surface.","actions":[{"do":"mine","block":"coal_ore","count":2}],
+- 01:27 act: {"say":"Zack, I'm bringing you my wooden pickaxe now. Hold on.","actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wooden_pickaxe","count":1}],"reasoning":"Zack is w
+- 01:28 act: {"actions":[{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Still in pit; the first goto did not get me far. Retry the walk toward Zack."}
