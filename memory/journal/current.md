@@ -853,3 +853,28 @@
 - 14:50 say: {"text":"I'm at the sheep spot, -227, 68, 278. I don't see the sheep or Tommy. Has anyone got it? If you have food to spare, I'll take a share."}
 - 14:51 say: {"text":"Jason, Tommy: I'm here at the spot with an empty pack and no food. I'll take whatever wheat you can spare, and I'll wait here where you can see me. Kimberly, let's share what comes."}
 - 14:53 say: {"text":"Tommy, I'll stay here at -227, 68, 278 for Jason's wheat. If you dig out and come north to me, I'll take a share."}
+- 14:58 act: {"say":"Kimberly, could you spare some of your oak planks? I have nothing and it is getting dark.","intent":{"goal":"ask_for_planks_then_shelter","program":"rest","arguments":{"note":"wait for planks 
+- 14:58 act: {"say":"Kimberly, could you spare some of your oak planks? I have nothing and it is getting dark.","actions":[{"do":"wait","seconds":30}]}
+- 14:58 act: {"say":"Thank you, Kimberly. I'll pick them up now.","actions":[{"do":"goto","target":{"x":-227,"y":68,"z":281}}]}
+- 14:58 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":281}}]}
+- 14:58 act: {"say":"Trini, I have 4 planks now, thanks to Kimberly. Could you spare any birch logs or planks? I need about 20 more for a shelter. I also have no food.","actions":[{"do":"wait","seconds":60}]}
+- 14:59 act: {"say":"Zack, thank you. Kimberly and I will stay close together tonight. Trini, if you have any logs, please bring them.","actions":[{"do":"wait","seconds":120}]}
+- 14:59 act: {"say":"Thank you, Trini. Kimberly and I will stay close. I'll make the log into planks.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 15:00 act: {"actions":[{"do":"craft","item":"birch_planks","count":4}]}
+- 15:00 act: {"say":"Thank you, Trini. Safe travels at first light. I'll keep my planks for the shelter.","actions":[{"do":"wait","seconds":200}]}
+- 15:04 act: {"say":"Kimberly, I have no food, only 8 planks. Come to me here at (-227, 68, 280). Zombie is north-west, about 18 blocks off.","actions":[{"do":"wait","seconds":30}]}
+- 15:05 act: {"say":"Kimberly, I'm sorry. Jason promised his wheat at first light. I'm going to find him now.","intent":{"goal":"reach_jason_for_wheat","program":"travel","arguments":{"x":-269,"y":60,"z":324},"wak
+- 15:05 act: {"say":"Tommy, I'm coming to you for the wheat, and I have no food either. I'll bring nothing but thanks.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":350}}]}
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":349}},{"do":"mine","block":"oak_log","count":4}]}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-252,"y":66,"z":342}},{"do":"craft","item":"oak_planks","count":4}]}
+- 15:06 act: {"actions":[{"do":"mine","block":"oak_log","count":5},{"do":"craft","item":"oak_planks","count":8}]}
+- 15:06 say: {"text":"Thanks Jason, I'm staying here by the oak logs. Bring the wheat when you can."}
+- 15:06 say: {"text":"Jason, I'm at -252,66,341. Coming to you now. Hold on."}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":328}}]}
+- 15:07 say: {"text":"Jason, I'm at -264,66,329, just south of your pit. Tell me if you can climb out; I'll wait here."}
+- 15:07 say: {"text":"Thank you Jason, Tommy. I don't see the wheat in my pack yet. I'm full right now, so I'll keep it for later."}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":326}}]}
+- 15:08 say: {"text":"Jason, I'm on the rim now at -264,66,327. Hand the wheat up, I can see you if you stand in the open."}
+- 15:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"mine","block":"oak_log","count":6}],"intent":{"goal":"gather_oak_for_shelter","program":"gather","arguments":{"block":"oak_log","count":
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":336}},{"do":"craft","item":"oak_planks","count":16}]}
+- 15:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","d
