@@ -509,3 +509,8 @@
 - 05:59 act: {"intent":{"goal":"shelter_dirt_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
 - 06:01 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"oak_planks","at":"feet"}],"reasoning":"Check if direct placement still works after the shelter attempt failed."}
 - 06:02 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_opera
+- 06:02 act: {"say":"Billy here, awake and sheltered. What worked for me: the build program with blueprint shelter and one block type I carry (I used dirt, 23 blocks). Hand placement kept failing, so try that. She
+- 06:03 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":4}],"intent":{"goal":"gather_stone","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unex
+- 06:07 act: {"intent":{"goal":"gather_cobble","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":240
+- 06:08 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"reasoning":"Boxed in by my own shelter walls. Dig out through dirt, then find stone and food."}
+- 06:08 act: {"actions":[{"do":"mine","block":"stone","count":5}],"intent":{"goal":"gather_cobble","program":"gather","arguments":{"block":"cobblestone","count":8},"wake_on":["goal_completed","unexpected_damage","
