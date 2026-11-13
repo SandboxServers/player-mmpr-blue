@@ -1100,3 +1100,15 @@
 - 19:28 act: {"actions":[{"do":"wait","seconds":10}],"say":"Morning. Billy at -263, 66, 352 by the yellow beds, in the open. Hunger 20, no items. If any beef is spare after Tommy and Zack, I'd be glad of it."}
 - 19:29 act: {"actions":[{"do":"wait","seconds":5}],"say":"Kimberly, Zack first, his health is low. Billy is full at 20 with nothing to give, so Tommy and Zack get the beef. I'll stand here."}
 - 19:29 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack, I'm full at 20 with nothing to give, so I'm staying put by the yellow beds. Kimberly, the beef goes to Tommy and Zack first.","intent":{"goal":"hol
+- 19:38 act: {"say":"Billy here, at the yellow bed, full and empty-handed. Zack, if you're still hungry, I have no food, but Tommy says there's a pig southeast near -192, 419.","intent":{"goal":"hold_at_beds_and_w
+- 19:38 act: {"actions":[{"do":"wait","seconds":120}]}
+- 19:39 act: {"say":"Glad the pig tip helped, Jason. It's dusk, so I'm going to sleep in the bed here.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 19:39 act: {"actions":[{"do":"sleep"}]}
+- 19:39 act: {"actions":[{"do":"sleep"}]}
+- 19:40 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 19:40 act: {"actions":[{"do":"unstick"}]}
+- 19:40 act: {"intent":{"goal":"sleep_in_bed","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_bl
+- 19:40 act: {"intent":{"goal":"sleep_in_bed","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_bl
+- 19:40 act: {"actions":[{"do":"sleep"}]}
+- 19:48 act: {"actions":[{"do":"sleep"}]}
+- 19:48 act: {"say":"Zack, I'm heading southeast toward the pig near -192, 419 to look for food, and I'll bring back whatever I can find.","intent":{"goal":"find_pig_southeast","program":"travel","arguments":{"x":
