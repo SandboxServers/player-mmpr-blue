@@ -721,3 +721,11 @@
 - 12:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":14}],"say":"Jason, if you're in reach I have 26 dirt for you. Tell me where you are and I'll try to get it to you."}
 - 12:15 act: {"actions":[{"do":"goto","target":{"x":-238,"y":64,"z":343}}],"reasoning":"An item lies 2 blocks east. Could be food from a broken wall or drop. Step over to grab it."}
 - 12:18 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":-220,"y":63,"z":345}}],"reasoning":"Shelter is sealed; I need to get out to the east grass first."}
+- 12:19 act: {"actions":[{"do":"unstick"}]}
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":-215,"y":63,"z":345}}],"intent":{"goal":"find_food_east_grass","program":"travel","arguments":{"target":{"x":-215,"y":63,"z":345}},"wake_on":["goal_completed","u
+- 12:19 act: {"intent":{"goal":"shelter_for_night_2","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 12:19 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-215,"y":63,"z":345}}],"reasoning":"Enclosed again. Try mining a wall block to get out."}
+- 12:19 act: {"actions":[{"do":"goto","target":{"x":-220,"y":63,"z":345}}]}
+- 12:19 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 12:19 act: {"intent":{"goal":"shelter_for_night_3","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
