@@ -419,3 +419,8 @@
 - 02:27 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 02:27 act: {"actions":[{"do":"goto","target":{"x":-236,"y":56,"z":349}},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Thank you Jason, Trini, Kimberly, Tommy. Picking up the dirt and climbing toward t
 - 02:28 act: {"actions":[{"do":"goto","target":{"x":-237,"y":56,"z":349}}],"say":"Thanks Tommy, Kimberly. I'll wait here while you stack up, then follow you out."}
+- 02:31 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":56,"z":348}},{"do":"unstick"}],"say":"I have 19 dirt and will try stacking a step. Thanks Trini, Zack, Jason."}
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 02:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Morning. I'm at -236,53,348 in the pit, stacking dirt under me to climb. Thank you all."}
+- 02:48 act: {"actions":[{"do":"note","text":"Day 112: Zack offers dirt. Asking him to drop it at my position -236,53,348."}],"say":"Zack, I'm at -236,53,348 in the pit. Please drop dirt right here, and I'll build
+- 02:48 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Thanks Zack, I have the dirt. I'm stacking up now."}
