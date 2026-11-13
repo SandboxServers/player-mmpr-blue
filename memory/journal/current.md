@@ -653,3 +653,4 @@
 - 09:09 act: {"say":"Billy: thanks Zack. Heading to the pig near -203,71,363 now.","intent":{"goal":"reach_pig_food","program":"travel","arguments":{"x":-203,"y":71,"z":363},"wake_on":["directly_addressed","unexpe
 - 09:10 act: {"say":"Thanks Trini, keep your porkchop for someone hungrier. I'm at 20 hunger, so I'll go find a pig myself near -203,71,363.","actions":[{"do":"goto","target":{"x":-203,"y":71,"z":363}}]}
 - 09:10 act: {"intent":{"goal":"hold_near_beds_till_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 09:15 act: {"say":"Billy here, awake at -237,68,341 on dirt. Health and hunger full. Looking for food animals nearby, pigs or cows, when hunger drops.","actions":[{"do":"note","text":"Woke day 131 at -237,68,341
