@@ -603,3 +603,8 @@
 - 07:38 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":342}},{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"Back online. Checking the chest for food.","intent":{"goal":"find_food_at_chest","prog
 - 07:39 act: {"actions":[{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"Thanks Trini. I'm checking this chest for food, then I'll bed down nearby."}
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"note","text":"Day 126 dusk: connection back. Chest at -238,69,342 looked empty. Hunger 18. Going to bed at -241,69,344; will ask Tri
+- 07:40 act: {"say":"Billy here, at the bed near -240,69,344 with no food, hunger 18. Trini, Kimberly or Zack: if anyone can spare bread or meat, please bring it. Thank you.","intent":{"goal":"ask_for_food","progr
+- 07:53 act: {"actions":[{"do":"goto","target":{"x":-233,"y":69,"z":340}}],"intent":{"goal":"look_for_food","program":"travel","arguments":{"x":-233,"y":69,"z":340},"wake_on":["directly_addressed","unexpected_dama
+- 07:53 act: {"say":"Billy, at -233,68,340 on grass, still hungry 18 with no food. Anyone with bread, carrots or meat, please bring some. Thank you.","intent":{"goal":"wait_for_food","program":"rest","arguments":{
+- 07:55 act: {"intent":{"goal":"explore_for_animals","program":"travel","arguments":{"x":-210,"y":68,"z":340},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"reasoning":"Night in the open with no shelter. The bed at -241,69,344 is close; go there to rest safely."}
