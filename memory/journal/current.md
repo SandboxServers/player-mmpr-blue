@@ -386,3 +386,11 @@
 - 01:30 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Mining down would drop me. Stack cobblestone under my feet 
 - 01:31 act: {"say":"Still stuck, but I'm not in danger. Zack, I'll hand you the pickaxe as soon as I'm out.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-233,"y":60,"z":
 - 01:31 say: {"text":"Zack, I'm stuck in the same pit as Trini, with the pickaxe. I can't reach you yet. Hold tight."}
+- 01:33 act: {"actions":[{"do":"mine","block":"stone","count":3}],"say":"Billy here. I still have the pickaxe for Zack. I'm mining stone to get out of this pit.","reasoning":"Pit is open above, not enclosed. Minin
+- 01:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_pickaxe","count":1}],"say":"Trini, I'm still boxed in, so I'm giving you the wooden pickaxe. Please carry it to Zack at -274,63,316.","reason
+- 01:40 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Stacking under feet is the one exit left untried since the handoff. Night is coming, so I want to be out or sealed.","intent"
+- 01:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Unstick freed Tommy, and I haven't tried it since the handoff. Then head for Zack.","intent":{"goal":"reach_
+- 01:48 act: {"actions":[{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Unstick got me moving. Retry the walk to Zack while the way is open.","intent":{"goal":"reach_zack","program":"travel","argum
+- 01:50 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":7}],"say":"Trini, I'm still stuck, so I'm giving you my 7 cobblestone for Zack or whoever needs it.","reasoning":"My route is b
+- 01:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-274,"y":63,"z":316}}],"reasoning":"Unstick worked once before; try it again and retry the path to Zack.","intent":{"goal":"reach_zack","program
+- 01:57 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"I have dirt now, which the others used to climb. Stacking under my feet is the way up. Dusk is coming, so I want ou
