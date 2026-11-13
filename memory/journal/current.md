@@ -486,3 +486,8 @@
 - 05:02 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-235,"y":58,"z":347}}],"reasoning":"Open the gap north by mining dirt, then step up through it."}
 - 05:02 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Clear the blocked state, then raise height one more block with dirt."}
 - 05:02 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-236,"y":58,"z":349}}],"reasoning":"Stack one more block then step to y=58, the level of the rim."}
+- 05:07 act: {"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-234,"y":58,"z":349}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
+- 05:09 act: {"intent":{"goal":"reach_surface","program":"travel","arguments":{"target":{"x":-234,"y":58,"z":348}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_ope
+- 05:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3},{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3},{"do":"goto","target":{"x":-234,"y":58,"z":348}}]}
+- 05:13 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":5},{"do":"place","block":"dirt","at":"feet"}]}
+- 05:13 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
