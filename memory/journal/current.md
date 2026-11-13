@@ -693,3 +693,15 @@
 - 11:09 act: {"actions":[{"do":"goto","target":{"x":-238,"y":65,"z":342}}],"reasoning":"An item lies 2 blocks east, possibly a dropped potato. I'll pick it up."}
 - 11:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operations
 - 11:19 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operations
+- 11:23 say: {"text":"Kimberly, I'm sealed in at the beds with 23 dirt and 12 cobble. At first light I'll come to the water edge with blocks for you, if the golem is away."}
+- 11:24 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}]}
+- 11:24 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-238,"y":65,"z":342}}]}
+- 11:28 say: {"text":"Morning. I have no food, only 25 dirt and 12 cobble. I've sent someone to search for animals and crops. Jason, Trini, if you find food, drop it at the beds and I'll help carry."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-225,"y":64,"z":342}}],"say":"Billy here, searching for food on open ground east of the beds. Will drop anything I find by the beds."}
+- 11:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":64,"z":342}}]}
+- 11:28 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-236,"y":65,"z":342}}]}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-225,"y":64,"z":342}}]}
+- 11:28 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-232,"y":65,"z":342}},{"do":"mine","block":"dirt","count":3},{"do":"goto","target":{"x":-225,"y":65,"z":342}}]}
+- 11:29 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_to_grass","program":"travel","arguments":{"x":-230,"y":64,"z":342},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limit
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-228,"y":64,"z":342}}],"say":"I'm heading east onto open ground to look for animals or crops. Anyone who finds food, tell me.","intent":{"goal":"reach_open_groun
+- 11:29 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_
