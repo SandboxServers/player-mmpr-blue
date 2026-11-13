@@ -716,3 +716,5 @@
 - 11:57 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":345}},{"do":"give","to":"Kimberly","item":"cobblestone","count":8}],"say":"Trini, I'll try to take cobblestone to Kimberly's feet now."}
 - 11:57 say: {"text":"Trini, Kimberly: my feet won't move, so I can't bring the cobblestone. Zack or anyone nearby, please take it to her. I'm still at the beds with food at zero."}
 - 11:58 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
+- 11:58 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":14}],"say":"Jason, sending you 14 dirt for your shelter. Good luck."}
+- 12:06 act: {"intent":{"goal":"reach_open_grass_east","program":"travel","arguments":{"target":{"x":-230,"y":64,"z":342}},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_wor
