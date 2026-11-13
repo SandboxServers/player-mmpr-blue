@@ -678,3 +678,9 @@
 - 10:33 act: {"actions":[{"do":"goto","target":"Trini"}]}
 - 10:33 act: {"say":"Trini, Tommy: my legs are not moving me toward the pool; I'm still at -238,64,341. I have 12 cobblestone and 24 dirt for you if anyone gets within reach.","actions":[{"do":"note","text":"Day 1
 - 10:40 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 10:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Billy, waking in a pit at the beds. Stacking dirt to c
+- 10:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Keep stacking dirt upward, then unstick to get free."}
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":340}},{"do":"open","at":{"x":-238,"y":69,"z":342}}],"say":"I'm out of the pit at the beds. Checking the chest for food.","reasoning":"Out and saf
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-243,"y":64,"z":346}},{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, Tommy: I'm bringing 12 cobblestone to the pool. Watch for g
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-243,"y":64,"z":346}}],"reasoning":"Previous goto did not move me; try once more, then check position."}
+- 10:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":64,"z":346}}],"reasoning":"Goto has stalled; my notes say unstick clears it. Try that then goto."}
