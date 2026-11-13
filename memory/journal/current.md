@@ -759,3 +759,10 @@
 - 12:51 act: {"actions":[{"do":"goto","target":{"x":-181,"y":63,"z":262}}]}
 - 12:51 say: {"text":"Billy here. I'm out on the grass near -187,63,263. No food found yet. If anyone has spare food, I'd be grateful."}
 - 12:56 act: {"intent":{"goal":"search_food_south","program":"travel","arguments":{"x":-205,"y":66,"z":300},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"m
+- 12:59 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"intent":{"goal":"search_food_south_west","program":"travel","arguments":{"x":-205,"y":66,"z":300},"wake_on":["goal_completed","un
+- 13:03 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 13:07 act: {"intent":{"goal":"find_animals_north_west","program":"travel","arguments":{"x":-230,"y":66,"z":240},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
+- 13:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-195,"y":64,"z":255}}],"reasoning":"Travel intent is not moving me; panic_burrow reflexes keep firing. Try a short manual step north-west to tes
+- 13:11 act: {"actions":[{"do":"goto","target":{"x":-205,"y":64,"z":250}},{"do":"goto","target":{"x":-215,"y":64,"z":242}}],"reasoning":"Short gotos work where the long travel intent stalled. Keep moving north-wes
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-200,"y":64,"z":248}},{"do":"goto","target":{"x":-210,"y":64,"z":240}}],"reasoning":"Previous path was blocked. Try a different nearby waypoint north-west."}
+- 13:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":63,"z":254}},{"do":"goto","target":{"x":-198,"y":63,"z":249}}],"reasoning":"Long gotos fail; short steps work. Try two short steps nort
