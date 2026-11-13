@@ -363,3 +363,5 @@
 - 01:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":370}},{"do":"sleep"}]}
 - 01:03 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":67,"z":369}},{"do":"sleep"}]}
 - 01:04 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":364}},{"do":"sleep"}]}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":-282,"y":68,"z":368}}]}
+- 01:06 act: {"actions":[{"do":"note","text":"Day107: walking works in small steps. Beds at -282,69,371. Sleep at night."}]}
