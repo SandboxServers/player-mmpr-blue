@@ -729,3 +729,7 @@
 - 12:19 act: {"actions":[{"do":"goto","target":{"x":-220,"y":63,"z":345}}]}
 - 12:19 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
 - 12:19 act: {"intent":{"goal":"shelter_for_night_3","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_bloc
+- 12:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-220,"y":63,"z":344}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-220,"y":63,"z":344}},"wake_on":["goal_co
+- 12:28 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-222,"y":63,"z":344}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-222,"y":63,"z":344
+- 12:28 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-225,"y":64,"z":344}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-2
+- 12:31 act: {"actions":[{"do":"mine","block":"dirt","count":6},{"do":"goto","target":{"x":-222,"y":66,"z":344}}],"intent":{"goal":"find_food_east","program":"travel","arguments":{"target":{"x":-222,"y":66,"z":344
