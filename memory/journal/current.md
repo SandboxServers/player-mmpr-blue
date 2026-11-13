@@ -424,3 +424,14 @@
 - 02:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"Morning. I'm at -236,53,348 in the pit, stacking dirt under me to climb. Thank you all."}
 - 02:48 act: {"actions":[{"do":"note","text":"Day 112: Zack offers dirt. Asking him to drop it at my position -236,53,348."}],"say":"Zack, I'm at -236,53,348 in the pit. Please drop dirt right here, and I'll build
 - 02:48 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Thanks Zack, I have the dirt. I'm stacking up now."}
+- 02:56 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":54,"z":348}},{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":348}},{"do":"place","block":"dirt","at":{"x":-237,"y":53,"z":348}}],"say
+- 03:01 say: {"text":"Zack, thanks. I'm still stuck at -236,53,348 and can't place dirt here. Waiting out the night in the pit."}
+- 03:09 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":53,"z":347}},{"do":"place","block":"dirt","at":{"x":-235,"y":53,"z":348}},{"do":"place","block":"dirt","at":{"x":-236,"y":53,"z":349}}],"say
+- 03:16 act: {"actions":[{"do":"note","text":"Day 113: I have enough dirt (17). Placing is blocked, not a dirt shortage. Still waiting for a side opening."}],"say":"Zack, I have 17 dirt, so I'm fine on dirt. My pr
+- 03:16 say: {"text":"Trini, I have no pickaxe, so I can't dig toward you. Kimberly may be able to help. I'm still at -236,53,348 with 17 dirt."}
+- 03:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":53,"z":347}}]}
+- 03:17 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-241,"y":69,"z":343},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-239,"y":52,"z":346}},{"do":"goto","target":{"x":-239,"y":51,"z":346}}]}
+- 03:25 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":53,"z":346}},{"do":"goto","target":{"x":-239,"y":54,"z":345}}]}
