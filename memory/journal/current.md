@@ -331,3 +331,4 @@
 - 23:43 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":363}},{"do":"sleep"}]}
 - 23:44 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}]}
 - 23:58 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}]}
+- 00:15 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
