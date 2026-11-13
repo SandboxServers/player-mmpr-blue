@@ -441,3 +441,8 @@
 - 03:37 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-241,"y":69,"z":343},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},
 - 03:37 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
 - 03:41 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-236,"y":53,"z":347}},{"do":"place","block":"dirt","at":{"x":-238,"y":53,"z":347}},{"do":"place","block":"dirt","at":{"x":-237,"y":53,"z":346}},{"do"
+- 03:45 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
+- 03:45 act: {"say":"Billy here, still in the pit at -237,53,347, healthy but boxed in. Zack or Jason, if you can drop a block or open a side path, I can climb out."}
+- 03:45 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 03:57 act: {"actions":[{"do":"goto","target":{"x":-239,"y":51,"z":346}}]}
+- 03:57 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
