@@ -354,3 +354,4 @@
 - 00:45 act: {"say":"Beds are at x -282, y 69, z 371. Come over, I'm right beside them."}
 - 00:49 say: {"text":"Welcome, Jason. The beds here are free to use; sleep in one at night."}
 - 00:50 say: {"text":"Tommy: beds are at x -283, y 69, z 371. More at -272,68,364. Welcome."}
+- 00:53 say: {"text":"Tommy, I have no pickaxe. Try placing blocks under you or stacking planks to climb out. Kimberly was digging nearby, so ask her."}
