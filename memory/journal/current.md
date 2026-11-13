@@ -528,3 +528,11 @@
 - 06:17 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Zack, Tommy, Jason: I'm at -237,51,349 on stone now, not out yet. Still trying. I'm safe, health 20.","reasoning":"Try one dirt placement 
 - 06:18 act: {"actions":[],"say":"Tommy: I'm on stone at -237,51,349, not on cobblestone, and I'm not out yet. Dirt plus unstick got me up one level each time, nothing more. Sorry, I don't know which block to mine
 - 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":344}}],"reasoning":"One more try at climbing before handing off for the night."}
+- 06:23 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2000,"max_block_operat
+- 06:23 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 06:23 say: {"text":"Billy still in the pit at -237,51,349. Pillar build and place-at-feet both fail here. Anyone nearby with a pickaxe or blocks, please help."}
+- 06:27 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 06:27 say: {"text":"Kimberly, Jason: place dirt at feet is blocked for me (3 tries). Did either of you have to move first? I still have 14 dirt and 3 cobblestone to give."}
+- 06:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"say":"Thanks Kimberly. Cobblestone at my feet is also blocked. Could you give me 4 cobblestone? I'll try again when they
+- 06:29 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 06:33 say: {"text":"Zack: I'm at -237,51,349, stuck. Please drop cobblestone or dirt at the pit edge near me. I'll not dig west or south (water). Thank you."}
