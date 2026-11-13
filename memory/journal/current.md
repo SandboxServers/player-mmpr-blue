@@ -670,3 +670,5 @@
 - 09:58 act: {"say":"Billy here, sealed in at -238,64,341 with 12 cobble, 19 dirt and 13 planks. Trini, Jason, Kimberly: tell me the exact cell and I'll place it or drop what you need if I can reach you.","intent"
 - 09:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, I'm at -238,64,341 in my pit. If the give did not reach you, I can't leave safely at night with golems nearb
 - 10:07 act: {"say":"Billy: Kimberly, I have no food, only stone, dirt and planks. I'm at -237,64,341 and can walk to the spawn if you stay put.","intent":{"goal":"return_to_spawn_for_kimberly","program":"travel",
+- 10:19 act: {"intent":{"goal":"wall_for_night_2","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limi
+- 10:27 act: {"say":"Billy: Tommy, I have no food. I'm at -237,64,341 with 12 cobble and 21 dirt. I'm not close enough to place blocks on the water. Whoever can get within reach of him, I'll drop my cobble to you.
