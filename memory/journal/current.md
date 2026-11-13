@@ -446,3 +446,4 @@
 - 03:45 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 03:57 act: {"actions":[{"do":"goto","target":{"x":-239,"y":51,"z":346}}]}
 - 03:57 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
+- 04:05 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":53,"z":348}}]}
