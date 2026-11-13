@@ -525,3 +525,6 @@
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-237,"y":54,"z":340}}],"say":"I'm out of the pit ledge, at -237,54,347 on sand. Stacking dirt under my feet and then unstick got me up. Tommy, Trini, try that.",
 - 06:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":56,"z":343}}],"reasoning":"Repeat the method that gained height before; then walk north."}
 - 06:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":55,"z":343}}],"say":"Tommy, you're out? Tell me where you walked. I'm still on the sand ledge at -237,54,347.","reasoning":"Tommy got o
+- 06:17 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Zack, Tommy, Jason: I'm at -237,51,349 on stone now, not out yet. Still trying. I'm safe, health 20.","reasoning":"Try one dirt placement 
+- 06:18 act: {"actions":[],"say":"Tommy: I'm on stone at -237,51,349, not on cobblestone, and I'm not out yet. Dirt plus unstick got me up one level each time, nothing more. Sorry, I don't know which block to mine
+- 06:22 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":344}}],"reasoning":"One more try at climbing before handing off for the night."}
