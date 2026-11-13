@@ -435,3 +435,8 @@
 - 03:25 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 03:25 act: {"actions":[{"do":"goto","target":{"x":-239,"y":52,"z":346}},{"do":"goto","target":{"x":-239,"y":51,"z":346}}]}
 - 03:25 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":53,"z":346}},{"do":"goto","target":{"x":-239,"y":54,"z":345}}]}
+- 03:33 act: {"say":"Trini, thanks. I am still in the pit too, holding 17 dirt. Once there is a way up I will head for the beds.","actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":-236,"y":53,"z":348}}]}
+- 03:36 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-241,"y":69,"z":343},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 03:37 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-241,"y":69,"z":343},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},
+- 03:37 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operat
