@@ -718,3 +718,5 @@
 - 11:58 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
 - 11:58 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":14}],"say":"Jason, sending you 14 dirt for your shelter. Good luck."}
 - 12:06 act: {"intent":{"goal":"reach_open_grass_east","program":"travel","arguments":{"target":{"x":-230,"y":64,"z":342}},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_wor
+- 12:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":14}],"say":"Jason, if you're in reach I have 26 dirt for you. Tell me where you are and I'll try to get it to you."}
+- 12:15 act: {"actions":[{"do":"goto","target":{"x":-238,"y":64,"z":343}}],"reasoning":"An item lies 2 blocks east. Could be food from a broken wall or drop. Step over to grab it."}
