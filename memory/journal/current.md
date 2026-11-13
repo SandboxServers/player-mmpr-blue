@@ -1174,3 +1174,8 @@
 - 20:31 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"bread","count":1}],"say":"Kimberly, my last bread is for you. Jason, sorry, that one went to you by mistake.","intent":{"goal":"hold_camp_by_tabl
 - 20:33 act: {"say":"Trini, thank you for the leather. The ripe wheat is nearly gone, so I'll harvest what is ripe and bake you bread as soon as I can.","intent":{"goal":"gather_wheat_for_bread","program":"gather"
 - 20:33 act: {"say":"Trini, the leather came through, thank you. The wheat is all unripe now, so I have no bread. I'm going after the chicken to the south-west and will share what I get.","actions":[{"do":"goto","
+- 20:38 act: {"say":"Trini, I have no meat yet. I'm looking for the chicken now, and I'll share anything I find.","intent":{"goal":"find_chicken","program":"travel","arguments":{"target":"area_near_-304_69_296"},"
+- 20:38 act: {"say":"Trini, I have no meat yet. I'm going to look for the chicken near the old spot, and I'll share anything I find.","intent":{"goal":"find_chicken","program":"travel","arguments":{"x":-304,"y":69
+- 20:38 act: {"intent":{"goal":"find_chicken","program":"travel","arguments":{"target":{"x":-304,"y":69,"z":296}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1
+- 20:38 act: {"say":"Kimberly, welcome. I'm Billy. No chicken in sight here yet. Wheat is unripe, so leave it. Villagers by the table turn on you, so stay back."}
+- 20:41 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks"
