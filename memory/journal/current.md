@@ -1252,3 +1252,30 @@
 - 21:58 act: {"intent":{"goal":"shelter_for_night_here","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 21:58 act: {"actions":[{"do":"unstick"}],"say":"The shelter wall on the east side was blocked, so I'm in a pit. I'm climbing out; it's still daylight, so I'll search for sheep before dark."}
 - 21:58 act: {"intent":{"goal":"search_grass_for_sheep","program":"travel","arguments":{"target":{"x":-397,"y":118,"z":362}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 22:09 act: {"say":"Morning. I'm hungry and have no food. Jason, do you still have pumpkins? I'm heading to the white beds.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"x":-281,"y":67,"z"
+- 22:09 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 22:09 act: {"say":"Jason, thanks, I'm coming. First there's a pig to the southwest; I'll try for it.","intent":{"goal":"reach_pig","program":"travel","arguments":{"target":{"x":-381,"y":79,"z":336}},"wake_on":["
+- 22:10 say: {"text":"Tommy, the pig was southeast of me by the stone, at about -381,79,336. I have no sword. I'm looking for it now."}
+- 22:10 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}]}
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":-381,"y":79,"z":336}}],"say":"I have no pickaxe, so I can't dig out of this stone. Jason, if the cow is near, bring some meat to the white beds, please."}
+- 22:10 act: {"actions":[{"do":"attack","target":"pig"},{"do":"attack","target":"pig"},{"do":"attack","target":"pig"}]}
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-376,"y":68,"z":334}}],"say":"I got the pig, I think. Going to pick up the meat. Thank you, Tommy, I'll share."}
+- 22:11 act: {"actions":[{"do":"eat"}],"say":"I have one porkchop and I'm eating it now. Jason, I'll come for the pumpkins."}
+- 22:11 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"I'm coming to the white beds now. Trini, I'll take the wool. Zack, I'd like wood and stone for tools."}
+- 22:11 act: {"say":"I'm at the white beds now. Thank you, Jason, for the pumpkins. Trini, I'm ready for the wool."}
+- 22:12 act: {"say":"Zack, I can't see you yet. Please come within arm's reach, then hand me the planks and cobblestone. Thank you."}
+- 22:12 act: {"say":"Zack, I'm at -280,67,320, on the oak planks by the beds. Please come over. Also, does anyone have a spare sword or pickaxe to lend?"}
+- 22:14 act: {"say":"Thank you Jason. I will stay here, away from the golem. Zack, Trini: I am at -280,67,320, please come within arm's reach. Trini, the wool is welcome.","actions":[{"do":"note","text":"Day 170 m
+- 22:16 act: {"say":"Zack, I see no one near me yet. If you are close, please walk up to me at -280,67,320 and hand over the planks and cobblestone. Thank you."}
+- 22:16 act: {"say":"Thank you Zack. I have the planks and stone now. I will make a crafting table and a pickaxe here.","actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stone_picka
+- 22:16 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 22:16 act: {"say":"Zack, thank you, I have a stone pickaxe now. Trini, I still need your wool for a bed. I am at the table, -275,64,317.","actions":[{"do":"note","text":"Day 170 afternoon: crafted crafting table
+- 22:20 act: {"say":"Night is here. Trini, if you are near, I need 2 more wool for a bed. I am building a shelter of dirt at the table, -275,64,317.","intent":{"goal":"night_shelter","program":"build","arguments":
+- 22:20 act: {"say":"Trini, I am on my way to you at -271,67,318. Thank you.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":67,"z":318}}]}
+- 22:20 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-272,"y":67,"z":318}}]}
+- 22:21 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"unstick"}]}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"I'm out of the pit. Coming to the beds, Trini.","intent":{"goal":"reach_trini_beds","program":"travel","arguments":{"target":{"x":-
+- 22:21 act: {"say":"Trini, I'm here at the beds. Could you give me the white wool now? Thank you, and goodnight.","actions":[{"do":"note","text":"Day 170 night: escaped crafting-table pit by mining dirt ahead. Re
+- 22:21 act: {"actions":[{"do":"note","text":"Handoff: sheltered by beds at -271,67,318. Trini holds my wool, to be given at first light. Pig at -385,81,336; crafting table at -275,63,317. Jason owes 3 pumpkins."}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
