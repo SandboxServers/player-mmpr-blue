@@ -517,3 +517,9 @@
 - 06:11 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 06:11 act: {"intent":{"goal":"shelter_dirt_retry","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
 - 06:13 act: {"say":"Trini, I'm not sure yet. The build shelter spent dirt but I'm still open at -236,58,350. I'll try once more and tell you what works.","intent":{"goal":"rest_until_safe","program":"rest","argum
+- 06:13 act: {"actions":[{"do":"unstick"}],"say":"Billy here, still in the pit at -236,58,350. I'm trying unstick now and will report what works.","reasoning":"Shelter build keeps failing. Try unstick first, cheap
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":-236,"y":58,"z":344}}],"say":"Moved one block north with unstick. Trying to walk further north now.","reasoning":"Unstick worked a little. Try walking the same d
+- 06:13 act: {"actions":[{"do":"goto","target":{"x":-236,"y":55,"z":340}}],"say":"Got out: unstick, then walk north a few blocks, step by step. I'm at -236,55,349 on cobblestone now. Tommy, Trini, try unstick then
+- 06:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":55,"z":343}}],"reasoning":"Blocked on the walk; repeat the unstick-then-walk method that worked before."}
+- 06:13 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Stacking dirt under feet may raise me out of the ledge. One try, then check."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-237,"y":54,"z":340}}],"say":"I'm out of the pit ledge, at -237,54,347 on sand. Stacking dirt under my feet and then unstick got me up. Tommy, Trini, try that.",
