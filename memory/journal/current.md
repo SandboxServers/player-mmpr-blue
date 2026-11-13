@@ -667,3 +667,5 @@
 - 09:51 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Billy: Trini, sending you my 12 cobblestone. Tommy has more if you need the last one."}
 - 09:51 act: {"say":"Billy: Trini, my give failed because you're out of reach from this pit at -238,64,341. I can't walk to the beds reliably. Tommy has 54 cobblestone and is closer to the beds."}
 - 09:58 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 09:58 act: {"say":"Billy here, sealed in at -238,64,341 with 12 cobble, 19 dirt and 13 planks. Trini, Jason, Kimberly: tell me the exact cell and I'll place it or drop what you need if I can reach you.","intent"
+- 09:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"cobblestone","count":12}],"say":"Trini, I'm at -238,64,341 in my pit. If the give did not reach you, I can't leave safely at night with golems nearb
