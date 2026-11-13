@@ -352,3 +352,4 @@
 - 00:39 say: {"text":"Kimberly, keep heading northeast out of the pit; I'm at the beds if you need anything."}
 - 00:45 act: {"say":"Welcome, Tommy. The beds are here."}
 - 00:45 act: {"say":"Beds are at x -282, y 69, z 371. Come over, I'm right beside them."}
+- 00:49 say: {"text":"Welcome, Jason. The beds here are free to use; sleep in one at night."}
