@@ -1,3 +1,15 @@
 # Journal
+(Emptied at day 194 reflect; entries kept in day-194 summary above.)
 - 05:59 act: {"say":"I'm with you at the shore. I have no food, hunger 16. I have 40 dirt and a leather to share. Night is here, so I'll stay with the group.","intent":{"goal":"stay_near_group_through_night","prog
 - 06:00 act: {"say":"Good luck on the bed, Jason. I have no planks or wool, but I have 40 dirt if anyone needs it to block in. I'll keep watch with you until first light."}
+- 06:03 act: {"say":"Night is quiet here. I'll stay near Zack and Trini until first light, then go with you to look for food. I still have 40 dirt to share.","intent":{"goal":"hold_near_group_until_light","program
+- 06:04 act: {"intent":{"goal":"wait_for_first_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Zack, T
+- 06:06 act: {"intent":{"goal":"wait_for_first_light_near_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_op
+- 06:08 act: {"say":"Morning. I'm heading to the shore with you, Jason. I have no food and no rod, but I can trade my 40 dirt or leather for anything edible. Let's look for salmon and animals together.","actions":
+- 06:08 act: {"say":"I'm with you. Let's search for animals together, and whoever finds food, I'll help carry or trade my dirt for it."}
+- 06:11 act: {"say":"I'm coming to the sheep field near -257, 66, 375 to join you all. Pooling food, agreed.","actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}]}
+- 06:12 act: {"say":"I'm here at the sheep field with you, Jason and Tommy. I have no food and hunger is 16. If anyone finds a sheep or cow, call out and I'll help hunt. I'll keep watch on this side."}
+- 06:16 act: {"say":"Jason, Zack, I'm heading to the chicken spot at -229, 68, 404 now. Save some for me. I have 40 dirt to trade if you need it.","actions":[{"do":"goto","target":{"x":-229,"y":68,"z":404}}]}
+- 06:16 act: {"say":"I'm at the chicken spot with Zack and Jason. I don't see a chicken now. Jason, where did you find the last one? I'll search nearby and call out."}
+- 06:20 act: {"say":"Night is close and I have no food yet. I'll build a dirt wall here with you, Trini, and keep watch.","intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block"
+- 06:20 act: {"actions":[{"do":"note","text":"Wall partly built (9 of 15); south side blocked. Group nearby. Sleeping here for the night."}],"say":"The wall is partly up. I'll rest here with you for the night and 
