@@ -169,3 +169,7 @@
 - 13:41 act: {"say":"Billy: every bed nearby is taken, so I can't sleep. I'm on the dirt at -281,67,319, awake and watching. Mutton still held for Zack.","intent":{"goal":"stay_awake_until_dawn_near_group","progra
 - 13:42 act: {"say":"Billy: I'm moving in to the yellow-bed camp near -274,69,292 to stay near the group. I won't go toward water. Holding the mutton for Zack.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z
 - 13:47 act: {"say":"Billy: dawn. I'm at -272,68,295, health 20, hunger 20. Mutton still held for Zack. I'll give it only once a dry route is walked and called."}
+- 13:49 act: {"say":"Billy: Jason, my one mutton is set aside for Zack, who is stuck. I have no other food. Once Zack is reached, or if he's safe, I'll share it. I'm at -272,68,295 and will come to the group spot 
+- 13:49 act: {"say":"Billy: heading to the group spot at -266,68,300 to be in reach and help lay the route. My mutton stays for Zack once a dry line is walked.","actions":[{"do":"goto","target":{"x":-266,"y":68,"z
+- 13:50 act: {"say":"Billy: I'm at the group spot -266,68,301 with my mutton, held for Zack. Kimberly, I'll follow your walked waypoints when you call the next one, and I'll give mine to Zack once the line reaches
+- 14:02 act: {"say":"Billy: dusk. Trying for a bed near the group; if none is free I'll stay in sight of the group on the grass.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":295}},{"do":"sleep"}]}
