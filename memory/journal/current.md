@@ -120,3 +120,11 @@
 - 12:40 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":262}}],"say":"Billy: Morning. I'm going north on grass toward the cow spot near -285,65,235 in short steps. Any meat goes to Kimberly first.","re
 - 12:50 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":250}}],"say":"Billy: Morning. Heading south on grass toward the cow near -285,65,235 in short steps. Any meat goes to Kimberly first."}
 - 12:53 act: {"actions":[],"say":"Billy here at -284,66,250, full health and hunger. I hold only white wool. Trini's helper has the cow hunt, Picard has the porkchop. I'm free to help: tell me where a plank tower 
+- 12:57 act: {"say":"Billy here, on grass at -284,66,250. Health and hunger full. I have no food and no planks, only white wool. Zack, I'll come toward the group and look for a dry step near your pillar.","intent"
+- 12:57 act: {"intent":{"goal":"reach_group_dry_grass","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":230}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 12:58 act: {"say":"Billy: I'm on dry grass at -262,67,230, no water near me. Picard, come here, or to the yellow beds at -281,69,291 by the dry path. I have no food, only wool."}
+- 12:58 act: {"say":"Billy: Trini, the yellow beds are at -281,69,291 on dry grass. I'm heading there now and will sleep in the bed. Come by the dry grass.","intent":{"goal":"reach_yellow_beds_dusk","program":"tra
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":262}},{"do":"goto","target":{"x":-278,"y":69,"z":280}}],"say":"Billy: my travel stopped at -262,67,235. Going in short steps toward the yellow be
+- 12:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-276,"y":67,"z":272}},{"do":"goto","target":{"x":-281,"y":69,"z":288}}]}
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: I'm at the yellow beds, going to sleep in the bed at -281,69,291. Tommy, Trini, I'm on dry grass and will be 
+- 13:03 act: {"actions":[{"do":"sleep"}]}
