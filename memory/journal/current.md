@@ -1373,3 +1373,14 @@
 - 23:59 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 00:00 act: {"actions":[{"do":"unstick"}],"say":"Still walled in at -444,67,352 with no food. Trying to dig out now.","intent":{"goal":"get_out_of_stone","program":"travel","arguments":{"target":{"x":-257,"y":66,
 - 00:02 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 00:11 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits
+- 00:11 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 00:11 act: {"actions":[{"do":"mine","block":"cobblestone","count":3}]}
+- 00:11 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"unstick"}],"say":"Kimberly, Tommy, Trini, Jason: I'm walled in a stone pit at -389,67,342 and digging out. I'll come to the sheep searc
+- 00:11 act: {"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 00:16 act: {"actions":[{"do":"unstick"}],"reasoning":"Enclosed by stone and cobblestone; unstick is the safest way out before choosing a route.","say":"I am boxed in by stone again. Trying to get out."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","dire
+- 00:16 act: {"actions":[{"do":"mine","block":"stone","count":4}],"reasoning":"Enclosed on all sides by stone; mining is the only way out. Then travel again."}
+- 00:17 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in stone at -389, 67, 342 and cannot get out. Could someone come near and show me a way?","reasoning":"Mining and travel both failed; unstick is the bod
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","dire
+- 00:19 act: {"actions":[],"intent":{"goal":"rest_in_shelter","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block
