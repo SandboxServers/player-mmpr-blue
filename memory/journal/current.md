@@ -47,3 +47,4 @@
 - 16:38 act: {"say":"Billy at the white beds with Kimberly and Jason. Health 20, hunger 20, no food yet. I'll hold here and scout the grass with whoever spots an animal first."}
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, going into the white bed beside Kimberly for the night. Health 20, hunger 20, no food. Any meat goes to
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, four days since sleep, bed adjacent. Golems 8+ blocks south. Sleep in bed.","say":"Going to bed at the 
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, I'm going to bed here. Dawn, then food, and any meat goes to Kimberly first.","intent":{"goal":"rest_at_beds",
