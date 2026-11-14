@@ -50,3 +50,15 @@
 - 21:15 act: {"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":215}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
 - 21:15 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 21:16 say: {"text":"Billy at Zack's spot, no food on me. I'll scout north-east with a call-out, staying in sight of Trini and Troi."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Billy here at dusk. Hunger 20, no food in hand. I'm going to the yellow bed near the group to sleep.","intent":{"goal":"reach_camp_
+- 21:21 act: {"actions":[{"do":"sleep"}],"say":"Phantom is on me and I have no sword. Going to bed by the group."}
+- 21:22 act: {"actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Billy: I am being hit at night with no weapon. Heading back to the yellow bed with the group.","intent":{"goal":"return_to_group_be
+- 21:26 act: {"actions":[{"do":"sleep"}]}
+- 21:29 say: {"text":"Billy: dawn. No food and no weapon, health 12.5, hunger 17. Trini and Zack first for the chicken. I'll stay at the white beds and scout the grass in sight of the group."}
+- 21:43 act: {"actions":[{"do":"sleep"}],"say":"Night at the white beds with the group. No food, I'm trying to sleep here."}
+- 21:51 act: {"actions":[],"say":"Billy, dawn of day 241. No food, health 12.5, hunger 17. Trini first, then Zack. I'll scout the grass near the beds in sight of the group and call out any animal.","intent":{"goal
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Going back to the white beds with the group for the night. No food yet.","intent":{"goal":"return_to_white_beds","program":"t
+- 21:59 act: {"actions":[{"do":"sleep"}]}
+- 22:03 act: {"actions":[{"do":"sleep"}]}
