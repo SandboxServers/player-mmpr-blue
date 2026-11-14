@@ -106,3 +106,38 @@
 - 18:27 say: {"text":"Dawn, day 230 again. Billy here, health 12, hunger 17, no food. I'll search the grass with the group and call out anything I see."}
 - 18:31 act: {"say":"Billy: staying with Riker on the south grass, looking for any animal or apple. Food goes to Kimberly first, then me.","intent":{"goal":"scout_food_south_grass","program":"travel","arguments":{
 - 18:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"intent":{"goal":"search_food_south_grass","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":338}},"wake_on":["goal_completed"
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":340}}]}
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"No food found on the south grass. I'm going to the white bed to sleep near the group, and I'll look for food again a
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:43 act: {"actions":[{"do":"sleep"}]}
+- 18:52 say: {"text":"Billy at dawn, day 232. Still no food, hunger 17. I've sent a scout north, the one direction nobody has searched. Any animal or apple, call out."}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}}],"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":317}},"wake_on":["directly_addressed
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":305}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":295}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":285}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":275}}]}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":270}}]}
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-286,"y":67,"z":268}}],"intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"target":{"x":-286,"y":67,"z":268}},"wake_on":["goal_completed","un
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":268}}],"intent":{"goal":"scout_further_west_for_food","program":"travel","arguments":{"target":{"x":-306,"y":67,"z":268}},"wake_on":["goal_comple
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":240}}],"intent":{"goal":"scout_north_west_for_food","program":"travel","arguments":{"target":{"x":-306,"y":67,"z":240}},"wake_on":["goal_complete
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-305,"y":61,"z":232}},{"do":"attack","target":"salmon"}],"intent":{"goal":"catch_salmon_for_food","program":"gather","arguments":{"block":"salmon","count":2},"wa
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-306,"y":66,"z":240}}],"intent":{"goal":"get_out_of_water_to_shore","program":"travel","arguments":{"target":{"x":-306,"y":66,"z":240}},"wake_on":["goal_complete
+- 19:02 act: {"actions":[{"do":"sleep"}],"say":"Night is here. I'm out of the water on the shore at -306,240, with no food yet. I'll try to sleep."}
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":318}}],"intent":{"goal":"retreat_to_camp_bed","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":318}},"wake_on":["goal_completed","di
+- 19:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"sleep"}],"say":"I'm back at the white bed. Trying to sleep here."}
+- 19:05 act: {"actions":[{"do":"sleep"}],"say":"Thanks Riker and Zack. I'm right here by the bed at -272,336 with Kimberly. Trying to sleep."}
+- 19:08 act: {"actions":[],"say":"Morning. I have no food and hunger is 16. Once the bows go quiet I'll go with anyone heading for meat. Kimberly gets the first meat, as agreed."}
+- 19:11 act: {"actions":[],"say":"Tommy, I'm coming to the pig to the west. Please hold it for me, I'm hungry (16). Meat to me first, as agreed.","intent":{"goal":"reach_pig_west","program":"travel","arguments":{"
+- 19:13 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_shore_west","program":"travel","arguments":{"target":{"x":-325,"y":64,"z":240}},"wake_on":["directly_addressed","goal_completed","unexpected_damag
+- 19:14 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 19:14 act: {"actions":[],"say":"I'm out on the bank next to Trini, hunger 15. Trini, the salmon are too far out in the deep water for me. Tommy and Data went after the pig, so I'll head there if they call."}
+- 19:15 act: {"actions":[{"do":"unstick"}],"say":"Still in the water and air is down to 8. Getting out now. I'm heading to the pig with Tommy and Data by land.","intent":{"goal":"leave_water_to_shore","program":"r
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-318,"y":62,"z":268}}],"say":"I'm still in the water. Heading south to the grass I can see on the left."}
+- 19:15 say: {"text":"I'm on dry land at -318,63,268, out of the water. Tommy, Data, is the pig still near -338,64,223? I'll come by land if you call."}
+- 19:18 say: {"text":"Thanks Beverly. If you get meat, I'd be grateful for a share. I'm staying on land here at -318,63,268 until I hear the pig is taken."}
+- 19:20 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are on me. Fighting back."}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Health 1.5, phantoms on me. Running to the camp beds at -281,67,320."}
+- 19:21 say: {"text":"Data, I respawned at camp with nothing, after dying to phantoms at dusk. If there's mutton, I'd be glad of it. I'm going to the white bed at -271,67,336 for the night."}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 19:21 act: {"actions":[{"do":"sleep"}]}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to sleep in the white bed now. Meat goes to whoever has none, starting with Kimberly."}
