@@ -37,3 +37,6 @@
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"Billy: my sleep failed twice and I'm near deep water at -256,351. Walking back to the group beds at -272,67,326, away from the wate
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}},{"do":"sleep"}],"say":"Billy: back with Zack by the yellow beds. Trying to sleep in the bed at -271,67,326. Health 20, hunger 20, no food."
+- 16:28 act: {"intent":{"goal":"rejoin_group_at_camp_for_food_hunt","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":300}}],"say":"Billy: morning. Heading to Kimberly at -270,68,300. No food yet; I'll help scout north-west."}
+- 16:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Billy: coming to you, Kimberly. I'll scout the dry grass with you. Any meat I find goes to you first."}
