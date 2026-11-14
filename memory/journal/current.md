@@ -1,4 +1,6 @@
 # Journal
+- Night, day 210: the travel to the beds failed twice; a short goto to -282,69,288 then to the bed worked. Slept in the yellow bed at -281,69,291 with Tommy close; sleep worked. Still no food, pack empty. Next: at first light, find food on dry grass with the group, and stay off the water.
+- Handoff (day 210 dusk): In a yellow bed at -281,69,291, with Tommy in the next bed. Health 20, hunger 20, pack empty. Sheltered-ish on grass, no errand running. Food still needed: cow -363,69,230, chicken -379,72,230, pig -393,71,236. Zack still on pillar -266,35,196. Next: at dawn, get food for the group, stay off deep water.
 - 10:10 act: {"intent":{"goal":"join_tommy_pig_search","program":"travel","arguments":{"target":{"x":-352,"y":65,"z":227}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
 - 10:10 act: {"say":"Billy here with Tommy and Picard, at the pig spot. I have no food. I will stay close and scan the grass with you."}
 - 10:11 act: {"say":"Billy: staying here with Tommy and Picard on the grass. I'll hold still and watch for animals while Jason and Kimberly come in."}
@@ -48,3 +50,40 @@
 - 11:11 say: {"text":"Billy: I drowned in the water and woke up. I'm on grass at -265,65,268 with nothing in hand. I will not go back into the water. Looking for food on grass now."}
 - 11:12 say: {"text":"Billy: I'm on grass at -265,65,268 with empty hands, no food, no tool. Picard, stay off the water edge. I'll hold here and go for any food called out on grass."}
 - 11:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}]}
+- Day 209 dusk, back at the yellow beds with Jason; no food, no tools. Sent worker to hunt the pig at -337,64,237 by the dry path; will bring meat to Jason/Picard. Waiting on worker's report.
+- Day 210 dawn: worker found no pig at -336,64,237 overnight (held still on grass). Sent a new worker to the cow at -363,69,230 for meat (to Picard, stranded at -349,61,214) and to bring dirt to Tommy's bridge at -341,62,212. Waiting on report.
+- Worker report: 3 porkchop given to Tommy at the bridge end (-341,62,212). Picard still stranded ~9 blocks out in water. No dirt found on solid grass. Worker holding on grass at -341,63,211; waiting for Tommy.
+- Day 210 midday: the 3 porkchop had stayed with me by mistake; gave them to Picard (in reach at the bridge end). Give worked. I'm on grass at -341,63,210, empty-handed, next to the water. Next: stay on grass and wait for Tommy.
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":-337,"y":64,"z":237}}],"intent":{"goal":"kill_pig_for_meat","program":"travel","arguments":{"target":{"x":-337,"y":64,"z":237}},"wake_on":["goal_completed","unex
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-363,"y":69,"z":230}}],"reasoning":"Head to the known cow on grass."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-378,"y":72,"z":230}}],"reasoning":"No cow visible here; try the chicken to the west."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-392,"y":72,"z":222}},{"do":"attack","target":"pig"}],"reasoning":"Pig is visible to the north-west on grass; go to it and attack by hand."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-341,"y":62,"z":212}}],"reasoning":"Got 3 porkchops. Bring them to Tommy at the bridge end."}
+- 11:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"porkchop","count":3}],"reasoning":"Picard is out of reach; Tommy is the bridge carrier, so hand the meat to him."}
+- 11:29 act: {"actions":[{"do":"unstick"}],"reasoning":"I'm in water at -340,61,215 after the walk and the give failed. Get free first."}
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":-341,"y":63,"z":212}}],"reasoning":"I'm in water at -338,59,215. Head for Tommy's dirt bridge block to climb out."}
+- 11:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"porkchop","count":3}],"reasoning":"Out of the water and standing next to Tommy. Hand over the 3 porkchops."}
+- 11:33 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"porkchop","count":3}],"say":"Billy: Picard, the 3 porkchop are mine now and you're in reach. Eat first, then keep to the grass.","reasoning":"Picar
+- 11:34 act: {"actions":[],"say":"Billy: Good, Picard. The nearest beds I know are the yellow beds at -274,69,291, on dry grass, a long walk east of the water. Stay on grass and go with Tommy."}
+- 11:38 act: {"intent":{"goal":"reach_yellow_beds_before_night","program":"travel","arguments":{"target":{"x":-274,"y":69,"z":291}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 11:38 act: {"intent":{"goal":"reach_yellow_beds_before_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_c
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":288}}],"say":"Billy: I'm going a shorter step, to -282,69,288, near the yellow beds."}
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}}],"say":"Billy: I'm at the yellow beds now. I'll sleep here for the night."}
+- 11:39 act: {"actions":[{"do":"sleep"}],"say":"Billy: I'm in the yellow beds with Tommy. Going to sleep here for the night."}
+- 11:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: Night is here. I'm sleeping in the yellow bed at -281,69,291 next to Tommy. First light, we search for food on dry ground."}
+- 11:51 act: {"intent":{"goal":"reach_pig_east","program":"travel","arguments":{"target":{"x":-190,"y":80,"z":223}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limi
+- 11:51 act: {"intent":{"goal":"reach_pig_east2","program":"travel","arguments":{"target":{"x":-190,"y":80,"z":223}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-240,"y":70,"z":230}}],"say":"On my way to the cow at -285,65,235.","reasoning":"Errand: kill cow at -285,65,235. No sword, empty inventory. Short gotos, avoid w
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":233}}],"reasoning":"Previous goto blocked; trying a shorter step west toward the cow."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":235}}],"reasoning":"Continuing west in short steps toward the cow at -285,65,235."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-283,"y":65,"z":235}}],"reasoning":"Close to the cow now; step in to reach it."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-280,"y":65,"z":225}},{"do":"goto","target":{"x":-277,"y":66,"z":218}}],"say":"Heading north to the sheep at -276,66,212 on dry grass."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":215}}]}
+- 11:53 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-202,"y":78,"z":271}},{"do":"attack","target":"sheep"}],"say":"Going for the sheep at -202,78,270 on grass."}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-230,"y":72,"z":280}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-230,"y":72,"z":280}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-250,"y":69,"z":286}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":284}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-260,"y":69,"z":288}}]}
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-273,"y":69,"z":291}}]}
