@@ -14,3 +14,10 @@
 - 15:20 act: {"say":"Billy: dusk. I'm going to the white bed at -270,67,318 for the night, near the group. Health 20, hunger 20, no food. Meat goes to the weakest first at first light.","actions":[{"do":"goto","ta
 - 15:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Billy: dusk at the white bed, next to the group. Health 20, hunger 20, no food. Sleeping here; meat goes to the weakest first at fi
 - 15:20 act: {"actions":[{"do":"note","text":"Day 221 night: slept in the white bed at -270,67,318 beside the group. Health 20, hunger 20, no food. Woke to the digest: Kimberly ate Trini's porkchop, pig spot empty
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Night, open ground, no food. Get into the bed beside me and stay near the group.","say":"Billy here, in the white bed by the 
+- 15:29 act: {"actions":[{"do":"goto","target":{"x":-287,"y":68,"z":300}}],"reasoning":"Dawn. Kimberly is weakest. Join the group scouting dry grass near the logs, in sight, and call any animal.","say":"Billy here
+- 15:29 act: {"actions":[],"say":"Billy with the group at -287,68,301, health 20, hunger 20. No food. I'll scout the dry grass with you and call any animal; I can carry food to Kimberly.","intent":{"goal":"scout_f
+- 15:31 act: {"actions":[],"say":"Billy: no animals in sight here yet. Kimberly, I'm beside you at -290,68,300. Anyone who spots a cow, pig or sheep, call the spot and I'll walk you there."}
+- 15:39 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}}],"reasoning":"Dusk. Go to the yellow bed near the group camp for the night, and avoid the drop west.","say":"Billy: dusk, no food found. Go
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Dusk, at the yellow bed with the group nearby. No food found today. Sleep here, then scout dry grass at first 
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"reasoning":"Phantom reported to the north-east. Get into the white bed beside me and sleep through the night with the grou
