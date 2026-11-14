@@ -1,2 +1,42 @@
 # Journal
 - 06:42 act: {"say":"Night. I'm by the white bed south of me. Nobody has food yet; we search at first light and I'll share what I find.","actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}]}
+- 06:43 say: {"text":"Billy here. Night, all. I'll rest in the white bed beside me and we search for food at first light."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}]}
+- 06:44 say: {"text":"Heard you all. I'm in the bed here. First light, we search together for food."}
+- 06:49 say: {"text":"Morning. I have no food either, only 2 pumpkin and 2 wheat. Tommy, I'm searching north, which nobody has tried yet. I'll call out anything I find."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":305}}]}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":265}}],"say":"Trini, I'm going north past the beds. I'll call out any animal I see. Zack, stay near the sign with Tommy."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":68,"z":230}}]}
+- 06:50 act: {"actions":[{"do":"goto","target":{"x":-306,"y":63,"z":224}},{"do":"attack","target":"salmon"}],"say":"Salmon spotted in the lake to the north-west. I'm going after it and will share whatever I get."}
+- 06:51 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 06:51 act: {"actions":[{"do":"eat"}],"say":"I caught a salmon at the lake near -334,62,204. Eating one now, then I'll bring the rest to the group."}
+- 06:52 act: {"say":"Picard, salmon are in this lake at -334,62,204, and two more are near -348,62,197. I ate the one I caught and I have no food left, so I'll keep trying."}
+- 06:53 act: {"say":"Picard, I have no fish now, I ate my only one. Try the salmon at -348,62,197 from the north-west shore. I'll stay here and try for the one at -335,61,183 to the north."}
+- 06:54 act: {"say":"Tommy, thank you. Picard and Trini are heading to the lake for fish, and I'll bring any I catch to the sign."}
+- 07:00 act: {"actions":[{"do":"attack","target":"salmon"}],"intent":{"goal":"catch_salmon_at_lake","program":"gather","arguments":{"block":"salmon","count":1},"wake_on":["goal_completed","unexpected_damage","dire
+- 07:03 act: {"intent":{"goal":"raise_dirt_pillar_out_of_water","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{
+- 07:03 act: {"actions":[{"do":"unstick"}]}
+- 07:03 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 07:04 act: {"actions":[{"do":"unstick"}],"say":"Billy here, out in the lake at night with no food. Trying to get to shore; salmon are north-west and north of me."}
+- 07:04 act: {"intent":{"goal":"reach_north_shore","program":"travel","arguments":{"target":{"x":-321,"y":62,"z":186}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ti
+- 07:04 act: {"intent":{"goal":"reach_land_east","program":"travel","arguments":{"target":{"x":-304,"y":64,"z":190}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tick
+- 07:04 act: {"intent":{"goal":"hunt_sheep_for_food","program":"gather","arguments":{"block":"mutton","count":2},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 07:04 act: {"actions":[{"do":"attack","target":"sheep"}]}
+- 07:04 act: {"intent":{"goal":"bring_mutton_to_jason","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":363}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 07:05 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Jason, sorry: my own hunger forced the mutton into me before I reached you. I'm hunting the cow near me now and will bring the meat to the yellow bed
+- 07:05 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-300,"y":64,"z":200}}]}
+- 07:05 act: {"intent":{"goal":"escape_skeleton_to_west","program":"travel","arguments":{"target":{"x":-306,"y":63,"z":198}},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_w
+- 07:06 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-298,"y":64,"z":207}}],"say":"I am in the water at night with a skeleton shooting at me. I have no weapon. Heading north to the grass.","intent"
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":-285,"y":65,"z":235}}],"intent":{"goal":"hunt_cow_near_lake","program":"travel","arguments":{"target":{"x":-285,"y":65,"z":235}},"wake_on":["goal_completed","une
+- 07:07 act: {"actions":[{"do":"unstick"}],"say":"I am at 1 health in the lake with a skeleton next to me. Trying to get free."}
+- 07:07 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}],"say":"I died twice more in the lake at night. I have no food and nothing in my hands. Going to the white beds to sleep until morning."}
+- 07:07 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}]}
+- 07:07 act: {"say":"Billy is awake with nothing in my hands. I'll hunt food in the grass and bring it to the group.","intent":{"goal":"find_food_for_group","program":"travel","arguments":{"target":{"x":-285,"y":6
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":239}},{"do":"attack","target":"sheep"}],"say":"I'm going for the sheep to the east to bring food to the group."}
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":348}}],"say":"I have 2 mutton. Heading to Zack and Jason at the beds and the yellow bed to share.","intent":{"goal":"deliver_mutton_to_group","pr
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}}],"say":"Zack, Jason, Tommy: I have 2 mutton. I'm going to the yellow bed by the crafting table to share it.","intent":{"goal":"deliver_mutt
+- 07:09 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, here is the mutton, 2 pieces. Zack and Tommy, I will share the next meat I find.","reasoning":"Zack asked for mutt
+- 07:09 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you with the mutton. Trini is bringing meat to the yellow bed.","reasoning":"Jason is not in sight, so I walk to him and h
+- 07:09 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"mutton","count":2}],"say":"Zack, Jason is out of my sight, so I'm giving the 2 mutton to you to take to him. Jason first, then Tommy.","reasoning":"J
+- 07:11 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 07:15 act: {"say":"Zack, I'm at the white beds with no food. I'll hunt the sheep to the south in daylight with you, and share what we catch with Jason and Tommy first.","reasoning":"Hunger is full for now. Pair 
