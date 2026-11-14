@@ -180,3 +180,19 @@
 - 14:19 act: {"actions":[],"say":"Billy here, health 10 by the beds at -273,69,292. Mutton is eaten; I have no food. Holding by the beds until night, then sleeping in one.","intent":{"goal":"hold_at_beds_until_nig
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, health 10, no food. A white bed is adjacent. Sleep there for shelter."}
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Yellow bed adjacent. One more sleep try after moving; a different bed than the one that failed."}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":316}}],"reasoning":"Skeleton southwest is shooting me at 5 health. Get out of its line to the northeast, away from the south."}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":332}}],"say":"Skeleton on me, no sword. Running east.","reasoning":"Health 5, no weapon, skeleton 2.5 north at close range. Flee east, out of its
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Health 5, no monsters visible. Try to sleep in the nearest yellow bed."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Respawned with nothing, night, bed adjacent. Sleep to be sheltered before resting.","say":"I died and woke at 
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":313}}],"reasoning":"Shot from unseen skeletons; sleep blocked by monsters. Get behind logs north, out of the line of fire."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Still being shot at 8 health, unarmed. Another free bed is west; try to sleep there to get sheltered."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"reasoning":"Respawned, unarmed, arrows keep coming. Stay at spawn, out of the open, and let reflexes dig in until light.","say":"Died aga
+- 14:23 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"Skeleton adjacent east. Melee it bare-handed; running keeps me in arrow range."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":321}},{"do":"attack","target":"skeleton"}],"reasoning":"Health 6, skeleton 2 blocks west, arrows keep landing. Close the distance and strike."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health 3, skeleton behind me to the southwest. Get to the bed and try sleep."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Skeleton two blocks north-west shooting. Run to the yellow bed group to the south-east and try sleep."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Skeleton closing from south-west at 8 health. Keep going to the yellow bed and sleep."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Alive at 15 health beside a white bed. Sleep here now, before the skeletons find me again."}
+- 14:24 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"Skeleton 2.7 away, still shooting; fleeing keeps failing. Engage it bare-handed."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["dire
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":345}}],"intent":{"goal":"break_line_of_fire","program":"flee","arguments":{"away_from":{"x":-276,"y":66,"z":358}},"wake_on":["goal_completed"],"l
