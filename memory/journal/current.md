@@ -87,3 +87,8 @@
 - 11:53 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":284}}]}
 - 11:53 act: {"actions":[{"do":"goto","target":{"x":-260,"y":69,"z":288}}]}
 - 11:53 act: {"actions":[{"do":"goto","target":{"x":-273,"y":69,"z":291}}]}
+- 11:54 act: {"say":"I have 2 mutton and I'm full for now. Tommy lost everything in the lake, so whoever is hungriest, say so and I'll hand it over. Picard, do you still have the porkchop?","reasoning":"I am at th
+- 11:54 act: {"say":"Mutton stays with me until someone in reach has nothing and is hungry. Jason and Tommy, say when you are near the beds.","reasoning":"Trini and Jason both say keep it for those with nothing. I
+- 11:55 act: {"say":"Tommy, I heard you. Zack is on the pillar near -266,35,196, out of my reach from here. If someone can get him down or stand under him, I'll bring the mutton there. Until then I hold it.","reas
+- 12:00 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1},{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy and Jason, I'm giving one mutton to each of you, since y
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: night. I gave my mutton to Jason and Tommy, and I'm going to sleep in the yellow bed now.","reasoning":"Night
