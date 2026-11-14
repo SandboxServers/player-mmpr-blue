@@ -150,3 +150,7 @@
 - 19:26 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2},{"do":"sleep"}],"say":"Jason, I'm giving you 2 mutton. Eat when you are hungry.","intent":{"goal":"rest_at_camp_bed","program":"r
 - 19:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Billy here with the group. Jason, the mutton give keeps failing, so I'll eat one myself and keep two. Tell me when you can take it.
 - 19:26 act: {"actions":[{"do":"sleep"}]}
+- 19:27 act: {"say":"Jason, I'm here by the white bed with 3 mutton. I'll give you 2 as soon as you're in front of me.","intent":{"goal":"hold_for_jason_mutton","program":"rest","arguments":{},"wake_on":["directly
+- 19:27 act: {"say":"Jason, I can't see you from the white bed. Tell me your position or step into view, and I'll bring the 2 mutton to you."}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, coming to you now with the 2 mutton."}
+- 19:28 act: {"say":"Gave Jason 2 mutton. I have 1 left; whoever gets hungry first, call me."}
