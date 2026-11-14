@@ -56,3 +56,12 @@
 - 08:31 act: {"actions":[],"say":"My follow failed, so I'm holding here at the yellow beds with Zack, Trini, Tommy and Kimberly. Jason, say go and I'll walk right behind you."}
 - 08:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"say":"Dusk. I have no bed, so I'm going to the other yellow bed at -271,68,364 to rest near the group. If someone is already in it, tell 
 - 08:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 08:46 act: {"say":"Billy here, safe at the yellow bed near -263,67,354. I have no food or weapon. At first light I'll join the sheep search south and east."}
+- 08:51 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Billy here, unarmed, no food. Jason died to skeletons east at -210,340, so I'm heading south-west to Tommy and Zack by the water at -298,190 to
+- 08:51 act: {"intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":16}},"say":"Billy: skeleto
+- 08:52 act: {"say":"Billy at the yellow beds, holding. Tommy, if you get the sheep at -283,64,185, I'm hungry and would take any meat. I'll stay here and not go south past the skeletons."}
+- 08:54 act: {"say":"Tommy, Jason: I'm at the yellow beds with no food and no weapon, holding here. I'll walk to the cow at -285,65,235 with anyone who comes, not alone.","intent":{"goal":"hold_at_beds","program":
+- 08:54 act: {"say":"Zack, yes, I'll wait here for your call. I won't move toward -285,235 until you are in sight and say the skeletons at -286,229 have gone."}
+- 08:57 act: {"say":"Picard, I'm at the beds too with no food. Known food: cow at -285,65,235 near the skeleton route, and sheep to the north at -276,66,212. Holding here until someone calls meat."}
+- 08:58 act: {"say":"Zack, I'll go north to the sheep at -276,66,212 with you and Trini, in the group only. I'm unarmed, so I'll stay behind your sword. Say when you move and I'll fall in."}
+- 08:59 act: {"say":"Zack, Tommy: it's dusk and I'm unarmed, so I won't come north tonight. I'm staying at the beds with Jason and Trini. Go for the sheep in the morning if it's still there, and call me then."}
