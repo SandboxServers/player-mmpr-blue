@@ -141,3 +141,12 @@
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 19:21 act: {"actions":[{"do":"sleep"}]}
 - 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to sleep in the white bed now. Meat goes to whoever has none, starting with Kimberly."}
+- 19:23 act: {"say":"Data, keep your mutton. I have 3 and my hunger is full. Eat if you need it. I'm going to the white bed to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 19:23 act: {"actions":[{"do":"sleep"}]}
+- 19:24 act: {"say":"Jason, I have 3 mutton and I'm full. I'll give you one now. Kimberly, I'll hold the other two for whoever is hungriest.","actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1},{
+- 19:24 act: {"actions":[{"do":"sleep"}]}
+- 19:25 act: {"say":"Jason, here is a mutton. Eat it and sleep well.","actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}]}
+- 19:25 act: {"say":"Jason, sending the mutton now. Count it when it reaches you.","actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}]}
+- 19:26 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2},{"do":"sleep"}],"say":"Jason, I'm giving you 2 mutton. Eat when you are hungry.","intent":{"goal":"rest_at_camp_bed","program":"r
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Billy here with the group. Jason, the mutton give keeps failing, so I'll eat one myself and keep two. Tell me when you can take it.
+- 19:26 act: {"actions":[{"do":"sleep"}]}
