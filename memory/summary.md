@@ -16,6 +16,12 @@ A short account of your recent days, kept so you can remember them.
 - Pack: 30 dirt, 2 torches, 1 leather, 1 poppy, 5 leaf litter. Health 10, hunger 16 before sleep.
 - Met Picard (new, no bed or belongings yet).
 
+## Day 194 end (reflect)
+- Walked to the white beds at -298,68,295 with the group nearby. First goto stopped one block short; unstick, then sleep worked.
+- Hunger 16, health 10.3 steady at sleep. Still no food in pack (30 dirt, 2 torches, 1 leather, 1 poppy, 5 leaf litter).
+- Group (Tommy, Zack, Trini, Jason) is pooling food; Jason's chicken near -229,68,404 was the only find.
+
 ## Next
 - At first light: find food with the group (sheep field near -257,66,375, chickens to the southeast, salmon at the lake).
-- Keep shelter before night. Finish the wall if needed.
+- Trade dirt or leather for food if anyone has some. Finish the wall if needed.
+- Tell Jason, Zack and Trini what I found at the beds and ask what they have seen.

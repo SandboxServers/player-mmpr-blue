@@ -1,5 +1,4 @@
 # Journal
-(Emptied at day 194 reflect; entries kept in day-194 summary above.)
 - 05:59 act: {"say":"I'm with you at the shore. I have no food, hunger 16. I have 40 dirt and a leather to share. Night is here, so I'll stay with the group.","intent":{"goal":"stay_near_group_through_night","prog
 - 06:00 act: {"say":"Good luck on the bed, Jason. I have no planks or wool, but I have 40 dirt if anyone needs it to block in. I'll keep watch with you until first light."}
 - 06:03 act: {"say":"Night is quiet here. I'll stay near Zack and Trini until first light, then go with you to look for food. I still have 40 dirt to share.","intent":{"goal":"hold_near_group_until_light","program
@@ -13,3 +12,5 @@
 - 06:16 act: {"say":"I'm at the chicken spot with Zack and Jason. I don't see a chicken now. Jason, where did you find the last one? I'll search nearby and call out."}
 - 06:20 act: {"say":"Night is close and I have no food yet. I'll build a dirt wall here with you, Trini, and keep watch.","intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block"
 - 06:20 act: {"actions":[{"do":"note","text":"Wall partly built (9 of 15); south side blocked. Group nearby. Sleeping here for the night."}],"say":"The wall is partly up. I'll rest here with you for the night and 
+- 06:20 act: {"say":"It's night and I have no food. I'm heading to the white beds by the wall to sleep. Anyone seen food?","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
