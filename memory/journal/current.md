@@ -92,3 +92,4 @@
 - 22:56 act: {"say":"Billy here at the beds, health 20, hunger 20, no food. Trini and Data first for anything I find. I'll scout the west grass in short steps and come back here.","intent":{"goal":"scout_west_gras
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, no food, health 20. Going to the white bed with the group to sleep. Food first to Trini at dawn."}
 - 23:00 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}],"say":"Billy: a phantom is 4 blocks away. I'm staying right beside the group at the white bed and will try sleep again."}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, health 20, hunger 20, no food. Trying sleep with the group."}
