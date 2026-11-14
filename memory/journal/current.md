@@ -1517,3 +1517,18 @@
 - 02:02 act: {"actions":[{"do":"sleep"}],"reasoning":"The walk to the bed failed again and I'm not enclosed, but I'm standing next to the beds. Try sleep from here, as last time."}
 - 02:02 say: {"text":"Evening. I'm at the white bed by the crafting area, hunger and health are full. I'll sleep here and we search for food at first light."}
 - 02:02 act: {"actions":[{"do":"sleep"}]}
+- 02:07 say: {"text":"Billy here. I have no food, only dirt. I'm sending a search west for cows or sheep now, and I'll share whatever we find with Zack first."}
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":319}}],"say":"Billy here, heading west to search for cows and sheep. Will call out if I find any."}
+- 02:07 act: {"actions":[{"do":"unstick"}]}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":318}}],"reasoning":"Not trapped, on stone. Return to the white beds first.","intent":{"goal":"return_to_white_beds","program":"travel","arguments
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":318}}],"reasoning":"Previous goto was blocked by a running action. Retry alone."}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":262}}],"reasoning":"Search north of the beds, since west is covered.","intent":{"goal":"search_north_for_animals","program":"travel","arguments":
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":268}}],"reasoning":"North ahead is a drop, so sweep north-east instead.","intent":{"goal":"search_northeast_for_animals","program":"travel","argu
+- 02:08 act: {"intent":{"goal":"travel_to_cow_area","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":440}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-249,"y":68,"z":458}},{"do":"attack","target":"pig"}],"reasoning":"Pig is the animal found; kill for food."}
+- 02:09 say: {"text":"Billy here, found a pig near -249,68,460. Going to kill it."}
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":456}}],"reasoning":"Return to pig's last known position to re-find it."}
+- 02:10 say: {"text":"Billy: pig went out of view. Heading back to -252,68,456 to find it again."}
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":456}}],"reasoning":"Retry goto now that nothing else is running."}
+- 02:10 act: {"intent":{"goal":"hunt_pig","program":"travel","arguments":{"target":{"x":-249,"y":68,"z":460}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":9600,
+- 02:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
