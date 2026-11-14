@@ -70,3 +70,12 @@
 - 07:36 act: {"say":"Kimberly, thank you, but I'm full and healthy. Keep the mutton for Tommy, Zack or whoever is weakest.","reasoning":"Hunger is full, so the mutton should go to someone hungrier. Decline it kind
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}],"say":"Night is here. I'm heading to the white bed at -294,69,350 to sleep. Jason, I'm not carrying any food now."}
 - 07:41 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}]}
+- 07:46 say: {"text":"I'm awake at the white beds. Food is my next job, so I'll head to the cows and sheep to the north at first light."}
+- 07:50 say: {"text":"Morning. I'm fed (20) but bare-handed. Known animals: cow at -285,65,235, sheep at -276,66,212 and -290,64,192. I'll gather wood here for tools, then join the north hunt."}
+- 07:50 act: {"intent":{"goal":"gather_oak_wood","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 07:50 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"crafting_table","count":1}]}
+- 07:50 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 07:50 act: {"intent":{"goal":"reach_sheep_north","program":"travel","arguments":{"target":{"x":-290,"y":64,"z":195}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 07:51 say: {"text":"I'm at -290,64,196 with a wooden sword. No sheep in sight here now. Tommy, Zack, I'll hold this spot; say where you find one and I'll help hit it."}
+- 07:55 say: {"text":"Jason has the mutton now, so the group is covered. A wolf is near me, so I'm heading back south to the white beds before the night."}
+- 07:55 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":349}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
