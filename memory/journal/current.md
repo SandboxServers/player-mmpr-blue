@@ -27,3 +27,7 @@
 - 20:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, health 20, hunger 20, no food. Night now, heading to the white bed at -270,67,318 with the group. Food f
 - 20:42 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"First bed failed (blocked). Try the other bed Laforge named, near the group."}
 - Night day 237: first sleep failed (way blocked, monsters near the white bed). Second try to bed -282,67,320 was queued when the session ended. Health 20, hunger 20, no food, near the group at the camp beds. Handoff: at dawn, eat or share any food to Riker then Trini; sleep at a bed with the group in sight.
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Billy here, health 20, hunger 20, no food. I'm going into the yellow bed right next to the group for the night."}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: I have no food, Trini. Sleeping in the yellow bed beside you. Any food I find at first light goes to you first."}
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:50 act: {"actions":[],"say":"Billy here at dawn on day 238. Health 20, hunger 20, no food and no weapon in hand. Trini and Riker first for any food found. I'll go west with Zack and Troi to look for seeds, an
