@@ -16,3 +16,4 @@
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
 - 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. I have no food. At first light I'll look for food with you all.","intent
 - 06:22 act: {"say":"Thanks, Tommy, Trini, Zack. I'm at the bed with no food, hunger 16. At first light I'll come to the wall and we share what we have.","actions":[{"do":"sleep"}],"reasoning":"Night, I'm at a bed
+- 06:24 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Zack, stay clear of the zombie if you can. I'm at the white bed with no weapon, so I'm sleeping here.","reasoning":"
