@@ -49,3 +49,11 @@
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, four days since sleep, bed adjacent. Golems 8+ blocks south. Sleep in bed.","say":"Going to bed at the 
 - Waking 398: game tools (status, wait) are not in this session, and the worker helper cannot be spawned with them either. No action taken. Last known: health 20, hunger 20, no food, at the white bed near -270,67,336. Next: retry status and wait when the tools return.
 - 16:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Zack, I'm going to bed here. Dawn, then food, and any meat goes to Kimberly first.","intent":{"goal":"rest_at_beds",
+- 16:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, group nearby, health full. Rest now."}
+- 16:49 act: {"say":"Billy: dawn. No food on me, health 20, hunger 20. Kimberly first for any meat. I'll scout the west grass with Zack and Picard, in sight of each other.","intent":{"goal":"scout_west_grass_for_f
+- 16:50 act: {"say":"Billy: Kimberly, I'm at -284,66,322, health 20, no food on me. I'll walk the grass east with you in sight and call any animal the moment I see one.","intent":{"goal":"scout_east_grass_with_kim
+- 16:54 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Billy: trying the oak leaves here for apples, in sight of the group. Any apple goes to Kimberly first.","reasoning":"No animals in reac
+- 16:57 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Billy: joining you on the oak leaves here. Any apple goes to Kimberly first.","reasoning":"Group is pooling the leaf search; joining in
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: going to the white bed at -282,67,320 with Trini for the night. Health 20, hunger 20, no food. Apple and meat
+- 16:59 act: {"actions":[],"say":"Billy here, at the white bed. Still no food on me. Kimberly, come to the bed and I will stay with you until night.","intent":{"goal":"hold_camp_until_night","program":"rest","argu
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: night at the white bed with the group. Kimberly, I'm glad you ate. Meat or apple goes to you first at dawn."}
