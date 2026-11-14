@@ -77,3 +77,9 @@
 - 22:25 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
 - 22:26 act: {"actions":[{"do":"sleep"}]}
 - 22:26 act: {"actions":[{"do":"wait","seconds":30},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 22:31 act: {"say":"Billy here. I have no food, but I'll go west with whoever is hunting pigs or cows. Trini, eat your chicken first.","intent":{"goal":"scout_west_for_food","program":"travel","arguments":{"targe
+- 22:31 act: {"say":"Wcrusher, I'm at -299,67,318 on the grass to the west. Come on, I'll keep walking slowly so you can catch up. Watch for animals.","intent":{"goal":"scout_west_for_animals","program":"travel","
+- 22:31 act: {"say":"Billy: I'm at -313,71,318, a drop to the east. Going west on the grass in short steps. Data and Wesley, come along in sight.","intent":{"goal":"west_grass_short_steps","program":"travel","argu
+- 22:31 act: {"say":"Billy at -330,67,317 on the west grass. No animals in sight yet. Data, Wesley, where are you? Call out anything you see."}
+- 22:32 act: {"say":"No animals out here, only drops to the west. I'm walking back to the white beds with Wcrusher and Riker. Food goes to Trini first.","intent":{"goal":"return_to_white_beds","program":"travel","
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":318}}],"say":"Billy walking back east in short steps to the beds, at -300,68,317. Iron golem seen to the south-east, I'll keep clear of it."}
