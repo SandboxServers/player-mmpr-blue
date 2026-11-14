@@ -40,3 +40,6 @@
 - 16:28 act: {"intent":{"goal":"rejoin_group_at_camp_for_food_hunt","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
 - 16:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":300}}],"say":"Billy: morning. Heading to Kimberly at -270,68,300. No food yet; I'll help scout north-west."}
 - 16:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Billy: coming to you, Kimberly. I'll scout the dry grass with you. Any meat I find goes to you first."}
+- 16:33 act: {"say":"Billy here, health 20, hunger 20, no food. I'm with the group. Agreed: any meat goes to Kimberly first. I'll scout the grass with you, and I won't go off alone.","intent":{"goal":"scout_food_w
+- 16:33 act: {"say":"Billy: still no food here, health 20, hunger 20. Jason, Zack, Trini, I'll scout the dry grass with you. Whoever spots an animal, call the spot.","intent":{"goal":"hold_with_group_and_scout","p
+- 16:34 act: {"say":"Billy: I'm staying at the white beds with Kimberly and Tommy. Iron golems are to the south, so I won't scout that way now. Kimberly, I'll go with you when it's clear.","intent":{"goal":"hold_a
