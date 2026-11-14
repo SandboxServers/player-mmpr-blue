@@ -1,2 +1,8 @@
 # Journal
 - 20:12 act: {"say":"Billy here, health 20, hunger full. I have no food, but I'll join you at the west grass and keep watch for pigs and sheep.","intent":{"goal":"reach_west_grass_with_group","program":"travel","a
+- 20:13 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm coming to you now for the salmon. Hold it.","intent":{"goal":"reach_zack_for_salmon","program":"travel","arguments":{"target":"ag_zack
+- 20:13 act: {"actions":[],"say":"Zack, I'm here. Where is the salmon? My hands are empty."}
+- 20:13 act: {"actions":[],"say":"Jason, I'm up and ready. Let's scout the west grass together for pigs or sheep. Stay within sight of me."}
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":260}}],"say":"Worf, I'm heading west to the grass near -330,66,260 looking for pigs and sheep. Follow me in sight.","intent":{"goal":"scout_west_
+- 20:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-320,"y":68,"z":276}}],"say":"I'm in deep water, getting out to the shore near -320,68,276. Salmon are in the lake, but I won't swim."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"I'm heading back to the beds to sleep with the group. Food tomorrow, at first light.","intent":{"goal":"reach_beds_and_sleep","prog
