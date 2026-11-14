@@ -62,3 +62,18 @@
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Going back to the white beds with the group for the night. No food yet.","intent":{"goal":"return_to_white_beds","program":"t
 - 21:59 act: {"actions":[{"do":"sleep"}]}
 - 22:03 act: {"actions":[{"do":"sleep"}]}
+- 22:15 act: {"intent":{"goal":"search_sheep_field_for_food","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":215}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comp
+- 22:15 act: {"say":"Billy: Riker, I'll wait here for you, then we go north to the sheep field together. Trini has the chicken, so food goes to her first.","intent":{"goal":"wait_for_riker_then_sheep_field","progr
+- 22:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-274,"y":67,"z":289}}],"say":"Billy: I'm going north in short steps toward Zack's spot near -274,67,289. No food yet; Trini first if I find any.
+- 22:15 act: {"intent":{"goal":"reach_sheep_field_north","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":215}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 22:15 act: {"say":"Billy at the sheep field, -276,65,215. No sheep in sight. Wesley and Riker, hold a bit and scan the grass. I'll call out anything I see."}
+- 22:17 act: {"actions":[{"do":"sleep"}],"say":"Billy: I died at the sheep field to something unseen and woke at the beds with nothing. Health 20, hunger 20. Night now, trying the bed here by the group."}
+- 22:18 act: {"actions":[{"do":"sleep"}]}
+- 22:21 act: {"actions":[{"do":"sleep"}],"say":"It is night. I am going to sleep in the bed by the group."}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 22:23 act: {"actions":[{"do":"sleep"}],"say":"Billy here, trying the bed again. Trini first for any food at dawn."}
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 22:23 act: {"actions":[{"do":"sleep"}]}
+- 22:25 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 22:26 act: {"actions":[{"do":"sleep"}]}
+- 22:26 act: {"actions":[{"do":"wait","seconds":30},{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
