@@ -41,4 +41,32 @@
 - 07:11 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 07:15 act: {"say":"Zack, I'm at the white beds with no food. I'll hunt the sheep to the south in daylight with you, and share what we catch with Jason and Tommy first.","reasoning":"Hunger is full for now. Pair 
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Billy at the white beds, hunger 20 and health 20. I have no food; I'll sleep here and hunt sheep with Zack at first 
+- 07:21 act: sleep at white beds (-294,69,350), health and hunger 20, no food; sheep hunt with Zack at first light.
+- 07:25 wait: sleep "worked" twice but it is still night; still in bed, health and hunger 20. Trini heads for cows north at first light. Waiting for morning.
+- 07:40 day 198: woke in bright light, health and hunger 20. Jason is weakest (health 3.8). Set intent to hunt the cow north near -285,65,235 and bring meat to Jason first.
+- 07:44 intent hunt_meat_north failed: gather with "beef" was not usable. Switched to goto the cow at -285,65,235 and attack.
 - 07:21 act: {"say":"Zack, I'm at the white beds with no food, hunger 20. We hunt the sheep to the south at first light; meat goes to Jason first, then Tommy.","actions":[{"do":"sleep"}],"reasoning":"Night, in a b
+- 07:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep worked but it is still night. Try sleeping again in the bed until morning."}
+- 07:29 act: {"say":"Morning. Jason, I have no food, but I'm going north for the cow and sheep near -285,65,235 and -290,64,192. Any meat comes to you first.","intent":{"goal":"hunt_meat_north_for_jason","program"
+- 07:29 act: {"say":"Jason, I'm heading north to the cow at -285,65,235. Meat goes straight to you.","actions":[{"do":"goto","target":{"x":-285,"y":65,"z":235}},{"do":"attack","target":"cow"}],"reasoning":"The gat
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-285,"y":65,"z":235}},{"do":"attack","target":"cow"}],"reasoning":"Still on the way to the cow. Keep the same plan; it is on land to the east of the lake."}
+- 07:30 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in deep water at the lake, perched. Get out first. Salmon are close and are food for Jason and me."}
+- 07:30 act: {"actions":[{"do":"attack","target":"salmon"}],"reasoning":"Salmon are close in the water. Catching one gives food for Jason and me. I am stuck in water, so the fish is the closest option."}
+- 08:00 day 198: got out of the lake onto land west of it (-373,72,229). Killed a cow near -363,69,230, got 2 beef. Travelling with the beef to Jason at the yellow beds (-272,68,363), meat for him first.
+- 07:30 act: {"actions":[{"do":"unstick"}],"reasoning":"Still perched in deep water. Get out first, then fish. The earlier attack was refused as busy, so I'm sending one action alone."}
+- 07:30 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Jason, I'm out of the lake, now on land west of the water. There's a cow right here; I'm taking it and the meat goes to you first.","reasoning":"Out 
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-371,"y":72,"z":228}},{"do":"attack","target":"cow"}],"reasoning":"The first attack timed out with the cow 2 blocks away. I'm moving next to it first, then attac
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-365,"y":71,"z":227}},{"do":"attack","target":"cow"}],"reasoning":"The cow is 3 blocks east now. Chasing it once more with goto then attack; Jason needs the meat
+- 07:30 act: {"intent":{"goal":"bring_beef_to_jason","program":"travel","arguments":{"target":{"x":-272,"y":68,"z":363}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],
+- 07:31 act: {"say":"Jason, I'm at the yellow beds with 2 beef. Where are you? I'll hand it to you as soon as you're close.","reasoning":"I arrived with the beef but Jason is not in sight. I call him and wait rath
+- 07:31 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Jason, here is the 2 beef.","reasoning":"Jason is in sight and asked for it. Meat goes to him first."}
+- 07:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"reasoning":"The give failed because Jason is out of sight. I walk to him by name, then hand over the beef."}
+- 07:32 act: {"say":"Jason, I can't see you. I'm holding 2 beef and I'll stay right here at the yellow beds until you come by.","reasoning":"Jason is not in sight, so I hold the beef and wait here for him instead 
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Jason, I'm stepping over to you now with the beef.","reasoning":"Jason say
+- 07:33 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Zack, thanks. Jason, I still don't see you. Step where I can see you and I'll hand the beef over.","reasoning":"Zack is in 
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":362}},{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Jason, I'm moving toward you at the beds with the beef.","reasoning":"Jaso
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":366}},{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Jason, I'm coming to you at -272,68,366.","reasoning":"Jason is at -273,68
+- 07:34 act: {"say":"Jason, the 2 beef are in your hands now. Eat up. I have no food left.","reasoning":"The give to Jason worked. Tell the group, then rest my hands and watch for who needs help next."}
+- 07:36 act: {"say":"Kimberly, thank you, but I'm full and healthy. Keep the mutton for Tommy, Zack or whoever is weakest.","reasoning":"Hunger is full, so the mutton should go to someone hungrier. Decline it kind
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}],"say":"Night is here. I'm heading to the white bed at -294,69,350 to sleep. Jason, I'm not carrying any food now."}
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}}]}
