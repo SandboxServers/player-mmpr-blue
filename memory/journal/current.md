@@ -173,3 +173,10 @@
 - 13:49 act: {"say":"Billy: heading to the group spot at -266,68,300 to be in reach and help lay the route. My mutton stays for Zack once a dry line is walked.","actions":[{"do":"goto","target":{"x":-266,"y":68,"z
 - 13:50 act: {"say":"Billy: I'm at the group spot -266,68,301 with my mutton, held for Zack. Kimberly, I'll follow your walked waypoints when you call the next one, and I'll give mine to Zack once the line reaches
 - 14:02 act: {"say":"Billy: dusk. Trying for a bed near the group; if none is free I'll stay in sight of the group on the grass.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":295}},{"do":"sleep"}]}
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":296}}],"say":"Skeleton shooting me from the west. Moving back toward the group at the beds.","reasoning":"Shot and hit by skeletons at night. Hea
+- 14:18 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-274,"y":69,"z":293}}],"say":"Health 7 from arrows. Eating my mutton to stay alive, then heading to the beds.","reasoning":"Shot down to 7. Hunger 1
+- 14:19 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Eating my mutton now. Going into the bed at the group.","reasoning":"Eat did not register yet; try agai
+- 14:19 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Got into the bed area. Health 7, shelter needed before dark. One try at sleeping in the bed."}
+- 14:19 act: {"actions":[],"say":"Billy here, health 10 by the beds at -273,69,292. Mutton is eaten; I have no food. Holding by the beds until night, then sleeping in one.","intent":{"goal":"hold_at_beds_until_nig
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, health 10, no food. A white bed is adjacent. Sleep there for shelter."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Yellow bed adjacent. One more sleep try after moving; a different bed than the one that failed."}
