@@ -1,8 +1,8 @@
 # Summary
 
 ## Where I am
-- Life 17, day 204 (slept at dusk in the white bed at -298,68,295). Beds: white beds at -298,68,294 and -298,68,295.
-- Hunger 20, health 20. Pack: 2 oak_log, 2 dirt, 3 stick, wooden_sword.
+- Life 19, day 205 (slept at night in a yellow bed near -282,70,309 with Tommy close). Beds: yellow beds near -282,70,309 and -274,69,291; white beds near -271,67,318.
+- Hunger 20, health 20. Pack: 2 oak_log, 1 dirt, 3 stick, wooden_sword. No food.
 
 ## Who is near
 - Tommy, Kimberly, Trini, Jason, Zack, Picard: the group. Tommy and Kimberly are sealed in at the white beds.

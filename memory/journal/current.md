@@ -1,4 +1,5 @@
 # Journal
+- Day 205: at the beds near -279,70,308 with Tommy and Kimberly. Slept in a yellow bed; plan first-light pig hunt by dry path with the group, meat to Jason first. Day file not written (no create tool); this line stands for it.
 - Day 204: afternoon at the white beds, waiting for first light; slept at dusk.
 - Day 199 (life 17): woke by the white beds, waited for night, slept in the bed beside me. Health and hunger full. Next day: food with the group.
 - 08:03 act: {"say":"Morning, all. I'm up at the white beds with full health and hunger. I'll join the cow hunt west at first light. Tommy, I'm coming with you.","intent":{"goal":"wait_for_first_light","program":"
@@ -158,3 +159,5 @@
 - 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Kimberly, I'm heading to the white beds at -270,67,318 with you. Tommy said everyone holds there."}
 - 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"At the beds for the night. Tommy, Kimberly, we hunt at first light together, Jason and Picard first for meat."}
 - 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:02 act: {"say":"Kimberly, Tommy: I'm at -279,70,308, unarmed, no food. Agreed, we hunt at first light together, Jason and Picard first. I'm taking the yellow bed now.","actions":[{"do":"goto","target":{"x":-2
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-282,"y":70,"z":309}},"wake_on":["directly_addressed"
