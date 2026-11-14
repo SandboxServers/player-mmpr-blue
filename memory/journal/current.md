@@ -40,3 +40,4 @@
 - 07:09 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"mutton","count":2}],"say":"Zack, Jason is out of my sight, so I'm giving the 2 mutton to you to take to him. Jason first, then Tommy.","reasoning":"J
 - 07:11 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
 - 07:15 act: {"say":"Zack, I'm at the white beds with no food. I'll hunt the sheep to the south in daylight with you, and share what we catch with Jason and Tommy first.","reasoning":"Hunger is full for now. Pair 
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Billy at the white beds, hunger 20 and health 20. I have no food; I'll sleep here and hunt sheep with Zack at first 
