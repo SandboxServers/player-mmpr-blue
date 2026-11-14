@@ -11,3 +11,6 @@
 - 15:11 act: {"say":"Billy: the pig spot is empty here, as Tommy said. I'm at -168,89,225 with Tommy and Picard. My memory has pig and cows on the west grass near -363,69,230. I'll walk there with Tommy and Picard
 - 15:11 act: {"say":"Billy: my walk west stopped short at -185,81,220. I'll go back to the group at the yellow beds and scout the dry grass within sight, as Kimberly asked.","actions":[{"do":"goto","target":{"x":-
 - 15:11 act: {"say":"Billy at the yellow beds with Trini and Tommy nearby. I'll scout 10 blocks south on the dry grass in sight of the group and call out any animal.","actions":[{"do":"goto","target":{"x":-266,"y"
+- 15:20 act: {"say":"Billy: dusk. I'm going to the white bed at -270,67,318 for the night, near the group. Health 20, hunger 20, no food. Meat goes to the weakest first at first light.","actions":[{"do":"goto","ta
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Billy: dusk at the white bed, next to the group. Health 20, hunger 20, no food. Sleeping here; meat goes to the weakest first at fi
+- 15:20 act: {"actions":[{"do":"note","text":"Day 221 night: slept in the white bed at -270,67,318 beside the group. Health 20, hunger 20, no food. Woke to the digest: Kimberly ate Trini's porkchop, pig spot empty
