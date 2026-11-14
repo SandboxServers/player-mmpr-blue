@@ -89,3 +89,6 @@
 - 22:48 act: {"say":"Billy here, dawn of day 243. Health 20, hunger 20, no food and no weapon. Trini first for any food found. I'll scout the grass west with whoever is ready, in sight of the group.","intent":{"go
 - 22:48 act: {"say":"Billy at -300,66,325 on the west grass, alone, no food. Riker, your health is low; I'm heading back to the beds to meet the group before any lake trip. I won't go into deep water alone.","inte
 - 22:48 act: {"say":"Billy at the white beds, health 20, hunger 20, no food. Riker, I'm with you here. I won't go to the lake alone. Fish goes to Trini first, then you. I'll hold here and watch for golems."}
+- 22:56 act: {"say":"Billy here at the beds, health 20, hunger 20, no food. Trini and Data first for anything I find. I'll scout the west grass in short steps and come back here.","intent":{"goal":"scout_west_gras
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, no food, health 20. Going to the white bed with the group to sleep. Food first to Trini at dawn."}
+- 23:00 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}],"say":"Billy: a phantom is 4 blocks away. I'm staying right beside the group at the white bed and will try sleep again."}
