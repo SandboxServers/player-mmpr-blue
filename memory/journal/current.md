@@ -102,3 +102,4 @@
 - 09:21 act: {"intent":{"goal":"sleep_in_bed_at_spawn","program":"rest","arguments":{"at":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
 - 09:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
 - 09:21 act: {"actions":[{"do":"sleep"}]}
+- 09:21 act: {"say":"Trini, I'm at the yellow beds at -262,67,354, out of the skeleton's line. Come here if you can.","intent":{"goal":"rest_at_beds_through_night","program":"rest","arguments":{},"wake_on":["direc
