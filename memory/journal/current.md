@@ -1460,3 +1460,54 @@
 - 01:35 say: {"text":"Tommy, you're next to me; Kimberly and Trini first. I'm holding both beef until one of them is in sight. Kimberly, Trini, call out where you are."}
 - 01:35 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":351}}],"say":"Kimberly, walking to you with the beef now."}
 - 01:35 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, I'm giving you one beef. Tell me if you can't see me."}
+- 01:38 act: {"say":"I have 2 beef for whoever is hungry. Kimberly, Trini, Zack, Tommy: come find me by the yellow beds.","actions":[{"do":"wait","seconds":60}]}
+- 01:39 say: {"text":"Billy here at the yellow beds with 2 beef. Kimberly, Trini: if you can see me, come to me and I'll hand it over."}
+- 01:39 act: {"say":"Kimberly, Trini: I can't see you from here. Stand next to me at -262,67,350 and I'll give you the beef.","actions":[{"do":"wait","seconds":90}]}
+- 01:40 act: {"say":"Trini, Kimberly: I'm at -262,67,350, by the oak signs. Which bed is the stripped-log one? Tell me one landmark and I'll walk there.","actions":[{"do":"wait","seconds":60}]}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":351}}],"say":"On my way to you, Trini and Kimberly.","intent":{"goal":"reach_trini","program":"travel","arguments":{"target":{"x":-263,"y":68,"z"
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":351}}]}
+- 01:41 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1},{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Here is one beef for Trini and one for Kimberly. Eat well."}
+- 01:41 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1},{"do":"goto","target":{"x":-262,"y":68,"z":353}},{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Kimberly, one 
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":351}},{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Trini, I'm coming back to you with your beef. Kimberly has hers."}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":350}},{"do":"give","to":"ag_trini_01","item":"beef","count":1}]}
+- 01:41 act: {"actions":[],"say":"Trini, I'm holding your beef and I'm right by the bed. Say when you're in sight and I'll hand it over."}
+- 01:42 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}]}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}}],"say":"I can't see you from here, Trini. I'm walking back to the beds. Stay where you are."}
+- 01:42 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}]}
+- 01:42 act: {"actions":[],"say":"Done. Kimberly and Trini each have beef now. I have none left. I'm out of food, so I'll look for pork or cows next."}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"Beef is gone: Kimberly and Trini each have one. I'm out of food. Going to the yellow bed for the night."}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 01:42 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Kimberly. At first light we search for food together."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Kimberly, I'm heading back to the yellow beds to sleep. We'll look for animals at first light."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}}],"say":"Morning. I'm back at the yellow beds with an empty pack. I'll help look for cows or sheep with you, Tommy. Kimberly, Trini, call me
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":352}}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 01:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"It's light now. I'm heading to the white beds at -270,67,337 to join the search for cows and sheep northwest."}
+- 01:44 act: {"actions":[{"do":"sleep"}],"say":"It's night and nothing was found north-west. I'm sleeping in the white bed right here."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":305}}],"say":"Morning. Billy here, slept at the white beds, still no food. Heading north-west with you, Trini, Zack and Tommy. Call out if you se
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-295,"y":67,"z":300}}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-305,"y":67,"z":290}}],"say":"Still searching north-west, Trini. Nothing yet. I'll call out if I see a cow or sheep."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-315,"y":67,"z":285}}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"No animals found north-west. It's getting dim, so I'm going back to the white beds to rest. Will search at first light."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":330}}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
+- 01:45 act: {"actions":[{"do":"sleep"}]}
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":340}}],"say":"Morning, Billy here. Zack says north-west is only water and a drowned. I'm searching west of the beds for cows, sheep or crops. Cal
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":330}}]}
+- 01:50 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a pit near -310,70,330. Getting out now."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}],"say":"I'm free now. Heading north-west toward -300,67,300 to look for cows or sheep."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":285}}],"say":"Reached -300,68,300, no animals here. Moving further west to -325,66,285."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-345,"y":64,"z":265}}],"say":"Still no animals at -325,64,285. Pushing on north-west to -345,64,265."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":280}}],"say":"This is a lake at -345,61,265, only a squid here. Heading back to land at -330,66,280."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-352,"y":66,"z":305}}],"say":"Zack, I'm at the lake shore -330,64,280, nothing here. I'll try south-west at -352,66,305."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-230,"y":70,"z":290}}],"say":"Good find, Zack. I'm heading east toward the cow at -208,72,285 too. I'm hungry-ready and will take whatever meat is left."}
+- 01:52 act: {"actions":[{"do":"goto","target":{"x":-210,"y":72,"z":286}}],"say":"Zack, I'm coming to you. Tommy and Jason need the beef more than I do right now, so please give it to them first."}
+- 01:52 act: {"actions":[],"say":"Zack, I'm beside you at -210,71,286. I'm at full hunger, so the meat goes to Tommy and Jason. Tell me if you want me to hold anything."}
+- 01:52 act: {"actions":[{"do":"goto","target":{"x":-190,"y":70,"z":300}}],"say":"The cow is gone, and I'm full, so Tommy eats first. I'll search east at -190,70,300 for more animals and call out if I see any."}
+- 01:53 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a pit at -192,77,300. Nothing here yet. I'll get out and keep looking east.","reasoning":"I am trapped in a pit after a blocked goto. Unstick first, t
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":318}}],"say":"I'm out of the pit, and it's getting dark with zombies to the north-east. I'm heading to the white beds at -270,67,318 to sleep.","
+- 01:53 act: {"actions":[],"intent":{"goal":"rest_at_beds_until_night","program":"rest","arguments":{"place":"white_beds_-270_67_318"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 01:53 act: {"actions":[],"intent":{"goal":"rest_at_beds_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":1
+- 01:55 act: {"actions":[],"say":"Tommy, Kimberly, I'm at the white beds, -268,66,318, with nothing to eat. Tommy, you get the beef first.","reasoning":"Tommy is starving after respawn and Kimberly brings the beef
+- 01:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk is here and I am beside the white beds, with no errand open. Sleep in the bed.","say":"It's dusk. I'm goi
