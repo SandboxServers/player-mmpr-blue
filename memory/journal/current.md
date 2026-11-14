@@ -105,3 +105,4 @@
 - 18:27 act: {"actions":[{"do":"sleep"}]}
 - 18:27 say: {"text":"Dawn, day 230 again. Billy here, health 12, hunger 17, no food. I'll search the grass with the group and call out anything I see."}
 - 18:31 act: {"say":"Billy: staying with Riker on the south grass, looking for any animal or apple. Food goes to Kimberly first, then me.","intent":{"goal":"scout_food_south_grass","program":"travel","arguments":{
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"intent":{"goal":"search_food_south_grass","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":338}},"wake_on":["goal_completed"
