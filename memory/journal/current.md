@@ -1430,3 +1430,11 @@
 - 01:15 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
 - 01:15 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
 - 01:16 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-376,"y":67,"z":342}}]}
+- 01:17 act: {"say":"Kimberly, Zack, I'm on my way to the beds. I have 3 pumpkins and 19 wheat seeds, which the game doesn't mark as food, but I'll bring them.","intent":{"goal":"reach_yellow_beds","program":"trav
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:17 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Tommy, Trini: I have no food. Only pumpkins and seeds, which the game won't eat. I'm tunnel
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:18 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"pumpkin","count":3}],"say":"Kimberly, I'm at the beds. Here are my 3 pumpkins. I'll keep my seeds for planting."}
+- 01:18 act: {"say":"Kimberly, my give failed because we're too close. I'll hold the pumpkins for now. Does anyone know where food is?"}
+- 01:19 act: {"say":"Kimberly, I'll stay at the beds with you tonight. Jason's food should go to Zack first."}
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night is here. I'm sleeping in the yellow bed. Kimberly, first light we look for food together."}
