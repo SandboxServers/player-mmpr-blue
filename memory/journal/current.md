@@ -47,3 +47,6 @@
 - 21:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":326}}],"say":"Billy: Golem and a phantom right next to me. Moving east, away from them."}
 - 21:08 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":324}}],"say":"Billy: Golem closing from the south-west. Moving further east, away from it."}
 - 21:12 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":327}}],"say":"Billy: Coming back to the beds to join Zack and the group. No food yet, health 20. Trini first for any mutton or chicken."}
+- 21:15 act: {"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":215}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 21:15 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 21:16 say: {"text":"Billy at Zack's spot, no food on me. I'll scout north-east with a call-out, staying in sight of Trini and Troi."}
