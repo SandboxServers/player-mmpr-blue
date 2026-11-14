@@ -1371,3 +1371,5 @@
 - 23:55 act: {"actions":[{"do":"unstick"}],"say":"Zack, Jason, Trini: I'm still boxed in at -443,67,351. Leave food for me when you can. I'll keep trying to dig out."}
 - 23:55 act: {"actions":[{"do":"mine","block":"stone","count":2}]}
 - 23:59 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 00:00 act: {"actions":[{"do":"unstick"}],"say":"Still walled in at -444,67,352 with no food. Trying to dig out now.","intent":{"goal":"get_out_of_stone","program":"travel","arguments":{"target":{"x":-257,"y":66,
+- 00:02 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
