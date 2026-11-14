@@ -126,3 +126,5 @@
 - 09:36 act: {"say":"Agreed, Trini. I'm staying at the beds. Let's go at first light by the dry path. Kimberly, Tommy, stay out of the deep water.","reasoning":"Trini warns that the west shore is deep water and sk
 - 09:37 act: {"actions":[{"do":"wait","seconds":5}],"say":"Picard, the pig at -337,64,237 is the safer food, reached by the dry path north of the lake. We go at first light with Tommy and Kimberly.","reasoning":"P
 - 09:38 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Tommy reports two iron golems to the south. Stay at the beds, watch, and wait for first light."}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm going to the white bed to sleep, health and hunger full. First light, the dry path to the pig with Tommy 
+- 09:42 act: {"actions":[{"do":"sleep"}]}
