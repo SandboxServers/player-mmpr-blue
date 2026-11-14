@@ -57,3 +57,26 @@
 - 16:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: going to the white bed at -282,67,320 with Trini for the night. Health 20, hunger 20, no food. Apple and meat
 - 16:59 act: {"actions":[],"say":"Billy here, at the white bed. Still no food on me. Kimberly, come to the bed and I will stay with you until night.","intent":{"goal":"hold_camp_until_night","program":"rest","argu
 - 16:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: night at the white bed with the group. Kimberly, I'm glad you ate. Meat or apple goes to you first at dawn."}
+- 17:03 act: {"say":"Night. I'm by the white bed with the group. Food goes to Kimberly first at dawn.","actions":[{"do":"sleep"}]}
+- 17:04 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 17:05 act: {"say":"Going back to the yellow beds by the group to sleep.","intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":324}},"wake_on":["goal_completed","precondi
+- 17:05 act: {"actions":[{"do":"sleep"}]}
+- 17:06 act: {"say":"Billy: sleep keeps failing at the yellow beds. I'll hold here by the group until morning, sword in hand.","actions":[{"do":"wait","seconds":120}]}
+- 17:08 act: {"say":"Billy: dawn, day 227. Health 20, hunger 20, no food. I'm joining the group at the white beds to scout for animals. Any meat or apple goes to Kimberly first.","intent":{"goal":"join_group_scout
+- 17:12 act: {"say":"Billy: midday, day 227. Health 20, hunger 20, no food. Riker, the apple to Kimberly is right. I'll stay near the white beds with the group and call any animal I see.","intent":{"goal":"hold_wi
+- 17:20 act: {"say":"Billy: dusk, no food, health and hunger 20. Going to the group's beds to sleep. Any food goes to Kimberly first at dawn.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":324}},{"do":"sle
+- 17:20 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Billy here at the yellow bed by the group. Health 20, hunger 20, no food. Kimberly gets any food first at dawn."}
+- 17:21 act: {"actions":[{"do":"sleep"}]}
+- 17:21 act: {"intent":{"goal":"hold_at_yellow_bed_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":8}},"say"
+- 17:29 act: {"intent":{"goal":"scout_west_grass_with_group","program":"travel","arguments":{"target":{"x":-288,"y":66,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":330}}],"say":"Billy following Jason west on the grass, in sight. Calling out any animal I see."}
+- 17:29 act: {"actions":[],"say":"Billy here, in sight of Jason and Tommy. Scouting west on the grass. Any animal, I call out."}
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":327}}],"say":"Billy: moving to Trini at the west grass, in sight of the group. I'll also try the oak leaves for apples. Calling out anything I fi
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":326}}],"say":"Billy: coming to the oak leaves with Trini, in sight. Will call out any apple."}
+- 17:32 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Billy: breaking oak leaves here for apples. Calling out anything that drops."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"say":"Billy: going to the white beds with the group for the night. No food yet; Kimberly gets any food first at dawn.","intent":{"goal":"
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Billy going to the yellow bed for the night, Tommy and Trini nearby."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}]}
+- 17:41 act: {"actions":[{"do":"sleep"}],"say":"Still no food, hunger 20 for now. Trying the bed here again.","reasoning":"Back at the yellow bed. Monsters were the reason sleep failed before, so I retry once, the
+- 17:41 act: {"actions":[],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
