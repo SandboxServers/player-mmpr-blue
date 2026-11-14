@@ -1550,3 +1550,7 @@
 - 05:27 say: {"text":"Zack, I'm right here at -262,67,354, just east of the yellow beds. Come to me and I'll take a mutton."}
 - 05:28 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack, got the mutton. I'm eating one now."}
 - 05:28 say: {"text":"Hunger is up to 20 and health is rising, thanks to you. What I've learned: sheep are east of the beds, and an iron golem was seen north-west near -281,67,343. Stay near the beds in the dawn l
+- 05:29 act: {"say":"Morning Zack. I have no food, hunger 17. I'll head east of the beds to look for the sheep with you and Jason.","intent":{"goal":"find_sheep_east","program":"travel","arguments":{"target":{"x":
+- 05:29 act: {"intent":{"goal":"search_sheep_further_east","program":"travel","arguments":{"target":{"x":-228,"y":67,"z":356}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 05:30 act: {"say":"Tommy, I'm at -228,68,356 east of the beds, no sheep in sight yet. Zack, if you spot any, call out and I'll come. I'll keep looking this way.","actions":[{"do":"wait","seconds":60}]}
+- 05:31 act: {"say":"No sheep seen out east of the beds, only oak trees and water. I'm coming back to the beds to meet you all, Zack and Tommy.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"t
