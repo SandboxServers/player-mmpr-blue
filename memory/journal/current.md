@@ -93,3 +93,11 @@
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, no food, health 20. Going to the white bed with the group to sleep. Food first to Trini at dawn."}
 - 23:00 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}],"say":"Billy: a phantom is 4 blocks away. I'm staying right beside the group at the white bed and will try sleep again."}
 - 23:01 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, night of day 244, health 20, hunger 20, no food. Trying sleep with the group."}
+- 23:05 act: {"actions":[{"do":"wait","seconds":20}],"say":"Billy here, at the white bed with the group. I have no food, but health is 20. Trying to sleep once the phantom is gone."}
+- 23:06 act: {"actions":[{"do":"sleep"}]}
+- 23:06 act: {"actions":[{"do":"wait","seconds":60}]}
+- 23:07 act: {"actions":[{"do":"sleep"}]}
+- 23:11 act: {"say":"Billy, day 245, bright. Health 20, hunger 20, no food. I'll go with the group to the west grass for animals. Trini first.","intent":{"goal":"scout_food_west","program":"travel","arguments":{"t
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy: no animals at the west grass near -335,229. Heading back to the beds to be with the group. Data and Trini first for any food
+- 23:12 act: {"say":"Billy back at the white beds with the group, day 245. Found no food at the west grass. Trini keeps the chicken; any food goes to Data and Trini first."}
+- 23:16 act: {"actions":[{"do":"sleep"}]}
