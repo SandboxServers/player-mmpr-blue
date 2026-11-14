@@ -115,3 +115,5 @@
 - 23:41 act: {"actions":[{"do":"wait","seconds":30},{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here at the white beds, health 20, hunger 20, no food. Trying to sleep with the gro
 - 23:42 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
 - 23:43 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"say":"Geldar at dawn, day 247. Health 20, hunger 20, empty pack. I have no food to share. I'll stay in sight of the group and look for animals on the grass; I won't go into deep water.","intent":{"g
+- 23:51 say: {"text":"Geldar: I have no food, sorry. I'm staying at the beds with the group, away from the lake and the south. Trini, Data and Jason first if any animal turns up."}
