@@ -80,3 +80,28 @@
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}]}
 - 17:41 act: {"actions":[{"do":"sleep"}],"say":"Still no food, hunger 20 for now. Trying the bed here again.","reasoning":"Back at the yellow bed. Monsters were the reason sleep failed before, so I retry once, the
 - 17:41 act: {"actions":[],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Billy here, night of day 228. Health and hunger 20, no food. Going to the yellow bed with Tommy to sleep. Any meat g
+- 17:41 act: {"actions":[{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":324}}],"say":"Billy: dawn. Sleep failed at the beds, so I'm back at the group near the yellow beds. Health 20, hunger 20, no food. Any meat or ap
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 17:48 act: {"actions":[{"do":"note","text":"Dawn day 229. No sleep needed now. Scouting for food with Jason, Tommy, Trini, Zack in sight."}],"intent":{"goal":"scout_food_with_group","program":"follow","arguments
+- 17:49 act: {"say":"Billy here. I have no food either. I'm going west with Trini to the grass to look for animals. Any meat goes to Kimberly first.","intent":{"goal":"scout_west_grass_with_trini","program":"follo
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":326}}]}
+- 17:51 act: {"say":"Billy here on the west grass with Trini. No animals in sight from here. I have only logs and dirt. I'll call out anything I see."}
+- 17:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{"bed":"white_bed"},"wake_on":["directly_addressed","une
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Night. Trying the yellow bed by the crafting table once more."}
+- 18:08 act: {"intent":{"goal":"follow_zack_for_food","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3
+- 18:08 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I will walk beside you to the west grass."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":326}}],"say":"Going to the west grass edge with Zack, watching for animals."}
+- 18:08 say: {"text":"Billy here at the west grass edge. No animals in sight yet. I will hold here until you call me."}
+- 18:22 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms on me at night, fighting back. Anyone near, come.","intent":{"goal":"fight_phantoms_then_reach_beds","program":"flee","arguments":{},"wa
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"Health 12, phantoms behind me. Heading for the group at the beds."}
+- 18:23 act: {"actions":[{"do":"sleep"}]}
+- 18:23 say: {"text":"Billy here, by the crafting table near the yellow beds. Phantoms are behind me; health 12, no food. Trying to sleep here with the group."}
+- 18:24 say: {"text":"Billy: staying with the group by the yellow bed until dawn. Health 12, no food. Call me if anything comes close."}
+- 18:27 act: {"actions":[{"do":"sleep"}]}
+- 18:27 say: {"text":"Dawn, day 230 again. Billy here, health 12, hunger 17, no food. I'll search the grass with the group and call out anything I see."}
+- 18:31 act: {"say":"Billy: staying with Riker on the south grass, looking for any animal or apple. Food goes to Kimberly first, then me.","intent":{"goal":"scout_food_south_grass","program":"travel","arguments":{
