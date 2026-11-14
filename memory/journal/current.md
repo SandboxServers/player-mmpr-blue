@@ -1532,3 +1532,15 @@
 - 02:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":456}}],"reasoning":"Retry goto now that nothing else is running."}
 - 02:10 act: {"intent":{"goal":"hunt_pig","program":"travel","arguments":{"target":{"x":-249,"y":68,"z":460}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":9600,
 - 02:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 05:13 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a dug pit at night with low health. Get out first, then find food and a bed.","say":"I am in a pit. Getting out."}
+- 05:13 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Pit walls are stone. Dig by hand, then try to climb out."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":492}}],"reasoning":"Mining was interrupted. Try to climb out by going up."}
+- 05:13 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"reasoning":"Enclosed in dirt on all sides. Dig out by hand and try to move."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":64,"z":470}}],"reasoning":"Out of the pit, hunger 17, no food. Head north toward the old farm, away from the drop to the west.","say":"I'm out of the pi
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":360}}],"reasoning":"Group meets at the old beds and farm near -263,353. Join them, share what I have (23 dirt), and look for food together.","say
+- 05:14 act: {"actions":[],"intent":{"goal":"join_group_at_old_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":360}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precon
+- 05:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":360}}],"reasoning":"Interrupted mid-walk and perched. Get free, then walk to the group again."}
+- 05:14 act: {"actions":[],"say":"Billy here, at the old farm. I have 23 dirt for planting and no food. Tell me where to put it."}
+- 05:16 act: {"actions":[],"say":"Tommy, I have no hoe, so I can't till. Trini's stone hoe works on dirt. I'll look for animals to the north, and I'll come back to the farm."}
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":335}}],"reasoning":"Hungry, no food here. Search north-west for animals, away from the iron golem to the north-east.","intent":{"goal":"search_an
+- 05:16 act: {"actions":[],"intent":{"goal":"search_animals_further_west","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","p
