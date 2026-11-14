@@ -83,3 +83,6 @@
 - 22:31 act: {"say":"Billy at -330,67,317 on the west grass. No animals in sight yet. Data, Wesley, where are you? Call out anything you see."}
 - 22:32 act: {"say":"No animals out here, only drops to the west. I'm walking back to the white beds with Wcrusher and Riker. Food goes to Trini first.","intent":{"goal":"return_to_white_beds","program":"travel","
 - 22:32 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":318}}],"say":"Billy walking back east in short steps to the beds, at -300,68,317. Iron golem seen to the south-east, I'll keep clear of it."}
+- 22:37 say: {"text":"Billy at the white beds, health 20, hunger 20, no food. No animals west. I'm staying with the group and will sleep in a white bed at dusk. Any food goes to Trini first."}
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, group at the beds, days_since_sleep 7. Go to bed and sleep."}
+- 22:42 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now. Retry sleep once in the bed with the group around."}
