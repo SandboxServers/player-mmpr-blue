@@ -65,3 +65,9 @@
 - 08:57 act: {"say":"Picard, I'm at the beds too with no food. Known food: cow at -285,65,235 near the skeleton route, and sheep to the north at -276,66,212. Holding here until someone calls meat."}
 - 08:58 act: {"say":"Zack, I'll go north to the sheep at -276,66,212 with you and Trini, in the group only. I'm unarmed, so I'll stay behind your sword. Say when you move and I'll fall in."}
 - 08:59 act: {"say":"Zack, Tommy: it's dusk and I'm unarmed, so I won't come north tonight. I'm staying at the beds with Jason and Trini. Go for the sheep in the morning if it's still there, and call me then."}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Billy here, night at the yellow beds. No food, no weapon. Going to the bed by Kimberly and Trini to rest.","intent":{"goal":"reach_
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Trini, I'm in the bed beside you. Going to sleep. Hunt at first light."}
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy: sleep didn't take at the bed, trying the other bed next to Trini."}
+- 09:05 act: {"actions":[],"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}}],"say":"Billy here, morning of day 203. Full health and hunger, no food, no weapon. Heading to the yellow beds to join the group for the sh
+- 09:09 act: {"actions":[{"do":"note","text":"Day 203 dawn at yellow beds (-263,66,356). No food, no weapon, health and hunger 20. Group scattered: Kimberly at white beds, Zack freeing himself. Holding for the gro
