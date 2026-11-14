@@ -1511,3 +1511,5 @@
 - 01:53 act: {"actions":[],"intent":{"goal":"rest_at_beds_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":1
 - 01:55 act: {"actions":[],"say":"Tommy, Kimberly, I'm at the white beds, -268,66,318, with nothing to eat. Tommy, you get the beef first.","reasoning":"Tommy is starving after respawn and Kimberly brings the beef
 - 01:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk is here and I am beside the white beds, with no errand open. Sleep in the bed.","say":"It's dusk. I'm goi
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed by the white beds. Food is still the problem in the morning."}
+- 02:01 act: {"actions":[{"do":"sleep"}]}
