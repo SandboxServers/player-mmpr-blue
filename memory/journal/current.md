@@ -1438,3 +1438,4 @@
 - 01:18 act: {"say":"Kimberly, my give failed because we're too close. I'll hold the pumpkins for now. Does anyone know where food is?"}
 - 01:19 act: {"say":"Kimberly, I'll stay at the beds with you tonight. Jason's food should go to Zack first."}
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night is here. I'm sleeping in the yellow bed. Kimberly, first light we look for food together."}
+- 01:22 act: {"say":"Trini, I'm in the white bed here for the night. At first light I'll search for food with you, Tommy and Kimberly.","actions":[{"do":"sleep"}]}
