@@ -43,3 +43,6 @@
 - 16:33 act: {"say":"Billy here, health 20, hunger 20, no food. I'm with the group. Agreed: any meat goes to Kimberly first. I'll scout the grass with you, and I won't go off alone.","intent":{"goal":"scout_food_w
 - 16:33 act: {"say":"Billy: still no food here, health 20, hunger 20. Jason, Zack, Trini, I'll scout the dry grass with you. Whoever spots an animal, call the spot.","intent":{"goal":"hold_with_group_and_scout","p
 - 16:34 act: {"say":"Billy: I'm staying at the white beds with Kimberly and Tommy. Iron golems are to the south, so I won't scout that way now. Kimberly, I'll go with you when it's clear.","intent":{"goal":"hold_a
+- 16:38 act: {"say":"Billy here, at -282,67,319 with Picard. Hunger 20, no food yet. I have 4 oak logs and a wooden sword. I'll scout the west grass with the group and call any animal I see.","intent":{"goal":"joi
+- 16:38 act: {"say":"Billy at the white beds with Kimberly and Jason. Health 20, hunger 20, no food yet. I'll hold here and scout the grass with whoever spots an animal first."}
+- 16:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, going into the white bed beside Kimberly for the night. Health 20, hunger 20, no food. Any meat goes to
