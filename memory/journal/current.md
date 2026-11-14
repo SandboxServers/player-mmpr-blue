@@ -160,3 +160,12 @@
 - 13:21 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini, I've stepped aside. I'm taking the yellow bed at -274,69,291 for the night, in sight of the group."}
 - 13:21 act: {"actions":[{"do":"sleep"}],"say":"Billy: Goodnight, Trini. I'm in the yellow bed at -274,69,291, in sight of the group. Mutton is still in my hand for whoever has nothing."}
 - 13:22 act: {"actions":[],"say":"Kimberly, I'm not in the yellow bed at -274,69,291, so it's yours. I'll stand beside you on the grass. I'm holding 1 mutton if you're hungry."}
+- 13:26 act: {"say":"Billy here. I'm holding my mutton for Zack and staying near Kimberly and the group until morning. No free bed yet.","intent":{"goal":"hold_at_group_until_dawn","program":"rest","arguments":{"s
+- 13:27 act: {"say":"Morning, Kimberly. Yes, the mutton is still mine, held for Zack. No dry route to his pillar is confirmed yet, so I'm staying at the yellow beds until someone finds one."}
+- 13:28 act: {"say":"Billy: Zack, hold on. Kimberly and I will walk a short dry step north from the beds and call each waypoint before going on. I have the mutton and won't swim.","actions":[{"do":"goto","target":
+- 13:28 act: {"say":"Billy: I'm on grass at -272,68,280, dry and safe. I see no dry route north from here either. I'll hold the mutton and go only where a route is walked and called.","intent":{"goal":"hold_mutton
+- 13:28 act: {"say":"Billy: Kimberly, you scout first and call the waypoint. I'll stay on the grass at the beds with the mutton and follow only your called steps. Zack, hold on."}
+- 13:41 act: {"say":"Billy: night. I'm going into the yellow bed at -274,69,291, in sight of the group. Mutton stays with me for Zack.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}]}
+- 13:41 act: {"say":"Billy: every bed nearby is taken, so I can't sleep. I'm on the dirt at -281,67,319, awake and watching. Mutton still held for Zack.","intent":{"goal":"stay_awake_until_dawn_near_group","progra
+- 13:42 act: {"say":"Billy: I'm moving in to the yellow-bed camp near -274,69,292 to stay near the group. I won't go toward water. Holding the mutton for Zack.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z
+- 13:47 act: {"say":"Billy: dawn. I'm at -272,68,295, health 20, hunger 20. Mutton still held for Zack. I'll give it only once a dry route is walked and called."}
