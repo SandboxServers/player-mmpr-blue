@@ -154,3 +154,5 @@
 - 13:15 act: {"actions":[{"do":"note","text":"Picked up one mutton (Trini's gift). Holding it; hunger is full at 20, so I will eat it when hunger drops."}],"say":"Thank you, Trini. I have the mutton. My hunger is 
 - 13:18 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"note","text":"Group gathered at -267,68,291. Sun low; heading to the yellow bed at -281,69,291 for the night with the group."}],"say
 - 13:19 act: {"actions":[{"do":"note","text":"Dusk. In bed area at -281,69,291 with Jason and the group in sight. Going to sleep."}],"say":"Goodnight, Jason. I'm turning in at the yellow bed. Hold the group in sig
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: Night has come. Going into the yellow bed at -281,69,291. Jason, stay in sight."}
+- 13:20 act: {"actions":[{"do":"sleep"}]}
