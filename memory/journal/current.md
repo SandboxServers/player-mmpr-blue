@@ -31,3 +31,19 @@
 - 20:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: I have no food, Trini. Sleeping in the yellow bed beside you. Any food I find at first light goes to you first."}
 - 20:43 act: {"actions":[{"do":"sleep"}]}
 - 20:50 act: {"actions":[],"say":"Billy here at dawn on day 238. Health 20, hunger 20, no food and no weapon in hand. Trini and Riker first for any food found. I'll go west with Zack and Troi to look for seeds, an
+- 20:56 say: {"text":"Billy here, day 238, health 20, hunger 20, no food. I'm with Tommy at the beds. I'll head west for pig and cow leads once Zack or Troi is ready to come along."}
+- 20:56 say: {"text":"Tommy, nothing to eat yet, I have only planks and dirt. Bows are drawing nearby, so I'll stay put with you until we know where the threat is."}
+- 20:57 say: {"text":"Billy: Data, Tommy, let's go west together now for pig or cow, staying in sight of each other. Trini, you're first for anything we find; stay near the beds and keep your sword ready."}
+- 20:57 act: {"intent":{"goal":"search_west_grass_with_data_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":67,"z":229}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed
+- 20:57 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Billy: my walk west failed, so I'm joining Zack and Jason first. Data and Tommy, follow us."}
+- 20:57 act: {"intent":{"goal":"west_grass_with_zack_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal
+- 20:57 act: {"say":"Billy: I'm at -293,66,325 on the grass west of the beds. Zack, come to me and we'll go together. Tommy, Data, walk toward me and I'll wait here."}
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Billy: Dusk is coming. Going back to the yellow bed by the group to sleep. West at first light, together."}
+- 20:59 act: {"actions":[{"do":"sleep"}],"say":"Billy: Going to sleep in the bed here by the group. Tommy, stay close."}
+- 21:02 act: {"actions":[{"do":"sleep"}],"say":"Billy: Night here, sleeping now in the bed by the group. Food first at first light, Trini, Riker, then Tommy."}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: Sleep refused here for monsters. Trying the white bed at -271,67,318 with Jason."}
+- 21:08 act: {"actions":[{"do":"sleep"}],"say":"Billy: Going with Data and Wesley to the sheep field north, in sight of the group. Food to Trini first."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":322}}],"say":"Billy: Dawn. No food, no weapon, health 20. Joining Zack and Tommy at the crafting table. Trini first for any food."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":326}}],"say":"Billy: Golem and a phantom right next to me. Moving east, away from them."}
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":324}}],"say":"Billy: Golem closing from the south-west. Moving further east, away from it."}
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":327}}],"say":"Billy: Coming back to the beds to join Zack and the group. No food yet, health 20. Trini first for any mutton or chicken."}
