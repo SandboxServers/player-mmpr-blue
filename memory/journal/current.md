@@ -18,3 +18,4 @@
 - 06:22 act: {"say":"Thanks, Tommy, Trini, Zack. I'm at the bed with no food, hunger 16. At first light I'll come to the wall and we share what we have.","actions":[{"do":"sleep"}],"reasoning":"Night, I'm at a bed
 - 06:24 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Zack, stay clear of the zombie if you can. I'm at the white bed with no weapon, so I'm sleeping here.","reasoning":"
 - 06:25 act: {"say":"Zack, Jason, Trini, Tommy: I'm at the white beds and will sleep here tonight. At first light I'll search for food with you.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"
+- 06:25 act: {"say":"Heard you all. I'm at the white beds and will sleep here until light, then we pool food. Tommy, Trini, Zack, Jason: I have no food, only 30 dirt and 1 leather.","actions":[{"do":"sleep"}]}
