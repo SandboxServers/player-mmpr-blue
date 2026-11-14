@@ -132,3 +132,6 @@
 - 09:43 act: {"say":"Billy here. Going to the white beds to meet Tommy and Kimberly. Wooden sword ready, then the pig at -337,64,237.","intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"t
 - 09:43 act: {"say":"Billy here, at the white beds with Kimberly. Night, no food, sword in hand. Tommy, the pig hunt is at first light.","actions":[{"do":"goto","target":{"x":-297,"y":68,"z":293}}]}
 - 09:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 09:45 act: {"say":"Billy here, at the yellow bed by the oak logs. Holding for first light, then I'll join the pig hunt by the dry path. Meat to Jason first.","actions":[{"do":"goto","target":{"x":-281,"y":69,"z"
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}]}
+- 09:45 act: {"actions":[{"do":"sleep"}]}
