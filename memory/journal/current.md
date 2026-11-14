@@ -1544,3 +1544,5 @@
 - 05:16 act: {"actions":[],"say":"Tommy, I have no hoe, so I can't till. Trini's stone hoe works on dirt. I'll look for animals to the north, and I'll come back to the farm."}
 - 05:16 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":335}}],"reasoning":"Hungry, no food here. Search north-west for animals, away from the iron golem to the north-east.","intent":{"goal":"search_an
 - 05:16 act: {"actions":[],"intent":{"goal":"search_animals_further_west","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","p
+- 05:19 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 05:20 act: {"say":"Tommy, I have no food either. I'll search at first light and send word.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"intent":{"goal":"sleep_in_bed_tonight","program":"rest","
