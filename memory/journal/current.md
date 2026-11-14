@@ -1441,3 +1441,22 @@
 - 01:22 act: {"say":"Trini, I'm in the white bed here for the night. At first light I'll search for food with you, Tommy and Kimberly.","actions":[{"do":"sleep"}]}
 - 01:23 say: {"text":"Billy here. I have no food either, only pumpkins and seeds. First light, I'll join the search with you all."}
 - 01:23 act: {"reasoning":"Night, in the white bed. Rest until first light, then search for food with the group.","actions":[{"do":"sleep"}]}
+- 01:24 say: {"text":"Morning plan: food first. I'll look for cows and sheep with the group at first light."}
+- 01:29 act: {"intent":{"goal":"find_food_cow_or_sheep","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":444}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 01:29 say: {"text":"Billy here. I died out east at -251,443 and lost my things there. I'm at the spawn with empty hands. I'm coming to the yellow beds to join the food search."}
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":351}}]}
+- 01:30 say: {"text":"Billy here, at the yellow beds. Tommy, Kimberly: I'm with you. Let's go out together and stay in sight of each other."}
+- 01:31 act: {"actions":[{"do":"goto","target":{"x":-252,"y":68,"z":352}}],"say":"Heading to the old farm at -252,352 to search with you all."}
+- 01:31 say: {"text":"I'm here at the farm with Trini and Kimberly. I have no food, and my things lie at -251,68,443 where a creeper killed me. Once we find food, let's go there together for my stone pickaxe and t
+- 01:32 say: {"text":"I'll search north along the water for animals. Call out if you find any."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-248,"y":68,"z":330}}]}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-262,"y":68,"z":305}}]}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":270}}]}
+- 01:33 say: {"text":"Zack, yes, come search with me. I'm at -270,271 on the north edge, with a drop ahead. No animals yet."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":267}},{"do":"attack","target":"cow"}],"intent":{"goal":"hunt_cow_for_food","program":"travel","arguments":{"target":{"x":-274,"y":68,"z":267}},"w
+- 01:34 say: {"text":"I killed a cow at -274,68,267 and have 2 beef. Zack, Trini, Kimberly, Tommy, Jason: come to me or I'll bring it to you. Zack, you're at the yellow beds, so I'll walk there."}
+- 01:34 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"intent":{"goal":"bring_beef_to_group","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":325}},"wake_on":["goal_completed","un
+- 01:34 say: {"text":"I'm at the yellow beds with the beef, 2 pieces. Kimberly, Trini, Zack, come into sight and I'll give you one each. Tommy, come here too."}
+- 01:35 say: {"text":"Tommy, you're next to me; Kimberly and Trini first. I'm holding both beef until one of them is in sight. Kimberly, Trini, call out where you are."}
+- 01:35 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":351}}],"say":"Kimberly, walking to you with the beef now."}
+- 01:35 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Kimberly, I'm giving you one beef. Tell me if you can't see me."}
