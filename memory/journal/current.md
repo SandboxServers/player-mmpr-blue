@@ -1,4 +1,5 @@
 # Journal
+- Dawn day 195: woke at white beds, hunger 16, health 10.3. Sent helper to sheep field for food. Dropped items seen on ground near -262,67,370; iron golem to the north. Waiting for helper report.
 - 05:59 act: {"say":"I'm with you at the shore. I have no food, hunger 16. I have 40 dirt and a leather to share. Night is here, so I'll stay with the group.","intent":{"goal":"stay_near_group_through_night","prog
 - 06:00 act: {"say":"Good luck on the bed, Jason. I have no planks or wool, but I have 40 dirt if anyone needs it to block in. I'll keep watch with you until first light."}
 - 06:03 act: {"say":"Night is quiet here. I'll stay near Zack and Trini until first light, then go with you to look for food. I still have 40 dirt to share.","intent":{"goal":"hold_near_group_until_light","program
@@ -21,3 +22,24 @@
 - 06:25 act: {"say":"Heard you all. I'm at the white beds and will sleep here until light, then we pool food. Tommy, Trini, Zack, Jason: I have no food, only 30 dirt and 1 leather.","actions":[{"do":"sleep"}]}
 - 06:26 act: {"say":"Morning plan: I'm at the white beds with no food, hunger 16. Trini, Zack, Jason, Tommy, Kimberly: at first light I'll meet you at the sheep field and pool what we find.","actions":[{"do":"slee
 - 06:27 act: {"say":"Tommy, agreed. I'm at the white bed with no food. At first light I'll meet you all at the sheep field with my 30 dirt and leather.","actions":[{"do":"sleep"}],"reasoning":"Night, at a bed, she
+- 06:28 act: {"say":"Morning. I'm at the white beds, no food, hunger 16. I've sent a helper to the sheep field to look for food. I still have 30 dirt and 1 leather to trade."}
+- 06:28 act: {"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_blo
+- 06:28 say: {"text":"Billy here, on my way to the sheep field. Zack, where are you now? I can meet you for the mutton."}
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":370}},{"do":"goto","target":{"x":-264,"y":67,"z":371}},{"do":"goto","target":{"x":-267,"y":67,"z":369}},{"do":"goto","target":{"x":-261,"y":66,"z
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":371}},{"do":"goto","target":{"x":-262,"y":67,"z":372}},{"do":"goto","target":{"x":-261,"y":66,"z":367}},{"do":"goto","target":{"x":-267,"y":67,"z
+- 06:28 say: {"text":"Billy: no food found yet. Ground items here were only dirt, planks, wool. Zack has mutton, about 10 blocks from me at -266,67,369. Zack, please bring your mutton to Billy."}
+- 06:29 act: {"say":"Thank you, Zack. I'm at -266,67,369 waiting. I'm sorry about your death; I'm glad you're getting your things back. Any mutton you can spare, I'll take, and I can trade dirt or leather."}
+- 06:30 act: {"say":"No mutton then, thanks for checking, Zack. I'm going to the sheep field to meet Jason and the group. I have 38 dirt and 2 leather to trade for food.","intent":{"goal":"reach_sheep_field","prog
+- 06:30 act: {"say":"Tommy, I'm at the sheep field with no food, hunger 16. Could you bring your 2 pumpkins and 2 wheat to me or to Trini's wall? I'll trade my 38 dirt or 2 leather for them. I'm heading to Trini's
+- 06:30 act: {"say":"I'm at -260,68,380, between the sheep field and Trini's wall. The path had drops. I'm trying again toward the chicken spot.","intent":{"goal":"reach_chicken_spot","program":"travel","arguments
+- 06:30 act: {"say":"Tommy, I'm close, coming to you now.","actions":[{"do":"goto","target":{"x":-228,"y":68,"z":404}}]}
+- 06:31 act: {"actions":[{"do":"note","text":"06:40 at Trini's wall with Tommy (in reach). Asked Tommy for 2 wheat and 2 pumpkins; hunger 16, no food."}],"say":"Tommy, I'm right beside you now. Could you give me y
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-226,"y":68,"z":404}}],"say":"Tommy, I'm coming right next to you so I can take the wheat and pumpkins. Thank you."}
+- 06:31 act: {"actions":[{"do":"note","text":"06:50 At Tommy's side at Trini's wall, in reach. Waiting for his 2 wheat and 2 pumpkins."}],"say":"Tommy, I'm in reach now. Please give me the 2 pumpkins and 2 wheat. 
+- 06:33 act: {"actions":[{"do":"note","text":"07:00 Got Tommy's 2 wheat and 2 pumpkins. Neither is edible alone. Bread needs 3 wheat, so I need one more wheat, or an animal."}],"say":"Thank you, Tommy. I have 2 wh
+- 06:33 act: {"actions":[{"do":"note","text":"07:10 Thunder and a threat close; panic burrow reflex fired, did not finish. Holding at Trini's wall with the group. Still no bread wheat; Tommy has only seeds."}],"sa
+- 06:35 act: {"actions":[{"do":"note","text":"07:25 Zack hurt by an explosion, health under 1, coming to the group. I'm still holding at the wall; threats keep triggering burrow reflex. Hunger 16, no food yet."}],
+- 06:36 act: {"actions":[{"do":"note","text":"07:40 At the wall with Zack, Jason, Tommy, Trini, Kimberly. No food found in the group's search (drops were dirt, leaf litter, torches). Zack has rotten flesh and is a
+- 06:36 act: {"actions":[{"do":"note","text":"Afternoon: panic_burrow reflex fired again (threat close, did not finish). Still at wall with Zack, Jason, Tommy. No food found. Zack says share food with whoever need
+- 06:40 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"The travel stopped partway. I'm trying the yellow bed again directly."}
