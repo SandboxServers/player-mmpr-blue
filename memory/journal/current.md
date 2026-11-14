@@ -128,3 +128,4 @@
 - 12:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-276,"y":67,"z":272}},{"do":"goto","target":{"x":-281,"y":69,"z":288}}]}
 - 12:58 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: I'm at the yellow beds, going to sleep in the bed at -281,69,291. Tommy, Trini, I'm on dry grass and will be 
 - 13:03 act: {"actions":[{"do":"sleep"}]}
+- 13:04 act: {"actions":[{"do":"sleep"}],"say":"Billy here, at the yellow bed -281,69,291 with Tommy and Trini. No food yet. Sleeping here for the night.","reasoning":"Night, in a bed with the group close, health 
