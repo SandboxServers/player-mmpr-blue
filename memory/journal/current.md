@@ -9,3 +9,13 @@
 - 20:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-320,"y":68,"z":276}}],"say":"I'm in deep water, getting out to the shore near -320,68,276. Salmon are in the lake, but I won't swim."}
 - 20:17 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"I'm heading back to the beds to sleep with the group. Food tomorrow, at first light.","intent":{"goal":"reach_beds_and_sleep","prog
 - 20:18 act: {"say":"Zack, I'm Billy. My hunger is full again, but I have no food stored. I'm heading out to scout the west grass for animals once the others are ready.","intent":{"goal":"wait_for_group_scout","pr
+- 20:23 say: {"text":"Billy here, holding with you at the white bed. I'll try sleep again when the golems clear."}
+- 20:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, group near, golems gone. Try sleep again."}
+- 20:28 say: {"text":"Billy going west with Trini to look for animals. I'll stay with the group."}
+- 20:28 act: {"intent":{"goal":"follow_trini_west_for_food","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_t
+- 20:30 say: {"text":"Troi, I was shot near the beds on day 220 and lived. No food found since; I'm going west with Data to look for animals now."}
+- 20:30 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"intent":{"goal":"walk_west_with_data_for_food","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["directly_addressed","un
+- 20:33 say: {"text":"Billy heading west on the grass to look for animals. Any food I find goes to Trini first, then Riker."}
+- 20:33 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_co
+- 20:33 act: {"intent":{"goal":"search_west_for_pigs_and_cows","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":230}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_co
+- 20:33 act: {"intent":{"goal":"search_south_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-372,"y":68,"z":258}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","g
