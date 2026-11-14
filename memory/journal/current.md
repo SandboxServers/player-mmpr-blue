@@ -14,3 +14,4 @@
 - 06:20 act: {"actions":[{"do":"note","text":"Wall partly built (9 of 15); south side blocked. Group nearby. Sleeping here for the night."}],"say":"The wall is partly up. I'll rest here with you for the night and 
 - 06:20 act: {"say":"It's night and I have no food. I'm heading to the white beds by the wall to sleep. Anyone seen food?","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. I have no food. At first light I'll look for food with you all.","intent
