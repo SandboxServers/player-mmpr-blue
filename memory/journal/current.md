@@ -79,3 +79,11 @@
 - 07:51 say: {"text":"I'm at -290,64,196 with a wooden sword. No sheep in sight here now. Tommy, Zack, I'll hold this spot; say where you find one and I'll help hit it."}
 - 07:55 say: {"text":"Jason has the mutton now, so the group is covered. A wolf is near me, so I'm heading back south to the white beds before the night."}
 - 07:55 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":349}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 07:56 say: {"text":"Billy here. No food in my pack. I'm sending a hunt north for the cow and sheep near -285,235 and -276,212. Will share what I get."}
+- 07:56 act: {"actions":[{"do":"goto","target":{"x":-285,"y":65,"z":235}}],"intent":{"goal":"get_food_cow","program":"travel","arguments":{"target":{"x":-285,"y":65,"z":235}},"wake_on":["goal_completed","unexpecte
+- 07:58 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":214}}],"intent":{"goal":"get_food_sheep","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":214}},"wake_on":["goal_completed","unexpec
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":-290,"y":64,"z":194}}],"intent":{"goal":"get_food_sheep_2","program":"travel","arguments":{"target":{"x":-290,"y":64,"z":194}},"wake_on":["goal_completed","unexp
+- 07:59 act: {"intent":{"goal":"walk_to_white_beds","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":349}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 08:00 say: {"text":"Tommy, thanks. I'm staying at the white beds here, two blocks from the yellow ones. Health and hunger 20, still no food. I'll sleep when it's full night."}
+- 08:00 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Night. Zack, Trini, Tommy: I'm sleeping in the white bed. Food first thing in the morning, west to the cow at -363,6
