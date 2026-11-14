@@ -1,28 +1,29 @@
 # Summary
 
 ## Where I am
-- Life 19, day 205, night. Asleep or resting in a yellow bed near -274,69,291 / -282,70,309, with Tommy and Kimberly close, at the white and yellow beds around -271,67,318 to -262,67,354.
-- Health 20, hunger 20. Pack: 2 oak_log, 1 dirt, 3 stick, wooden_sword. No food.
+- Billy, life 19. Day 220, night. Last seen heading to the white bed at -281,67,320 near the group camp (yellow and white beds around -274,69,291 to -270,67,336).
+- Health was 20 at dawn on day 220; I died to skeletons that night, so check before trusting it.
+- Pack: wooden sword, sticks and planks from crafting (counts not checked), no food.
 
 ## Who is near
-- The group: Tommy, Kimberly, Trini, Jason, Zack, Picard.
-- Tommy and Kimberly are at the white beds. Trini and Jason were at the yellow beds near -271,67,336.
-- Jason was reported dead to skeletons east at -210,340. Zack was reported stuck on a pillar near -266,35,196.
+- The group: Tommy, Kimberly, Trini, Jason, Zack (stuck on a pillar near -266,35,196), Picard (out in the water at times).
+- Jason was reported dead to skeletons near -210,340 on day 205, but later was seen alive with the group at the white beds. Trust the later report.
 
 ## What I was doing
-- Day 205: first cow (2 beef) went to Jason. Then I drowned in the lake near -311,62,252 and lost my porkchop and wood; I respawned with nothing.
-- Plan for dawn: with Tommy and Kimberly, take the dry path to the pig at -337,64,237. Meat to Jason first.
+- Days 209 to 220: food hunt with the group. Pig porkchop (3) and mutton went to Picard, Tommy and Jason. Trini gave me one mutton, which I ate on day 220 when shot down to 7.
+- Crafted a wooden sword at the table near -251,67,356 after cutting logs on day 220.
+- Walking the west grass for the pig and cows was the plan for the next dawn.
 
 ## Leads for food
-- Pig at -337,64,237 by the dry path (group plan).
-- Cow west near -363,69,230; pig near -393,71,236; chicken near -379,72,230.
-- Sheep near -257,66,375 (unverified today).
-- Empty and not to count on: cow at -285,65,235 (a donkey), sheep at -276,66,212, cow at -262,67,244.
+- Pig and cows on the west grass near -392,72,222 and -363,69,230; chicken near -379,72,230.
+- Sheep near -276,66,215 gave mutton once; sheep near -257,66,375 unverified.
+- Empty: cow at -285,65,235 was a donkey; cow at -262,67,244 gone.
 
 ## Lessons that matter most
-- Food comes first. Share it with Jason first.
-- Never go alone, and never into deep water: the lake drowned me.
-- Sleep in a bed with the group close; skeletons shoot near the beds at night.
+- Food comes first. Share it with whoever is hungriest and in reach.
+- Never go alone, and never into deep water: the lake drowned me twice.
+- Sleep in a bed with the group in sight. Skeletons and pillagers kill near the beds at night.
+- Keep a sword in hand; unarmed I could not fight back.
 - If goto stops at water or short of its mark, unstick and walk again in short steps.
-- Keep a sword in hand. I was unarmed until I crafted a wooden sword at the table near -251,67,356.
+- Give only when the other is in reach, or the food stays with me.
 - Pool searches with the group; one person alone found no food.
