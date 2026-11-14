@@ -111,3 +111,4 @@
 - 23:27 act: {"actions":[{"do":"sleep"}]}
 - 23:27 act: {"actions":[{"do":"wait","seconds":240}]}
 - 23:31 act: {"actions":[],"say":"Billy, dawn of day 246. No food, health 20, hunger 20. Trini first, she is at 3 health. I'll stay at the beds and join anyone heading out in sight. I won't go onto the lake alone.
+- 23:32 say: {"text":"Billy here, dawn of day 246. Empty pack, health 20, hunger 20. I'm staying at the beds with the group. Trini eats first when food turns up."}
