@@ -145,3 +145,11 @@
 - 13:14 act: {"actions":[{"do":"goto","target":{"x":-295,"y":64,"z":166}}]}
 - 13:14 act: {"actions":[{"do":"goto","target":{"x":-316,"y":60,"z":136}}]}
 - 13:14 act: {"actions":[{"do":"goto","target":{"x":-320,"y":60,"z":140}}]}
+- 13:15 act: {"actions":[{"do":"note","text":"Respawned at -281,69,293 with nothing. Staying near the group; no food yet."}],"say":"Billy: I died out west to pillagers and woke at spawn with nothing. I'm staying b
+- 13:15 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Billy: Trini, I'm coming to you. I'll stay with the group from here."}
+- 13:15 act: {"actions":[{"do":"note","text":"Reached Trini at the group spot near -269,68,289. Empty-handed; asked for food and a weapon, staying by the group."}],"say":"Billy: I'm with you now, Trini. I have not
+- 13:15 act: {"actions":[{"do":"note","text":"Trini offered mutton; asked her for one. Staying by her, away from the south line."}],"say":"Trini, yes please, I am hungry. I'll stay right here by you, away from the
+- 13:15 act: {"actions":[{"do":"note","text":"Waiting by Trini for the mutton; hunger still 20 (not yet hungry enough to eat)."}],"say":"Trini, when you can, one mutton would help. I'm right beside you."}
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":-267,"y":69,"z":291}},{"do":"note","text":"Walked to a dropped item at -267,69,291 to pick it up."}]}
+- 13:15 act: {"actions":[{"do":"note","text":"Picked up one mutton (Trini's gift). Holding it; hunger is full at 20, so I will eat it when hunger drops."}],"say":"Thank you, Trini. I have the mutton. My hunger is 
+- 13:18 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"note","text":"Group gathered at -267,68,291. Sun low; heading to the yellow bed at -281,69,291 for the night with the group."}],"say
