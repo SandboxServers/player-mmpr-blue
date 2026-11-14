@@ -1,0 +1,164 @@
+# Journal
+- Day 205: at the beds near -279,70,308 with Tommy and Kimberly. Slept in a yellow bed; plan first-light pig hunt by dry path with the group, meat to Jason first. Day file not written (no create tool); this line stands for it.
+- Day 204: afternoon at the white beds, waiting for first light; slept at dusk.
+- Day 199 (life 17): woke by the white beds, waited for night, slept in the bed beside me. Health and hunger full. Next day: food with the group.
+- 08:03 act: {"say":"Morning, all. I'm up at the white beds with full health and hunger. I'll join the cow hunt west at first light. Tommy, I'm coming with you.","intent":{"goal":"wait_for_first_light","program":"
+- 08:03 act: {"say":"Going west with you now, Tommy. Waiting on the way at the cow spot.","intent":{"goal":"join_cow_hunt_west","program":"travel","arguments":{"target":{"x":-363,"y":69,"z":230}},"wake_on":["direc
+- 08:03 act: {"say":"Understood, Tommy. I'll go back to the white beds and wait for first light with you.","intent":{"goal":"return_to_beds_wait_dawn","program":"travel","arguments":{"target":{"x":-294,"y":69,"z":
+- 08:04 act: {"say":"Morning. Billy here, heading to the closer cows at -262, 67, 244 with Tommy and Trini.","intent":{"goal":"join_cow_hunt_near","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}
+- 08:04 act: {"say":"Billy here, I'm out at -262, 67, 244 by the water, in the open. Enderman and a creeper about 20 away. I'll stay put and hold for dawn.","intent":{"goal":"hold_until_dawn","program":"rest","arg
+- 08:04 act: {"intent":{"goal":"move_away_from_enderman","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":258}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 08:04 act: {"intent":{"goal":"hold_until_dawn_2","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operations"
+- 08:08 act: {"say":"Billy here, dawn. I'm at -246, 67, 258 and going for the cow at -285, 65, 235. Tommy, sorry about the night.","intent":{"goal":"reach_cow_near_285","program":"travel","arguments":{"target":{"x
+- 08:09 act: {"say":"Tommy, the travel stopped at the water edge. I'm at -262, 64, 256 and will go by the grass to the cow.","intent":{"goal":"reach_cow_by_grass","program":"travel","arguments":{"target":{"x":-272
+- 08:09 act: {"say":"Tommy, I'm holding at -271, 66, 245 on the grass. The cow is at -285, 65, 235. Come by the grass and we'll hunt it together.","intent":{"goal":"hold_for_tommy","program":"rest","arguments":{},
+- 08:09 act: {"say":"Trini, I'm coming to the cow now. Going by the grass.","intent":{"goal":"reach_cow_with_trini","program":"travel","arguments":{"target":{"x":-282,"y":66,"z":239}},"wake_on":["directly_addresse
+- 08:09 act: {"say":"I'm at the cow spot now, near -281, 66, 239. Trini, Tommy, come to me, I'll go for the cow.","intent":{"goal":"reach_cow_285","program":"travel","arguments":{"target":{"x":-284,"y":65,"z":236}
+- 08:09 act: {"say":"Trini, come by the grass to the south, I'm here at -284, 65, 237. The cow may have wandered; I'll look for it.","actions":[{"do":"attack","target":"cow"}]}
+- 08:09 act: {"say":"No cow here, the one at -285, 65, 235 was a donkey. I'm heading north to the sheep at -276, 66, 212.","intent":{"goal":"reach_sheep_276_212","program":"travel","arguments":{"target":{"x":-276,
+- 08:09 act: {"say":"I'm at the sheep spot, -276, 65, 214. Looking for it now.","actions":[{"do":"attack","target":"sheep"}]}
+- 08:09 act: {"say":"No sheep here either, the food spots are old. I'm holding at -276, 65, 214. Tommy and Trini, come here; we'll search together and share what we find.","intent":{"goal":"hold_for_group","progra
+- 08:10 act: {"say":"An enderman is about 9 blocks north-west of me. I'm moving south-east toward -268, 66, 238, away from it.","intent":{"goal":"move_away_from_enderman_south","program":"travel","arguments":{"tar
+- 08:10 act: {"say":"I'm at -268, 67, 238 with Tommy close. The nearby food spots were all stale: only a donkey and no sheep. Trini, wait for us here and we'll go west together to the cow at -363, 69, 230.","inten
+- 08:10 act: {"say":"Going to Trini at -278, 66, 246 now, then west with the group to the cow.","intent":{"goal":"join_group_at_trini","program":"travel","arguments":{"target":{"x":-278,"y":66,"z":246}},"wake_on":
+- 08:11 act: {"say":"Trini, Jason, I'm heading west to the cow at -363, 69, 230. Follow me.","intent":{"goal":"reach_cow_west","program":"travel","arguments":{"x":-363,"y":69,"z":230},"wake_on":["directly_addresse
+- 08:11 act: {"intent":{"goal":"reach_cow_west","program":"travel","arguments":{"target":{"x":-363,"y":69,"z":230}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limi
+- 08:11 act: {"say":"Going to the cow at -262, 67, 244, closer one. Trini, I'm coming.","intent":{"goal":"reach_near_cow","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":244}},"wake_on":["directly_ad
+- 08:11 act: {"say":"No cow here, it's gone. Tommy, give the porkchops to Jason and Trini, they're hungrier. I'll head to the cow at -363 and check the way.","actions":[{"do":"attack","target":"cow"}]}
+- 08:11 act: {"say":"No cow in sight here. I'm going west to the far cow at -363, 69, 230. Anyone who wants to come, follow.","intent":{"goal":"reach_far_cow","program":"travel","arguments":{"target":{"x":-363,"y"
+- 08:11 act: {"actions":[{"do":"attack","target":"cow"}],"say":"I'm at the far cow spot, -362, 69, 230. No cow in sight yet. Checking."}
+- 08:12 act: {"say":"I got a cow at -391, 64, 259: 2 beef. Jason and Trini, where are you? I'll bring the beef to whoever is hungriest.","intent":{"goal":"meet_group_with_beef","program":"travel","arguments":{"tar
+- 08:12 act: {"say":"Water is in my way. Jason and Trini, I'm coming with 2 beef. Stay put.","intent":{"goal":"meet_group_with_beef","program":"travel","arguments":{"target":{"x":-294,"y":64,"z":245}},"wake_on":["
+- 08:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":2}],"say":"Jason, here are 2 beef, you're the hungriest. Eat up. Then we look for the next cow together."}
+- 08:13 act: {"say":"The beef is already with Jason, so that's settled. I'm hungry too, so when we find the next cow I'll share it with whoever needs it most.","intent":{"goal":"hold_with_group","program":"rest","
+- 08:13 act: {"say":"I'm going to the cow at -391, 66, 253 to get more food for the group. Come along if you want.","intent":{"goal":"hunt_cow_for_group","program":"travel","arguments":{"target":{"x":-391,"y":66,"
+- 08:13 act: {"say":"Jason, come along. I'll head for the cow at -363, 69, 230 first, it is closer.","intent":{"goal":"hunt_cow_for_group","program":"travel","arguments":{"target":{"x":-363,"y":69,"z":230}},"wake_
+- 08:13 act: {"say":"Jason, I'm at the shore, the way west keeps stopping at the water. I see a pig to the west at -353, 66, 236. I'm going there now and will wait for you.","intent":{"goal":"hunt_pig_for_group","
+- 08:13 act: {"actions":[{"do":"attack","target":"pig"}],"say":"I'm at the west edge now. Trying for the pig nearby."}
+- 08:14 act: {"actions":[{"do":"note","text":"Killed a pig, got 2 porkchop. Holding them for Jason and Trini."}],"say":"Got 2 porkchop from the pig. Jason, are you out of the water? I'll bring them to you. Stay cl
+- 08:14 act: {"say":"Jason, I'm sorry. I have 2 porkchop for you. Where are the yellow beds exactly? Tell me the coordinates and I'll bring them. Zack, I'll go with you."}
+- 08:15 act: {"say":"On my way to you, Jason, with the porkchops. Stay by the beds.","intent":{"goal":"bring_porkchop_to_jason","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["direc
+- 08:15 act: {"actions":[{"do":"attack","target":"drowned"}]}
+- 08:15 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"I'm in the water at -311,62,252 with a drowned on me. Zack, Trini, Tommy, help, or I need to get out toward you."}
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":-300,"y":63,"z":240}}],"say":"Heading out to Zack on the grass, away from the drowned.","intent":{"goal":"reach_shore_zack","program":"travel","arguments":{"targ
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-284,"y":67,"z":340}}],"say":"I died in the lake to the drowned. My porkchop and wood are in the water near -315,61,257. I respawned at the spawn with nothing. I
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":-285,"y":65,"z":235}}],"say":"I'm back on land at the spawn, health full, but I have no food or tools. I'm going to the cow near -285,65,235 to get meat for Jaso
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-288,"y":65,"z":236}}],"say":"Good, Zack. I'm unarmed now, so I'll stay near you and wait on the grass. You take the cow, I'll help carry the meat to Jason."}
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"The cow near -285,65,235 was my old note, it may have wandered. Zack, search north-east. I'm going to the white beds at -298,68,295
+- 08:17 act: {"actions":[],"say":"Jason, I'm at the white beds near -298,68,295, out of the lake and safe. I have no food. Zack and Tommy are hunting the cow. I'll stay here and help carry any meat to you."}
+- 08:18 act: {"actions":[],"say":"I have no bed, so I'll stay right beside you two on the grass, away from the water. Zack and Tommy, take the beds. I'll keep watch and wake you if anything comes."}
+- 08:19 act: {"actions":[],"say":"Got it, Zack. I'm staying on the grass by the beds and will wake you if anything comes."}
+- 08:26 act: {"actions":[],"say":"Billy here, still on the grass by the white beds with no food and no weapon. I'll go south with Zack and Tommy at first light to the cows near -293,64,177, and I'll share whatever
+- 08:29 act: {"actions":[],"say":"Morning all. Billy here, full health and hunger, no food or weapon. Archer is north near the cows, so I'll go with whoever leaves in full light, keeping south and off the north li
+- 08:29 act: {"actions":[],"say":"Zack, I'm coming with you toward the cows at -295,64,205, staying off the north line. Tommy, if the enderman is on you, get away from it and keep to the beds. Jason and Kimberly, 
+- 08:30 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":356}}],"say":"I'm going to the sheep group at -264,66,356, in daylight, away from the north. Zack, I'm sorry I can't reach you at -294,205 safely
+- 08:30 act: {"actions":[],"say":"I'm here at the yellow beds with Jason and Kimberly. I'm with the group for the sheep at -257,66,375. I have no weapon, so I'll follow, and I'll share any meat."}
+- 08:31 act: {"actions":[],"say":"Going with you, Jason. Billy following behind Tommy, with no weapon, so I'll stay in the group.","intent":{"goal":"follow_group_to_sheep","program":"follow","arguments":{"target":
+- 08:31 act: {"actions":[],"say":"My follow failed, so I'm holding here at the yellow beds with Zack, Trini, Tommy and Kimberly. Jason, say go and I'll walk right behind you."}
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"say":"Dusk. I have no bed, so I'm going to the other yellow bed at -271,68,364 to rest near the group. If someone is already in it, tell 
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 08:46 act: {"say":"Billy here, safe at the yellow bed near -263,67,354. I have no food or weapon. At first light I'll join the sheep search south and east."}
+- 08:51 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Billy here, unarmed, no food. Jason died to skeletons east at -210,340, so I'm heading south-west to Tommy and Zack by the water at -298,190 to
+- 08:51 act: {"intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":16}},"say":"Billy: skeleto
+- 08:52 act: {"say":"Billy at the yellow beds, holding. Tommy, if you get the sheep at -283,64,185, I'm hungry and would take any meat. I'll stay here and not go south past the skeletons."}
+- 08:54 act: {"say":"Tommy, Jason: I'm at the yellow beds with no food and no weapon, holding here. I'll walk to the cow at -285,65,235 with anyone who comes, not alone.","intent":{"goal":"hold_at_beds","program":
+- 08:54 act: {"say":"Zack, yes, I'll wait here for your call. I won't move toward -285,235 until you are in sight and say the skeletons at -286,229 have gone."}
+- 08:57 act: {"say":"Picard, I'm at the beds too with no food. Known food: cow at -285,65,235 near the skeleton route, and sheep to the north at -276,66,212. Holding here until someone calls meat."}
+- 08:58 act: {"say":"Zack, I'll go north to the sheep at -276,66,212 with you and Trini, in the group only. I'm unarmed, so I'll stay behind your sword. Say when you move and I'll fall in."}
+- 08:59 act: {"say":"Zack, Tommy: it's dusk and I'm unarmed, so I won't come north tonight. I'm staying at the beds with Jason and Trini. Go for the sheep in the morning if it's still there, and call me then."}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Billy here, night at the yellow beds. No food, no weapon. Going to the bed by Kimberly and Trini to rest.","intent":{"goal":"reach_
+- 09:04 act: {"actions":[{"do":"sleep"}],"say":"Trini, I'm in the bed beside you. Going to sleep. Hunt at first light."}
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy: sleep didn't take at the bed, trying the other bed next to Trini."}
+- 09:05 act: {"actions":[],"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
+- 09:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}}],"say":"Billy here, morning of day 203. Full health and hunger, no food, no weapon. Heading to the yellow beds to join the group for the sh
+- 09:09 act: {"actions":[{"do":"note","text":"Day 203 dawn at yellow beds (-263,66,356). No food, no weapon, health and hunger 20. Group scattered: Kimberly at white beds, Zack freeing himself. Holding for the gro
+- 09:09 act: {"say":"Billy here, at the yellow beds with no food and no weapon. I'll gather wood by the oak logs to the east and craft a sword, then join Tommy's sheep hunt when it's safe.","intent":{"goal":"gathe
+- 09:10 act: {"say":"The oak by the water is unsafe to dig. I'm moving to the oak logs to the south-east, away from the water.","actions":[{"do":"goto","target":{"x":-242,"y":67,"z":366}},{"do":"mine","block":"oak
+- 09:10 act: {"say":"Fell a little but fine. I have wood now; making planks and a sword at the table by the yellow beds.","actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":357}}]}
+- 09:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 09:10 act: {"say":"Billy: still unarmed, no food, health recovering from a fall. I'm on the grass south of the yellow beds at -247,67,377. Will craft a sword as soon as the planks go through, and I'll join any s
+- 09:11 act: {"intent":{"goal":"reach_crafting_table","program":"travel","arguments":{"target":{"x":-251,"y":67,"z":358}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 09:11 act: {"say":"Billy: falls keep stopping my walk, so I'll craft the planks right here where I stand, then walk to the table.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 09:11 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
+- 09:11 act: {"say":"Billy: I have sticks and planks. Walking to the table at -251,67,356 to craft the wooden sword.","intent":{"goal":"reach_table_for_sword","program":"travel","arguments":{"target":{"x":-251,"y"
+- 09:11 act: {"say":"At the table now. Crafting my wooden sword.","actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 09:11 act: {"say":"Billy here: I have a wooden sword now, at the yellow beds by the table at -251,67,356. Hunger is 17, still no food. Tommy, Zack, Trini: I'll join the next sheep or cow hunt. Call where you are
+- 09:11 act: {"say":"Holding at the table, Tommy. Sword is ready. Say when you have yours and we go for the pig together."}
+- 09:12 act: {"say":"Going to the white beds at -295,69,349 to meet you, Tommy and Trini. Then west to the pig.","intent":{"goal":"join_pig_hunt_at_white_beds","program":"travel","arguments":{"target":{"x":-295,"y
+- 09:13 act: {"say":"Billy here at the white beds. Tommy, Trini, Jason, I am with you. Ready for the pig when you are.","intent":{"goal":"hold_at_white_beds_for_pig_hunt","program":"rest","arguments":{},"wake_on":
+- 09:13 act: {"say":"Trini, I am here at the white beds with my wooden sword. Hunger is 17 and I have no food. If the apple is spare, I would be grateful, but Jason first. Tommy, when are we going west?"}
+- 09:14 act: {"say":"Thank you, Trini, and thank you Jason. I will eat the apple when it reaches me. I am ready to go west when Tommy calls.","actions":[{"do":"eat"}]}
+- 09:14 act: {"say":"Going west with you now, Tommy. Following Trini. Calling when I see the pig.","intent":{"goal":"follow_tommy_west_to_pig","program":"travel","arguments":{"target":{"x":-345,"y":65,"z":232}},"w
+- 09:14 act: {"say":"Trini, I am at -294,67,318, a little north of the white beds, my route went this way. I will hold here until Tommy clears the way. Please come to me if you can."}
+- 09:15 act: {"say":"Trini, I can see you, thank you. Please give me the apple if you still have it. Then we follow Tommy west to -310,67,330.","intent":{"goal":"follow_tommy_west_with_trini","program":"follow","a
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":-295,"y":67,"z":318}}]}
+- 09:16 act: {"say":"Following Tommy's way to the lake shore at -345,64,260, then north to the pig. Billy coming.","intent":{"goal":"reach_tommy_at_lake_shore","program":"travel","arguments":{"target":{"x":-345,"y
+- 09:17 act: {"actions":[{"do":"unstick"}]}
+- 09:17 act: {"intent":{"goal":"get_out_of_lake_to_tommy","program":"travel","arguments":{"target":{"x":-350,"y":64,"z":232}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 09:17 act: {"say":"I am out of the lake and at your side, Tommy. Ready for the pig hunt."}
+- 09:19 act: {"intent":{"goal":"join_tommy_for_pig","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 09:20 act: {"say":"Night is here. I will stay close to you, Tommy, and not go into the dark for the pig.","intent":{"goal":"stay_near_tommy_at_night","program":"follow","arguments":{"target":"ag_tommy_01"},"wake
+- 09:20 act: {"say":"Understood, Tommy. A skeleton is coming from the west with a bow. I will stay next to you and fight it with my sword if it comes close."}
+- 09:21 act: {"intent":{"goal":"sleep_in_bed_at_spawn","program":"rest","arguments":{"at":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 09:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 09:21 act: {"actions":[{"do":"sleep"}]}
+- 09:21 act: {"say":"Trini, I'm at the yellow beds at -262,67,354, out of the skeleton's line. Come here if you can.","intent":{"goal":"rest_at_beds_through_night","program":"rest","arguments":{},"wake_on":["direc
+- 09:22 act: {"say":"Trini, Tommy, come to the yellow beds, I am here. I have no food either, but we stay together until light.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly
+- 09:25 act: {"actions":[{"do":"sleep"}],"say":"Tommy, I'm going to sleep in this bed till light. Then the pig hunt with you, and I'll meet Jason and Trini at the white bed."}
+- 09:29 act: {"say":"Morning. Billy here, unarmed and no food. I'm getting wood from the oak logs east, away from the skeleton ground, to make a sword. Tommy, I'm sorry about the hunter. Jason, Trini, stay at the 
+- 09:30 act: {"say":"Got 3 oak logs. Making planks and a wooden sword at the table, then I'll walk to the white bed to Jason and Trini.","actions":[{"do":"goto","target":{"x":-252,"y":67,"z":357}},{"do":"craft","i
+- 09:30 act: {"say":"I have a wooden sword now. Heading to the white beds to meet Jason and Trini. Then we hunt the pig together in daylight.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":338}}],"reasonin
+- 09:30 act: {"say":"Tommy, Trini, Jason: I'm here with the sword. Let's go to the pig at -337,64,237 together, in daylight. Jason gets the first meat as agreed. Stay in a group and keep away from the skeleton lin
+- 09:31 act: {"say":"Tommy, I'm at the white bed at -272,67,337 with Jason and Trini. Come here and we go to the pig together. Jason, Trini: we'll bring meat back here, Jason first.","actions":[],"reasoning":"Tomm
+- 09:32 act: {"say":"Tommy, let's go to the pig now, together. Jason, Trini, hold at the bed.","actions":[],"intent":{"goal":"hunt_pig_with_tommy","program":"travel","arguments":{"target":{"x":-330,"y":64,"z":240}
+- 09:32 act: {"say":"My travel stopped at -284,66,322, halfway. Tommy, Kimberly: come to me here and we go together. I'll wait.","actions":[],"reasoning":"Travel intent failed partway. Regroup with Tommy and Kimbe
+- 09:33 act: {"say":"All three here. Going to the pig together. Stay close.","actions":[],"intent":{"goal":"reach_pig_as_group","program":"travel","arguments":{"target":{"x":-340,"y":64,"z":236}},"wake_on":["direc
+- 09:33 act: {"say":"The travel keeps stopping near -284,66,320. I'll walk in short steps toward the pig instead. Keep close to me.","actions":[{"do":"goto","target":{"x":-300,"y":65,"z":300}}],"reasoning":"Long t
+- 09:34 act: {"intent":{"goal":"reach_pig_hunt_area","program":"travel","arguments":{"target":{"x":-340,"y":64,"z":236}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],
+- 09:34 act: {"say":"Kimberly, I'm at -298,67,300, right beside you. Tommy, wait at the shore. We'll go together once you're out.","reasoning":"Travel failed again and the lake is between us. Stay with Kimberly, w
+- 09:34 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Going to you now, Tommy. Kimberly, stay on me.","reasoning":"Tommy is on land at the shore. Walk to him by name rather than the long travel tha
+- 09:34 act: {"say":"I can't see either of you from here. I'm at -298,67,300 by the white beds. Come to me, or tell me a direction, and I'll walk to you.","reasoning":"Neither Tommy nor Kimberly is in sight, so wa
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":-310,"y":65,"z":275}}],"say":"Coming, Kimberly. Heading for the shore.","reasoning":"Kimberly is going to Tommy at the shore and asked me to come. Take a short h
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":-325,"y":64,"z":255}}],"reasoning":"The short hop worked. Keep going in short steps toward the shore where Tommy and Kimberly should be."}
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":-310,"y":66,"z":275}}],"reasoning":"I am in deep water at -325,61,255 and falling. The lake is dangerous. Go back to the last dry ground I stood on."}
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"say":"The lake is in the way. I nearly went under at -325,61,255, so I'm back on land. I'm going back to the beds for the night. Tommy, K
+- 09:36 act: {"say":"Agreed, Trini. I'm staying at the beds. Let's go at first light by the dry path. Kimberly, Tommy, stay out of the deep water.","reasoning":"Trini warns that the west shore is deep water and sk
+- 09:37 act: {"actions":[{"do":"wait","seconds":5}],"say":"Picard, the pig at -337,64,237 is the safer food, reached by the dry path north of the lake. We go at first light with Tommy and Kimberly.","reasoning":"P
+- 09:38 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Tommy reports two iron golems to the south. Stay at the beds, watch, and wait for first light."}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm going to the white bed to sleep, health and hunger full. First light, the dry path to the pig with Tommy 
+- 09:42 act: {"actions":[{"do":"sleep"}]}
+- 09:43 say: {"text":"Billy here, awake at the yellow beds with full health and hunger. No food yet. I'll wait for first light and join the pig trip by the dry path."}
+- 09:43 act: {"say":"Billy here. Going to the white beds to meet Tommy and Kimberly. Wooden sword ready, then the pig at -337,64,237.","intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"t
+- 09:43 act: {"say":"Billy here, at the white beds with Kimberly. Night, no food, sword in hand. Tommy, the pig hunt is at first light.","actions":[{"do":"goto","target":{"x":-297,"y":68,"z":293}}]}
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 09:45 act: {"say":"Billy here, at the yellow bed by the oak logs. Holding for first light, then I'll join the pig hunt by the dry path. Meat to Jason first.","actions":[{"do":"goto","target":{"x":-281,"y":69,"z"
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}]}
+- 09:45 act: {"actions":[{"do":"sleep"}]}
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Billy here, at the yellow beds with full food-stock of nothing but hope. Holding until first light, then the pig trip with Tommy an
+- 09:47 act: {"actions":[],"say":"Billy here, at the yellow beds with a wooden sword. Agreed, Kimberly and Trini: first light, we all go to the pig by the dry path together, meat to Jason first."}
+- 09:47 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"Billy here, dawn. Going to the white beds to meet Jason and Trini, then the pig by the dry path with Tommy and Kimberly. Meat to Ja
+- 09:48 act: {"actions":[{"do":"goto","target":{"x":-337,"y":64,"z":237}}],"say":"Billy going now to the pig at -337,64,237 with Tommy and Kimberly. Meat to Jason first. I'm unarmed except a wooden sword; I'll sta
+- 09:48 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"Billy: I'm at -337,64,238 alone, no pig in sight. I agree with the group: I'm going back to the white beds to join Tommy, Kimberly,
+- 09:48 act: {"actions":[],"say":"Billy here at the white beds, with Kimberly in reach. Jason, Trini, Tommy: I'm holding for you. Once you are in sight, I'll follow Tommy on the dry path."}
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-337,"y":64,"z":237}}],"say":"Billy: I'm not leading, Tommy is. Kimberly, I'm heading to the pig at -337,64,237 now on the dry path behind you. Tommy, call your 
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Billy: I'm at the pig spot alone, no pig in sight. Going to the bed at -271,67,319 to join Tommy, Kimberly, Jason and Trini. Everyo
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy: I'm here at the white bed, -272,67,316. Holding with you, Tommy. Waiting for Kimberly and Jason to get here, then we take th
+- 09:50 act: {"actions":[],"say":"Billy: I'm with Tommy, Jason and Trini at the bed. Waiting for Kimberly. Tommy leads the dry path when she is here."}
+- 09:51 act: {"actions":[],"say":"Billy: I'm holding at the bed. I have a wooden sword, so I can cover the pig hunt. Tommy, go meet Kimberly; I stay here with Trini and Jason."}
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-298,"y":67,"z":296}}],"say":"Billy: On my way to the beds at -298,67,296, following Jason and Trini."}
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-294,"y":68,"z":300}}],"say":"Billy: Coming to Tommy, Jason, Trini and Kimberly now. Tommy leads the dry path; I'll stay in sight behind him."}
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":245}}],"say":"Billy: Coming up to Tommy at -262,67,245 on the dry ground, in sight of you all."}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":-261,"y":64,"z":266}}],"say":"Billy: Following Tommy to -261,64,266. I'll help look for the chicken and stay in sight."}
+- 09:55 act: {"say":"Billy here, holding at -261,64,265 next to Tommy. I'll stay in sight. Tommy, say the word and I'll search the dry grass south with you. Jason gets the first meat.","intent":{"goal":"hold_with_
+- 09:55 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Going with you, Tommy. Staying within a block."}
+- 09:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"On my way to you, Tommy."}
+- 09:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Coming to you, Tommy. Keeping in sight."}
+- 10:01 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Heading to the white beds with the group. Nobody alone."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Kimberly, I'm heading to the white beds at -270,67,318 with you. Tommy said everyone holds there."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"At the beds for the night. Tommy, Kimberly, we hunt at first light together, Jason and Picard first for meat."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:02 act: {"say":"Kimberly, Tommy: I'm at -279,70,308, unarmed, no food. Agreed, we hunt at first light together, Jason and Picard first. I'm taking the yellow bed now.","actions":[{"do":"goto","target":{"x":-2
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-282,"y":70,"z":309}},"wake_on":["directly_addressed"
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy here, at the yellow beds for the night. Full health and hunger. Pig at first light with the group, meat to Jas
