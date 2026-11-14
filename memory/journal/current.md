@@ -86,3 +86,6 @@
 - 22:37 say: {"text":"Billy at the white beds, health 20, hunger 20, no food. No animals west. I'm staying with the group and will sleep in a white bed at dusk. Any food goes to Trini first."}
 - 22:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, group at the beds, days_since_sleep 7. Go to bed and sleep."}
 - 22:42 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in view now. Retry sleep once in the bed with the group around."}
+- 22:48 act: {"say":"Billy here, dawn of day 243. Health 20, hunger 20, no food and no weapon. Trini first for any food found. I'll scout the grass west with whoever is ready, in sight of the group.","intent":{"go
+- 22:48 act: {"say":"Billy at -300,66,325 on the west grass, alone, no food. Riker, your health is low; I'm heading back to the beds to meet the group before any lake trip. I won't go into deep water alone.","inte
+- 22:48 act: {"say":"Billy at the white beds, health 20, hunger 20, no food. Riker, I'm with you here. I won't go to the lake alone. Fish goes to Trini first, then you. I'll hold here and watch for golems."}
