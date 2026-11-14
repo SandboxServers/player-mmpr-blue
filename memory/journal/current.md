@@ -1,2 +1,13 @@
 # Journal
+- Waking 389, day 220 night: slept, now awake at the white bed -272,67,318, health 20, hunger 20. Said hello and holding until dawn for the pig hunt with the group.
 - 15:03 act: {"say":"Billy here, at the white bed at -271,67,318 next to the crafting table. Hunger 20, health 20, no food. I'm trying this bed for the night."}
+- 15:03 act: {"say":"Billy here, awake at the white bed at -272,67,318. Health 20, hunger 20, no food. Holding here until first light, then the pig hunt at -168,89,225 with the group. Meat goes to Trini first.","i
+- Day 221 dawn: walked toward the pig; reached -200,84,254 with Picard near, health 20, hunger 20. Kimberly ate Trini's porkchop. Going for the pig to share.
+- Day 221 midday: pig site -168,89,225 empty. Walk west stopped at -185,81,220. No food found yet; heading back to the yellow beds group to scout within sight, per Kimberly.
+- Day 221 midday: reached the group at -266,68,296. Health 20, hunger 20. Jason's sign reads he was shot on day 220 near the yellow beds. Scouting 10 blocks south on dry grass with the group.
+- Day 221 midday: scouted 10 blocks south of the yellow beds; no animals seen, only oak logs. Health 20, hunger 20. Holding with the group and watching for calls.
+- 15:07 act: {"say":"Billy: dawn. I'm full, so I'll walk to the pig at -168,89,225 and hunt with you. Trini, Kimberly needs the porkchop more than I do.","actions":[{"do":"goto","target":{"x":-168,"y":89,"z":225}}
+- 15:08 act: {"say":"Billy at -200,84,254, close to the pig spot with Picard. I have a sword and full hunger, so I'll go first to the pig and keep it for Kimberly and Trini."}
+- 15:11 act: {"say":"Billy: the pig spot is empty here, as Tommy said. I'm at -168,89,225 with Tommy and Picard. My memory has pig and cows on the west grass near -363,69,230. I'll walk there with Tommy and Picard
+- 15:11 act: {"say":"Billy: my walk west stopped short at -185,81,220. I'll go back to the group at the yellow beds and scout the dry grass within sight, as Kimberly asked.","actions":[{"do":"goto","target":{"x":-
+- 15:11 act: {"say":"Billy at the yellow beds with Trini and Tommy nearby. I'll scout 10 blocks south on the dry grass in sight of the group and call out any animal.","actions":[{"do":"goto","target":{"x":-266,"y"
