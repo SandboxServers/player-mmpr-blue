@@ -196,3 +196,6 @@
 - 14:24 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"Skeleton 2.7 away, still shooting; fleeing keeps failing. Engage it bare-handed."}
 - 14:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["dire
 - 14:25 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":345}}],"intent":{"goal":"break_line_of_fire","program":"flee","arguments":{"away_from":{"x":-276,"y":66,"z":358}},"wake_on":["goal_completed"],"l
+- 14:30 act: {"actions":[{"do":"mine","block":"oak_log","count":4},{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake
+- 14:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Four logs in hand. Make planks, sticks, th
+- 14:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{"bed":{"x":-270,"y":67,"z":326}},"wake_on":["directly_address

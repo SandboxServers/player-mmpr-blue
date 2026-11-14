@@ -1,0 +1,1 @@
+Day 219 night. Slept in a bed near spawn (-270,67,336 area), sleep worked. Health 20, hunger 20, no food. Carrying 4 oak_log, 3 stick, wooden_sword. Next: find food (sheep/cow) in daylight, away from water and skeleton sight lines. No errand running.
