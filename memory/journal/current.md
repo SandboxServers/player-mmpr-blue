@@ -1439,3 +1439,5 @@
 - 01:19 act: {"say":"Kimberly, I'll stay at the beds with you tonight. Jason's food should go to Zack first."}
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night is here. I'm sleeping in the yellow bed. Kimberly, first light we look for food together."}
 - 01:22 act: {"say":"Trini, I'm in the white bed here for the night. At first light I'll search for food with you, Tommy and Kimberly.","actions":[{"do":"sleep"}]}
+- 01:23 say: {"text":"Billy here. I have no food either, only pumpkins and seeds. First light, I'll join the search with you all."}
+- 01:23 act: {"reasoning":"Night, in the white bed. Rest until first light, then search for food with the group.","actions":[{"do":"sleep"}]}
