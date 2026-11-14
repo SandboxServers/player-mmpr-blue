@@ -161,3 +161,4 @@
 - 10:01 act: {"actions":[{"do":"sleep"}]}
 - 10:02 act: {"say":"Kimberly, Tommy: I'm at -279,70,308, unarmed, no food. Agreed, we hunt at first light together, Jason and Picard first. I'm taking the yellow bed now.","actions":[{"do":"goto","target":{"x":-2
 - 10:02 act: {"actions":[{"do":"goto","target":{"x":-282,"y":70,"z":309}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-282,"y":70,"z":309}},"wake_on":["directly_addressed"
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy here, at the yellow beds for the night. Full health and hunger. Pig at first light with the group, meat to Jas
