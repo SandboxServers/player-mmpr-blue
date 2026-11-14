@@ -21,3 +21,12 @@
 - 15:39 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}}],"reasoning":"Dusk. Go to the yellow bed near the group camp for the night, and avoid the drop west.","say":"Billy: dusk, no food found. Go
 - 15:40 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":292}},{"do":"sleep"}],"reasoning":"Dusk, at the yellow bed with the group nearby. No food found today. Sleep here, then scout dry grass at first 
 - 15:42 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"reasoning":"Phantom reported to the north-east. Get into the white bed beside me and sleep through the night with the grou
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-285,"y":68,"z":320}}],"reasoning":"Morning, day 223. Food is the first job. Join the group scouting south-west toward Kimberly on the grass, keep in sight, and 
+- 15:51 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":328}}],"reasoning":"No animals yet. Kimberly and Trini are scouting the grass south-west. Join them in sight and keep looking.","say":"Billy: wal
+- 15:56 say: {"text":"Billy here, holding at -290,66,327 with you all. Zack, come to us; I'll keep watch and call any animal I see."}
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"intent":{"goal":"reach_camp_bed","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["directly_addressed","pre
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:06 say: {"text":"Billy here, out on the grass at -285,66,340, awake. I'll scout with the group at first light. Any meat goes to Kimberly first, then Zack."}
+- 16:10 act: {"say":"Billy: morning. Scouting south-west on the grass with Trini and the group. Calling any cow, pig or sheep.","intent":{"goal":"scout_sw_grass_for_animals","program":"travel","arguments":{"target
+- 16:11 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}]}
