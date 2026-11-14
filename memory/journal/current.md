@@ -128,3 +128,7 @@
 - 09:38 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Tommy reports two iron golems to the south. Stay at the beds, watch, and wait for first light."}
 - 09:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm going to the white bed to sleep, health and hunger full. First light, the dry path to the pig with Tommy 
 - 09:42 act: {"actions":[{"do":"sleep"}]}
+- 09:43 say: {"text":"Billy here, awake at the yellow beds with full health and hunger. No food yet. I'll wait for first light and join the pig trip by the dry path."}
+- 09:43 act: {"say":"Billy here. Going to the white beds to meet Tommy and Kimberly. Wooden sword ready, then the pig at -337,64,237.","intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"t
+- 09:43 act: {"say":"Billy here, at the white beds with Kimberly. Night, no food, sword in hand. Tommy, the pig hunt is at first light.","actions":[{"do":"goto","target":{"x":-297,"y":68,"z":293}}]}
+- 09:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
