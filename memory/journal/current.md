@@ -15,3 +15,4 @@
 - 06:20 act: {"say":"It's night and I have no food. I'm heading to the white beds by the wall to sleep. Anyone seen food?","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":
 - 06:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
 - 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. I have no food. At first light I'll look for food with you all.","intent
+- 06:22 act: {"say":"Thanks, Tommy, Trini, Zack. I'm at the bed with no food, hunger 16. At first light I'll come to the wall and we share what we have.","actions":[{"do":"sleep"}],"reasoning":"Night, I'm at a bed
