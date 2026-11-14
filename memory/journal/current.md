@@ -19,3 +19,6 @@
 - 20:33 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_co
 - 20:33 act: {"intent":{"goal":"search_west_for_pigs_and_cows","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":230}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_co
 - 20:33 act: {"intent":{"goal":"search_south_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-372,"y":68,"z":258}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","g
+- 20:35 act: {"say":"Still here, hungry but steady. Heading back east toward the camp beds to find the group and look for food.","intent":{"goal":"return_to_camp","program":"travel","arguments":{"target":{"x":-275
+- 20:35 say: {"text":"Billy here, at the camp beds. No food on me yet. Data, I'm coming to the group; I'll look for food with you."}
+- Day 237 midday: west grass search found no animals. Travelled back to camp (-275,65,322), health 20, hunger 20. Data is heading to the group. Wheat unripe at -263,66,321 (not food yet). Iron golems south of camp. Next: find food with Data, give to Trini first, and sleep at a bed tonight.
