@@ -1515,3 +1515,5 @@
 - 02:01 act: {"actions":[{"do":"sleep"}]}
 - 02:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night is here. Sleeping by the white beds. See you at first light.","reasoning":"Night, health and hunger full, a be
 - 02:02 act: {"actions":[{"do":"sleep"}],"reasoning":"The walk to the bed failed again and I'm not enclosed, but I'm standing next to the beds. Try sleep from here, as last time."}
+- 02:02 say: {"text":"Evening. I'm at the white bed by the crafting area, hunger and health are full. I'll sleep here and we search for food at first light."}
+- 02:02 act: {"actions":[{"do":"sleep"}]}
