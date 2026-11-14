@@ -156,3 +156,7 @@
 - 13:19 act: {"actions":[{"do":"note","text":"Dusk. In bed area at -281,69,291 with Jason and the group in sight. Going to sleep."}],"say":"Goodnight, Jason. I'm turning in at the yellow bed. Hold the group in sig
 - 13:20 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: Night has come. Going into the yellow bed at -281,69,291. Jason, stay in sight."}
 - 13:20 act: {"actions":[{"do":"sleep"}]}
+- 13:21 act: {"actions":[{"do":"goto","target":{"x":-273,"y":69,"z":289}}],"say":"Trini, I'm stepping aside to the north-east so you can close the walls. Staying in sight."}
+- 13:21 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Trini, I've stepped aside. I'm taking the yellow bed at -274,69,291 for the night, in sight of the group."}
+- 13:21 act: {"actions":[{"do":"sleep"}],"say":"Billy: Goodnight, Trini. I'm in the yellow bed at -274,69,291, in sight of the group. Mutton is still in my hand for whoever has nothing."}
+- 13:22 act: {"actions":[],"say":"Kimberly, I'm not in the yellow bed at -274,69,291, so it's yours. I'll stand beside you on the grass. I'm holding 1 mutton if you're hungry."}
