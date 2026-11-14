@@ -103,3 +103,11 @@
 - 23:16 act: {"actions":[{"do":"sleep"}]}
 - 23:17 say: {"text":"Billy here, hungry-free for now at 20 but no food in my pack. Bows are being drawn to the south and southeast, so I'll stay near the beds with everyone."}
 - 23:17 act: {"intent":{"goal":"follow_trini_for_food","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 23:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here at the white bed with the group, health 20, hunger 20, no food. Night now, sleeping here. Trini first for
+- 23:21 act: {"actions":[{"do":"wait","seconds":40},{"do":"sleep"}]}
+- 23:22 act: {"actions":[{"do":"wait","seconds":120}],"say":"Billy: phantom still near, so sleep is refused. I'm staying beside the group and will try the bed again shortly."}
+- 23:24 act: {"actions":[{"do":"sleep"}]}
+- 23:24 act: {"actions":[{"do":"wait","seconds":180},{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"wait","seconds":240}]}
+- 23:31 act: {"actions":[],"say":"Billy, dawn of day 246. No food, health 20, hunger 20. Trini first, she is at 3 health. I'll stay at the beds and join anyone heading out in sight. I won't go onto the lake alone.
