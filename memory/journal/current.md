@@ -135,3 +135,26 @@
 - 09:45 act: {"say":"Billy here, at the yellow bed by the oak logs. Holding for first light, then I'll join the pig hunt by the dry path. Meat to Jason first.","actions":[{"do":"goto","target":{"x":-281,"y":69,"z"
 - 09:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}]}
 - 09:45 act: {"actions":[{"do":"sleep"}]}
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Billy here, at the yellow beds with full food-stock of nothing but hope. Holding until first light, then the pig trip with Tommy an
+- 09:47 act: {"actions":[],"say":"Billy here, at the yellow beds with a wooden sword. Agreed, Kimberly and Trini: first light, we all go to the pig by the dry path together, meat to Jason first."}
+- 09:47 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"Billy here, dawn. Going to the white beds to meet Jason and Trini, then the pig by the dry path with Tommy and Kimberly. Meat to Ja
+- 09:48 act: {"actions":[{"do":"goto","target":{"x":-337,"y":64,"z":237}}],"say":"Billy going now to the pig at -337,64,237 with Tommy and Kimberly. Meat to Jason first. I'm unarmed except a wooden sword; I'll sta
+- 09:48 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}}],"say":"Billy: I'm at -337,64,238 alone, no pig in sight. I agree with the group: I'm going back to the white beds to join Tommy, Kimberly,
+- 09:48 act: {"actions":[],"say":"Billy here at the white beds, with Kimberly in reach. Jason, Trini, Tommy: I'm holding for you. Once you are in sight, I'll follow Tommy on the dry path."}
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-337,"y":64,"z":237}}],"say":"Billy: I'm not leading, Tommy is. Kimberly, I'm heading to the pig at -337,64,237 now on the dry path behind you. Tommy, call your 
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Billy: I'm at the pig spot alone, no pig in sight. Going to the bed at -271,67,319 to join Tommy, Kimberly, Jason and Trini. Everyo
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy: I'm here at the white bed, -272,67,316. Holding with you, Tommy. Waiting for Kimberly and Jason to get here, then we take th
+- 09:50 act: {"actions":[],"say":"Billy: I'm with Tommy, Jason and Trini at the bed. Waiting for Kimberly. Tommy leads the dry path when she is here."}
+- 09:51 act: {"actions":[],"say":"Billy: I'm holding at the bed. I have a wooden sword, so I can cover the pig hunt. Tommy, go meet Kimberly; I stay here with Trini and Jason."}
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-298,"y":67,"z":296}}],"say":"Billy: On my way to the beds at -298,67,296, following Jason and Trini."}
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":-294,"y":68,"z":300}}],"say":"Billy: Coming to Tommy, Jason, Trini and Kimberly now. Tommy leads the dry path; I'll stay in sight behind him."}
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":245}}],"say":"Billy: Coming up to Tommy at -262,67,245 on the dry ground, in sight of you all."}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":-261,"y":64,"z":266}}],"say":"Billy: Following Tommy to -261,64,266. I'll help look for the chicken and stay in sight."}
+- 09:55 act: {"say":"Billy here, holding at -261,64,265 next to Tommy. I'll stay in sight. Tommy, say the word and I'll search the dry grass south with you. Jason gets the first meat.","intent":{"goal":"hold_with_
+- 09:55 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Going with you, Tommy. Staying within a block."}
+- 09:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"On my way to you, Tommy."}
+- 09:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Coming to you, Tommy. Keeping in sight."}
+- 10:01 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Heading to the white beds with the group. Nobody alone."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}],"say":"Kimberly, I'm heading to the white beds at -270,67,318 with you. Tommy said everyone holds there."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"At the beds for the night. Tommy, Kimberly, we hunt at first light together, Jason and Picard first for meat."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
