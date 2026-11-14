@@ -154,3 +154,36 @@
 - 19:27 act: {"say":"Jason, I can't see you from the white bed. Tell me your position or step into view, and I'll bring the 2 mutton to you."}
 - 19:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, coming to you now with the 2 mutton."}
 - 19:28 act: {"say":"Gave Jason 2 mutton. I have 1 left; whoever gets hungry first, call me."}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed north of camp to rest. Jason, scout the grass with me at first light.","intent":{"goal":"rest
+- 19:29 act: {"actions":[],"say":"I'm up, hunger 20, with one mutton kept for whoever is lowest. Sleep only works at night, so I'll scout west with you and Worf."}
+- 19:30 act: {"actions":[],"say":"Billy here at the white bed, health and hunger 20, no food. Tommy and Riker, the pig at -336,64,229 is yours to hunt; I'll keep my mutton for whoever is lowest. I'll try the bed a
+- 19:32 act: {"actions":[],"say":"Tommy, I have one mutton. Come within reach and I'll give it to you now."}
+- 19:36 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, I'm holding the mutton for you at the white bed. Come within reach and I'll hand it over.","intent":{"goal":"hold_
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, sleeping in the white bed with the group. Tommy, the mutton is still yours when you reach me."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Moving back to the north white bed, away from the golem to the south-west."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Mutton is for whoever of Tommy or Trini comes into reach first. I'm going to the white bed now to sleep."}
+- 19:41 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"mutton","count":1}],"say":"Trini, here's my mutton. You're at health 9, so eat it now."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here's the mutton."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to try the bed here, Kimberly. Tommy, when you are in reach, the mutton is yours."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Tommy, I still have the mutton in my pack. Tell me where you are and I will hand it to you."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:42 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 19:42 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is the mutton. Eat it."}
+- 19:42 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":1}],"say":"Kimberly, Tommy went out of sight before I could hand it over. Please take this mutton to him."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":312}}]}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}]}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"li
+- 19:44 act: {"actions":[{"do":"sleep"}]}
+- 19:52 say: {"text":"Billy, dawn of day 235. No food on me either. I'll break grass near the beds for seeds for Wesley's wheat, and give any meat or apples to Riker first."}
+- 19:54 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":70,"z":308}},{"do":"sleep"}]}
+- 20:03 act: {"actions":[{"do":"goto","target":{"x":-283,"y":70,"z":308}},{"do":"sleep"}],"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{"bed":{"x":-283,"y":70,"z":309}},"wake_on":["directly_
+- 20:03 act: {"actions":[{"do":"sleep"}]}
+- 20:08 say: {"text":"Billy here at dawn on day 236. I slept in no bed, and I have no food. I'm staying close to the camp and won't go far alone. Anyone who finds food, Riker first."}
