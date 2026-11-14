@@ -199,3 +199,8 @@
 - 14:30 act: {"actions":[{"do":"mine","block":"oak_log","count":4},{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":4},"wake
 - 14:31 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Four logs in hand. Make planks, sticks, th
 - 14:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{"bed":{"x":-270,"y":67,"z":326}},"wake_on":["directly_address
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":310}}],"say":"Dawn. I'm going north-west, away from the others, to look for sheep or cows.","reasoning":"Dawn on day 220. Others search south and
+- 14:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"I am in a pit at night. Get out, then return to the spawn beds where I slept safely."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}}],"reasoning":"A bow was drawn to the south-west, so a skeleton is near. I'm out of the pit and it is day. Move toward the white beds, where
+- 14:53 act: {"actions":[],"say":"Billy here, at the white beds with no food, health 20. I'll stay near camp in daylight and not travel far alone. Call out if anyone spots a cow or sheep close by.","reasoning":"Gr
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Night has come. Get into the white bed next to me and sleep."}
