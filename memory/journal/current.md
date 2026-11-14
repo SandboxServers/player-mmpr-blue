@@ -1546,3 +1546,7 @@
 - 05:16 act: {"actions":[],"intent":{"goal":"search_animals_further_west","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","p
 - 05:19 act: {"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 05:20 act: {"say":"Tommy, I have no food either. I'll search at first light and send word.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"intent":{"goal":"sleep_in_bed_tonight","program":"rest","
+- 05:26 say: {"text":"Billy here. Thank you Zack, I'm hungry (16) and waiting by the beds at -262,67,354. I'll come to you for the mutton if you can spare some."}
+- 05:27 say: {"text":"Zack, I'm right here at -262,67,354, just east of the yellow beds. Come to me and I'll take a mutton."}
+- 05:28 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack, got the mutton. I'm eating one now."}
+- 05:28 say: {"text":"Hunger is up to 20 and health is rising, thanks to you. What I've learned: sheep are east of the beds, and an iron golem was seen north-west near -281,67,343. Stay near the beds in the dawn l
