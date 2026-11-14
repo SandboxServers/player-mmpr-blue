@@ -19,3 +19,4 @@
 - 06:24 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Zack, stay clear of the zombie if you can. I'm at the white bed with no weapon, so I'm sleeping here.","reasoning":"
 - 06:25 act: {"say":"Zack, Jason, Trini, Tommy: I'm at the white beds and will sleep here tonight. At first light I'll search for food with you.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"
 - 06:25 act: {"say":"Heard you all. I'm at the white beds and will sleep here until light, then we pool food. Tommy, Trini, Zack, Jason: I have no food, only 30 dirt and 1 leather.","actions":[{"do":"sleep"}]}
+- 06:26 act: {"say":"Morning plan: I'm at the white beds with no food, hunger 16. Trini, Zack, Jason, Tommy, Kimberly: at first light I'll meet you at the sheep field and pool what we find.","actions":[{"do":"slee
