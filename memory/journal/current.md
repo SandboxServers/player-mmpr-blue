@@ -101,3 +101,5 @@
 - 23:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy: no animals at the west grass near -335,229. Heading back to the beds to be with the group. Data and Trini first for any food
 - 23:12 act: {"say":"Billy back at the white beds with the group, day 245. Found no food at the west grass. Trini keeps the chicken; any food goes to Data and Trini first."}
 - 23:16 act: {"actions":[{"do":"sleep"}]}
+- 23:17 say: {"text":"Billy here, hungry-free for now at 20 but no food in my pack. Bows are being drawn to the south and southeast, so I'll stay near the beds with everyone."}
+- 23:17 act: {"intent":{"goal":"follow_trini_for_food","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
