@@ -1384,3 +1384,25 @@
 - 00:17 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in stone at -389, 67, 342 and cannot get out. Could someone come near and show me a way?","reasoning":"Mining and travel both failed; unstick is the bod
 - 00:17 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","dire
 - 00:19 act: {"actions":[],"intent":{"goal":"rest_in_shelter","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block
+- 00:24 act: {"intent":{"goal":"wait_out_night_in_pit","program":"rest","arguments":{"reason":"night, enclosed in stone pit, no food; wait for morning then go to beds at -263,67,353"},"wake_on":["directly_addresse
+- 00:24 act: {"actions":[{"do":"wait","seconds":240}]}
+- 00:28 act: {"say":"Billy here, still in the pit at -389,67,340. It is dawn. Heading to the beds; I have no food.","actions":[{"do":"unstick"}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":
+- 00:28 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 00:30 act: {"say":"Billy: still in the pit at -389,67,340 with no food. Tommy, the cow at -182,68,457 is far for me; I'm digging out to head toward the beds.","actions":[{"do":"place","block":"cobblestone","at":
+- 00:30 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}]}
+- 00:30 act: {"say":"Tommy, I'm out of the pit and coming to -186,67,455 for the beef. I have no food, hunger 18.","intent":{"goal":"join_group_for_food","program":"travel","arguments":{"target":{"x":-186,"y":67,"
+- 00:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-370,"y":67,"z":345}}]}
+- 00:31 act: {"say":"Jason, Tommy: thanks. Kimberly first, then me. I'm still walled in at -389,67,342 and the way is blocked; I'm digging out slowly. Hunger 18.","actions":[{"do":"mine","block":"stone","count":2}
+- 00:31 act: {"say":"Tommy, Trini: I'm boxed in by stone at -389,67,342 and can't reach you. Kimberly first is right. If anyone can come this way, I'm here.","actions":[{"do":"wait","seconds":120}]}
+- 00:31 act: {"say":"Thank you, Jason, Tommy. Jason, keep the beef for me and bring it here to -389,67,342 when you can. I'm digging toward you.","actions":[{"do":"mine","block":"stone","count":1}]}
+- 00:32 act: {"say":"Jason, I'm digging toward you now. Please stay near Tommy.","intent":{"goal":"reach_jason_for_beef","program":"travel","arguments":{"target":{"x":-186,"y":67,"z":455}},"wake_on":["goal_complet
+- 00:33 act: {"say":"Tommy, I'm coming to you. Walking now.","actions":[{"do":"goto","target":"Tommy"}]}
+- 00:33 act: {"say":"Tommy, I can't see you from here; the stone blocks me in. Keep one beef for me and come by when you pass this way. I'll wait here at -389,67,342.","actions":[{"do":"wait","seconds":240}]}
+- 00:33 act: {"say":"Tommy, I hear you. I'm boxed in by stone at -389,67,342. I'll try to reach you at -115,75,425.","intent":{"goal":"reach_tommy_for_beef","program":"travel","arguments":{"target":{"x":-115,"y":7
+- 00:33 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
+- 00:34 act: {"say":"Thanks, Tommy. Jason, where are you? I'm at -389,67,342, stuck in stone, hungry. Could you come to me or tell me the way?","actions":[{"do":"mine","block":"stone","count":4}]}
+- 00:34 act: {"actions":[{"do":"unstick"}]}
+- 00:34 act: {"say":"Tommy, stay safe. I'm digging out of this stone now.","actions":[{"do":"mine","block":"stone","count":3}]}
+- 00:35 act: {"say":"Jason, thank you. I'm in a stone pit at -390,67,341 with no way out yet; I can't mine forward. If you can dig a path to me from the north or east, or drop the beef down to me, I'd be grateful.
+- 00:39 act: {"say":"Jason, I'm still in the stone at -390,67,341, no way out yet. It's dusk. Please bring the beef here if you can reach the top of the pit; I'll wait."}
+- 00:40 act: {"say":"Jason, first light is fine. I'll dig in here for the night and wait for you.","actions":[{"do":"sleep"}]}
