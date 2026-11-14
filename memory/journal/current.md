@@ -46,3 +46,4 @@
 - 16:38 act: {"say":"Billy here, at -282,67,319 with Picard. Hunger 20, no food yet. I have 4 oak logs and a wooden sword. I'll scout the west grass with the group and call any animal I see.","intent":{"goal":"joi
 - 16:38 act: {"say":"Billy at the white beds with Kimberly and Jason. Health 20, hunger 20, no food yet. I'll hold here and scout the grass with whoever spots an animal first."}
 - 16:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, going into the white bed beside Kimberly for the night. Health 20, hunger 20, no food. Any meat goes to
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, four days since sleep, bed adjacent. Golems 8+ blocks south. Sleep in bed.","say":"Going to bed at the 
