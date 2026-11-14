@@ -71,3 +71,34 @@
 - 09:05 act: {"actions":[],"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3000,"ma
 - 09:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":356}}],"say":"Billy here, morning of day 203. Full health and hunger, no food, no weapon. Heading to the yellow beds to join the group for the sh
 - 09:09 act: {"actions":[{"do":"note","text":"Day 203 dawn at yellow beds (-263,66,356). No food, no weapon, health and hunger 20. Group scattered: Kimberly at white beds, Zack freeing himself. Holding for the gro
+- 09:09 act: {"say":"Billy here, at the yellow beds with no food and no weapon. I'll gather wood by the oak logs to the east and craft a sword, then join Tommy's sheep hunt when it's safe.","intent":{"goal":"gathe
+- 09:10 act: {"say":"The oak by the water is unsafe to dig. I'm moving to the oak logs to the south-east, away from the water.","actions":[{"do":"goto","target":{"x":-242,"y":67,"z":366}},{"do":"mine","block":"oak
+- 09:10 act: {"say":"Fell a little but fine. I have wood now; making planks and a sword at the table by the yellow beds.","actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":357}}]}
+- 09:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 09:10 act: {"say":"Billy: still unarmed, no food, health recovering from a fall. I'm on the grass south of the yellow beds at -247,67,377. Will craft a sword as soon as the planks go through, and I'll join any s
+- 09:11 act: {"intent":{"goal":"reach_crafting_table","program":"travel","arguments":{"target":{"x":-251,"y":67,"z":358}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 09:11 act: {"say":"Billy: falls keep stopping my walk, so I'll craft the planks right here where I stand, then walk to the table.","actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 09:11 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
+- 09:11 act: {"say":"Billy: I have sticks and planks. Walking to the table at -251,67,356 to craft the wooden sword.","intent":{"goal":"reach_table_for_sword","program":"travel","arguments":{"target":{"x":-251,"y"
+- 09:11 act: {"say":"At the table now. Crafting my wooden sword.","actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 09:11 act: {"say":"Billy here: I have a wooden sword now, at the yellow beds by the table at -251,67,356. Hunger is 17, still no food. Tommy, Zack, Trini: I'll join the next sheep or cow hunt. Call where you are
+- 09:11 act: {"say":"Holding at the table, Tommy. Sword is ready. Say when you have yours and we go for the pig together."}
+- 09:12 act: {"say":"Going to the white beds at -295,69,349 to meet you, Tommy and Trini. Then west to the pig.","intent":{"goal":"join_pig_hunt_at_white_beds","program":"travel","arguments":{"target":{"x":-295,"y
+- 09:13 act: {"say":"Billy here at the white beds. Tommy, Trini, Jason, I am with you. Ready for the pig when you are.","intent":{"goal":"hold_at_white_beds_for_pig_hunt","program":"rest","arguments":{},"wake_on":
+- 09:13 act: {"say":"Trini, I am here at the white beds with my wooden sword. Hunger is 17 and I have no food. If the apple is spare, I would be grateful, but Jason first. Tommy, when are we going west?"}
+- 09:14 act: {"say":"Thank you, Trini, and thank you Jason. I will eat the apple when it reaches me. I am ready to go west when Tommy calls.","actions":[{"do":"eat"}]}
+- 09:14 act: {"say":"Going west with you now, Tommy. Following Trini. Calling when I see the pig.","intent":{"goal":"follow_tommy_west_to_pig","program":"travel","arguments":{"target":{"x":-345,"y":65,"z":232}},"w
+- 09:14 act: {"say":"Trini, I am at -294,67,318, a little north of the white beds, my route went this way. I will hold here until Tommy clears the way. Please come to me if you can."}
+- 09:15 act: {"say":"Trini, I can see you, thank you. Please give me the apple if you still have it. Then we follow Tommy west to -310,67,330.","intent":{"goal":"follow_tommy_west_with_trini","program":"follow","a
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":-295,"y":67,"z":318}}]}
+- 09:16 act: {"say":"Following Tommy's way to the lake shore at -345,64,260, then north to the pig. Billy coming.","intent":{"goal":"reach_tommy_at_lake_shore","program":"travel","arguments":{"target":{"x":-345,"y
+- 09:17 act: {"actions":[{"do":"unstick"}]}
+- 09:17 act: {"intent":{"goal":"get_out_of_lake_to_tommy","program":"travel","arguments":{"target":{"x":-350,"y":64,"z":232}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 09:17 act: {"say":"I am out of the lake and at your side, Tommy. Ready for the pig hunt."}
+- 09:19 act: {"intent":{"goal":"join_tommy_for_pig","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 09:20 act: {"say":"Night is here. I will stay close to you, Tommy, and not go into the dark for the pig.","intent":{"goal":"stay_near_tommy_at_night","program":"follow","arguments":{"target":"ag_tommy_01"},"wake
+- 09:20 act: {"say":"Understood, Tommy. A skeleton is coming from the west with a bow. I will stay next to you and fight it with my sword if it comes close."}
+- 09:21 act: {"intent":{"goal":"sleep_in_bed_at_spawn","program":"rest","arguments":{"at":{"x":-263,"y":67,"z":354}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 09:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 09:21 act: {"actions":[{"do":"sleep"}]}
