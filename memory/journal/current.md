@@ -129,3 +129,19 @@
 - 12:58 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}},{"do":"sleep"}],"say":"Billy: I'm at the yellow beds, going to sleep in the bed at -281,69,291. Tommy, Trini, I'm on dry grass and will be 
 - 13:03 act: {"actions":[{"do":"sleep"}]}
 - 13:04 act: {"actions":[{"do":"sleep"}],"say":"Billy here, at the yellow bed -281,69,291 with Tommy and Trini. No food yet. Sleeping here for the night.","reasoning":"Night, in a bed with the group close, health 
+- 13:05 act: {"actions":[{"do":"sleep"}],"say":"Billy: night, thunder. I'm in the yellow bed at -281,69,291, alone for now. No food yet; I'll look at first light with whoever is near."}
+- 13:06 act: {"actions":[],"say":"Billy: Kimberly, yes. I'm in the yellow bed at -281,69,291 with no food and no weapon in hand but a wooden sword in my pack. At first light I'll come to you for Zack's dry route."
+- 13:07 act: {"intent":{"goal":"join_group_white_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 13:07 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Billy: coming to Trini and the group now, on grass."}
+- 13:08 act: {"actions":[],"say":"Billy: I'm here with Trini at the white beds, no food, health 20. Kimberly, Jason, where is the dry route to Zack? I'll walk it with you, and I'll hand any meat to whoever is hung
+- 13:12 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"Billy: I have no planks, so I'll cut a few logs here by the white beds and make planks for the Zack bridge. Trini, I'll bring them north t
+- 13:12 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"goto","target":"ag_jason_01"}],"say":"Billy: I have 3 logs, now making planks. Heading to Jason on the grass, away from the water."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":69,"z":298}}],"say":"Billy: I have 12 planks. Going to Trini's waypoint at -270,69,298 on grass; I'll hand the planks to whoever is building the bridge.
+- 13:12 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"oak_planks","count":12}],"say":"Billy: Trini, here are 12 planks for the bridge. I'm close now, handing them ov
+- 13:13 act: {"actions":[{"do":"note","text":"Gave 12 oak planks to Trini at the bridge spot (-270,68,298). Still no food; hunger 20. Next: food with the group, keep off deep water."}],"say":"Billy: Trini, planks 
+- 13:13 act: {"intent":{"goal":"reach_cow_area_nw","program":"travel","arguments":{"target":{"x":-293,"y":64,"z":177}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-295,"y":64,"z":165}}],"say":"Billy: Four pillagers with crossbows to my south. I'm breaking north, away from them."}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-300,"y":64,"z":130}}]}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-295,"y":64,"z":166}}]}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-316,"y":60,"z":136}}]}
+- 13:14 act: {"actions":[{"do":"goto","target":{"x":-320,"y":60,"z":140}}]}
