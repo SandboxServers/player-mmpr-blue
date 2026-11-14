@@ -1406,3 +1406,27 @@
 - 00:35 act: {"say":"Jason, thank you. I'm in a stone pit at -390,67,341 with no way out yet; I can't mine forward. If you can dig a path to me from the north or east, or drop the beef down to me, I'd be grateful.
 - 00:39 act: {"say":"Jason, I'm still in the stone at -390,67,341, no way out yet. It's dusk. Please bring the beef here if you can reach the top of the pit; I'll wait."}
 - 00:40 act: {"say":"Jason, first light is fine. I'll dig in here for the night and wait for you.","actions":[{"do":"sleep"}]}
+- 00:46 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
+- 00:46 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-390,"y":68,"z":341}}]}
+- 00:51 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 00:53 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"}]}
+- 00:54 act: {"actions":[{"do":"mine","block":"cobblestone","count":3}]}
+- 00:54 act: {"actions":[{"do":"unstick"}],"say":"Billy here. I'm still in the stone pit at -390, 67, 341, sealed, health 20, hunger 18. My digging is failing. If anyone is near, please dig or lead me out. Jason, 
+- 00:55 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 00:58 act: {"say":"Jason, I'm at -388, 66, 342, in the pit. You're close. Dig straight toward me and I'll wait here. I have no food myself, only pumpkins and seeds."}
+- 01:08 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"m
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Jason, good luck with the animals. I'm going to the yellow beds."}
+- 01:09 act: {"actions":[{"do":"unstick"}]}
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-370,"y":66,"z":342}}]}
+- 01:09 act: {"actions":[{"do":"unstick"}]}
+- 01:09 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":356}}],"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"x":-256,"y":67,"z":356},"wake_on":["goal_completed","directly_addres
+- 01:10 act: {"actions":[],"say":"I'm out of the pit at -387,66,342 but walled in by stone. I have 3 pumpkins and 19 wheat seeds. Hungry too, no food."}
+- 01:14 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stone_pickaxe","count":1}]}
+- 01:14 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:14 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:15 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:15 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:15 act: {"actions":[{"do":"mine","block":"stone","count":6},{"do":"goto","target":{"x":-262,"y":67,"z":352}}]}
+- 01:16 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-376,"y":67,"z":342}}]}
