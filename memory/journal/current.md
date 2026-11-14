@@ -30,3 +30,10 @@
 - 16:06 say: {"text":"Billy here, out on the grass at -285,66,340, awake. I'll scout with the group at first light. Any meat goes to Kimberly first, then Zack."}
 - 16:10 act: {"say":"Billy: morning. Scouting south-west on the grass with Trini and the group. Calling any cow, pig or sheep.","intent":{"goal":"scout_sw_grass_for_animals","program":"travel","arguments":{"target
 - 16:11 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}]}
+- 16:12 say: {"text":"Billy here, health and hunger both 20. I have no food either. I'll stay with the group and look for cows, pigs or sheep. If anyone finds food, tell me and I'll share."}
+- 16:12 act: {"intent":{"goal":"scout_grass_for_food_with_group","program":"travel","arguments":{"target":{"x":-292,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_
+- 16:16 act: {"intent":{"goal":"return_to_camp_bed_with_group","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: night at the white bed -282,67,320 with the group. Health 20, hunger 20, no food. Meat goes to Kimberly first
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"Billy: my sleep failed twice and I'm near deep water at -256,351. Walking back to the group beds at -272,67,326, away from the wate
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}},{"do":"sleep"}],"say":"Billy: back with Zack by the yellow beds. Trying to sleep in the bed at -271,67,326. Health 20, hunger 20, no food."
