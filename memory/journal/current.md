@@ -41,3 +41,7 @@
 - 03:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Billy here, night of day 256, no food, hunger 20. Going to the yellow beds with the group to sleep. Meat goes to Dat
 - 03:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":344}}],"say":"Billy here, morning of day 257. I slept at the yellow bed. Going east with Jason, Trini and Clark to look for animals, staying in s
 - 03:10 act: {"actions":[{"do":"note","text":"Day 257 morning: reached the east yellow bed (-250,68,344) with Trini and Jason near. Golems 12-14 blocks west; holding in sight of the group. No food yet."}],"say":"B
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":-230,"y":68,"z":334}}],"say":"Billy: going north-east to join Trini and Clark at -230,68,334, so I'm not alone. No food yet. Meat goes to Data first.","reasoning
+- 03:14 act: {"actions":[{"do":"note","text":"Day 257 midday: joined Trini and Clark at -230,68,334. No animals in sight; group splitting, Jason planting wheat at -264,66,323. Holding with Trini and Clark."}],"say
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":318}}],"say":"Billy: going north-east to search the grass with Data, toward -245,67,318. Staying in sight; meat goes to Data first, then Trini.",
+- 03:18 act: {"actions":[{"do":"note","text":"Day 257 afternoon: searched east and north-east grass with Trini, Clark, Data. No animals. Unripe wheat near -265,66,323 being planted by Jason and Tommy. Now at -245,
