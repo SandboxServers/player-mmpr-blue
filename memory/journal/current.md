@@ -88,3 +88,13 @@
 - 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, giving you the beef now. Trini already sent you her porkchop and wheat.","reasoning":"Previous give went to Tommy inst
 - 04:32 act: {"actions":[],"say":"Lewis, the west cow was near -288,67,257, on grass west of the lake. Keep clear of the deep water near -312,62,245. Worf first for meat. I have no meat left, my beef went to Tommy
 - 04:33 act: {"say":"Billy here, midday, no food, hunger 19. I'll go with Troi to the west cow. Any meat goes to Trini and Worf first.","intent":{"goal":"follow_troi_for_meat","program":"follow","arguments":{"targ
+- 04:36 act: {"say":"Billy at midday, day 261. No food on me, but I have 6 logs, 19 planks and a sword. Worf and Trini first for any meat. I'll hold by the beds and go with anyone who spots an animal.","intent":{"
+- 04:41 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"intent":{"goal":"reach_a_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: my wheat is still with me, not Worf's. I'll hand it to Trini for the bread pool at dawn, then sleep in the be
+- 04:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: sleep was blocked by golems. I'm on the bed at -270,67,336 and will try again. My one wheat goes to Trini when she is in reach.","reasoning":"Retry sleep once
+- 04:43 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Golems keep blocking sleep. Wait a minute, try again. Health steady."}
+- 04:44 act: {"actions":[{"do":"sleep"}],"reasoning":"The wait ended without new trouble. Try the bed now."}
+- 04:45 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"reasoning":"Sleep keeps being blocked by golems near the beds. Health is steady and I am with the group. Give it time, then try once more."}
+- 04:47 act: {"actions":[{"do":"sleep"}],"say":"Billy: trying to sleep at the white bed again. My one wheat is for the bread pool; Picard, I'll give it to you when you're in reach.","reasoning":"Quiet spell, group
+- 04:48 act: {"actions":[{"do":"wait","seconds":240}],"reasoning":"Sleep is blocked repeatedly; the group is here and health is steady. Hold until dawn rather than retry."}
+- 04:48 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, here is my one wheat for the bread pool. Trini and Worf first when there's more.","reasoning":"Dawn. Picard is in
