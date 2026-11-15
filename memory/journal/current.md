@@ -44,3 +44,7 @@
 - 07:04 act: {"say":"Billy: the bed at -271,67,318 refused me. Most beds here have someone in them, so I will wait by the group and try another bed when one is free.","intent":{"goal":"wait_by_group_for_free_bed",
 - 07:04 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 07:09 act: {"say":"Billy: dawn, hunger 20, no food. I'll follow Riker on the search for cows or pigs. Any meat goes to Chapman and Trini first, then Data.","intent":{"goal":"search_for_animals_with_riker","progr
+- 07:11 act: {"say":"Billy: still no food. Joining Worf's search west for cows or pigs. Meat to Chapman and Trini first.","intent":{"goal":"search_west_with_worf","program":"follow","arguments":{"target":"ag_worf_
+- 07:11 act: {"say":"Billy: Worf is out of sight. I'll walk toward the pig lead at -336,64,229 and call out anything I see.","intent":{"goal":"walk_to_pig_lead_west","program":"travel","arguments":{"target":{"x":-
+- 07:11 act: {"say":"Billy at -335,64,229: no animals here, the pig lead is empty. Heading back toward the group at the white beds. Laforge, I'll look for your salmon spot if you show me.","intent":{"goal":"return
+- 07:16 act: {"say":"Billy at the white beds, midday, health 20, hunger 20, no food. I'll stay here with the group. Anyone who finds an animal, call its place and I'll come."}
