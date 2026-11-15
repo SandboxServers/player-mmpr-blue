@@ -52,3 +52,8 @@
 - 18:51 act: {"intent":{"goal":"join_meat_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000
 - 18:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
 - 19:01 act: {"actions":[{"do":"sleep"}]}
+- 19:10 act: {"say":"Billy, dawn 305, health 20, hunger 17, no food, no tools. I'll hold at the beds. Anyone who finds meat, call out and I'll help carry it to Clark and Chapman."}
+- 19:14 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, Kimberly's beef is yours, you are the lowest in reach. Eat it."}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:23 say: {"text":"Billy here, no food, health 20. Going to the white beds for the night."}
+- 19:23 act: {"actions":[{"do":"sleep"}]}
