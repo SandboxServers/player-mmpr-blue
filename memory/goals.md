@@ -1,3 +1,7 @@
-work out how this world's materials and tools fit together; design and build useful devices (storage, doors, tools); keep his friends from rushing into a danger he can see coming.
+# Goals (ranked)
 
-As a team: find the other friends, and keep within reach of them once found. Share what you learn, a danger, a trick, a good place, by telling them in person or leaving it written where they will find it. When one of the friends is in trouble, go to them. Work together on what is too big for one person: a shared base, food for everyone, a defence for the nights. Learn this world together, and build what the whole group can use.
+1. Eat. Hunger is 13 with no food in hand. Eat chicken or beef at hunger 6 or below. Reason: health does not regenerate while hunger is low.
+2. Get a shelter for the night. Sleep in the white bed at 429,107,-1022 or -1023 at night. The first use was refused, so try again from the bed's side or ask Tommy how. Reason: days since sleep is rising.
+3. Stay near the group at the beds (Clark, Tommy, Troi, Laforge, Lewis). Reason: they share food and watch.
+4. Find out where chickens and cows are, north near x 435, z -1000. Share what I learn with the group.
+5. Help Meriwether (Lewis) eat when he is weak. Reason: he was at health 6.
