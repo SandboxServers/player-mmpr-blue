@@ -17,3 +17,12 @@
 - 14:16 act: {"say":"Billy: I have one rotten flesh from Trini. Zack and Leonardo are lowest at 10, so it goes to whichever of them comes into sight first. Say where you are."}
 - 14:16 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, you're lowest in sight. Here is the rotten flesh back. Leonardo and Zack are out of my sight, so I'm handing
 - 14:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"say":"Billy, dusk 290. Going to the bed at -270,67,318 with Trini near. Hunger 16, health 11.5. Meat goes to Zack and Leon
+- 14:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, days since sleep 2, standing at the bed with group. Sleep here.","say":"Billy: going to bed at the white beds beside the group. No food on me."}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, sleep did not take. Walk back to the bed and try once more beside the group."}
+- 14:23 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the south bed with the group. One more try; if refused, stay with the group until dawn."}
+- 14:29 act: {"actions":[{"do":"goto","target":"macdonald"}],"say":"Billy, morning 291, no food, hunger 16. I'm joining the east pig hunt with Macdonald and Picard. Meat to Zack and Leonardo first.","reasoning":"D
+- 14:29 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"reasoning":"Macdonald is out of sight. LaForge is beside me; stay with the group on the food hunt."}
+- 14:29 act: {"intent":{"goal":"follow_laforge_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Billy: heading east to the pig lead near -213,69,351 with the hunt. No food.","reasoning":"Follow failed. Go to the east pig lead t
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Heading west with the group to the beds for the night.","intent":{"goal":"reach_beds_for_night","program":"travel","arguments":{"ta
+- 14:44 act: {"actions":[{"do":"sleep"}],"say":"Billy at the south beds with the group for the night. Hunger 15, health 11.5, no food."}
