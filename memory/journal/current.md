@@ -10,3 +10,10 @@
 - 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"porkchop","count":1}],"say":"Macdonald, one porkchop for you, hunger 15. Eat it now."}
 - 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"porkchop","count":1}],"say":"Macdonald, the porkchop is still in my hand. Zack has mutton for himself, so this one is yours."}
 - 17:33 act: {"intent":{"goal":"reach_pig_west","program":"travel","arguments":{"target":"pig"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_ope
+- 17:34 act: {"say":"Hunger 17, no food. I'm going to the west pig at -289,67,254 with Bcrusher and Macdonald. Worf, come if you can. Any meat goes to the weakest first.","actions":[{"do":"goto","target":{"x":-289
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":-297,"y":64,"z":244}},{"do":"attack","target":"cow"}],"intent":{"goal":"hunt_cow_nw","program":"gather","arguments":{"block":"cow","count":1},"wake_on":["directl
+- 17:34 act: {"actions":[{"do":"eat"}],"say":"I got three beef from the cow. I'm eating one now and will keep two for whoever is weakest."}
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"say":"I ate one beef, hunger 20. Two beef left for the weakest. I'm heading back to the beds with the group before dusk.","intent":{"goal
+- 17:35 act: {"say":"I'm back at the beds with two beef. Who is lowest on food? Say your hunger and I'll give to the weakest first.","actions":[]}
+- 17:35 act: {"actions":[{"do":"goto","target":"Macdonald"}],"say":"Chapman, I hear you. Macdonald first, then Clark. Going to Macdonald now."}
+- 17:35 act: {"say":"Macdonald, I can't see you to reach you. Walk up to me and say your hunger; I'll hand you the beef.","actions":[],"intent":{"goal":"hold_beef_at_beds","program":"rest","arguments":{},"wake_on"
