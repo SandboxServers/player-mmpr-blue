@@ -50,3 +50,6 @@
 - 03:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 257 night: reconnected at -245,67,319, joined Clark at the yellow beds (-263,67,353). Sleep started, 3 of 8 asleep, then a thunderstorm at night. No
 - 03:24 say: {"text":"Billy here, slept at the yellow bed, day 257 done. Health 20, hunger 20, no food. At first light I'll search for meat with the group; Trini and Data eat first."}
 - 03:25 act: {"say":"Billy here at the yellow bed, night of day 257. No food, health 20, hunger 20. Trying to sleep. Food still goes to Trini and Data first.","actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}
+- 03:30 act: {"say":"Billy, dawn of day 258. No food, health 20, hunger 20. Checking the sheep field to the south at -257,66,375 for meat; I'll tell the group what I find. Meat still goes to Trini and Data first."
+- 03:30 act: {"say":"Billy: the sheep field south at -257,66,374 is empty, no animals in sight. I'm going back to the beds to report. Trini, Data, I have no food yet.","intent":{"goal":"return_to_group_at_beds","p
+- 03:31 say: {"text":"Billy: the sheep field south is empty, Zack. No meat seen. Clark, I'll go with you to search the grass nearby, staying close."}
