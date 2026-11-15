@@ -6,3 +6,16 @@
 - 22:56 act: {"intent":{"goal":"find_chickens_south_of_fence","program":"travel","arguments":{"target":{"x":452,"y":107,"z":-994}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
 - 22:56 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1021}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
 - 22:56 say: {"text":"I'm back at the white beds. No chickens were left in the north-east. I still hold one raw chicken; Lewis or whoever is weakest, call out and it's yours."}
+- 23:05 say: {"text":"Billy here at the beds. Hunger 13, I hold one chicken for whoever is weakest. Chapman, Lewis, tell me where you are. I'll look for animals westward."}
+- 23:05 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":419,"y":107,"z":-1023}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 23:05 act: {"intent":{"goal":"search_animals_further_west","program":"travel","arguments":{"target":{"x":390,"y":107,"z":-1020}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1021}}],"say":"Still no animals out west, only beds and chests. It is dark, so I'm going to the bed here to rest."}
+- 23:05 act: {"intent":{"goal":"find_melons_west","program":"travel","arguments":{"target":{"x":310,"y":107,"z":-875}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 23:08 act: {"actions":[{"do":"eat"}],"say":"Thank you, MacDonald. I have six melon slices now, so keep yours for Picard and the weak ones. I'll take melons to Chapman and Lewis at the beds."}
+- 23:09 act: {"intent":{"goal":"return_melons_to_beds","program":"travel","arguments":{"target":{"x":433,"y":107,"z":-1021}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 23:09 act: {"actions":[{"do":"deposit","at":{"x":433,"y":107,"z":-1023},"item":"melon_slice","count":5}],"say":"I'm back at the beds with five melon slices. I put them in the food chest at 433,107,-1023. Chapman
+- 23:10 act: {"actions":[],"say":"Lewis, I'm here at the beds with a raw chicken and a mutton. Come into sight and I'll hand you one now. Trini, you go first with the melon."}
+- 23:12 act: {"actions":[{"do":"deposit","at":{"x":433,"y":107,"z":-1023},"item":"chicken","count":1}],"say":"I put my raw chicken in the food chest at 433,107,-1023 for Lewis or Picard, whoever is weakest. I stil
+- 23:16 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"mutton","count":1},{"do":"goto","target":{"x":443,"y":107,"z":-1021}}],"say":"Leonardo, here is my mutton. Eat it if you're hungry. I'm going to 
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Leonardo, thank you. I'm going to the bed at 429, -1022 for the night. I still have a chicken for whoever is weakest."}
+- 23:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
