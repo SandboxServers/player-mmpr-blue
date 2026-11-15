@@ -37,3 +37,14 @@
 - 15:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}}],"say":"Billy walking to the north white bed to hand the chicken to Bcrusher, who is hungry. Macdonald says he is full for now."}
 - 15:10 act: {"say":"Billy at the north white bed, day 293. I have one raw chicken for whoever is hungriest in sight. Bcrusher, say where you are and I'll give it to you."}
 - 15:14 act: {"say":"Billy: I hold one raw chicken. LaForge at health 2 and Riker at health 3 come first. Walk into my sight at the north white bed and I'll hand it over. Troi, you're in reach, so tell me if you'r
+- 15:18 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Troi, I have one raw chicken. You are in reach, so I am giving it to you. Eat it if you are hungry.","reasoning":"Troi is
+- 15:18 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"LaForge, I have one raw chicken for whoever is weakest. Are you hungry or hurt? Tell me and I will hand it over.","reasoning":"My give to Tro
+- 15:18 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, here is the raw chicken. You were the weakest I could see.","reasoning":"LaForge is in reach and was noted as
+- 15:18 act: {"actions":[],"say":"The chicken went to Trini, not LaForge. Trini, please share it with LaForge or Troi if they are weaker. I have no food left.","reasoning":"Give failed and the chicken landed with 
+- 15:20 act: {"actions":[{"do":"sleep"}],"say":"Billy at the north white bed at dusk, with Trini, Troi and LaForge in reach. No food on me. Trying sleep here with the group.","reasoning":"Dusk, group in reach, at 
+- 15:22 act: {"actions":[{"do":"sleep"}],"say":"Billy at the north bed, night, with Trini and Bcrusher beside me. Trying sleep.","reasoning":"Night, beside the group at the bed. One sleep try as planned."}
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy walking back to the north bed to sleep beside the group.","reasoning":"Sleep was blocked where I stood. Walk t
+- 15:26 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white bed with the group, night. Trying sleep.","reasoning":"Others are sleeping at these beds now; one more try beside them."}
+- 15:28 act: {"actions":[],"say":"Lewis, thanks. My hunger is 14 and health 11.5, so I'm not the weakest. Keep the chicken for whoever is lowest. If you can spare the wheat, Bcrusher is at the north beds with hung
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Billy heading to the south farm with Data and the group to look at the wheat. No food on me.","reasoning":"Group is at the south fa
+- 15:30 act: {"actions":[],"say":"Billy here at the south farm. I have no food, only wheat seeds. Bcrusher, you're at health 2: anyone who finds meat or wheat, give it to him first.","intent":{"goal":"hold_group_a
