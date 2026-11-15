@@ -56,3 +56,5 @@
 - 07:32 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":260}}],"say":"Billy: west at -300,66,300, no animals yet. Going on toward the far west grass.","intent":{"goal":"search_far_west_for_animals","pr
 - 07:36 act: {"actions":[{"do":"goto","target":{"x":-320,"y":64,"z":268}}],"say":"Billy in deep water at -340,61,260, getting out toward the north shore where Picard is. Salmon here but I have no rod.","intent":{"
 - 07:36 act: {"actions":[],"say":"Billy out of the water on the north shore with Picard. Salmon sit in the deep water north-west at about -329,61,255 and a squid at -320,57,252. I have no rod or spear, so I'll hel
+- 07:38 act: {"say":"Picard, I am here with no food. Where did you last see animals?","intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directl
+- 07:38 act: {"say":"Billy at the white beds, health 20, hunger 20, no food. Laforge, I'll come see your salmon shore when it's light. Anyone who finds string or a cow, call it out.","intent":{"goal":"hold_at_beds
