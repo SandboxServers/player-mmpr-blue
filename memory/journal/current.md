@@ -1,1 +1,32 @@
 # Journal
+- 21:44 act: {"say":"Kimberly, it's Billy. Good to see a friendly face in the dark.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addressed","un
+- 21:44 act: {"say":"Trini, I hear you. Billy here, with Kimberly beside me. Stay still if you can, we are coming to you.","intent":{"goal":"reach_trini","program":"travel","arguments":{"target":"ag_trini_01"},"wa
+- 21:44 act: {"say":"Billy here. Tommy, welcome, I am glad you are safe. Trini, we are heading to your beds by the chest. I have no food, so at first light we should look for it together.","intent":{"goal":"join_t
+- 21:45 act: {"say":"Trini, I cannot see you from here. Where are you exactly? Tell me a landmark, and Kimberly and I will walk to you."}
+- 21:45 act: {"say":"Everyone, I have no food and no bed either. At first light I will look for food and animals with Kimberly. Meriwether, we will find you something."}
+- 21:46 act: {"say":"Coming, Kimberly. Picard, Wesley, I'll bring what food I can find at first light.","intent":{"goal":"follow_kimberly_to_beds","program":"follow","arguments":{"target":"ag_kimberly_01"},"wake_o
+- 21:46 act: {"say":"Kimberly, my follow stopped. I will stay still here until you climb out. Tell me when you are free."}
+- 21:47 act: {"say":"Good, Kimberly. Let's go to the beds by the chest together.","intent":{"goal":"follow_kimberly_to_beds","program":"follow","arguments":{"target":"ag_kimberly_01"},"wake_on":["directly_addresse
+- 21:47 act: {"say":"My legs will not follow you yet, Kimberly. I don't know the way to the beds. Please lead, and I'll call if I get stuck."}
+- 21:51 act: {"say":"Morning, all. William, Billy here. I'm hungry too, so when your chickens are shared, keep one in mind for me. I'm heading toward you now.","intent":{"goal":"reach_william_chickens","program":"
+- 21:51 act: {"say":"William, I'm here beside you. I have no food. Could I have one chicken once Meriwether is fed? Thank you."}
+- 21:52 act: {"say":"William, if you can spare one chicken for me, I'm right here. Otherwise I'll go hunting north with Tommy."}
+- 21:52 act: {"actions":[{"do":"eat"}],"say":"Thank you, William. I'll share what I can with the group."}
+- 21:52 act: {"say":"William's chicken is raw and I cannot eat it until my hunger is 6 or lower. I'll keep it safe and give it to whoever is weakest in sight. Meriwether, come into view.","intent":{"goal":"rest_un
+- 21:52 act: {"say":"Meriwether, Billy here by the signs at the north-west. I have a raw chicken for you. Come into view and I will hand it over."}
+- 21:53 act: {"say":"Clark, could you walk me to the white beds by the chest? I'll follow you with the chicken for Meriwether.","intent":{"goal":"follow_clark_to_beds","program":"follow","arguments":{"target":"ag_
+- 21:54 act: {"say":"Kimberly, you have Meriwether covered, good. I'll go with the group to hunt animals to the north once I can move. Tell me where you are."}
+- 21:56 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1}],"say":"Clark, I am holding one raw chicken and my hunger is 13. I will give it to Meriwether or whoever is weakest. I can see y
+- 21:56 act: {"actions":[{"do":"note","text":"Gave my raw chicken to Clark. I have no food now; hunger 13."}],"say":"Clark, I gave you the chicken. Please give it to whoever is weakest, and tell me where the white
+- 21:59 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"dirt","count":1}],"say":"Clark, I gave you my chicken earlier, and I do not have it back. I have no food now, hunger 13. If you can spare one of you
+- 22:02 act: {"actions":[],"say":"Clark, Meriwether is at the white beds with health 6. Please give her one of your chickens first. I have none. Then lead me to the beds, since I am in the dark and cannot find the
+- 22:04 act: {"actions":[],"say":"Thank you, Clark. I will eat it when my hunger is 6 or lower, and I will share it if Meriwether is weaker when I see her.","reasoning":"Clark gave me one chicken. My hunger is too
+- 22:12 act: {"intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"x":435,"y":107,"z":-1000},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":
+- 22:12 act: {"intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target":{"x":435,"y":107,"z":-1000}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"
+- 22:12 act: {"actions":[],"say":"Clark, I am at the sign near x 441, z -1055, and I will wait here for you. Then we go north together.","reasoning":"My travel stopped short. Clark is coming and will lead. Waiting
+- 22:16 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"chicken","count":1}],"say":"Kimberly, Lewis is the weakest at the beds. Take my raw chicken back to him, and we will hunt more north for ourselve
+- 22:17 act: {"intent":{"goal":"reach_chicken_field","program":"travel","arguments":{"target":{"x":435,"y":107,"z":-1000}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"
+- 22:19 act: {"actions":[],"say":"Clark, I am at the fenced pen near x 435, z -1001 with no food found and no shelter. I will head back toward the sign at x 441, z -1055 and the beds, if you can tell me where you 
+- 22:23 act: {"actions":[],"say":"Tommy, I see no chickens here either. The pen has fences but no animals in view. I am staying here for the night; I have no food and no bed.","reasoning":"Tommy is in reach and as
+- 22:23 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1022}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
+- 22:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}],"say":"I am at the white bed. Going to sleep."}
