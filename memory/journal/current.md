@@ -47,3 +47,6 @@
 - 18:33 act: {"say":"Billy, day, hunger 17, health 20. I'm joining Troi's west scout for cows and pigs, staying in sight. Any meat goes to Chapman or Clark first.","intent":{"goal":"scout_west_with_troi","program"
 - 18:35 act: {"say":"Billy, hunger 17, one rotten flesh. LaForge and Chapman, I'm near Troi by the white beds. Step into my sight; if you drop to 6 or below, the flesh is yours.","intent":{"goal":"hold_near_group_
 - 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
+- 18:51 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Billy, morning 304, health 20, hunger 17, one rotten flesh. Joining the meat hunt east toward the cow near -152,327 with Worf, LaForge and Riker
+- 18:51 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"rotten_flesh","count":1}],"say":"Clark, you look low. I have one rotten flesh, it is yours. Worf, I am staying here with Clark rather than going eas
+- 18:51 act: {"intent":{"goal":"join_meat_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000
