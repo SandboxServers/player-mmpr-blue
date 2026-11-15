@@ -118,3 +118,7 @@
 - 23:49 act: {"say":"Geldar at dawn, day 247. Health 20, hunger 20, empty pack. I have no food to share. I'll stay in sight of the group and look for animals on the grass; I won't go into deep water.","intent":{"g
 - 23:51 say: {"text":"Geldar: I have no food, sorry. I'm staying at the beds with the group, away from the lake and the south. Trini, Data and Jason first if any animal turns up."}
 - 23:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Billy at the beds, dusk on day 247. Health 20, hunger 20, no food. Staying with the group, and I'll sleep in the white bed here."}
+- 00:00 say: {"text":"Geldar at the beds, dusk day 247. Health 20, no food. Staying with the group; any food goes to Trini first, then Data."}
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_beds_night_247","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","
+- 00:00 act: {"intent":{"goal":"rest_at_beds_night_247","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_opera
+- 00:03 act: {"actions":[{"do":"sleep"}],"say":"Billy trying the bed at night, day 247. Health 20, no food. Trini first at light."}
