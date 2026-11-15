@@ -29,3 +29,11 @@
 - 14:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"say":"Billy moving to Trini at the north bed, away from the phantoms. Health 11.5, hunger 15."}
 - 14:49 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Billy going east with LaForge to the pig area. Hunger 15, no food. Call out any pig."}
 - 14:51 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat","count":1}],"say":"Billy: Macdonald, you're lowest in reach. Here is the wheat Lewis passed to me."}
+- 14:57 act: {"say":"Billy here, no food, hunger 15. I'm staying at the beds in sight of Macdonald and Trini. Any pig or cow, call out and I'll come."}
+- 15:01 act: {"say":"I have one raw chicken. Macdonald is the lowest I know of, and he is out of sight. I'll hold it here at the white bed and give it to him when he comes into sight."}
+- 15:09 act: {"say":"Billy at dawn 292, no food, hunger 15, holding one raw chicken for Macdonald. Going with the group to the pig area at -213,69,351. Call out any meat.","intent":{"goal":"join_pig_hunt_with_grou
+- 15:09 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"chicken","count":1}],"say":"Bcrusher, Macdonald is gone, so this raw chicken is yours; you're in reach with no food. Going back to the north beds
+- 15:10 act: {"say":"Billy here. Macdonald, you respawned with nothing, so the raw chicken is yours. I'm at -268,66,330 near the crafting table; come into sight and I'll hand it over."}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}}],"say":"Billy walking to the north white bed to hand the chicken to Bcrusher, who is hungry. Macdonald says he is full for now."}
+- 15:10 act: {"say":"Billy at the north white bed, day 293. I have one raw chicken for whoever is hungriest in sight. Bcrusher, say where you are and I'll give it to you."}
+- 15:14 act: {"say":"Billy: I hold one raw chicken. LaForge at health 2 and Riker at health 3 come first. Walk into my sight at the north white bed and I'll hand it over. Troi, you're in reach, so tell me if you'r
