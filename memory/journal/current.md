@@ -48,3 +48,11 @@
 - 07:11 act: {"say":"Billy: Worf is out of sight. I'll walk toward the pig lead at -336,64,229 and call out anything I see.","intent":{"goal":"walk_to_pig_lead_west","program":"travel","arguments":{"target":{"x":-
 - 07:11 act: {"say":"Billy at -335,64,229: no animals here, the pig lead is empty. Heading back toward the group at the white beds. Laforge, I'll look for your salmon spot if you show me.","intent":{"goal":"return
 - 07:16 act: {"say":"Billy at the white beds, midday, health 20, hunger 20, no food. I'll stay here with the group. Anyone who finds an animal, call its place and I'll come."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Chapman, I heard you. I will be near the beds tonight; I have no food, but I am sleeping here with the group.","inte
+- 07:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, no food, health 20. Troi, I have none, sorry. Trying the bed beside you."}
+- 07:21 act: {"actions":[],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_
+- 07:31 act: {"actions":[],"say":"Billy, dawn day 270, hunger 20, no food. Joining the west search. Any meat goes to Chapman and Trini first.","intent":{"goal":"search_west_for_animals_with_group","program":"follo
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}],"say":"Billy heading west toward the grass, calling any animal I see.","intent":{"goal":"walk_west_for_animals","program":"travel","argume
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":260}}],"say":"Billy: west at -300,66,300, no animals yet. Going on toward the far west grass.","intent":{"goal":"search_far_west_for_animals","pr
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-320,"y":64,"z":268}}],"say":"Billy in deep water at -340,61,260, getting out toward the north shore where Picard is. Salmon here but I have no rod.","intent":{"
+- 07:36 act: {"actions":[],"say":"Billy out of the water on the north shore with Picard. Salmon sit in the deep water north-west at about -329,61,255 and a squid at -320,57,252. I have no rod or spear, so I'll hel
