@@ -105,3 +105,7 @@
 - 11:33 act: {"intent":{"goal":"walk_to_lewis_farmland","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
 - 11:33 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"wheat_seeds","count":2}],"say":"Clark, you are farming here: I'm giving you Troi's 2 wheat seeds to plant. Still no meat for anyone; I'm holding by 
 - 11:33 act: {"say":"Billy: my 2 wheat seeds went to Lewis, not Clark, by mistake. Lewis, please plant them on your farmland here; that's fine. I still have no food.","intent":{"goal":"hold_at_farm_for_food_lead",
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy at dusk, day 282, health 20, hunger 20, no food. Trying the white 
+- 11:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, night 282. No food. Trying to get into the bed next to the group.","reasoning":"The first bed block refused; 
+- 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use keeps refusing. Try sleep directly beside the bed."}
+- 11:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed as the way was blocked; try the nearby bed at -270,67,336."}
