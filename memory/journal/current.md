@@ -7,3 +7,13 @@
 - 14:02 act: {"say":"Billy: sleep was blocked where I stood. Moving to stand beside the bed with Chapman, then sleep again.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"sleep"}]}
 - 14:03 act: {"say":"Billy: sleep blocked again. I'm going to the bed at -271,67,336 with Chapman, one more try.","actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"sleep"}]}
 - 14:03 act: {"say":"Billy: sleep is refused at the crowded beds. It is light now, so I'll stay near the beds with the group and look for food in daylight.","intent":{"goal":"stay_near_beds_until_day","program":"g
+- 14:09 act: {"say":"Billy: phantoms at dawn, health 11. Moving north to the beds, away from them.","intent":{"goal":"flee_phantoms_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wak
+- 14:09 act: {"say":"Billy, dawn 290, health 11, hunger 16, no food. Staying beside Trini and Wesley; we hunt together, meat to the lowest first.","actions":[{"do":"note","text":"Day 290 dawn: phantoms hit me at t
+- 14:09 act: {"say":"Billy here, health 11, hunger 16. Trini, Wesley: I'll hunt with you in sight. Call the direction and I'll walk beside you."}
+- 14:10 act: {"say":"Billy here, dawn 290. Health 11.5, hunger 16. I'll walk west with Trini and Kimberly, in sight. Meat to Trini first.","intent":{"goal":"hunt_west_with_group","program":"travel","arguments":{"t
+- 14:10 act: {"say":"Billy: heading back to the beds with Trini and Wesley. Nothing found west either.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"intent":{"goal":"return_to_beds_with_group","pr
+- 14:10 act: {"actions":[{"do":"note","text":"Day 290 morning: no animals west with Trini and Wesley. Back at the beds beside Wesley and Laforge. Health 11.5, hunger 16. Waiting here in sight of the group for a me
+- 14:12 act: {"say":"Billy, hunger 16, health 11.5, no food. Wesley, I'll stay at the beds for now, since dusk is near and I was hit at dawn. Meat goes to Zack and Leonardo first.","actions":[{"do":"note","text":"
+- 14:16 act: {"say":"Billy: I have one rotten flesh from Trini. Zack and Leonardo are lowest at 10, so it goes to whichever of them comes into sight first. Say where you are."}
+- 14:16 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, you're lowest in sight. Here is the rotten flesh back. Leonardo and Zack are out of my sight, so I'm handing
+- 14:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}],"say":"Billy, dusk 290. Going to the bed at -270,67,318 with Trini near. Hunger 16, health 11.5. Meat goes to Zack and Leon
