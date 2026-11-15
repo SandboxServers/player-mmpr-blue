@@ -72,3 +72,6 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy, night 308, hunger 16, no food. Trying the bed at -271,67,336."}
 - 20:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
 - 20:24 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":337}},{"do":"sleep"}],"say":"Billy, night 308, hunger 15, no food. Trying the other white bed at -270,67,336."}
+- 20:33 act: {"actions":[],"say":"Billy, dawn 309, health 20, hunger 15, no food. Troi and Kimberly first. I'll hold here with Jason and go with the group if food is found."}
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":339}}],"say":"Billy, dusk 309, health 20, hunger 15, no food. Heading to the white beds with the group to sleep."}
+- 20:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
