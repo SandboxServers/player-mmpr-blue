@@ -108,3 +108,9 @@
 - 16:29 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":338}},{"do":"goto","target":{"x":-267,"y":66,"z":337}},{"do":"goto","target":{"x":-266,"y":67,"z":328}}],"intent":{"goal":"return_to_group_north"
 - 16:29 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":327}}],"say":"Zack, thank you. I am back at health 20 with my sword and 7 logs. The rotten flesh did not come back to me. Anyone with food, call 
 - 16:34 act: {"actions":[],"say":"Billy, midday 297, health 20, hunger 20, no food. I'll stay at the crafting table and call out any animal I see. Clark first for meat."}
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Billy at dusk 297, no food, health 20. Going to the white bed at -270,67,318 for the night, beside the group.","reas
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Night, no one near. Bed is about 11 blocks east. Walk there and use it."}
+- 16:42 act: {"actions":[{"do":"sleep"}],"reasoning":"I am beside the bed with Macdonald, Chapman, Trini, Data near. Try sleep directly."}
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Perched on air, golems 7+ blocks south. Walk north to the beds with the group and try sleep again."}
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"reasoning":"Previous goto was blocked by a running action. Walk north to the bed again, away from the closing golem."}
+- 16:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Nobody near now. Step next to the bed at -271,67,318 and sleep."}
