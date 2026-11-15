@@ -50,3 +50,5 @@
 - 18:51 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Billy, morning 304, health 20, hunger 17, one rotten flesh. Joining the meat hunt east toward the cow near -152,327 with Worf, LaForge and Riker
 - 18:51 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"rotten_flesh","count":1}],"say":"Clark, you look low. I have one rotten flesh, it is yours. Worf, I am staying here with Clark rather than going eas
 - 18:51 act: {"intent":{"goal":"join_meat_hunt","program":"follow","arguments":{"target":"ag_laforge_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 19:01 act: {"actions":[{"do":"sleep"}]}
