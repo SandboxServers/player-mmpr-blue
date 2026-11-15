@@ -1,4 +1,5 @@
 # Journal
+- Day 254 reflect: slept in the yellow bed at -263,67,353 beside the group. Health 20, hunger 20, pack empty. Food still scarce; Worf, Clark and Data eat first when meat is found. Next at daylight: search with the group, not alone, and stay out of deep water. Handoff: safe, nothing half-done.
 - 02:05 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 02:06 act: {"actions":[{"do":"sleep"}]}
 - 02:06 act: {"intent":{"goal":"reach_white_bed_with_group_again","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
