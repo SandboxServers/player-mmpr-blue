@@ -1,4 +1,7 @@
 # Journal
+- Day 247 dawn: woke at white beds, health 20, hunger 20, no food, empty hands. Trini is low (health 3, hunger 11). Said I'd give food to her first and hold at beds with the group. wait tool dropped with session errors; looked instead.
+- Day 248 dawn: still no food, health 20, hunger 20. Trini hunger 11 and Zack is near death; the group agreed the chicken goes to them. Sent myself to scout the west grass in short steps, in sight of Kimberly and Riker.
+- Day 248 midday: west grass empty, no animals; walked back to the white beds with the group. Health 20, hunger 20, no food. Holding at the beds.
 - Day 236 summary: food hunt continues; no food found; slept at the white bed near -298,68,294 with Zack and the group nearby.
 - (earlier lines archived)
 - 20:12 act: {"say":"Billy here, health 20, hunger full. I have no food, but I'll join you at the west grass and keep watch for pigs and sheep.","intent":{"goal":"reach_west_grass_with_group","program":"travel","a
@@ -124,3 +127,7 @@
 - 00:03 act: {"actions":[{"do":"sleep"}],"say":"Billy trying the bed at night, day 247. Health 20, no food. Trini first at light."}
 - 00:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar here at the white beds. I have no food; Trini first at light."}
 - 00:06 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white bed with the group. No food, health 20. Trini first at light."}
+- 00:08 act: {"say":"Billy here at the white beds, dawn of day 247. Health 20, hunger 20, no food, empty hands. Trini, your health is low, so you eat first from anything we find. I'll walk the grass only in sight 
+- 00:10 act: {"say":"Billy, day 248, health 20, hunger 20, no food. I'll walk the grass west of the beds in short steps with Kimberly and Riker in sight. Any animal I see, I'll call out, and food goes to Trini fir
+- 00:10 act: {"say":"Billy at -300,66,325 on the west grass. No animals in sight, and I'm alone. Heading back to the white beds with the group; an iron golem is 14 blocks east.","intent":{"goal":"return_to_white_b
+- 00:10 act: {"say":"Billy back at the white beds, health 20, hunger 20, no food. No animals on the west grass today. I'll hold with the group; any food goes to Trini first."}
