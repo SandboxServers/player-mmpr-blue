@@ -57,3 +57,4 @@
 - 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 19:23 say: {"text":"Billy here, no food, health 20. Going to the white beds for the night."}
 - 19:23 act: {"actions":[{"do":"sleep"}]}
+- 19:31 say: {"text":"Billy, morning 306, health 20, hunger 16, no food. Troi, the rotten flesh goes to Chapman first if he calls. I'll stay here with the beds and watch for meat."}
