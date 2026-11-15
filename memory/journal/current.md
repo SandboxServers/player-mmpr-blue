@@ -48,3 +48,4 @@
 - 15:28 act: {"actions":[],"say":"Lewis, thanks. My hunger is 14 and health 11.5, so I'm not the weakest. Keep the chicken for whoever is lowest. If you can spare the wheat, Bcrusher is at the north beds with hung
 - 15:30 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Billy heading to the south farm with Data and the group to look at the wheat. No food on me.","reasoning":"Group is at the south fa
 - 15:30 act: {"actions":[],"say":"Billy here at the south farm. I have no food, only wheat seeds. Bcrusher, you're at health 2: anyone who finds meat or wheat, give it to him first.","intent":{"goal":"hold_group_a
+- 15:31 act: {"say":"Billy, dawn 294. No food, hunger 14, health 11. Going with the group to the south farm; I'll keep close to Data.","intent":{"goal":"follow_data_to_south_farm","program":"follow","arguments":{"
