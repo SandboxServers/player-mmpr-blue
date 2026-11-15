@@ -13,3 +13,6 @@
 - 02:22 act: {"say":"Billy at dusk, day 254. No food, health 20, hunger 20. Going to a bed near the group to sleep. Worf, Clark and Data get any meat first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":3
 - 02:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 254 night: slept in the yellow bed at -263,67,353 beside the group. No food on me; Worf and Clark first at light. Health 20."}]}
 - 02:28 say: {"text":"Billy at dawn, day 254. Health 20, hunger 20, no food. I'll search the grass near the beds with anyone going out. Meat goes to Trini and Data first."}
+- 02:28 act: {"say":"Billy here. Yes, I'll go north-east with you both for pigs, staying in sight. Meat goes to Trini and Data first, then Worf. I'm leaving from the yellow beds now.","intent":{"goal":"search_pigs
+- 02:29 act: {"say":"It's dark and no pigs were seen on the way. I'm going back to the yellow beds with the group to sleep. Worf, Zack, we'll search again at dawn.","actions":[{"do":"goto","target":{"x":-263,"y":6
+- 02:29 act: {"say":"Back at the yellow beds. No pigs seen on the north-east walk. Worf and Zack, shall we go again once the group is ready? Meat goes to Trini and Data first."}
