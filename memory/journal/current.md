@@ -1,1 +1,12 @@
 # Journal
+- 17:29 act: {"say":"Billy here, health and hunger full, empty-handed. I'll go west with the group to the lake cow area looking for meat. Call out if you need me.","actions":[{"do":"goto","target":{"x":-288,"y":67
+- 17:29 act: {"say":"A pig is 4 blocks north-west of me. I'll try for it, and the meat goes to whoever is lowest.","actions":[{"do":"attack","target":"pig"}]}
+- 17:30 act: {"say":"Got a porkchop. I'm full, so I'll hold it for whoever is lowest. A zombie and a skeleton are nearby, so I'll watch them.","actions":[{"do":"attack","target":"zombie"}]}
+- 17:30 act: {"say":"I'm burning and an arrow hit me. Heading back south toward the beds and the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":300}}]}
+- 17:30 act: {"say":"I'm back by the beds, out of the arrows and fire. I hold one porkchop for whoever is lowest. Call out and come to me.","actions":[]}
+- 17:32 act: {"say":"Zack is weakest at hunger 8. I'm walking to Trini's spot now with my porkchop; Zack, step into sight and say so.","actions":[{"do":"goto","target":{"x":-275,"y":66,"z":311}}]}
+- 17:32 act: {"say":"Night is here. I'm holding a porkchop for Zack, who is weakest. Zack, call out when you're in sight.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":316}}]}
+- 17:32 act: {"say":"Macdonald, you're in sight and hunger 15 is lower than mine. I'm coming to you with my porkchop.","actions":[{"do":"goto","target":"ag_macdonald_01"}]}
+- 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"porkchop","count":1}],"say":"Macdonald, one porkchop for you, hunger 15. Eat it now."}
+- 17:33 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"porkchop","count":1}],"say":"Macdonald, the porkchop is still in my hand. Zack has mutton for himself, so this one is yours."}
+- 17:33 act: {"intent":{"goal":"reach_pig_west","program":"travel","arguments":{"target":"pig"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_ope
