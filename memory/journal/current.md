@@ -49,3 +49,17 @@
 - 15:30 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Billy heading to the south farm with Data and the group to look at the wheat. No food on me.","reasoning":"Group is at the south fa
 - 15:30 act: {"actions":[],"say":"Billy here at the south farm. I have no food, only wheat seeds. Bcrusher, you're at health 2: anyone who finds meat or wheat, give it to him first.","intent":{"goal":"hold_group_a
 - 15:31 act: {"say":"Billy, dawn 294. No food, hunger 14, health 11. Going with the group to the south farm; I'll keep close to Data.","intent":{"goal":"follow_data_to_south_farm","program":"follow","arguments":{"
+- 15:34 act: {"say":"Billy here, day 294, health 11.5, hunger 14. No food, only a wheat seed. Going with the group to the south farm; weakest first for any meat or wheat.","intent":{"goal":"join_group_south_farm",
+- 15:40 act: {"reasoning":"Phantom adjacent attacking at dusk, open ground. Fight it beside the group.","actions":[{"do":"attack","target":"phantom"}]}
+- 15:40 act: {"reasoning":"Dusk, phantom gone, golems closing. Get to the white bed with the group and try to sleep.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:40 act: {"reasoning":"Sleep was refused for a phantom 5 blocks off. Try once more in the bed, beside the group.","actions":[{"do":"sleep"}]}
+- 15:41 act: {"reasoning":"Sleep refused twice by phantoms nearby. Wait in the bed spot beside the group, then try again.","actions":[],"intent":{"goal":"hold_at_beds_until_safe_sleep","program":"rest","arguments"
+- 15:41 act: {"reasoning":"Hold at the bed beside the group until the phantoms clear, then sleep.","actions":[],"intent":{"goal":"rest_at_beds_until_safe","program":"rest","arguments":{},"wake_on":["goal_completed
+- 15:41 act: {"reasoning":"Phantom 2.7 blocks off. Try sleep once more in the bed.","actions":[{"do":"sleep"}]}
+- 15:43 act: {"reasoning":"Night, group at the bed. Try sleep again.","actions":[{"do":"sleep"}]}
+- 15:45 act: {"reasoning":"Trini's wheat landed in my pack by mistake. Wesley (ag_wcrusher_01) is in reach at health 2. Give him the wheat, then confirm.","say":"Wesley, the wheat is yours. Giving it to you now.",
+- 15:45 act: {"reasoning":"The toss was blocked. Wesley is 2.9 blocks away. Step to him, then give the wheat again.","actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"wh
+- 15:45 act: {"reasoning":"Give failed twice. Tell Wesley the wheat is near him to pick up, and fight the phantom closing in.","say":"Wesley, the wheat is on the ground by you, I could not hand it over. Please pic
+- 15:46 act: {"reasoning":"Health 7.5, hit by something unseen. Step to Wesley and try the wheat once more, since he is weakest.","actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_0
+- 15:46 act: {"actions":[{"do":"note","text":"Give of wheat to Wesley failed again: items on the ground near him. Letting him pick it up; staying beside the group."}],"say":"Wesley, the wheat I tried to give you i
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Wesley, I'm bringing my last wheat back to the beds. You can have it for bread.","intent":{"goal":"rejoin_group_at_beds","program":
