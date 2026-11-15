@@ -58,3 +58,12 @@
 - 07:36 act: {"actions":[],"say":"Billy out of the water on the north shore with Picard. Salmon sit in the deep water north-west at about -329,61,255 and a squid at -320,57,252. I have no rod or spear, so I'll hel
 - 07:38 act: {"say":"Picard, I am here with no food. Where did you last see animals?","intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directl
 - 07:38 act: {"say":"Billy at the white beds, health 20, hunger 20, no food. Laforge, I'll come see your salmon shore when it's light. Anyone who finds string or a cow, call it out.","intent":{"goal":"hold_at_beds
+- 07:41 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}],"say":"Night. Trying the white bed here. Phantoms are fighting near the south."}
+- 07:42 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"intent":{"goal":"rejoin_group_until_dawn","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","
+- 07:43 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 07:44 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 07:44 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 07:45 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Phantom on me, health 6. Heading to Troi."}
+- 07:45 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Health 4, phantom hitting me, no food. Troi, stay with me. Anyone with a sword, come here."}
+- 07:46 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"attack","target":"phantom"}]}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":-278,"y":71,"z":318}}],"say":"Respawned with nothing. Going to grab my sword and logs, then to the white bed with the group.","intent":{"goal":"recover_drop","pr
