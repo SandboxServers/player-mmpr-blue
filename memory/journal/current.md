@@ -101,3 +101,7 @@
 - 11:27 act: {"intent":{"goal":"hold_on_pillar_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operatio
 - 11:31 act: {"intent":{"goal":"walk_back_to_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 11:32 act: {"say":"Billy back at the white beds, day 282, health 20, hunger 20, no food. Zack, Kimberly, Data: any animal you have seen, call its place and I'll come with you.","intent":{"goal":"hold_at_beds_for
+- 11:32 act: {"say":"Thank you, Troi. Kimberly, I'll plant these 2 wheat seeds on the farmland you till by the beds. Still no meat anywhere; Trini and Picard first.","intent":{"goal":"hold_at_beds_for_food_lead","
+- 11:33 act: {"intent":{"goal":"walk_to_lewis_farmland","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 11:33 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"wheat_seeds","count":2}],"say":"Clark, you are farming here: I'm giving you Troi's 2 wheat seeds to plant. Still no meat for anyone; I'm holding by 
+- 11:33 act: {"say":"Billy: my 2 wheat seeds went to Lewis, not Clark, by mistake. Lewis, please plant them on your farmland here; that's fine. I still have no food.","intent":{"goal":"hold_at_farm_for_food_lead",
