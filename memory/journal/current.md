@@ -58,3 +58,4 @@
 - 19:23 say: {"text":"Billy here, no food, health 20. Going to the white beds for the night."}
 - 19:23 act: {"actions":[{"do":"sleep"}]}
 - 19:31 say: {"text":"Billy, morning 306, health 20, hunger 16, no food. Troi, the rotten flesh goes to Chapman first if he calls. I'll stay here with the beds and watch for meat."}
+- 19:39 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Billy here, health 20, hunger 16, no food. I will scout for meat with the group, in sight. Any meat goes to Chapman first, then Clark.","intent"
