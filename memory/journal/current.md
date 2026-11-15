@@ -140,3 +140,10 @@
 - 00:37 act: {"actions":[],"say":"Billy at the white beds, health 20, hunger 20, no food. Trini first for anything found. I'll hold here with the group and sleep at dusk."}
 - 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, no food, health 20. Sleeping in the white bed by the group. Trini first for any food at dawn."}
 - 00:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy: beds are full with the group. Trying the bed at -271,67,336 now."}
+- 00:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Geldar at the white beds, night of 249. No food on me. Trini first for any food at light."}
+- 00:43 act: {"actions":[{"do":"sleep"}]}
+- 00:45 act: {"actions":[{"do":"sleep"}]}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 00:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Geldar, dawn of 250. No food. Back to the white beds with the group to hunt together. Trini first for any food."}
+- 00:54 act: {"actions":[],"say":"Geldar at the white beds. I have no food. Laforge, Trini is right here at the white beds, bring the porkchop to her. I'll stay in sight and sleep at a bed by her tonight."}
+- 00:58 act: {"actions":[{"do":"sleep"}],"say":"Geldar: trying the white bed for the night. No food on me. Laforge, the porkchop goes to Trini first."}
