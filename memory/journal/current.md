@@ -38,3 +38,6 @@
 - 03:04 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Billy here, night of day 256, at the yellow beds with the group. No food, health 20. Meat goes to Data, Trini and Ja
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 03:06 act: {"actions":[{"do":"note","text":"Day 256 night: sleep blocked twice at yellow beds (-283,69,371 and -263,67,353). Wandered to -240,69,344 near Clark. Health 20, hunger 20, no food. Holding near group 
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Billy here, night of day 256, no food, hunger 20. Going to the yellow beds with the group to sleep. Meat goes to Dat
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":344}}],"say":"Billy here, morning of day 257. I slept at the yellow bed. Going east with Jason, Trini and Clark to look for animals, staying in s
+- 03:10 act: {"actions":[{"do":"note","text":"Day 257 morning: reached the east yellow bed (-250,68,344) with Trini and Jason near. Golems 12-14 blocks west; holding in sight of the group. No food yet."}],"say":"B
