@@ -98,3 +98,6 @@
 - 11:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-197,"y":72,"z":316}}],"reasoning":"Deep water is dangerous; climb out toward land to the south-east, away from the lake.","say":"Billy in deep 
 - 11:18 act: {"actions":[{"do":"goto","target":{"x":-190,"y":57,"z":298}}],"reasoning":"Stone lies north-east and up; climb onto it, away from the deep water."}
 - 11:18 act: {"intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
+- 11:27 act: {"intent":{"goal":"hold_on_pillar_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operatio
+- 11:31 act: {"intent":{"goal":"walk_back_to_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 11:32 act: {"say":"Billy back at the white beds, day 282, health 20, hunger 20, no food. Zack, Kimberly, Data: any animal you have seen, call its place and I'll come with you.","intent":{"goal":"hold_at_beds_for
