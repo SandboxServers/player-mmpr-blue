@@ -92,3 +92,9 @@
 - 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 11:12 act: {"say":"Billy, dawn day 281. No food on me. I'll scout east and north-east, a direction nobody has checked, and report back before dusk.","actions":[{"do":"goto","target":{"x":-250,"y":67,"z":330}}],"
 - 11:12 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":320}}],"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":67,"z":320}},"wake_on":["directly_address
+- 11:15 act: {"intent":{"goal":"scout_for_animals_east","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 11:15 act: {"intent":{"goal":"scout_further_east_for_animals","program":"travel","arguments":{"target":{"x":-190,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 11:16 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-185,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 11:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-197,"y":72,"z":316}}],"reasoning":"Deep water is dangerous; climb out toward land to the south-east, away from the lake.","say":"Billy in deep 
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":-190,"y":57,"z":298}}],"reasoning":"Stone lies north-east and up; climb onto it, away from the deep water."}
+- 11:18 act: {"intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
