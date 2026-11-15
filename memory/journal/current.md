@@ -39,3 +39,7 @@
 - 18:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
 - 18:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"West bed sleep was blocked. Walk to it and try once more, then reassess.","say":"Billy here, night 301, hunger
 - 18:05 act: {"actions":[],"intent":{"goal":"hold_camp_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":1}}
+- 18:09 act: {"actions":[],"say":"Billy, dawn 302, hunger 17. I hold the rotten flesh Troi sent; anyone lower than me, step into my sight and it's yours. Holding here, then looking for meat east."}
+- 18:13 act: {"actions":[],"intent":{"goal":"join_sheep_hunt","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block
+- 18:14 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":335}}],"say":"Going to look at the items on the ground to the south-west, in case they are food."}
+- 18:14 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"The items here look like plain grass and dirt. Heading back to the white beds to wait with the group."}
