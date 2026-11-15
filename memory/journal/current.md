@@ -91,3 +91,20 @@
 - 16:15 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":1}],"say":"Wesley, rotten flesh for you. I'm stepping to you now.","intent":{"goal"
 - 16:17 act: {"actions":[],"say":"Billy here at -273,67,337, next to the first white bed. Wesley, say when you see me and I'll hand you the rotten flesh.","intent":{"goal":"bring_food_to_wesley","program":"travel"
 - 16:17 act: {"actions":[],"say":"Wesley, I'm at -273,67,337 and holding rotten flesh. If you can see me, step to the bed side and say so.","intent":{"goal":"wait_near_wesley_for_food","program":"rest","arguments"
+- 16:19 act: {"say":"Wesley, I'm at the white beds with 1 rotten flesh for you. Say when you're in reach. Bcrusher, I'll hold it until Wesley is in sight."}
+- 16:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:21 act: {"actions":[{"do":"sleep"}]}
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}]}
+- 16:22 act: {"actions":[{"do":"sleep"}]}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
+- 16:23 act: {"actions":[{"do":"sleep"}]}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}}]}
+- 16:23 act: {"actions":[{"do":"sleep"}]}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":337}}]}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":341}}],"say":"Golems are around me and I took a hit from behind. Moving east, away from them. Wesley, I still hold 1 rotten flesh."}
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":334}}]}
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":328}}],"say":"Health 3.5, phantoms close to the south west. Moving north to the crafting table. I hold 1 rotten flesh for the lowest in reach.","
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":334}}],"say":"I died at -262,334 and woke at the spawn with nothing. My items lie there. I'm going back for them quickly, then to the crafting ta
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":338}},{"do":"goto","target":{"x":-267,"y":66,"z":337}},{"do":"goto","target":{"x":-266,"y":67,"z":328}}],"intent":{"goal":"return_to_group_north"
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":327}}],"say":"Zack, thank you. I am back at health 20 with my sword and 7 logs. The rotten flesh did not come back to me. Anyone with food, call 
+- 16:34 act: {"actions":[],"say":"Billy, midday 297, health 20, hunger 20, no food. I'll stay at the crafting table and call out any animal I see. Clark first for meat."}
