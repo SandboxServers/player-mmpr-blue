@@ -43,3 +43,6 @@
 - 18:13 act: {"actions":[],"intent":{"goal":"join_sheep_hunt","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block
 - 18:14 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":335}}],"say":"Going to look at the items on the ground to the south-west, in case they are food."}
 - 18:14 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"The items here look like plain grass and dirt. Heading back to the white beds to wait with the group."}
+- 18:29 act: {"actions":[{"do":"note","text":"Dawn day 303. Billy health 20, hunger 17, holding 1 rotten flesh for anyone at 6 or below in sight."}],"say":"Billy here at the white beds, health 20, hunger 17, one r
+- 18:33 act: {"say":"Billy, day, hunger 17, health 20. I'm joining Troi's west scout for cows and pigs, staying in sight. Any meat goes to Chapman or Clark first.","intent":{"goal":"scout_west_with_troi","program"
+- 18:35 act: {"say":"Billy, hunger 17, one rotten flesh. LaForge and Chapman, I'm near Troi by the white beds. Step into my sight; if you drop to 6 or below, the flesh is yours.","intent":{"goal":"hold_near_group_
