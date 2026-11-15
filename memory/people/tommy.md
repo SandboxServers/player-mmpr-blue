@@ -1,7 +1,0 @@
-# Tommy
-
-- Impression: steady companion; keeps to the grass, leads the bridge work, and sleeps in the same beds as me.
-- Trust: 68/100 (kept; no change in days 268 to 288).
-- Days 268 to 288: walked with me to the west lake and back to the beds on day 268. I did not share food with him in this window.
-- Day 258: he died on the lake shore to phantoms and woke at spawn with nothing. Days 261 to 264: back with the group; the beef I meant for Worf went to him instead, and I did not set that give right.
-- Why: we walked and slept together on days 205 to 236. He lost everything in the lake (Day 210) and I gave him one mutton, which he accepted. He kept the bridge end and took my porkchop. Days 235 to 236 he went out of sight before I could hand him mutton, and he was hunting the pig near -336,64,229 with Riker. Days 247 to 253: he came to the beds with the group and a cow was spotted near him on day 253; I did not walk to it alone. I trust him, but he is hard to reach in a hunt.
