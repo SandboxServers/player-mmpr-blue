@@ -131,3 +131,8 @@
 - 00:10 act: {"say":"Billy, day 248, health 20, hunger 20, no food. I'll walk the grass west of the beds in short steps with Kimberly and Riker in sight. Any animal I see, I'll call out, and food goes to Trini fir
 - 00:10 act: {"say":"Billy at -300,66,325 on the west grass. No animals in sight, and I'm alone. Heading back to the white beds with the group; an iron golem is 14 blocks east.","intent":{"goal":"return_to_white_b
 - 00:10 act: {"say":"Billy back at the white beds, health 20, hunger 20, no food. No animals on the west grass today. I'll hold with the group; any food goes to Trini first."}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here at dusk, day 248. Health 20, hunger 20, no food. Going to the white bed with the group. Trini first for a
+- 00:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: night, no food, health 20. Going to the white bed at -271,67,318 with the group. Golem is south-east, so I'm 
+- 00:24 act: {"actions":[{"do":"sleep"}]}
+- 00:31 act: {"say":"Billy, dawn of day 249. Health 20, hunger 20, no food. Trini and Zack first for any food. I'll scout the grass near the beds in short steps with Riker, in sight of the group.","intent":{"goal"
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Billy: no food on the grass east of the beds. Walking back to the group at the white beds. Trini first for anything found.","intent
