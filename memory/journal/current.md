@@ -6,3 +6,14 @@
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-313,"y":65,"z":258}}],"say":"Salmon in the water to the west. I'll try to get one; Tommy, come along."}
 - 06:14 act: {"actions":[{"do":"attack","target":"salmon"}],"reasoning":"Retry the attack; the last call errored at the endpoint, not the world."}
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-311,"y":64,"z":258}}],"reasoning":"I'm in deep water, drifting. Get back to the shore before anything else."}
+- 06:15 say: {"text":"Billy: I have no food, hunger 14. I will walk with you to the cow lake and look for cows. Riker, what is in reach on the shore?"}
+- 06:15 act: {"intent":{"goal":"reach_cow_lake_with_group","program":"travel","arguments":{"target":{"x":-287,"y":67,"z":257}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 06:16 say: {"text":"Billy at the cow lake, -288,67,257. No cows in sight. Lewis, Wcrusher, Clark, I will look west and north of the shore with you. Salmon out in the deep water are too far to reach safely."}
+- 06:16 act: {"intent":{"goal":"scan_for_cows_with_group","program":"follow","arguments":{"target":"ag_lewis_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 06:16 say: {"text":"Billy: No cows seen from the cow lake yet, Troi. I am still here, hunger 14. Whoever sees a cow first, call it out with its place and I will come."}
+- 06:17 say: {"text":"Billy: Agreed, Troi. I will go west with you, Tommy and Clark. Whoever sees a cow, call its place."}
+- 06:17 act: {"intent":{"goal":"search_west_for_cows_with_troi","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":257}}],"say":"Billy: Heading west in short steps with Troi, Lewis and Tommy. Calling out any cow I see."}
+- 06:19 say: {"text":"Billy: Evening is coming and I have not slept in three days. I will build a plank shelter right here with the group nearby, then sleep. No cow yet; we search again at dawn."}
+- 06:19 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 06:19 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_address
