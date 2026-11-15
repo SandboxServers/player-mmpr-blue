@@ -39,3 +39,8 @@
 - 06:49 act: {"say":"Billy, dawn day 268, hunger 20, health 20, no food. Going west with the group. Any meat: Kimberly and Data first, then Laforge.","intent":{"goal":"walk_west_with_group","program":"travel","arg
 - 06:49 act: {"intent":{"goal":"hold_near_beds_for_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
 - 06:50 act: {"say":"Billy with Lewis, hunger 20, health 20, no food. Searching west with the group; I'll call out any animal I see with its place.","intent":{"goal":"search_west_following_lewis","program":"follow
+- 07:00 act: {"say":"Billy here. Health 20, hunger 20, no food. Night is coming, so I will stay with Laforge and Troi and look for a bed near the white beds.","intent":{"goal":"stay_near_group_at_dusk","program":"
+- 07:02 act: {"say":"Billy: night now, no food. Going to the white bed at -271,67,318 with the group to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318
+- 07:04 act: {"say":"Billy: the bed at -271,67,318 refused me. Most beds here have someone in them, so I will wait by the group and try another bed when one is free.","intent":{"goal":"wait_by_group_for_free_bed",
+- 07:04 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 07:09 act: {"say":"Billy: dawn, hunger 20, no food. I'll follow Riker on the search for cows or pigs. Any meat goes to Chapman and Trini first, then Data.","intent":{"goal":"search_for_animals_with_riker","progr
