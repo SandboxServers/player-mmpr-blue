@@ -141,3 +141,7 @@
 - 12:39 act: {"intent":{"goal":"wait_for_scout_partner","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":8}},"say":"Troi,
 - 12:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night. Trying the other white bed to sleep with the group. Food goes to Picard and Trini first at dawn.","reasoning":"Night with the gro
 - 13:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 287, no food, health 20. Trying the north bed once, and I'll give any food to LaForge or Lewis first.","reasoning":"Night, 
+- 13:31 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, dawn 288. I have no food, only a wooden sword. Looking for animals with the group. Lewis and LaForge first when anyone finds meat
+- 13:35 act: {"actions":[],"say":"Billy here, no food, health and hunger full. I'll stay at the beds. Whoever finds meat, Lewis and LaForge first.","intent":{"goal":"hold_at_beds_watch_for_food","program":"rest","
+- 13:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 288. No food. Trying the north bed with the group. Meat goes to Lewis and LaForge first.","reasoning":"It is night now, so 
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"The north bed refused me again. Trying the bed at -270,67,336 where others are sleeping
