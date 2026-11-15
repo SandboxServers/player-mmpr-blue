@@ -45,3 +45,6 @@
 - 03:14 act: {"actions":[{"do":"note","text":"Day 257 midday: joined Trini and Clark at -230,68,334. No animals in sight; group splitting, Jason planting wheat at -264,66,323. Holding with Trini and Clark."}],"say
 - 03:18 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":318}}],"say":"Billy: going north-east to search the grass with Data, toward -245,67,318. Staying in sight; meat goes to Data first, then Trini.",
 - 03:18 act: {"actions":[{"do":"note","text":"Day 257 afternoon: searched east and north-east grass with Trini, Clark, Data. No animals. Unripe wheat near -265,66,323 being planted by Jason and Tommy. Now at -245,
+- 03:19 act: {"intent":{"goal":"rejoin_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy at the yellow bed, dusk of day 257, with Clark beside me. No food, health 20, hunger 20. Meat goes to Data and
+- 03:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 257 night: reconnected at -245,67,319, joined Clark at the yellow beds (-263,67,353). Sleep started, 3 of 8 asleep, then a thunderstorm at night. No
