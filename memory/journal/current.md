@@ -162,3 +162,6 @@
 - 01:23 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Billy: the first bed is taken. Trying the next one here. No food; Worf and Trini first at light.","reasoning":"Sleep
 - 01:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Billy: beds here are full. Trying the bed at -271,68,364 by the signs. Trini, I'm close if you need me.","reasoning"
 - 01:25 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}],"say":"Billy: trying the white bed right here at -294,69,350. No food; Worf and Trini first at light.","reasoning":"Yellow 
+- 01:28 act: {"say":"Billy here, dawn. No food, no weapon. Worf and Trini first if anyone finds meat. I'll search the grass to the west, staying within sight of the beds.","intent":{"goal":"search_grass_for_animal
+- 01:29 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":338}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 01:29 act: {"say":"Billy back at the beds. No food found on the west grass. Worf and Trini are first for any meat. I'll stay in sight of the group."}
