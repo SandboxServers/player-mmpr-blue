@@ -60,3 +60,9 @@
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy: night of day 258, going to the yellow bed beside Clark to sleep. No food, health 20. Meat goes to Trini and D
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 03:46 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 258. No food, health 20, hunger 20. Trying to sleep beside Clark. Meat goes to Trini and Data first."}
+- 03:50 act: {"actions":[{"do":"note","text":"Day 259 dawn: at yellow beds with Clark. Health 20, hunger 20, no food. Clark is hungry (7 health, 14 hunger). Jason and Trini are weakest."}],"say":"Billy: no food ye
+- 03:50 act: {"actions":[{"do":"note","text":"Day 259 morning: scouted north-west to -275,65,340. No animals seen. Route blocked, and iron golems closing in. Heading back toward the yellow beds in short steps."}],
+- 03:50 act: {"actions":[{"do":"note","text":"Day 259 midday: back at yellow beds with Clark, in sight of group. Health 20, hunger 20, no food. Golems nearby but calm. Next: wait for a lead from the group and go o
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"note","text":"Day 259 dusk: at yellow bed -263,67,353 beside Clark. Health 20, hunger 20, no food. Going to sleep; handoff: safe, no
+- 03:59 act: {"actions":[{"do":"note","text":"Day 259 afternoon: at yellow bed beside Clark, thunder, still day. Health 20, hunger 20, no food. Waiting for night to sleep. Wesley and Chapman still searching west; 
+- 04:03 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 259. No food, health 20, hunger 20. Going to sleep beside Clark. Meat goes to Trini and Jason first."}
