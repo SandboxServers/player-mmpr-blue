@@ -17,3 +17,6 @@
 - 06:19 say: {"text":"Billy: Evening is coming and I have not slept in three days. I will build a plank shelter right here with the group nearby, then sleep. No cow yet; we search again at dawn."}
 - 06:19 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 06:19 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_address
+- 06:23 act: {"say":"Billy here, beside Clark at the west cow lake. No food, no bed. I will stay with the group until dawn, then search for cows.","intent":{"goal":"hold_near_group_until_dawn","program":"rest","ar
+- 06:28 act: {"say":"Skeleton at my north-west, I am going in to fight it. Clark, stay south.","actions":[{"do":"attack","target":"skeleton"}],"intent":{"goal":"kill_nearby_skeleton","program":"fighting_or_fleeing
+- 06:28 act: {"say":"Health 3, skeleton shooting from the north-west. Moving south to the beds, out of its line.","actions":[{"do":"goto","target":{"x":-294,"y":66,"z":280}}],"intent":{"goal":"get_out_of_skeleton_
