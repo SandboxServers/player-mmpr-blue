@@ -77,3 +77,13 @@
 - 04:25 act: {"intent":{"goal":"reach_yellow_bed_and_sleep","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 04:25 act: {"actions":[{"do":"sleep"}],"say":"Billy: no food on me, sorry Trini. I'm trying the bed here to sleep. Any food I find goes to you first."}
 - 04:26 act: {"actions":[{"do":"sleep"}]}
+- 04:29 act: {"say":"Billy, day 261, dawn. Health 20, hunger 19, no food. I have 8 planks, 3 logs and 3 sticks. Worf and Trini first for any meat or bread. I'll go west with Zack to look for animals.","intent":{"g
+- 04:30 act: {"say":"I'm at the west grass, nothing alive in sight. There is a dropped item to the south-east; I'll check it.","actions":[{"do":"goto","target":{"x":-321,"y":62,"z":249}}]}
+- 04:30 act: {"say":"I'm in deep water at the lake edge. Getting out toward the item on the north-east shore.","actions":[{"do":"goto","target":{"x":-312,"y":62,"z":245}}]}
+- 04:30 act: {"say":"A cow to the east at -293,66,249. Getting out of the water toward it, with care.","actions":[{"do":"unstick"},{"do":"goto","target":{"x":-296,"y":66,"z":249}}]}
+- 04:31 act: {"say":"Out of the water. Going for the cow to the south-east.","actions":[{"do":"goto","target":{"x":-291,"y":67,"z":256}},{"do":"attack","target":"cow"}]}
+- 04:31 act: {"say":"I got beef from a cow in the west. It goes to Trini first, then Worf. I'm bringing it to the white beds now.","intent":{"goal":"bring_beef_to_trini_at_beds","program":"travel","arguments":{"ta
+- 04:31 act: {"say":"I'm at the white beds with beef from a west cow. Trini and Worf, come into reach and I'll hand it over. I'll hold here."}
+- 04:32 act: {"say":"Worf, coming to you now with the beef.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":332}},{"do":"give","to":"ag_worf_01","item":"beef","count":1}]}
+- 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, giving you the beef now. Trini already sent you her porkchop and wheat.","reasoning":"Previous give went to Tommy inst
+- 04:32 act: {"actions":[],"say":"Lewis, the west cow was near -288,67,257, on grass west of the lake. Keep clear of the deep water near -312,62,245. Worf first for meat. I have no meat left, my beef went to Tommy
