@@ -59,3 +59,16 @@
 - 19:23 act: {"actions":[{"do":"sleep"}]}
 - 19:31 say: {"text":"Billy, morning 306, health 20, hunger 16, no food. Troi, the rotten flesh goes to Chapman first if he calls. I'll stay here with the beds and watch for meat."}
 - 19:39 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Billy here, health 20, hunger 16, no food. I will scout for meat with the group, in sight. Any meat goes to Chapman first, then Clark.","intent"
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Billy here, health 20, hunger 16, no food. Still beside the group. Any meat called out goes to Chapman first."}
+- 19:41 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white beds, health 20, hunger 16, no food. Going to the bed now with Trini near. Meat goes to Chapman first."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy, night 306, no food, health 20. Trying the bed at -271,67,336 once more. Meat to Chapman first."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Sleep failed twice at the beds. Walking back to the group near the crafting table and holding there until dawn. Health 20, hunger 1
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":290}}],"say":"Billy, dawn 307, health 20, hunger 16, no food. Scouting west toward the lake cow area with the group, in sight. Any meat goes to C
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"I'm alone at the west lake edge with no one in sight. Going back to the beds to join the group before any hunt."}
+- 19:55 act: {"say":"Billy here, hunger 16, no food. I'm staying with the group. Any meat goes to Clark and Troi first.","intent":{"goal":"hold_with_group_for_meat","program":"follow","arguments":{"target":"ag_laf
+- 20:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy at night 307, hunger 16, no food. Going to the white bed to sleep with the group.","intent":{"goal":"sleep_in_
+- 20:03 act: {"say":"Billy at the white bed, -271,67,336. I have no food, only dirt. Clark, Bcrusher has 2 chicken and 1 beef; please bring them to Clark."}
+- 20:12 act: {"say":"Billy, morning 308, hunger 16, health 20, no food. I'll stay at the beds. Whoever is hunting, call me in sight and I'll come."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy, night 308, hunger 16, no food. Trying the bed at -271,67,336."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}]}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":337}},{"do":"sleep"}],"say":"Billy, night 308, hunger 15, no food. Trying the other white bed at -270,67,336."}
