@@ -67,3 +67,13 @@
 - 07:45 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Health 4, phantom hitting me, no food. Troi, stay with me. Anyone with a sword, come here."}
 - 07:46 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"attack","target":"phantom"}]}
 - 07:46 act: {"actions":[{"do":"goto","target":{"x":-278,"y":71,"z":318}}],"say":"Respawned with nothing. Going to grab my sword and logs, then to the white bed with the group.","intent":{"goal":"recover_drop","pr
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["direc
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy at the white bed by Troi, no food, health 20. Trying to sleep."}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy at the bed, no food, health 20. Trying once more to sleep with Zack and the group."}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":300}}],"intent":{"goal":"search_west_pigs_with_chapman","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":296}},{"do":"use","at":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Billy back at the south white bed with Riker and Lewis. No food, health 
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":296}},{"do":"sleep"}],"say":"Morning. Billy here, no food, health 20. Trying the south bed again.","reasoning":"Use on a bed failed; sleep verb i
+- 07:50 act: {"actions":[],"say":"Sleep only works at night. I will look for animals to the east while it is day.","reasoning":"Sleep is refused in daylight. No food here. Wheat is unripe. Need to explore a new di
+- 07:50 act: {"actions":[],"say":"Nothing east here. Wesley, I will search north-east; if you find meat, call out.","reasoning":"East stop is empty. Wesley heads west to the pig sighting, so I will not crowd him. 
