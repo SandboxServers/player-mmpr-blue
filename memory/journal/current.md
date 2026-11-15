@@ -16,3 +16,5 @@
 - 02:28 act: {"say":"Billy here. Yes, I'll go north-east with you both for pigs, staying in sight. Meat goes to Trini and Data first, then Worf. I'm leaving from the yellow beds now.","intent":{"goal":"search_pigs
 - 02:29 act: {"say":"It's dark and no pigs were seen on the way. I'm going back to the yellow beds with the group to sleep. Worf, Zack, we'll search again at dawn.","actions":[{"do":"goto","target":{"x":-263,"y":6
 - 02:29 act: {"say":"Back at the yellow beds. No pigs seen on the north-east walk. Worf and Zack, shall we go again once the group is ready? Meat goes to Trini and Data first."}
+- 02:32 act: {"say":"Billy joining the north-east pig search now, staying in sight of Jason and the group. Meat goes to Trini, Data, Jason, then Clark.","intent":{"goal":"join_pig_search_north_east","program":"tra
+- 02:32 act: {"say":"I'm at the north-east yellow bed with Trini, in sight of the group. No pig yet. I'll stay here and watch for meat."}
