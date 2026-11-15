@@ -124,3 +124,5 @@
 - 05:21 act: {"actions":[{"do":"note","text":"Bed use failed at night: 'that block is a bed.' Staying with the group by the yellow bed until dawn."}],"say":"Riker, I'm staying here by the yellow bed with you. Bed 
 - 05:26 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Billy here, night of day 263. No food, hunger 17, health 10. Walking to the white bed at -281,67,320 with the group to sleep.","int
 - 05:27 act: {"say":"Billy, night of day 263 at the white beds. No food, hunger 17. Sleeping here with the group; food to Trini and Data first at dawn.","actions":[{"do":"sleep"}]}
+- 05:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, night of day 263. Going into the white bed with the group. No food; Worf and Trini first at dawn.","reas
+- 05:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: I have no beef and no wheat, Worf and Picard. My pack holds only logs, planks and dirt. Worf, if any meat com
