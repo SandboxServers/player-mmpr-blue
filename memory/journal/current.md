@@ -164,3 +164,4 @@
 - 17:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Sleep was interrupted and I drifted again to -278,319. Walk back to the north bed, away from the golem to the north."}
 - 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Back on the north bed at -271,67,318; no golem in sight now. Sleep."}
 - 17:26 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white bed, night. Health and hunger full, nothing in my pack. Trying to sleep here with Picard beside me."}
+- 17:26 act: {"say":"Billy at the white bed, night, health and hunger full. Chapman, Trini: I have no food, and I'll hand over anything I find to whoever is lowest. Trying sleep now.","actions":[{"do":"sleep"}],"r
