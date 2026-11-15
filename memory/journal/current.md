@@ -151,3 +151,11 @@
 - 05:52 act: {"say":"Billy: Data, I'm coming to the sheep at -276,66,300 with you. I'll stay in sight. Mutton goes to Jason first.","intent":{"goal":"hunt_sheep_north_west_with_data","program":"travel","arguments"
 - 05:53 act: {"say":"Billy: I saw the sheep here earlier, to the north-west of the beds. None in sight now. I'm holding with Data and Riker. Mutton goes to Jason first."}
 - 05:54 act: {"say":"Billy: no sheep here now. Going back to the yellow bed at -281,69,292 with the group. Any mutton goes to Jason first.","intent":{"goal":"rest_at_yellow_bed_with_group","program":"travel","argu
+- 05:55 act: {"say":"Billy here, beside the yellow bed with Tommy, Laforge and Riker. No food on me. Any mutton or meat goes to Jason first.","intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{
+- 05:55 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage",
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"intent":{"goal":"walk_north_away_from_golems_to_yellow_bed","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":292}},"wake_on"
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage",
+- 06:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed_318","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 06:07 act: {"say":"Billy: I have no food, Wesley, sorry. Only logs, planks and sticks. I'll stay with the group until light.","intent":{"goal":"hold_near_beds_until_dawn","program":"rest","arguments":{},"wake_on
