@@ -21,3 +21,5 @@
 - 02:35 act: {"say":"Billy here, day 255, hunger 20, no food. I'll search the grass with the group and keep in sight. Any meat goes to Trini and Data first.","intent":{"goal":"search_grass_for_pigs","program":"tra
 - 02:35 act: {"say":"Billy at the north-east yellow bed, day 255, hunger 20, no food. I'll hold here with Trini and wait for the group to find meat. I won't go out alone.","actions":[{"do":"note","text":"Day 255 m
 - 02:38 act: {"say":"Billy, afternoon day 255, hunger 20 and no food. Holding at the yellow bed with the group. Bows are firing from the west, so we stay together. Meat goes to Trini, Data, Jason, Worf, then me.",
+- 02:43 say: {"text":"Billy at the white beds, night of day 255. No food yet. I'm sleeping here with the group. Meat goes to Trini, Data, Jason first."}
+- Day 255 reflect: slept at the white beds (-270,67,336) with the group. Health 20, hunger 20, pack empty, no food found all day. Sleep event returned without a clear sleeping confirmation; check in the morning. Handoff: safe, beside group, nothing half-done.
