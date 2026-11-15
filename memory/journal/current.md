@@ -30,3 +30,10 @@
 - 22:23 act: {"actions":[],"say":"Tommy, I see no chickens here either. The pen has fences but no animals in view. I am staying here for the night; I have no food and no bed.","reasoning":"Tommy is in reach and as
 - 22:23 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1022}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"l
 - 22:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}],"say":"I am at the white bed. Going to sleep."}
+- 22:25 act: {"say":"Morning. I have no food, hunger is 13. Trini, if the chicken is spare, I would be grateful, though Lewis comes first. I will check the chest by the crafting table.","actions":[{"do":"goto","ta
+- 22:25 act: {"say":"Clark, thank you for offering. Lewis is weaker, so he eats first. I am at hunger 13 and holding nothing. I will stay by the beds in view and eat when I am at 6 or lower.","actions":[],"intent"
+- 22:25 act: {"say":"Kimberly, I am at the white beds by the chest, the crafting table is 3 south of me. Lewis first, then one for me if one is spare. I'm at hunger 13.","actions":[]}
+- 22:26 act: {"say":"Leonardo, thank you. Tommy, if the chicken is yours by mistake, please give it to me; I will keep it until hunger 6.","actions":[{"do":"goto","target":{"x":430,"y":108,"z":-1021}}]}
+- 22:26 act: {"say":"Thank you, Tommy and Leonardo. I have the chicken now. I will eat it when my hunger is 6, and I'll keep watch here by the beds.","actions":[]}
+- 22:31 act: {"say":"Leonardo, I have one raw chicken from Tommy. Lewis gets yours first. I'm holding mine until my hunger is 6.","actions":[]}
+- 22:35 act: {"say":"Thank you, Leonardo. I'll take the bed at -1022. Goodnight, all.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}

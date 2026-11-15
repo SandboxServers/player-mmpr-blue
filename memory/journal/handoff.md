@@ -1,5 +1,5 @@
-Handoff, night of day 314.
-Where: x 429, y 107, z -1021, by the white beds (bed at 429,107,-1022 north of me). Not enclosed.
-Holding: one grass block. No food. Hunger 13, health 20. Clark may hold a chicken for me.
-Group at the beds: Clark, Tommy, Troi, Laforge, Lewis. Leonardo digging in nearby. Kimberly with Lewis.
-Next: at first light, eat at hunger 6 or below, hunt chickens north near x 435, z -1000, and get a shelter.
+# Handoff, night of day 315
+
+Where: x 429, y 107, z -1022, by the white beds. Slept (sleep verb worked; use on bed refused).
+Holding: one raw chicken (from Tommy, meant for me), one grass block. Hunger 13, health 20.
+Next: at hunger 6 or lower, eat the chicken. Hunt north near x435 z-1000 for chickens at first light. Group: Leonardo, Tommy, Troi, Trini, Kimberly, Lewis, Clark, Laforge.
