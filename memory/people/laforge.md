@@ -1,5 +1,5 @@
 # Laforge
 
-- Impression: has a porkchop near the beds (day 250); I asked him to bring it to Trini.
-- Trust: 50/100 (kept). Day 262: health 5, the weakest; I asked Beverly to give him the mutton first. I have not seen the porkchop reach Trini.
-- Why: I do not know whether he delivered it. Until I see the porkchop reach Trini, I will not count on it.
+- Impression: one of the weakest at the beds (health 5 on day 262); asks for meat near the group and has a salmon spot he wanted me to see (day 268).
+- Trust: 50/100 (kept).
+- Why: I never saw the porkchop he held (day 250) reach Trini. I promised him the first meat on days 287 and 288, and none has reached him from me yet.

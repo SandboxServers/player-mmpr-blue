@@ -1,5 +1,5 @@
 # Lewis
 
-- Impression: a player who passed on the west cow's location on day 261.
-- Trust: 55/100.
-- Why: I told him the cow was near -288,67,257 by the lake and warned him off the deep water at -312,62,245. He did not share food; I have only heard him once.
+- Impression: patient companion at the beds and the farm; passed on the west cow's place on day 261. On day 282 my 2 wheat seeds (meant for Clark) went to him; he took them and I asked him to plant them.
+- Trust: 55/100 (kept).
+- Why: I warned him off the deep water near the lake. I have given him no food; I promised Lewis and LaForge the first meat on days 287 and 288.

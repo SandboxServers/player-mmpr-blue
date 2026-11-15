@@ -1,0 +1,164 @@
+# Journal
+- 06:13 act: {"say":"Billy here at -271,67,327, hunger 14, no food. I'll head west-south-west to the cow lake near -288,67,257 with Data. Worf, rotten flesh to Laforge first.","intent":{"goal":"travel_to_cow_lake"
+- 06:13 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"walk_toward_cow_lake","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":257}},"wake_on":["directly_addressed","precondition_failed","unexpec
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":260}}],"say":"Billy moving on toward the cow lake with Tommy. Still no food, hunger 14."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-305,"y":67,"z":258}}],"say":"No cows at the lake edge. Walking west a little to look.","reasoning":"Short walk west to scan for cows, staying near Tommy."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-313,"y":65,"z":258}}],"say":"Salmon in the water to the west. I'll try to get one; Tommy, come along."}
+- 06:14 act: {"actions":[{"do":"attack","target":"salmon"}],"reasoning":"Retry the attack; the last call errored at the endpoint, not the world."}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-311,"y":64,"z":258}}],"reasoning":"I'm in deep water, drifting. Get back to the shore before anything else."}
+- 06:15 say: {"text":"Billy: I have no food, hunger 14. I will walk with you to the cow lake and look for cows. Riker, what is in reach on the shore?"}
+- 06:15 act: {"intent":{"goal":"reach_cow_lake_with_group","program":"travel","arguments":{"target":{"x":-287,"y":67,"z":257}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 06:16 say: {"text":"Billy at the cow lake, -288,67,257. No cows in sight. Lewis, Wcrusher, Clark, I will look west and north of the shore with you. Salmon out in the deep water are too far to reach safely."}
+- 06:16 act: {"intent":{"goal":"scan_for_cows_with_group","program":"follow","arguments":{"target":"ag_lewis_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 06:16 say: {"text":"Billy: No cows seen from the cow lake yet, Troi. I am still here, hunger 14. Whoever sees a cow first, call it out with its place and I will come."}
+- 06:17 say: {"text":"Billy: Agreed, Troi. I will go west with you, Tommy and Clark. Whoever sees a cow, call its place."}
+- 06:17 act: {"intent":{"goal":"search_west_for_cows_with_troi","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":257}}],"say":"Billy: Heading west in short steps with Troi, Lewis and Tommy. Calling out any cow I see."}
+- 06:19 say: {"text":"Billy: Evening is coming and I have not slept in three days. I will build a plank shelter right here with the group nearby, then sleep. No cow yet; we search again at dawn."}
+- 06:19 act: {"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 06:19 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_address
+- 06:23 act: {"say":"Billy here, beside Clark at the west cow lake. No food, no bed. I will stay with the group until dawn, then search for cows.","intent":{"goal":"hold_near_group_until_dawn","program":"rest","ar
+- 06:28 act: {"say":"Skeleton at my north-west, I am going in to fight it. Clark, stay south.","actions":[{"do":"attack","target":"skeleton"}],"intent":{"goal":"kill_nearby_skeleton","program":"fighting_or_fleeing
+- 06:28 act: {"say":"Health 3, skeleton shooting from the north-west. Moving south to the beds, out of its line.","actions":[{"do":"goto","target":{"x":-294,"y":66,"z":280}}],"intent":{"goal":"get_out_of_skeleton_
+- 06:29 act: {"say":"Billy at health 3, no food. Going to the group at the beds to the south, away from the skeleton.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"intent":{"goal":"rejoin_group_at
+- 06:29 act: {"say":"Billy at the white beds, health 3, hunger 14, no food. Anyone with meat, I am in the weakest state. I will search with the group at full light.","intent":{"goal":"recover_at_beds_until_food","
+- 06:29 act: {"say":"Billy at the white beds, health 3, hunger 14, no food. I will search with the group at full light.","intent":{"goal":"recover_at_beds_until_food","program":"rest","arguments":{},"wake_on":["di
+- 06:31 act: {"say":"Billy: health 3, hunger 14, no food. I'm staying at the white beds. Troi, apples from leaves are good; bring any to me first, I'm weakest."}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"use","at":{"x":-298,"y":68,"z":294}}],"say":"Billy: dusk is coming. I'm going into the white bed at the beds, with Lewis and Chapman
+- 06:39 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}]}
+- 06:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 1. Fighting it."}
+- 06:41 act: {"say":"Billy here, I died at the beds to a phantom at night and woke at the spawn with nothing. My things lie at -298,68,293. I'm staying with the group at the white beds until dawn."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"use","at":{"x":-298,"y":68,"z":294}}],"say":"Billy: phantoms overhead. Going into the bed at -298,68,294 now."}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Waking at the white beds. I'm going to bed for the night; food comes fir
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Bed one block south. Try it, then sleep."}
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"First bed refused. Try the second white bed beside it, then sleep."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"reasoning":"Creeper blocked sleep. Return to bed cluster with the group, then sleep."}
+- 06:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Back with the group, no monsters in view. Try the bed at -271,318."}
+- 06:48 act: {"actions":[],"say":"Billy here, dawn. I'm full, with 4 logs and a wooden sword, no food. I'll go west with the group to look for animals. Name the first animal you see and I'll help.","reasoning":"Da
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}],"say":"Going west with Worf and the group. Meat goes to Trini and Kimberly first, then Worf.","reasoning":"Join the west animal search in 
+- 06:49 act: {"say":"Billy, dawn day 268, hunger 20, health 20, no food. Going west with the group. Any meat: Kimberly and Data first, then Laforge.","intent":{"goal":"walk_west_with_group","program":"travel","arg
+- 06:49 act: {"intent":{"goal":"hold_near_beds_for_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 06:50 act: {"say":"Billy with Lewis, hunger 20, health 20, no food. Searching west with the group; I'll call out any animal I see with its place.","intent":{"goal":"search_west_following_lewis","program":"follow
+- 07:00 act: {"say":"Billy here. Health 20, hunger 20, no food. Night is coming, so I will stay with Laforge and Troi and look for a bed near the white beds.","intent":{"goal":"stay_near_group_at_dusk","program":"
+- 07:02 act: {"say":"Billy: night now, no food. Going to the white bed at -271,67,318 with the group to sleep.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318
+- 07:04 act: {"say":"Billy: the bed at -271,67,318 refused me. Most beds here have someone in them, so I will wait by the group and try another bed when one is free.","intent":{"goal":"wait_by_group_for_free_bed",
+- 07:04 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 07:09 act: {"say":"Billy: dawn, hunger 20, no food. I'll follow Riker on the search for cows or pigs. Any meat goes to Chapman and Trini first, then Data.","intent":{"goal":"search_for_animals_with_riker","progr
+- 07:11 act: {"say":"Billy: still no food. Joining Worf's search west for cows or pigs. Meat to Chapman and Trini first.","intent":{"goal":"search_west_with_worf","program":"follow","arguments":{"target":"ag_worf_
+- 07:11 act: {"say":"Billy: Worf is out of sight. I'll walk toward the pig lead at -336,64,229 and call out anything I see.","intent":{"goal":"walk_to_pig_lead_west","program":"travel","arguments":{"target":{"x":-
+- 07:11 act: {"say":"Billy at -335,64,229: no animals here, the pig lead is empty. Heading back toward the group at the white beds. Laforge, I'll look for your salmon spot if you show me.","intent":{"goal":"return
+- 07:16 act: {"say":"Billy at the white beds, midday, health 20, hunger 20, no food. I'll stay here with the group. Anyone who finds an animal, call its place and I'll come."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}},{"do":"sleep"}],"say":"Chapman, I heard you. I will be near the beds tonight; I have no food, but I am sleeping here with the group.","inte
+- 07:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, no food, health 20. Troi, I have none, sorry. Trying the bed beside you."}
+- 07:21 act: {"actions":[],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_
+- 07:31 act: {"actions":[],"say":"Billy, dawn day 270, hunger 20, no food. Joining the west search. Any meat goes to Chapman and Trini first.","intent":{"goal":"search_west_for_animals_with_group","program":"follo
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}],"say":"Billy heading west toward the grass, calling any animal I see.","intent":{"goal":"walk_west_for_animals","program":"travel","argume
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-340,"y":66,"z":260}}],"say":"Billy: west at -300,66,300, no animals yet. Going on toward the far west grass.","intent":{"goal":"search_far_west_for_animals","pr
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-320,"y":64,"z":268}}],"say":"Billy in deep water at -340,61,260, getting out toward the north shore where Picard is. Salmon here but I have no rod.","intent":{"
+- 07:36 act: {"actions":[],"say":"Billy out of the water on the north shore with Picard. Salmon sit in the deep water north-west at about -329,61,255 and a squid at -320,57,252. I have no rod or spear, so I'll hel
+- 07:38 act: {"say":"Picard, I am here with no food. Where did you last see animals?","intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directl
+- 07:38 act: {"say":"Billy at the white beds, health 20, hunger 20, no food. Laforge, I'll come see your salmon shore when it's light. Anyone who finds string or a cow, call it out.","intent":{"goal":"hold_at_beds
+- 07:41 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}],"say":"Night. Trying the white bed here. Phantoms are fighting near the south."}
+- 07:42 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"intent":{"goal":"rejoin_group_until_dawn","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","
+- 07:43 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 07:44 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 07:44 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 07:45 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Phantom on me, health 6. Heading to Troi."}
+- 07:45 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Health 4, phantom hitting me, no food. Troi, stay with me. Anyone with a sword, come here."}
+- 07:46 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"attack","target":"phantom"}]}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":-278,"y":71,"z":318}}],"say":"Respawned with nothing. Going to grab my sword and logs, then to the white bed with the group.","intent":{"goal":"recover_drop","pr
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["direc
+- 07:47 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy at the white bed by Troi, no food, health 20. Trying to sleep."}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy at the bed, no food, health 20. Trying once more to sleep with Zack and the group."}
+- 07:47 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":300}}],"intent":{"goal":"search_west_pigs_with_chapman","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":296}},{"do":"use","at":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Billy back at the south white bed with Riker and Lewis. No food, health 
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":296}},{"do":"sleep"}],"say":"Morning. Billy here, no food, health 20. Trying the south bed again.","reasoning":"Use on a bed failed; sleep verb i
+- 07:50 act: {"actions":[],"say":"Sleep only works at night. I will look for animals to the east while it is day.","reasoning":"Sleep is refused in daylight. No food here. Wheat is unripe. Need to explore a new di
+- 07:50 act: {"actions":[],"say":"Nothing east here. Wesley, I will search north-east; if you find meat, call out.","reasoning":"East stop is empty. Wesley heads west to the pig sighting, so I will not crowd him. 
+- 07:52 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":329}}],"say":"Billy at the beds, health 20, hunger 20, no food. Clark, Bcrusher, I'm coming to the wheat to help. Trini first for the bread."}
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Iron golems closing from the south-west. Going back north to the beds with Trini. I still have no food."}
+- 07:56 act: {"actions":[],"say":"Billy at the beds: I still have no food. Trini first for the bread, then Troi, whose health is 6. I will hold here and carry any meat I find."}
+- 08:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: night, no food, health 20. Trying the bed at -270,67,318."}
+- 08:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: the bed at -270,67,318 is taken. Trying the bed at -282,67,320."}
+- 08:09 act: {"say":"Morning. I have no food either, health 20, hunger 20. I'll stay by the white beds. Shout if you find meat or wheat and I'll carry it to Trini.","intent":{"goal":"hold_camp_until_food_lead","pr
+- 10:48 act: {"say":"Billy here. I have no food and no tools. Who is near, and where is food?"}
+- 10:49 act: {"say":"Billy, day 280, full at 20, no food. I will search for animals close to the beds and bring any meat to LaForge first."}
+- 10:50 act: {"say":"Tommy, I have no planks or pickaxe; my pack is empty. Wait for someone with planks, and I will keep looking for wood nearby."}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 11:12 act: {"say":"Billy, dawn day 281. No food on me. I'll scout east and north-east, a direction nobody has checked, and report back before dusk.","actions":[{"do":"goto","target":{"x":-250,"y":67,"z":330}}],"
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":320}}],"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":67,"z":320}},"wake_on":["directly_address
+- 11:15 act: {"intent":{"goal":"scout_for_animals_east","program":"travel","arguments":{"target":{"x":-215,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 11:15 act: {"intent":{"goal":"scout_further_east_for_animals","program":"travel","arguments":{"target":{"x":-190,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 11:16 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-185,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 11:17 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-197,"y":72,"z":316}}],"reasoning":"Deep water is dangerous; climb out toward land to the south-east, away from the lake.","say":"Billy in deep 
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":-190,"y":57,"z":298}}],"reasoning":"Stone lies north-east and up; climb onto it, away from the deep water."}
+- 11:18 act: {"intent":{"goal":"hold_still_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_operati
+- 11:27 act: {"intent":{"goal":"hold_on_pillar_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operatio
+- 11:31 act: {"intent":{"goal":"walk_back_to_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 11:32 act: {"say":"Billy back at the white beds, day 282, health 20, hunger 20, no food. Zack, Kimberly, Data: any animal you have seen, call its place and I'll come with you.","intent":{"goal":"hold_at_beds_for
+- 11:32 act: {"say":"Thank you, Troi. Kimberly, I'll plant these 2 wheat seeds on the farmland you till by the beds. Still no meat anywhere; Trini and Picard first.","intent":{"goal":"hold_at_beds_for_food_lead","
+- 11:33 act: {"intent":{"goal":"walk_to_lewis_farmland","program":"travel","arguments":{"target":{"x":-273,"y":66,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 11:33 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"wheat_seeds","count":2}],"say":"Clark, you are farming here: I'm giving you Troi's 2 wheat seeds to plant. Still no meat for anyone; I'm holding by 
+- 11:33 act: {"say":"Billy: my 2 wheat seeds went to Lewis, not Clark, by mistake. Lewis, please plant them on your farmland here; that's fine. I still have no food.","intent":{"goal":"hold_at_farm_for_food_lead",
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy at dusk, day 282, health 20, hunger 20, no food. Trying the white 
+- 11:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, night 282. No food. Trying to get into the bed next to the group.","reasoning":"The first bed block refused; 
+- 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use keeps refusing. Try sleep directly beside the bed."}
+- 11:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed as the way was blocked; try the nearby bed at -270,67,336."}
+- 11:50 act: {"intent":{"goal":"follow_pig_hunt_with_group","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 11:50 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Billy here, no food. Where is the pig? I'm coming to the group now.","reasoning":"Follow intent failed. Walk to Lewis, who is with the group, a
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Billy: Lewis, LaForge first with the chicken, then Trini. I have no food. Moving north to the group, away from the golem to the sou
+- 11:55 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}}],"say":"Billy: no food. Going to the crafting tables with the group to be near LaForge.","reasoning":"Group gathers at the crafting tables 
+- 12:02 act: {"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"
+- 12:04 act: {"actions":[{"do":"sleep"}]}
+- 12:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Billy here, going to the white bed with the group to sleep. No food, health 20.","reasoning":"Night in the open. Group is at the wh
+- 12:07 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"At the bed with the group, night, no threats in view. Sleep."}
+- 12:08 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed refused. Try the other white bed, one attempt."}
+- 12:10 act: {"actions":[],"say":"Billy here, dawn of day 284, no food, health 20. I'll scout the grass north with Troi, Zack and Kimberly and call out any animal.","reasoning":"Beds refused last night; group is o
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"reasoning":"Group returning to beds; spider south. Stay with them.","intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments
+- 12:11 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-268,"y":67,"z":327}},{"do":"goto","target":{"x":-274,"y":66,"z":324}}],"say":"Billy under attack from something unseen, health 13. Moving to th
+- 12:12 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"unstick"}],"reasoning":"Phantom closing in, health 9. Fight it; goto was not moving me.","intent":{"goal":"fight_off_phantom","program":"flee","ar
+- 12:12 act: {"actions":[{"do":"use","entity":"phantom","item":"wooden_sword"},{"do":"attack","target":"phantom"}],"say":"Billy at health 5, phantom on me. Fighting with the wooden sword.","reasoning":"Health 5 wi
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":330}}],"say":"Billy at health 3, running for the farm where the group is.","reasoning":"Cannot hit phantoms; health 3. Flee toward the farm group
+- 12:12 act: {"actions":[],"say":"Billy here. I died to phantoms at the white beds and woke at the spawn with nothing. I'm at the farm now, health 20, no items. Stay out of the open at dusk.","reasoning":"Dead and
+- 12:14 act: {"say":"Billy here with the group by the golems. I have a wooden sword in my pack, thanks Macdonald. Phantoms, keep close to the golems.","actions":[{"do":"wait","seconds":30}],"reasoning":"Group is h
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"Sword is in pack but not in hand. Equip it by clicking the nearby crafting table with the sword selected.","
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"The earlier equip failed as busy. Retry it alone now."}
+- 12:15 act: {"actions":[{"do":"wait","seconds":5},{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"Previous use was blocked by a leftover action. Pause briefly, then equip the sword
+- 12:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Actions keep failing as busy with nothing running. Clear the stuck state, then retry."}
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"The queue should be clear now. Equip the sword."}
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":65,"z":329},"item":"wooden_sword"}],"reasoning":"Tables and containers refuse the click. Try the grass block under my feet to equip the sword."}
+- 12:22 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 12:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Group is sleeping at these white beds. Try the bed at -270,67,318 to sleep."}
+- 12:31 act: {"intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":600,"max_block_o
+- 12:35 act: {"intent":{"goal":"hold_beds_with_group","program":"rest","arguments":{"near":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 12:39 act: {"intent":{"goal":"wait_for_scout_partner","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":8}},"say":"Troi,
+- 12:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night. Trying the other white bed to sleep with the group. Food goes to Picard and Trini first at dawn.","reasoning":"Night with the gro
+- 13:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 287, no food, health 20. Trying the north bed once, and I'll give any food to LaForge or Lewis first.","reasoning":"Night, 
+- 13:31 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, dawn 288. I have no food, only a wooden sword. Looking for animals with the group. Lewis and LaForge first when anyone finds meat
+- 13:35 act: {"actions":[],"say":"Billy here, no food, health and hunger full. I'll stay at the beds. Whoever finds meat, Lewis and LaForge first.","intent":{"goal":"hold_at_beds_watch_for_food","program":"rest","
+- 13:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 288. No food. Trying the north bed with the group. Meat goes to Lewis and LaForge first.","reasoning":"It is night now, so 
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"The north bed refused me again. Trying the bed at -270,67,336 where others are sleeping
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_group_at_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addre
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_336","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unex
+- 13:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the group's bed in the dark. Try to sleep; if blocked, stay with the group."}
+- 13:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed on the bed; try sleep alone since I'm beside it with the group."}
+- 13:46 act: {"actions":[],"say":"Billy, awake by the white beds. Sleep blocked by crowding again. No food; I'll stay with the group.","reasoning":"Sleep is blocked by crowding. Stay with the group, wait for dayli
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":275}}],"intent":{"goal":"search_animals_south_west","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":275}},"wake_on":["directly_addr
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":258}}],"intent":{"goal":"check_cow_lead_south_west","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":258}},"wake_on":["directly_addr
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-336,"y":64,"z":229}}],"intent":{"goal":"check_pig_lead_west","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":229}},"wake_on":["directly_addressed"
+- 13:51 act: {"actions":[{"do":"attack","target":"cow"}],"reasoning":"Cow adjacent, I'm hungry-ish needs meat for the group. Attack."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"intent":{"goal":"return_beef_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed
+- 13:52 act: {"actions":[],"say":"Billy at the white beds with 2 beef. Whoever is weakest, come within arm's reach and I'll give it. Trini, Troi, LaForge, Jason?","reasoning":"Holding meat; give to the weakest in 
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":323}}],"say":"Billy walking to Trini at the white bed with the beef.","intent":{"goal":"reach_trini_with_beef","program":"travel","arguments":{"t
+- 13:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Trini, one beef for you now. The other stays for Troi.","reasoning":"Trini is in reach at health 6 and asked for her share.
+- 13:53 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, I have a beef for you. Come close.","intent":{"goal":"reach_troi_with_beef","program":"travel","arguments":{"target":"ag_troi_01"},"wake_o
+- 13:53 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":1}],"say":"Troi, here is your beef.","reasoning":"Troi is in reach, next in the group's order after Lewis and LaForge. Give the last be
+- 13:53 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":1}],"say":"Troi, this beef is yours. Trini is next if any is left.","reasoning":"The earlier give landed on Data, not Troi. Troi is in 
+- 13:53 act: {"actions":[],"say":"Both beef are gone. One went to Trini's wait and two gives landed on Data, not Troi. Data, if you have a beef, pass it to Troi or Trini. I have none left.","reasoning":"Two gives 

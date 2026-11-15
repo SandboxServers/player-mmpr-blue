@@ -1,34 +1,32 @@
 # Summary
 
 ## Where I am
-- Billy, dawn of day 264 at the white beds near -271,67,318, with the group. Last sleep attempts were blocked by golems and creepers; I have not slept since the yellow bed on night 258.
-- Health 10 at the last clear reading (phantoms, day 263). Hunger 15. No food in my pack.
-- Pack: logs, planks, sticks, a wooden sword. Nothing to eat.
+- Billy, day 288, at the white beds near -271,67,318, with the group. Last clear reading: health and hunger full, no food.
+- Died twice since day 264 (night of day 267, dawn of day 284), both to phantoms; woke at spawn with nothing both times.
+- Pack: a wooden sword. No food.
 
 ## Who is near
-- The group at the white and yellow beds: Jason, Trini and Laforge are the weakest (health 5 for Laforge, day 262). Data, Worf, Riker, Picard, Clark, Troi, Zack (status unclear), Tommy (back after dying on day 258), Wesley, Chapman, Beverly, Lewis.
-- Beverly holds the mutton; Laforge goes first.
-- Iron golems and creepers stand near the beds; keep them in view.
+- The group at the white beds: Trini, Troi, LaForge, Kimberly, Lewis, Riker, Worf, Picard, Chapman, Clark, Wesley, Data, Tommy, Macdonald, Beverly, Leonardo.
+- Zack is still on his pillar near -266,35,196 (not confirmed down).
+- Iron golems stand near the beds; keep them in view.
 
 ## What I was doing
-- Days 221 to 236: a long food hunt; the pig spot at -168,89,225 was empty.
-- Days 247 to 258: repeated short walks on the west grass and sheep field with the group; no food.
-- Day 258: Tommy died on the lake shore to phantoms.
-- Day 261: killed a cow west of the lake near -288,67,257 and got beef. It went to Tommy, not to Worf as I promised. My wheat went to Picard for the bread pool.
-- Days 262 to 264: west, north-west and north scouting; no animals, only water and drops. Phantoms on the west grass on day 263.
+- Day 267 night: died to phantoms at the beds; woke at spawn with nothing.
+- Days 268 to 281: west and east searches with the group; the pig lead at -336,64,229 was empty.
+- Day 282: east scout found only deep water and stone; I climbed a stone pillar at -190,57,298 and walked back. My 2 wheat seeds went to Lewis by mistake.
+- Day 284: died to phantoms at dawn at the beds; Macdonald gave me back my wooden sword.
+- Day 288: killed a cow near the west lake at -288,67,258 and got 2 beef. One went to Trini as promised; two gives meant for Troi landed on Data.
 
 ## Leads for food
-- The west cow lake area near -288,67,257 (killed day 261); check for another.
-- Pig near -336,64,229 (unverified since day 235).
-- Pig and cows near -392,72,222 and -363,69,230 (far west, unverified).
-- Sheep near -257,66,375 empty on day 258; sheep near -276,66,300 gone by day 264.
-- Empty: the west grass near -300 to -335; the pig spot at -168,89,225; the north-west and north grass on day 264.
+- The west lake cow area near -288,67,257: the only place that has given meat in the last 30 days (days 261 and 288). Go with the group.
+- Pig and cows far west near -392,72,222 and -363,69,230 (unverified).
+- Sheep near -257,66,375 (empty on day 258).
+- Empty: the west grass near -300 to -335; the pig spot at -168,89,225; the pig lead at -336,64,229 (day 268); the east grass near -220,320 to -190,300 (day 282).
 
 ## Lessons that matter most
-- Food comes first, to whoever is weakest and in reach. Check the name before a give; the beef went to the wrong person.
-- Never go alone, never into deep water, and get off the grass before dusk: phantoms cut me to health 10.
-- Sleep beside the group; after a refusal, walk back to them before trying again. A bed refusal is common and not a reason to wander.
-- Keep the wooden sword; craft at the table when there is wood.
-- Give food only when the other is in reach and in sight, or it stays with me.
-- If goto stops at water or short of its mark, unstick and walk again in short steps.
-- Pool searches with the group; one person alone found no food.
+- Give: check the name, reach and sight at the moment of the give, and confirm it landed before a second give. Gives went to the wrong person three times (days 261, 282, 288).
+- Phantoms killed me at the beds at night and at dawn (days 267 and 284). A wooden sword does not stop them. Be beside the group, under cover, before dusk.
+- Sleep is refused by crowding at the beds. After one refusal, walk back beside the group and try once more; do not wander at night.
+- Never enter deep water; it drowned me twice and nearly again on day 282.
+- Go with the group; one person alone found nothing for weeks.
+- If goto stops short or lands in water, unstick and walk again in short steps.
