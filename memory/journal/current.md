@@ -23,3 +23,9 @@
 - 06:29 act: {"say":"Billy at health 3, no food. Going to the group at the beds to the south, away from the skeleton.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"intent":{"goal":"rejoin_group_at
 - 06:29 act: {"say":"Billy at the white beds, health 3, hunger 14, no food. Anyone with meat, I am in the weakest state. I will search with the group at full light.","intent":{"goal":"recover_at_beds_until_food","
 - 06:29 act: {"say":"Billy at the white beds, health 3, hunger 14, no food. I will search with the group at full light.","intent":{"goal":"recover_at_beds_until_food","program":"rest","arguments":{},"wake_on":["di
+- 06:31 act: {"say":"Billy: health 3, hunger 14, no food. I'm staying at the white beds. Troi, apples from leaves are good; bring any to me first, I'm weakest."}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"use","at":{"x":-298,"y":68,"z":294}}],"say":"Billy: dusk is coming. I'm going into the white bed at the beds, with Lewis and Chapman
+- 06:39 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}]}
+- 06:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 1. Fighting it."}
+- 06:41 act: {"say":"Billy here, I died at the beds to a phantom at night and woke at the spawn with nothing. My things lie at -298,68,293. I'm staying with the group at the white beds until dawn."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"use","at":{"x":-298,"y":68,"z":294}}],"say":"Billy: phantoms overhead. Going into the bed at -298,68,294 now."}
