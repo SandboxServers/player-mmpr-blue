@@ -63,3 +63,31 @@
 - 15:46 act: {"reasoning":"Health 7.5, hit by something unseen. Step to Wesley and try the wheat once more, since he is weakest.","actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_0
 - 15:46 act: {"actions":[{"do":"note","text":"Give of wheat to Wesley failed again: items on the ground near him. Letting him pick it up; staying beside the group."}],"say":"Wesley, the wheat I tried to give you i
 - 15:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Wesley, I'm bringing my last wheat back to the beds. You can have it for bread.","intent":{"goal":"rejoin_group_at_beds","program":
+- 15:49 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Billy here, dawn. I still hold the wheat. Wesley, if you are in sight, step within reach and I will hand it to you.","i
+- 15:49 act: {"actions":[],"say":"Wesley, I do not see you in my sight yet. Step next to me by the bed and I will hand you the wheat at once."}
+- 15:52 act: {"actions":[],"say":"Wesley, I am at the south white bed with Troi and Data. Come within arm's reach and I'll give you my wheat."}
+- 15:56 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Wesley, I'm walking to the north beds with the wheat. Stay where you are.","intent":{"goal":"reach_wesley_with_wheat","program":"tr
+- 15:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is my wheat. Eat it."}
+- 15:56 act: {"actions":[],"say":"Kimberly, the wheat I meant for Wesley went to you by mistake. Please hand it to Wesley now; he is at health 2 and right beside you."}
+- 16:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":333}}],"say":"I'm walking back to the north white beds with the group for the night.","intent":{"goal":"return_to_beds_for_night","program":"trav
+- 16:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_tonight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Moving away from the deep water, back toward the beds."}
+- 16:04 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm one block from the white bed at camp, golems 10+ away. Try sleep."}
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Walk back to the white bed beside the group and try sleep again."}
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}}],"say":"Billy at dawn 296, no food, hunger 13, health 7.5. Heading toward the sheep lead near -257,66,375 with anyone in sight. Call out an
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":345}}],"say":"Billy: no sheep at the south lead. Going back toward the group near the beds; Worf and Jason are in the area.","intent":{"goal":"re
+- 16:09 act: {"actions":[{"do":"sleep"}],"say":"Billy with the group near the beds, dim light. No food, hunger 13, health 7.5. Trying sleep once more."}
+- 16:09 act: {"actions":[],"say":"Billy here, dawn 296, health 7.5, hunger 12. Trini, if you have the chicken, I'd take it only if you judge I'm weaker than the others. Otherwise I'll hunt with Troi and Jason in s
+- 16:10 act: {"actions":[],"say":"Trini, give the chicken to Wesley, he is at health 2. I'm at 7.5 and can wait for the next meat. Wesley, stay near the beds."}
+- 16:10 act: {"actions":[{"do":"eat"}],"say":"Thank you Troi. I'm eating the rotten flesh now. Trini, if the chicken comes, I'll share it with Wesley first."}
+- 16:11 act: {"actions":[],"say":"Rotten flesh can't be eaten until my hunger drops to 6. Wesley looks lowest; I'll hold it for him if he comes near.","intent":{"goal":"hold_camp_wait_for_food","program":"rest","a
+- 16:11 act: {"actions":[],"say":"Worf, welcome. I have only my wooden sword and 7 oak logs; logs are yours if you need them for a sword. Wesley is lowest on food, so meat goes to him first.","intent":{"goal":"hol
+- 16:12 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_log","count":2}],"say":"Worf, here are 2 oak logs for your planks.","intent":{"goal":"hold_camp_wait_for_food","program":"rest","arguments":{},"w
+- 16:13 act: {"actions":[],"say":"Billy, at the yellow beds with 7 oak logs, no food. Hunger 12. Wesley, if you come near, the rotten flesh is yours.","intent":{"goal":"hold_camp_wait_for_food","program":"rest","a
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":339}}],"say":"Wesley, I'm bringing my rotten flesh to you at the white beds.","intent":{"goal":"bring_food_to_wesley","program":"travel","argumen
+- 16:15 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":1}],"say":"Wesley, rotten flesh for you. I'm stepping to you now.","intent":{"goal"
+- 16:17 act: {"actions":[],"say":"Billy here at -273,67,337, next to the first white bed. Wesley, say when you see me and I'll hand you the rotten flesh.","intent":{"goal":"bring_food_to_wesley","program":"travel"
+- 16:17 act: {"actions":[],"say":"Wesley, I'm at -273,67,337 and holding rotten flesh. If you can see me, step to the bed side and say so.","intent":{"goal":"wait_near_wesley_for_food","program":"rest","arguments"
