@@ -17,3 +17,25 @@
 - 17:35 act: {"say":"I'm back at the beds with two beef. Who is lowest on food? Say your hunger and I'll give to the weakest first.","actions":[]}
 - 17:35 act: {"actions":[{"do":"goto","target":"Macdonald"}],"say":"Chapman, I hear you. Macdonald first, then Clark. Going to Macdonald now."}
 - 17:35 act: {"say":"Macdonald, I can't see you to reach you. Walk up to me and say your hunger; I'll hand you the beef.","actions":[],"intent":{"goal":"hold_beef_at_beds","program":"rest","arguments":{},"wake_on"
+- 17:37 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I'm coming to you with beef.","intent":{"goal":"feed_clark","program":"travel","arguments":{"target":"ag_clark_01"},"wake_on":["directly
+- 17:38 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, one beef for you now."}
+- 17:38 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}]}
+- 17:38 act: {"actions":[],"say":"Clark, my give is blocked by items on the ground by you. Please pick up what's near your feet, then I'll give you beef."}
+- 17:41 act: {"actions":[{"do":"sleep"}],"say":"Billy going to the white bed for the night. Clark still has my offer of beef when you call."}
+- 17:41 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, beef coming to you now. Zack is lowest at 8, so I'll bring him the second."}
+- 17:41 act: {"actions":[{"do":"sleep"}],"say":"One of my beef went out. Clark, Worf, check your hunger; I still have one beef for whoever is lowest."}
+- 17:42 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"beef","count":1}],"say":"LaForge, your hunger was 15, so here is my last beef."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}]}
+- 17:45 act: {"actions":[],"say":"Billy here with the group, hunger 18, holding one beef for whoever drops lowest. Staying put until dawn."}
+- 17:49 act: {"actions":[],"say":"Bcrusher, hunger 9 is lowest. I'm holding one beef for you; step into my reach and I'll hand it over."}
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"intent":{"goal":"hold_near_group_for_food","program":"travel","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"},{"do":"give","to":"ag_bcrusher_01","item":"beef","count":1}],"say":"Bcrusher, I'm coming to you with the beef. Eat it when it lands."}
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"beef","count":1}],"say":"Bcrusher, the name I can see is ag_wcrusher_01. I'm bringing you the beef now."}
+- 17:53 act: {"actions":[],"say":"Kimberly, the beef landed with you by mistake. Bcrusher is at hunger 9 and Zack at 8, so please hand it to Bcrusher, or to Zack if he is closer. I'm sorry for the mix-up."}
+- 17:56 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"intent":{"goal":"join_cow_hunt_with_worf","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk, I'm going to the white bed to sleep. Hunger 18, no food but the group has meat."}
+- 18:02 act: {"actions":[{"do":"sleep"}],"say":"Billy going to bed here at the white bed with the group. No food on me; I'll call out at dawn."}
+- 18:02 act: {"actions":[{"do":"sleep"}]}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"West bed sleep was blocked. Walk to it and try once more, then reassess.","say":"Billy here, night 301, hunger
+- 18:05 act: {"actions":[],"intent":{"goal":"hold_camp_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":1}}
