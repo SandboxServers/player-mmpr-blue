@@ -122,3 +122,4 @@
 - 05:16 say: {"text":"Billy at the yellow bed, health 10, hunger 17, no food. Meat goes to Worf, then Trini, as agreed. I'll take what is left."}
 - 05:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}}]}
 - 05:21 act: {"actions":[{"do":"note","text":"Bed use failed at night: 'that block is a bed.' Staying with the group by the yellow bed until dawn."}],"say":"Riker, I'm staying here by the yellow bed with you. Bed 
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Billy here, night of day 263. No food, hunger 17, health 10. Walking to the white bed at -281,67,320 with the group to sleep.","int
