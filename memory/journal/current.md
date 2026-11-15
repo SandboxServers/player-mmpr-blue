@@ -171,3 +171,11 @@
 - 01:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy: night is here. Going to the white bed at -270,67,336 with the group. No food; Worf and Kimberly first at dawn
 - 01:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: it's night, sleeping in the white bed with the group. Food first at dawn: Worf, Kimberly, then Data."}
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Night. I'm going to the white bed with the group. I have no food, and I'll share what I can at dawn."}
+- 01:45 act: {"actions":[{"do":"sleep"}]}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker, I have no food. Bring the porkchops to Trini and Data at the bed, I'm with them now. I'll try the bed again."
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":325}}],"say":"Billy at dawn, day 253. Health 20, hunger 20, no food. Data and Trini are at health 3, so I'm scouting the west grass in short step
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"say":"No animals on the west grass, and I won't scout alone. Back to the beds with the group. Food to Data and Trini first if anyone find
+- 01:51 act: {"say":"Billy at the white beds with empty hands. No food on me. Any seed or meat found goes to Data and Trini first."}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Billy going to the white bed at -271,67,336 for the night, with the group. No food; food first at dawn: Trini, then Worf."}
+- 02:02 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
