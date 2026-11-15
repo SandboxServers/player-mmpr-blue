@@ -36,3 +36,6 @@
 - 06:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Back with the group, no monsters in view. Try the bed at -271,318."}
 - 06:48 act: {"actions":[],"say":"Billy here, dawn. I'm full, with 4 logs and a wooden sword, no food. I'll go west with the group to look for animals. Name the first animal you see and I'll help.","reasoning":"Da
 - 06:48 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}],"say":"Going west with Worf and the group. Meat goes to Trini and Kimberly first, then Worf.","reasoning":"Join the west animal search in 
+- 06:49 act: {"say":"Billy, dawn day 268, hunger 20, health 20, no food. Going west with the group. Any meat: Kimberly and Data first, then Laforge.","intent":{"goal":"walk_west_with_group","program":"travel","arg
+- 06:49 act: {"intent":{"goal":"hold_near_beds_for_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 06:50 act: {"say":"Billy with Lewis, hunger 20, health 20, no food. Searching west with the group; I'll call out any animal I see with its place.","intent":{"goal":"search_west_following_lewis","program":"follow
