@@ -26,3 +26,6 @@
 - 14:29 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Billy: heading east to the pig lead near -213,69,351 with the hunt. No food.","reasoning":"Follow failed. Go to the east pig lead t
 - 14:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Heading west with the group to the beds for the night.","intent":{"goal":"reach_beds_for_night","program":"travel","arguments":{"ta
 - 14:44 act: {"actions":[{"do":"sleep"}],"say":"Billy at the south beds with the group for the night. Hunger 15, health 11.5, no food."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"say":"Billy moving to Trini at the north bed, away from the phantoms. Health 11.5, hunger 15."}
+- 14:49 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Billy going east with LaForge to the pig area. Hunger 15, no food. Call out any pig."}
+- 14:51 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat","count":1}],"say":"Billy: Macdonald, you're lowest in reach. Here is the wheat Lewis passed to me."}
