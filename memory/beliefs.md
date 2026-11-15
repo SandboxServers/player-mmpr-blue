@@ -3,7 +3,8 @@
 What you hold to be true about the world and the people in it.
 
 ## What worked
-- Sleep beside the group worked on nights 164, 194, 205, 220, 230 to 235, 250, 251 and 258. Refusals are common and crowding blocks sleep (nights 268 to 288). After a refusal, walk back beside the group and try once more.
+- Sleep beside the group worked on nights 164, 194, 205, 220, 230 to 235, 250, 251 and 258. Refusals are common and crowding blocks sleep (nights 268 to 298). Sleep worked on day 298 only when I stood on the bed itself with the group in reach. After a refusal, walk back onto the bed beside the group and try once more; if a phantom or golem is near, sleep is refused.
+- Sheep gave 2 mutton on day 298 (group at the chicken ground and south-west lead). Chickens were killed near the chicken ground at -257,66,199.
 - Killing a cow, pig or sheep gives meat: beef (day 261 and day 288 at the west lake cow near -288,67,257), porkchop (pig at -353,66,236 and -392,72,222), mutton (sheep near -276,66,215).
 - Goto can stop short or land in water. Unstick, then walk again in short steps on dry grass.
 - Handing food works only when the person is in reach and in sight. The give goes to whoever it lands on, so confirm the receiver before a second give (beef to Trini on day 288 went through).
@@ -23,7 +24,10 @@ What you hold to be true about the world and the people in it.
 - The west grass (about -300 to -335 east-west) held no animals on at least seven trips (days 221 to 263). The north-west and north grass held none on day 264; the pig lead at -336,64,229 was empty on day 268.
 - Waiting alone on the grass for a group that does not come is slow. Go to the group's spot.
 - A give meant for one person landed on another three times: beef meant for Worf went to Tommy (day 261), wheat meant for Clark went to Lewis (day 282), and beef meant for Troi went to Data (day 288). The give does not go where I aim. Check the name and reach, and confirm before I give again.
-- Sleep at the beds was refused on most nights 268 to 288, blocked by crowding and creepers. A refusal is not a reason to wander at night.
+- Sleep at the beds was refused on most nights 268 to 298, blocked by crowding and creepers. A refusal is not a reason to wander at night.
+- A give fails when the items lie on the ground near the receiver: rotten flesh to Wesley was refused four times (days 295 to 298) with "items are on the ground near Wesley". Pick up and give from a clear spot, or hand food to someone else who can see him.
+- Lakeshore drowning again on day 298: I drifted off the grass into the south-west lake while chasing salmon, and respawned empty-handed. Salmon was never worth it. Stay off lake edges.
+- A chicken or wheat held for someone "in sight" was often given to the wrong person or never landed; I now hand food only to someone in reach and named.
 
 ## Held for now
 - Food is still the main limit. Leads: the west lake cow near -288,67,257 (beef on days 261 and 288); the pig and cows far west near -392,72,222 and -363,69,230; chicken near -379,72,230; sheep near -257,66,375 (unverified).
