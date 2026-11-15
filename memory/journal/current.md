@@ -136,3 +136,11 @@
 - 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"The sleep was blocked where I stand; step to the bed beside the group and try once more."}
 - 05:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Creeper nearby blocks sleep. Move to the north bed pair, away from it, and retry.","intent":{"goal":"reach_north_beds","progr
 - 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"At the north bed, no monsters in view. Try sleep."}
+- 05:44 act: {"say":"Billy here, night of day 264. No food on me. Jason first at dawn, I have nothing to give tonight. Going to the bed by the group.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 05:44 act: {"actions":[{"do":"sleep"}]}
+- 05:45 act: {"actions":[{"do":"sleep"}]}
+- 05:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
+- 05:46 act: {"actions":[{"do":"sleep"}]}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
