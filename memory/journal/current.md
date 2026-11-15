@@ -151,3 +151,5 @@
 - 01:00 act: {"actions":[{"do":"sleep"}],"say":"Billy: sleep was refused by a creeper nearby. Trying again in the bed beside the group. Trini first for the porkchop."}
 - 01:00 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
 - 01:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}},{"do":"sleep"}],"say":"Billy: night, heading back to the white beds with the group to sleep. No food; Trini first at light."}
+- 01:03 say: {"text":"Billy here, waking at the yellow beds. Health 20, hunger 20, no food and no weapon. Trini and Kimberly first for any food I find. I'll stay with the group."}
+- Day 251 night (woke at -262,67,353, yellow beds): sleep worked, health 20, hunger 20, empty pack. Picard beside me; Kimberly 6 blocks away; iron golems to the west; bows drawing to the north. Next: hold with the group at the beds until dawn, then food hunt in sight of others.
