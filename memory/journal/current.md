@@ -117,3 +117,27 @@
 - 12:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"
 - 12:04 act: {"actions":[{"do":"sleep"}]}
 - 12:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Billy here, going to the white bed with the group to sleep. No food, health 20.","reasoning":"Night in the open. Group is at the wh
+- 12:07 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"At the bed with the group, night, no threats in view. Sleep."}
+- 12:08 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed refused. Try the other white bed, one attempt."}
+- 12:10 act: {"actions":[],"say":"Billy here, dawn of day 284, no food, health 20. I'll scout the grass north with Troi, Zack and Kimberly and call out any animal.","reasoning":"Beds refused last night; group is o
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"reasoning":"Group returning to beds; spider south. Stay with them.","intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments
+- 12:11 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-268,"y":67,"z":327}},{"do":"goto","target":{"x":-274,"y":66,"z":324}}],"say":"Billy under attack from something unseen, health 13. Moving to th
+- 12:12 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"unstick"}],"reasoning":"Phantom closing in, health 9. Fight it; goto was not moving me.","intent":{"goal":"fight_off_phantom","program":"flee","ar
+- 12:12 act: {"actions":[{"do":"use","entity":"phantom","item":"wooden_sword"},{"do":"attack","target":"phantom"}],"say":"Billy at health 5, phantom on me. Fighting with the wooden sword.","reasoning":"Health 5 wi
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":330}}],"say":"Billy at health 3, running for the farm where the group is.","reasoning":"Cannot hit phantoms; health 3. Flee toward the farm group
+- 12:12 act: {"actions":[],"say":"Billy here. I died to phantoms at the white beds and woke at the spawn with nothing. I'm at the farm now, health 20, no items. Stay out of the open at dusk.","reasoning":"Dead and
+- 12:14 act: {"say":"Billy here with the group by the golems. I have a wooden sword in my pack, thanks Macdonald. Phantoms, keep close to the golems.","actions":[{"do":"wait","seconds":30}],"reasoning":"Group is h
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"Sword is in pack but not in hand. Equip it by clicking the nearby crafting table with the sword selected.","
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"The earlier equip failed as busy. Retry it alone now."}
+- 12:15 act: {"actions":[{"do":"wait","seconds":5},{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"Previous use was blocked by a leftover action. Pause briefly, then equip the sword
+- 12:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Actions keep failing as busy with nothing running. Clear the stuck state, then retry."}
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":66,"z":326},"item":"wooden_sword"}],"reasoning":"The queue should be clear now. Equip the sword."}
+- 12:15 act: {"actions":[{"do":"use","at":{"x":-274,"y":65,"z":329},"item":"wooden_sword"}],"reasoning":"Tables and containers refuse the click. Try the grass block under my feet to equip the sword."}
+- 12:22 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 12:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Group is sleeping at these white beds. Try the bed at -270,67,318 to sleep."}
+- 12:31 act: {"intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":600,"max_block_o
+- 12:35 act: {"intent":{"goal":"hold_beds_with_group","program":"rest","arguments":{"near":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 12:39 act: {"intent":{"goal":"wait_for_scout_partner","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":8}},"say":"Troi,
+- 12:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night. Trying the other white bed to sleep with the group. Food goes to Picard and Trini first at dawn.","reasoning":"Night with the gro
+- 13:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 287, no food, health 20. Trying the north bed once, and I'll give any food to LaForge or Lewis first.","reasoning":"Night, 
