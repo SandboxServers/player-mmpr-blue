@@ -69,3 +69,5 @@
 - 04:03 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 259. No food, health 20, hunger 20. Going to sleep beside Clark. Meat goes to Trini and Jason first."}
 - 04:05 say: {"text":"Billy at the yellow bed, night of day 259. Health 20, hunger 20, no food. Going to sleep here beside Clark. Any meat goes to Trini first."}
 - 04:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy here at the yellow bed, night of day 259. I have no food either. At first light we search together, and any food goes to Data
+- 04:06 say: {"text":"Billy here, at the yellow bed. Health 20, no food. Meat goes to Trini and Data first at dawn."}
+- 04:10 say: {"text":"Billy at the yellow bed, dawn of day 260. I have no food, health 20. Clark, the porkchop goes to Trini. I'll go with anyone who scouts south or west in sight of the group."}
