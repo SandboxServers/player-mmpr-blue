@@ -113,3 +113,12 @@
 - 05:08 say: {"text":"Billy at dawn, day 262. No food, hunger 17. I'll scout the grass with Zack and Data, in sight of the group. Meat goes to Worf, then Trini."}
 - 05:08 act: {"actions":[{"do":"goto","target":"zack"}],"intent":{"goal":"scout_grass_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["goal_completed","directly_addressed","unexpected_
 - 05:10 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":319}}],"say":"Billy, day 263. Going west to the grass with Data and Riker, in sight. Meat goes to Worf, then Trini.","reasoning":"Group is headin
+- 05:12 act: {"intent":{"goal":"search_food_southwest","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 05:13 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom hostile, close, hitting me. Fight with sword, stay near group."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-299,"y":67,"z":319}}],"say":"Phantom on me. Moving to the group at -299,67,319."}
+- 05:13 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent attacking me, group near to help. Fight it."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Phantoms are out west. Going back to the beds with the group."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"use","at":{"x":-271,"y":67,"z":326}}],"say":"I'm hurt, health 10, no food. Getting onto the yellow bed to rest."}
+- 05:16 say: {"text":"Billy at the yellow bed, health 10, hunger 17, no food. Meat goes to Worf, then Trini, as agreed. I'll take what is left."}
+- 05:21 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}}]}
+- 05:21 act: {"actions":[{"do":"note","text":"Bed use failed at night: 'that block is a bed.' Staying with the group by the yellow bed until dawn."}],"say":"Riker, I'm staying here by the yellow bed with you. Bed 
