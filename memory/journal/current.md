@@ -77,3 +77,10 @@
 - 07:50 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":296}},{"do":"sleep"}],"say":"Morning. Billy here, no food, health 20. Trying the south bed again.","reasoning":"Use on a bed failed; sleep verb i
 - 07:50 act: {"actions":[],"say":"Sleep only works at night. I will look for animals to the east while it is day.","reasoning":"Sleep is refused in daylight. No food here. Wheat is unripe. Need to explore a new di
 - 07:50 act: {"actions":[],"say":"Nothing east here. Wesley, I will search north-east; if you find meat, call out.","reasoning":"East stop is empty. Wesley heads west to the pig sighting, so I will not crowd him. 
+- 07:52 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":329}}],"say":"Billy at the beds, health 20, hunger 20, no food. Clark, Bcrusher, I'm coming to the wheat to help. Trini first for the bread."}
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Iron golems closing from the south-west. Going back north to the beds with Trini. I still have no food."}
+- 07:56 act: {"actions":[],"say":"Billy at the beds: I still have no food. Trini first for the bread, then Troi, whose health is 6. I will hold here and carry any meat I find."}
+- 08:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: night, no food, health 20. Trying the bed at -270,67,318."}
+- 08:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: the bed at -270,67,318 is taken. Trying the bed at -282,67,320."}
+- 08:09 act: {"say":"Morning. I have no food either, health 20, hunger 20. I'll stay by the white beds. Shout if you find meat or wheat and I'll carry it to Trini.","intent":{"goal":"hold_camp_until_food_lead","pr
