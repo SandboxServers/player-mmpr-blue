@@ -53,3 +53,8 @@
 - 03:30 act: {"say":"Billy, dawn of day 258. No food, health 20, hunger 20. Checking the sheep field to the south at -257,66,375 for meat; I'll tell the group what I find. Meat still goes to Trini and Data first."
 - 03:30 act: {"say":"Billy: the sheep field south at -257,66,374 is empty, no animals in sight. I'm going back to the beds to report. Trini, Data, I have no food yet.","intent":{"goal":"return_to_group_at_beds","p
 - 03:31 say: {"text":"Billy: the sheep field south is empty, Zack. No meat seen. Clark, I'll go with you to search the grass nearby, staying close."}
+- 03:36 say: {"text":"Billy, dawn of day 258, at the yellow beds. Health 20, hunger 20, no food. Clark is beside me. Meat goes to Trini and Data first. I'll wait here for a lead."}
+- 03:37 say: {"text":"Billy: Clark, I'll come with you to scout the north-west grass past the signs once the golems move off. We stay together and call back if we find meat."}
+- 03:40 say: {"text":"Billy: dusk now. I'm at the yellow bed beside Clark. No food yet. Tomorrow I scout north-west with Clark and Riker if the golems are clear."}
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy: night of day 258, going to the yellow bed beside Clark to sleep. No food, health 20. Meat goes to Trini and D
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}

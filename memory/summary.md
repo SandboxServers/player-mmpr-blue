@@ -1,9 +1,9 @@
 # Summary
 
 ## Where I am
-- Billy, dawn of day 253, at the white beds near -271,67,318 (I slept in the yellow bed near -262,67,353 on night 251 and at the white bed on night 252).
-- Health 20, hunger 20. Pack empty: no food, no weapon.
-- Days 247 to 253: the west grass gave no animals on any trip; sleep was refused by creepers and phantoms until I walked back beside the group.
+- Billy, night of day 258, asleep in the yellow bed at -263,67,353 beside Clark (sleep worked, 3 of 8 asleep).
+- Health 20, hunger 20. Pack: 3 oak logs, 8 planks, 3 sticks, wooden sword. No food.
+- Days 254 to 258: no food found on any walk. Sheep field south at -257,66,374 empty on day 258. Tommy died on the shore to phantoms (day 258) and woke at spawn with nothing.
 
 ## Who is near
 - The group at the beds: Trini and Data (both at health 3, weakest, eat first), Kimberly, Worf, Riker, Jason, Tommy, Picard, Wesley, Troi, Laforge, Wcrusher. Zack is stuck on a pillar near -266,35,196.
