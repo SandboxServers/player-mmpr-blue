@@ -90,3 +90,5 @@
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 11:12 act: {"say":"Billy, dawn day 281. No food on me. I'll scout east and north-east, a direction nobody has checked, and report back before dusk.","actions":[{"do":"goto","target":{"x":-250,"y":67,"z":330}}],"
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":320}}],"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":67,"z":320}},"wake_on":["directly_address
