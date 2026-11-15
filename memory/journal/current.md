@@ -126,3 +126,13 @@
 - 05:27 act: {"say":"Billy, night of day 263 at the white beds. No food, hunger 17. Sleeping here with the group; food to Trini and Data first at dawn.","actions":[{"do":"sleep"}]}
 - 05:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, night of day 263. Going into the white bed with the group. No food; Worf and Trini first at dawn.","reas
 - 05:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: I have no beef and no wheat, Worf and Picard. My pack holds only logs, planks and dirt. Worf, if any meat com
+- 05:28 say: {"text":"Billy here, dawn. Hunger 17, no food. Going west with the group for meat; any food goes to Worf, then Trini."}
+- 05:28 act: {"intent":{"goal":"scout_west_grass_for_meat","program":"travel","arguments":{"target":{"x":-295,"y":66,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 05:28 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"Back with the group at the beds. Get into bed for the night."}
+- 05:29 act: {"actions":[{"do":"sleep"}],"reasoning":"The use on the bed was refused as a bed; try the sleep verb in the bed beside the group."}
+- 05:33 act: {"say":"Billy at the white beds, hunger 17, no food. Jason is weakest; the porkchops go to him, then Worf. I'm holding here until dusk.","reasoning":"Nothing to give; hold with the group and let the w
+- 05:42 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white beds, night of day 264. No food; Jason first at dawn, then Trini. Trying to sleep with the group.","reasoning":"It is night and I am beside the gr
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"The sleep was blocked where I stand; step to the bed beside the group and try once more."}
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Creeper nearby blocks sleep. Move to the north bed pair, away from it, and retry.","intent":{"goal":"reach_north_beds","progr
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"At the north bed, no monsters in view. Try sleep."}
