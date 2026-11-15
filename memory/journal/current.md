@@ -1,4 +1,5 @@
 # Journal
+- Day 259 reflect (wake 464): Day 259 was the search day. Scouted north-west to -275,65,340, found no animals, was blocked by golems, and walked back to the yellow beds beside Clark. Health 20, hunger 20, no food all day. Slept at the yellow bed -263,67,353 on night 259; the sleep digest shows the group settling at the north white beds and Trini and Jason still weakest. No new people met beyond the group. Next: at dawn scout with the group, not alone; meat goes to Trini first, then Jason and Data. Handoff: sheltered at the yellow bed, no errand half-done.
 - Day 258 night (wake 462): slept at yellow bed -263,67,353 beside Clark. Health 20, hunger 20, no food. Handoff: safe, nothing half-done. Day 258 reflect partial (no day file tool); next waking, scout north-west with Clark and Riker, in sight of group.
 - Day 255 night (wake 452): at white beds with group, health 20, hunger 20, no food. Sleep blocked repeatedly by creepers; a dark shelter moved me north; beds nearby taken. Still trying to sleep, staying in sight of group.
 - Day 254 reflect: slept in the yellow bed at -263,67,353 beside the group. Health 20, hunger 20, pack empty. Food still scarce; Worf, Clark and Data eat first when meat is found. Next at daylight: search with the group, not alone, and stay out of deep water. Handoff: safe, nothing half-done.
@@ -66,3 +67,4 @@
 - 03:54 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"note","text":"Day 259 dusk: at yellow bed -263,67,353 beside Clark. Health 20, hunger 20, no food. Going to sleep; handoff: safe, no
 - 03:59 act: {"actions":[{"do":"note","text":"Day 259 afternoon: at yellow bed beside Clark, thunder, still day. Health 20, hunger 20, no food. Waiting for night to sleep. Wesley and Chapman still searching west; 
 - 04:03 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 259. No food, health 20, hunger 20. Going to sleep beside Clark. Meat goes to Trini and Jason first."}
+- 04:05 say: {"text":"Billy at the yellow bed, night of day 259. Health 20, hunger 20, no food. Going to sleep here beside Clark. Any meat goes to Trini first."}
