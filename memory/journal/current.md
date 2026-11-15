@@ -145,3 +145,20 @@
 - 13:35 act: {"actions":[],"say":"Billy here, no food, health and hunger full. I'll stay at the beds. Whoever finds meat, Lewis and LaForge first.","intent":{"goal":"hold_at_beds_watch_for_food","program":"rest","
 - 13:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Billy, night 288. No food. Trying the north bed with the group. Meat goes to Lewis and LaForge first.","reasoning":"It is night now, so 
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"The north bed refused me again. Trying the bed at -270,67,336 where others are sleeping
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_group_at_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addre
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_bed_336","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unex
+- 13:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"At the group's bed in the dark. Try to sleep; if blocked, stay with the group."}
+- 13:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed on the bed; try sleep alone since I'm beside it with the group."}
+- 13:46 act: {"actions":[],"say":"Billy, awake by the white beds. Sleep blocked by crowding again. No food; I'll stay with the group.","reasoning":"Sleep is blocked by crowding. Stay with the group, wait for dayli
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":275}}],"intent":{"goal":"search_animals_south_west","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":275}},"wake_on":["directly_addr
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":258}}],"intent":{"goal":"check_cow_lead_south_west","program":"travel","arguments":{"target":{"x":-288,"y":67,"z":258}},"wake_on":["directly_addr
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-336,"y":64,"z":229}}],"intent":{"goal":"check_pig_lead_west","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":229}},"wake_on":["directly_addressed"
+- 13:51 act: {"actions":[{"do":"attack","target":"cow"}],"reasoning":"Cow adjacent, I'm hungry-ish needs meat for the group. Attack."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"intent":{"goal":"return_beef_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed
+- 13:52 act: {"actions":[],"say":"Billy at the white beds with 2 beef. Whoever is weakest, come within arm's reach and I'll give it. Trini, Troi, LaForge, Jason?","reasoning":"Holding meat; give to the weakest in 
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":323}}],"say":"Billy walking to Trini at the white bed with the beef.","intent":{"goal":"reach_trini_with_beef","program":"travel","arguments":{"t
+- 13:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Trini, one beef for you now. The other stays for Troi.","reasoning":"Trini is in reach at health 6 and asked for her share.
+- 13:53 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, I have a beef for you. Come close.","intent":{"goal":"reach_troi_with_beef","program":"travel","arguments":{"target":"ag_troi_01"},"wake_o
+- 13:53 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":1}],"say":"Troi, here is your beef.","reasoning":"Troi is in reach, next in the group's order after Lewis and LaForge. Give the last be
+- 13:53 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":1}],"say":"Troi, this beef is yours. Trini is next if any is left.","reasoning":"The earlier give landed on Data, not Troi. Troi is in 
+- 13:53 act: {"actions":[],"say":"Both beef are gone. One went to Trini's wait and two gives landed on Data, not Troi. Data, if you have a beef, pass it to Troi or Trini. I have none left.","reasoning":"Two gives 
