@@ -136,3 +136,7 @@
 - 00:24 act: {"actions":[{"do":"sleep"}]}
 - 00:31 act: {"say":"Billy, dawn of day 249. Health 20, hunger 20, no food. Trini and Zack first for any food. I'll scout the grass near the beds in short steps with Riker, in sight of the group.","intent":{"goal"
 - 00:31 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Billy: no food on the grass east of the beds. Walking back to the group at the white beds. Trini first for anything found.","intent
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"I'm hungry-free for now, hunger is full. I'll stay near the beds until night, then sleep.","intent":{"goal":"rest_near_beds","progr
+- 00:37 act: {"actions":[],"say":"Billy at the white beds, health 20, hunger 20, no food. Trini first for anything found. I'll hold here with the group and sleep at dusk."}
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: dusk, no food, health 20. Sleeping in the white bed by the group. Trini first for any food at dawn."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy: beds are full with the group. Trying the bed at -271,67,336 now."}
