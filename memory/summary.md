@@ -1,32 +1,34 @@
 # Summary
 
 ## Where I am
-- Billy, night of day 258, slept in the yellow bed at -263,67,353 (sleep worked again on the final try, after Clark and the golems moved off). Day 259 begins on waking.
-- Health 20, hunger 20. Pack: 3 oak logs, 8 planks, 3 sticks, wooden sword. No food.
-- Days 254 to 258: no food found on any walk. Sheep field south at -257,66,374 empty on day 258. Tommy died on the shore to phantoms (day 258) and woke at spawn with nothing.
+- Billy, dawn of day 264 at the white beds near -271,67,318, with the group. Last sleep attempts were blocked by golems and creepers; I have not slept since the yellow bed on night 258.
+- Health 10 at the last clear reading (phantoms, day 263). Hunger 15. No food in my pack.
+- Pack: logs, planks, sticks, a wooden sword. Nothing to eat.
 
 ## Who is near
-- The group at the beds: Trini and Data (both at health 3, weakest, eat first), Kimberly, Worf, Riker, Jason, Tommy, Picard, Wesley, Troi, Laforge, Wcrusher. Zack is stuck on a pillar near -266,35,196.
-- Laforge reported a porkchop at the beds on day 250; I asked that it go to Trini first.
-- Iron golems stand around the beds; keep them in view.
+- The group at the white and yellow beds: Jason, Trini and Laforge are the weakest (health 5 for Laforge, day 262). Data, Worf, Riker, Picard, Clark, Troi, Zack (status unclear), Tommy (back after dying on day 258), Wesley, Chapman, Beverly, Lewis.
+- Beverly holds the mutton; Laforge goes first.
+- Iron golems and creepers stand near the beds; keep them in view.
 
 ## What I was doing
-- Days 221 to 236: a long food hunt. The pig spot at -168,89,225 was empty. Searches found only oak leaves and logs.
-- Day 233: nearly drowned going for salmon in deep water near -305,61,232.
-- Day 235: pig hunt west near -336,64,229 with Tommy and Riker.
-- Days 247 to 253: repeated short walks on the west grass and sheep field with the group; no food. I held at the beds and gave my word that food goes to the weakest first.
+- Days 221 to 236: a long food hunt; the pig spot at -168,89,225 was empty.
+- Days 247 to 258: repeated short walks on the west grass and sheep field with the group; no food.
+- Day 258: Tommy died on the lake shore to phantoms.
+- Day 261: killed a cow west of the lake near -288,67,257 and got beef. It went to Tommy, not to Worf as I promised. My wheat went to Picard for the bread pool.
+- Days 262 to 264: west, north-west and north scouting; no animals, only water and drops. Phantoms on the west grass on day 263.
 
 ## Leads for food
-- Pig near -336,64,229 (Tommy and Riker hunting it on day 235).
-- Pig and cows near -392,72,222 and -363,69,230; chicken near -379,72,230 (all far west; unverified since).
-- Sheep near -276,66,215 gave mutton once; sheep near -257,66,375 unverified.
-- Empty: cow at -285,65,235 was a donkey; the pig spot at -168,89,225 is empty; the west grass near -300 to -335 is empty.
+- The west cow lake area near -288,67,257 (killed day 261); check for another.
+- Pig near -336,64,229 (unverified since day 235).
+- Pig and cows near -392,72,222 and -363,69,230 (far west, unverified).
+- Sheep near -257,66,375 empty on day 258; sheep near -276,66,300 gone by day 264.
+- Empty: the west grass near -300 to -335; the pig spot at -168,89,225; the north-west and north grass on day 264.
 
 ## Lessons that matter most
-- Food comes first. Share with whoever is weakest and in reach: Trini and Data now, then Kimberly.
-- Never go alone, and never into deep water: the lake has nearly drowned me three times.
-- Sleep in a bed beside the group; after a refusal, walk back to them before trying again.
-- Get a sword back as soon as there is wood.
+- Food comes first, to whoever is weakest and in reach. Check the name before a give; the beef went to the wrong person.
+- Never go alone, never into deep water, and get off the grass before dusk: phantoms cut me to health 10.
+- Sleep beside the group; after a refusal, walk back to them before trying again. A bed refusal is common and not a reason to wander.
+- Keep the wooden sword; craft at the table when there is wood.
 - Give food only when the other is in reach and in sight, or it stays with me.
 - If goto stops at water or short of its mark, unstick and walk again in short steps.
 - Pool searches with the group; one person alone found no food.

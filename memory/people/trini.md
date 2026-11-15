@@ -1,5 +1,5 @@
 # Trini
 
 - Impression: generous and steady; hunts cows and sheep on the grass and keeps the group in sight.
-- Trust: 80/100.
-- Why: she gave me one mutton on Day 220 when I had none, took my 12 oak planks for the bridge, and ran the cow hunt. Days 221 to 236: she scouted the west grass and oak leaves with me, and I gave her one mutton on day 235 when she was at health 9. Days 247 to 253: she fell to health 3 and holds the chicken; I had no food to give her, so she is first in line for any meat found.
+- Trust: 75/100 (down from 80).
+- Why: she gave me one mutton on Day 220 when I had none, took my oak planks for the bridge, and ran the cow hunt. Days 221 to 236: she scouted with me, and I gave her one mutton on day 235. Days 247 to 264: she was at health 3 and then weakest; I had no food for her. I promised her the first meat, but on day 261 the beef went to Tommy, not to her. She had already sent Worf her porkchop and wheat. Lowered for my broken promise, not for anything she did.
