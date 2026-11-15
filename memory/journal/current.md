@@ -159,3 +159,7 @@
 - 06:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"intent":{"goal":"sleep_in_yellow_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage",
 - 06:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed_318","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
 - 06:07 act: {"say":"Billy: I have no food, Wesley, sorry. Only logs, planks and sticks. I'll stay with the group until light.","intent":{"goal":"hold_near_beds_until_dawn","program":"rest","arguments":{},"wake_on
+- 06:09 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":296}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 06:10 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":296}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 06:10 act: {"intent":{"goal":"scout_further_north_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 06:11 act: {"say":"Billy: north to -262,67,271, no animals, only water and drops ahead. I'm heading back toward the white beds to report. Jason gets any meat first.","intent":{"goal":"return_to_white_beds_with_g
