@@ -165,3 +165,9 @@
 - 01:28 act: {"say":"Billy here, dawn. No food, no weapon. Worf and Trini first if anyone finds meat. I'll search the grass to the west, staying within sight of the beds.","intent":{"goal":"search_grass_for_animal
 - 01:29 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":338}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 01:29 act: {"say":"Billy back at the beds. No food found on the west grass. Worf and Trini are first for any meat. I'll stay in sight of the group."}
+- 01:31 act: {"intent":{"goal":"join_clark_logs","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":351}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"lim
+- 01:31 act: {"say":"Billy with the group at the logs. I have no food and no weapon. Trini, I see your chicken; Worf and whoever is hungriest first, then me if any is left."}
+- 01:35 act: {"say":"Billy at the logs, hunger 20, no food. Others are weaker, so Worf, Kimberly and Troi get the meat first. I'll hold by the beds with Zack and keep watch for pigs.","intent":{"goal":"hold_beds_w
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Billy: night is here. Going to the white bed at -270,67,336 with the group. No food; Worf and Kimberly first at dawn
+- 01:43 act: {"actions":[{"do":"sleep"}],"say":"Billy: it's night, sleeping in the white bed with the group. Food first at dawn: Worf, Kimberly, then Data."}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
