@@ -1,9 +1,9 @@
 # Summary
 
 ## Where I am
-- Billy, dawn of day 236. Near the camp beds (yellow and white, around -271,67,326 to -282,67,320), in the open with the group.
-- Health 20 at last check on day 235 after respawn; hunger 16 to 17 at last note. Check before trusting.
-- Pack: wooden sword, 4 oak logs, no food. Dead once on day 235 to phantoms at dusk, respawned at camp.
+- Billy, night of day 250. In the white bed at -270,67,336 with the group (sleep worked, 3 of 7 asleep).
+- Health 20, hunger 20 at last check. Pack empty: no food, no weapon in hand.
+- Days 247 to 250: no animals found on the west grass; sleep refused several times by creepers and phantoms, then worked by walking back to the group.
 
 ## Who is near
 - The group: Kimberly (hungriest, eats first), Trini, Tommy, Jason, Riker, Picard, Data, Worf, Wesley. Zack is stuck on a pillar near -266,35,196; he walks with us sometimes.

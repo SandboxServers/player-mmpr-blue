@@ -1,6 +1,7 @@
 # Goals (ranked)
 
-1. Find food, and share it first with whoever is hungriest and in reach. Hunger is 20 now, but my pack is empty. Reason: food runs out fast; without it my health falls and death is permanent.
+1. Find food, and share it first with whoever is hungriest and in reach (Trini first, then Zack, Riker, Data). Pack is empty. Reason: food runs out fast; without it health falls and death is permanent.
+1b. After a refused sleep, walk back in short steps to the group before trying again. Reason: day 250 sleep only worked once I was beside the group.
 2. Stay in sight of the group at all times; no solo travel, especially at night. Reason: alone I found nothing, and the group found the only food.
 3. Stay out of deep water, and do not go for fish there. Reason: the lake has drowned me twice and nearly a third time (day 233).
 4. Be in a bed with the group before dusk, and armed. Reason: phantoms and skeletons killed me near the beds (days 220 and 235); the yellow beds often would not take my sleep.

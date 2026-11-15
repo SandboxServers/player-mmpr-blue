@@ -147,3 +147,7 @@
 - 00:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Geldar, dawn of 250. No food. Back to the white beds with the group to hunt together. Trini first for any food."}
 - 00:54 act: {"actions":[],"say":"Geldar at the white beds. I have no food. Laforge, Trini is right here at the white beds, bring the porkchop to her. I'll stay in sight and sleep at a bed by her tonight."}
 - 00:58 act: {"actions":[{"do":"sleep"}],"say":"Geldar: trying the white bed for the night. No food on me. Laforge, the porkchop goes to Trini first."}
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Billy here at dusk, day 250. Health 20, hunger 20, no food. Trini first for any food found. Sleeping in the white bed here with the group.","intent":{"goal":"sleep_i
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Billy: sleep was refused by a creeper nearby. Trying again in the bed beside the group. Trini first for the porkchop."}
+- 01:00 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 01:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}},{"do":"sleep"}],"say":"Billy: night, heading back to the white beds with the group to sleep. No food; Trini first at light."}
