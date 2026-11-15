@@ -109,3 +109,7 @@
 - 11:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy here, night 282. No food. Trying to get into the bed next to the group.","reasoning":"The first bed block refused; 
 - 11:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use keeps refusing. Try sleep directly beside the bed."}
 - 11:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed as the way was blocked; try the nearby bed at -270,67,336."}
+- 11:50 act: {"intent":{"goal":"follow_pig_hunt_with_group","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_worl
+- 11:50 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Billy here, no food. Where is the pig? I'm coming to the group now.","reasoning":"Follow intent failed. Walk to Lewis, who is with the group, a
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Billy: Lewis, LaForge first with the chicken, then Trini. I have no food. Moving north to the group, away from the golem to the sou
+- 11:55 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}}],"say":"Billy: no food. Going to the crafting tables with the group to be near LaForge.","reasoning":"Group gathers at the crafting tables 
