@@ -32,3 +32,6 @@
 - 02:50 say: {"text":"Billy at dawn, day 256. No food, health 20, hunger 20. Trini gets any meat first. I'll search the grass near the beds with Tommy, in sight of the group."}
 - 02:51 act: {"intent":{"goal":"search_grass_near_beds_with_tommy","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
 - 02:51 act: {"say":"Billy at the grass near the beds, day 256, morning. No food yet, health 20, hunger 20. Trini gets any meat first. I'll stay in sight of the group and keep searching the grass.","actions":[{"do
+- 02:53 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 02:54 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Billy: I have logs now. Making planks and a woo
+- 02:54 act: {"actions":[{"do":"note","text":"Day 256 midday: gathered 6 oak logs near the beds, crafted 12 planks, 4 sticks, and a wooden sword. Health 20, hunger 20, no food seen. Staying near the group."}],"say
