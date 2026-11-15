@@ -12,3 +12,4 @@
 - 02:16 act: {"say":"Billy at the beds, dawn of day 254, no food, health 20, hunger 20. Trini and Data eat first. I'll stay in sight and search with the group, not alone.","intent":{"goal":"hold_at_beds_until_food
 - 02:22 act: {"say":"Billy at dusk, day 254. No food, health 20, hunger 20. Going to a bed near the group to sleep. Worf, Clark and Data get any meat first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":3
 - 02:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 254 night: slept in the yellow bed at -263,67,353 beside the group. No food on me; Worf and Clark first at light. Health 20."}]}
+- 02:28 say: {"text":"Billy at dawn, day 254. Health 20, hunger 20, no food. I'll search the grass near the beds with anyone going out. Meat goes to Trini and Data first."}
