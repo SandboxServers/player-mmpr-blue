@@ -104,3 +104,12 @@
 - 04:50 act: {"say":"Billy at -285,66,318, morning of day 262. No animals in sight yet. Going on west in short steps, staying in sight of the group.","intent":{"goal":"west_grass_scout","program":"travel","argumen
 - 04:51 act: {"say":"Beverly, you have the mutton: LaForge is the weakest at health 5, so give it to him first, then Worf or Trini. I have no food.","intent":{"goal":"hold_west_with_group","program":"wait","argume
 - 04:52 act: {"say":"Billy here at -300,66,319, still no food. Walking west with the group in sight. Any meat goes to Worf, then Trini.","intent":{"goal":"scout_west_with_group","program":"travel","arguments":{"ta
+- 04:58 act: {"intent":{"goal":"rejoin_group_west","program":"travel","arguments":{"target":{"x":-299,"y":66,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 04:59 say: {"text":"Billy here at -300,66,319 with the group. No food yet. I'll search west with you, in sight. Meat goes to Worf, then Trini."}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy going to the white bed at -271,67,318 with the group for the night. No food; meat goes to Worf, then Trini."}
+- 05:03 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Billy trying the bed at -271,67,336 from its south side. No food; meat goes to Worf, th
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, golems closing. Try a different bed (-270,67,318) with a sleep, not a use on the same bed.","say":"Bill
+- 05:08 say: {"text":"Billy at dawn, day 262. No food, hunger 17. I'll scout the grass with Zack and Data, in sight of the group. Meat goes to Worf, then Trini."}
+- 05:08 act: {"actions":[{"do":"goto","target":"zack"}],"intent":{"goal":"scout_grass_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["goal_completed","directly_addressed","unexpected_
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":319}}],"say":"Billy, day 263. Going west to the grass with Data and Riker, in sight. Meat goes to Worf, then Trini.","reasoning":"Group is headin
