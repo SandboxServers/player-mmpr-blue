@@ -144,3 +144,10 @@
 - 05:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}]}
 - 05:46 act: {"actions":[{"do":"sleep"}]}
 - 05:47 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 05:51 act: {"say":"Billy here, no food either, hunger 15. I'll walk the grass west with Troi and call out any animal. Meat goes to Jason first.","intent":{"goal":"scout_west_grass_for_animals","program":"travel"
+- 05:51 act: {"say":"Billy at -269,66,340. No animals in sight, golems nearby. I'll go slowly north-west toward the sheep at -276,66,300, calling out anything I see.","intent":{"goal":"check_sheep_grass_north_west
+- 05:52 act: {"say":"Billy at the north-west grass, -278,67,300. No animals here. I have 19 planks and 5 logs. Riker, if the trader sells food, tell me and I'll offer planks too. Meat still goes to Jason first.","
+- 05:52 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 05:52 act: {"say":"Billy: Data, I'm coming to the sheep at -276,66,300 with you. I'll stay in sight. Mutton goes to Jason first.","intent":{"goal":"hunt_sheep_north_west_with_data","program":"travel","arguments"
+- 05:53 act: {"say":"Billy: I saw the sheep here earlier, to the north-west of the beds. None in sight now. I'm holding with Data and Riker. Mutton goes to Jason first."}
+- 05:54 act: {"say":"Billy: no sheep here now. Going back to the yellow bed at -281,69,292 with the group. Any mutton goes to Jason first.","intent":{"goal":"rest_at_yellow_bed_with_group","program":"travel","argu
