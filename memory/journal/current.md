@@ -150,3 +150,16 @@
 - 17:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 17:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Back at the white beds. Food first to whoever is weakest. I am sleeping here now; the lake stays shut.","reasoning":"Beds reached, 
 - 17:20 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, sheltered among the group, nothing half-done. Sleep."}
+- 17:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come, I am at the bed with the group near. Sleep."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Displaced onto a ledge near water. Walk back to the bed, away from the water and the drop."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Deep water is next to me on the south and west. The last goto was blocked by a running action, so I send it once more to get 
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Bed is 9 blocks away and the golems are closing from the west. Get to the bed with the others."}
+- 17:22 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed at night with Clark, Picard and Troi in reach. Sleep."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"A hostile phantom is 14 blocks west and I drifted off the bed. Return to the bed before sleeping."}
+- 17:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Back on the bed at night. A phantom is closing in from the northwest, so sleep now in the bed."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"I was moved to the north beds at -271,67,318. Sleep failed here as the way was blocked, so step onto that bed and try once mo
+- 17:23 act: {"actions":[{"do":"sleep"}],"reasoning":"On a bed at night with Zack, Trini and Chapman in reach and no golems in sight. Sleep now."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Sleep failed because I drifted off the bed to -276,319. Walk back onto the north bed, then try sleep once more."}
+- 17:24 act: {"actions":[{"do":"sleep"}],"reasoning":"On the north bed at -270,67,318 with Trini, Picard and Chapman in reach. Try sleep once."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Sleep was interrupted and I drifted again to -278,319. Walk back to the north bed, away from the golem to the north."}
+- 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Back on the north bed at -271,67,318; no golem in sight now. Sleep."}
