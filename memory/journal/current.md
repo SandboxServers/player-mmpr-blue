@@ -19,3 +19,5 @@
 - 23:16 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"mutton","count":1},{"do":"goto","target":{"x":443,"y":107,"z":-1021}}],"say":"Leonardo, here is my mutton. Eat it if you're hungry. I'm going to 
 - 23:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Leonardo, thank you. I'm going to the bed at 429, -1022 for the night. I still have a chicken for whoever is weakest."}
 - 23:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1024}},{"do":"open","at":{"x":433,"y":107,"z":-1023}}],"say":"Billy here at the beds. I hold only a grass block, hunger 15. Trini, I will check 
+- 23:17 say: {"text":"Billy: I am at hunger 15, so the food goes to Lewis and Picard first. I will search for chickens and cows to the south, past the fence."}
