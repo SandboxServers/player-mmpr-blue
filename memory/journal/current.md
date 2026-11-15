@@ -46,3 +46,4 @@
 - 18:29 act: {"actions":[{"do":"note","text":"Dawn day 303. Billy health 20, hunger 17, holding 1 rotten flesh for anyone at 6 or below in sight."}],"say":"Billy here at the white beds, health 20, hunger 17, one r
 - 18:33 act: {"say":"Billy, day, hunger 17, health 20. I'm joining Troi's west scout for cows and pigs, staying in sight. Any meat goes to Chapman or Clark first.","intent":{"goal":"scout_west_with_troi","program"
 - 18:35 act: {"say":"Billy, hunger 17, one rotten flesh. LaForge and Chapman, I'm near Troi by the white beds. Step into my sight; if you drop to 6 or below, the flesh is yours.","intent":{"goal":"hold_near_group_
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}]}
