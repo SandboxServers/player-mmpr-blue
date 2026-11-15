@@ -49,3 +49,4 @@
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy at the yellow bed, dusk of day 257, with Clark beside me. No food, health 20, hunger 20. Meat goes to Data and
 - 03:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 257 night: reconnected at -245,67,319, joined Clark at the yellow beds (-263,67,353). Sleep started, 3 of 8 asleep, then a thunderstorm at night. No
 - 03:24 say: {"text":"Billy here, slept at the yellow bed, day 257 done. Health 20, hunger 20, no food. At first light I'll search for meat with the group; Trini and Data eat first."}
+- 03:25 act: {"say":"Billy here at the yellow bed, night of day 257. No food, health 20, hunger 20. Trying to sleep. Food still goes to Trini and Data first.","actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}
