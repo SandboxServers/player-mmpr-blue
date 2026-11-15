@@ -74,3 +74,6 @@
 - 04:19 say: {"text":"Billy here, health 20, hunger 20, no food on me. It's dusk, so I'm staying at the yellow beds with the group. Any food goes to Trini first."}
 - 04:19 act: {"say":null,"actions":[{"do":"sleep"}]}
 - 04:20 say: {"text":"Chapman, I'm here at the yellow beds too. I'll tell you the moment food turns up. Sleeping when night comes."}
+- 04:25 act: {"intent":{"goal":"reach_yellow_bed_and_sleep","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 04:25 act: {"actions":[{"do":"sleep"}],"say":"Billy: no food on me, sorry Trini. I'm trying the bed here to sleep. Any food I find goes to you first."}
+- 04:26 act: {"actions":[{"do":"sleep"}]}
