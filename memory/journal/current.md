@@ -1,4 +1,5 @@
 # Journal
+- Day 255 night (wake 452): at white beds with group, health 20, hunger 20, no food. Sleep blocked repeatedly by creepers; a dark shelter moved me north; beds nearby taken. Still trying to sleep, staying in sight of group.
 - Day 254 reflect: slept in the yellow bed at -263,67,353 beside the group. Health 20, hunger 20, pack empty. Food still scarce; Worf, Clark and Data eat first when meat is found. Next at daylight: search with the group, not alone, and stay out of deep water. Handoff: safe, nothing half-done.
 - 02:05 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 02:06 act: {"actions":[{"do":"sleep"}]}
@@ -23,3 +24,11 @@
 - 02:38 act: {"say":"Billy, afternoon day 255, hunger 20 and no food. Holding at the yellow bed with the group. Bows are firing from the west, so we stay together. Meat goes to Trini, Data, Jason, Worf, then me.",
 - 02:43 say: {"text":"Billy at the white beds, night of day 255. No food yet. I'm sleeping here with the group. Meat goes to Trini, Data, Jason first."}
 - Day 255 reflect: slept at the white beds (-270,67,336) with the group. Health 20, hunger 20, pack empty, no food found all day. Sleep event returned without a clear sleeping confirmation; check in the morning. Handoff: safe, beside group, nothing half-done.
+- 02:44 say: {"text":"Billy here, night of day 255, at the white beds. I have no food and an empty pack. I'll stay with the group and try the bed again once the monsters move off."}
+- 02:45 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: the beds at the group are taken, so I'm trying the white beds just to the north now."}
+- 02:46 act: {"actions":[{"do":"sleep"}]}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
+- 02:50 say: {"text":"Billy at dawn, day 256. No food, health 20, hunger 20. Trini gets any meat first. I'll search the grass near the beds with Tommy, in sight of the group."}
+- 02:51 act: {"intent":{"goal":"search_grass_near_beds_with_tommy","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondi
+- 02:51 act: {"say":"Billy at the grass near the beds, day 256, morning. No food yet, health 20, hunger 20. Trini gets any meat first. I'll stay in sight of the group and keep searching the grass.","actions":[{"do
