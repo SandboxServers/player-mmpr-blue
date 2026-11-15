@@ -114,3 +114,39 @@
 - 16:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Perched on air, golems 7+ blocks south. Walk north to the beds with the group and try sleep again."}
 - 16:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}}],"reasoning":"Previous goto was blocked by a running action. Walk north to the bed again, away from the closing golem."}
 - 16:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":317}},{"do":"sleep"}],"reasoning":"Nobody near now. Step next to the bed at -271,67,318 and sleep."}
+- 16:47 act: {"say":"Billy at the north white bed, night 297, health 20, hunger 20. I slept already; no food on me. Staying beside the group until dawn.","intent":{"goal":"hold_at_beds_until_dawn","program":"rest"
+- 16:51 act: {"say":"Billy, dawn 298, health 20, hunger 20, no food. Going east with Macdonald, Zack and Chapman to the pig lead. Meat goes to Wesley first, then Clark.","intent":{"goal":"hunt_east_pigs_with_group
+- 17:00 act: {"say":"Billy: no pigs at the east lead. Dusk 298, so I'm walking back to the white beds with Zack, Chapman and Riker to sleep. Health 20, hunger 20, no food.","intent":{"goal":"return_to_beds_for_nig
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_beds_before_dark","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_address
+- 17:00 act: {"actions":[{"do":"sleep"}],"say":"Back at the white beds with you all. I'm going to sleep here for the night.","reasoning":"Dusk at the beds with the group nearby. Sleep once; if refused, wait and re
+- 17:01 act: {"actions":[{"do":"sleep"}],"say":"Night 298, still at the white bed -270,67,336. Trying to sleep once more.","reasoning":"Night came; sleep was blocked for Leonardo near golem. Try once more now."}
+- 17:02 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":4}],"say":"Wesley, Troi's rotten flesh came to me. Handing all 4 to you now.","reasoning":"Wesley is at 2 health and in rea
+- 17:02 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":4}],"reasoning":"Wesley is 3 blocks away and in reach. The earlier failure was the items on the ground. One more try."}
+- 17:02 act: {"actions":[{"do":"note","text":"Day 298 night: give of 4 rotten_flesh to Wesley failed twice, both times 'items are on the ground near Wesley'. Holding the flesh still. Stopped retrying; will offer i
+- 17:04 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":2}],"say":"Wesley, here are 2 wheat from Troi. Rotten flesh next, if the hand-off works.","reasoning":"Flesh give failed twice. Tr
+- 17:05 say: {"text":"Wesley, the hand-off is blocked by items on the ground by you. I hold 2 wheat and 4 rotten flesh for you. I will try again at dawn."}
+- 17:09 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"rotten_flesh","count":4}],"say":"Dawn. Wesley's hand-off keeps failing, so Troi, I'm giving the 4 rotten flesh to you to get it to him or to whoever 
+- 17:09 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"reasoning":"Wesley is 3.6 blocks off. Walk to him, then try the 2 wheat once."}
+- 17:09 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat","count":2}],"say":"Picard, I'm coming to you with 2 wheat. Health 4 is the most urgent, so it goes to 
+- 17:09 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"wheat","count":2}],"say":"Picard is out of sight. Troi, I'm bringing you my 2 wheat for whoever is weakest, Picar
+- 17:09 say: {"text":"I have no food left. I gave my wheat to Troi. I'll go with the group to hunt for animals, and any meat goes to the weakest first."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":199}}],"say":"Billy here, no food, hunger 20. I'm going to the chicken ground at -257,66,199 with the group. Meat goes to Picard first, then Wesl
+- 17:12 act: {"actions":[{"do":"attack","target":"sheep"}],"say":"A sheep is 6 blocks south-east. I'm going for it. Mutton goes to Picard first.","reasoning":"A sheep is close and is a food source. Attack it with 
+- 17:12 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"mutton","count":2}],"say":"Picard, I got 2 mutton from a sheep. Coming to you now.","reasoning":"I hold 2 mut
+- 17:12 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"I have 2 mutton and I can't find Picard. Kimberly, I'm coming to you so the group can see who is weakest. Tell me where Picard is.","reasoni
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":190}}],"say":"I'm holding 2 mutton. I'm heading north-west toward the chicken ground to find the group. Picard or Wesley, call out and I'll come.
+- 17:12 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"mutton","count":2}],"say":"Kimberly, I have 2 mutton and you're the one with the group here. Picard is st
+- 17:13 act: {"say":"Billy here, no food yet. I'm going to look for chickens or sheep near the chicken ground, away from the enderman.","intent":{"goal":"find_meat_for_weakest","program":"travel","arguments":{"tar
+- 17:13 act: {"intent":{"goal":"search_for_animals_west","program":"travel","arguments":{"target":{"x":-290,"y":65,"z":190}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 17:13 act: {"intent":{"goal":"search_for_animals_far","program":"travel","arguments":{"target":{"x":-320,"y":65,"z":215}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 17:14 act: {"actions":[{"do":"goto","target":{"x":-315,"y":63,"z":204}},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are edible fish within 15 blocks north. I'm on a lake shore with deep water around. 
+- 17:15 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-300,"y":64,"z":190}}],"reasoning":"I drifted into the lake and am falling in water. Get back to land first, then deal with the salmon from the 
+- 17:15 act: {"intent":{"goal":"return_to_group_at_camp","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":200}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 17:16 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in water at -270,60,196 and the path back is blocked. Get out of the water first."}
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":198}}],"reasoning":"Still in water with air dropping. Head for the grass near the sign at -276,64,197, which is dry land."}
+- 17:17 act: {"actions":[{"do":"unstick"},{"do":"unstick"}],"reasoning":"I am drowning with air at 0. Get my head out of the water first, before any walk."}
+- 17:17 act: {"say":"Billy here, I drowned in the lake to the south-west and respawned empty-handed. Not hungry yet, so give food to Jason or Leonardo first."}
+- 17:19 act: {"say":"Picard, sorry, I have no sword: mine is at the lake where I drowned. Lewis and Jason are first in line for food."}
+- 17:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 17:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Back at the white beds. Food first to whoever is weakest. I am sleeping here now; the lake stays shut.","reasoning":"Beds reached, 
+- 17:20 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, sheltered among the group, nothing half-done. Sleep."}
