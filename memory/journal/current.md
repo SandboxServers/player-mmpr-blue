@@ -29,3 +29,10 @@
 - 06:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 1. Fighting it."}
 - 06:41 act: {"say":"Billy here, I died at the beds to a phantom at night and woke at the spawn with nothing. My things lie at -298,68,293. I'm staying with the group at the white beds until dawn."}
 - 06:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"use","at":{"x":-298,"y":68,"z":294}}],"say":"Billy: phantoms overhead. Going into the bed at -298,68,294 now."}
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Waking at the white beds. I'm going to bed for the night; food comes fir
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Bed one block south. Try it, then sleep."}
+- 06:44 act: {"actions":[{"do":"use","at":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"First bed refused. Try the second white bed beside it, then sleep."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"reasoning":"Creeper blocked sleep. Return to bed cluster with the group, then sleep."}
+- 06:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Back with the group, no monsters in view. Try the bed at -271,318."}
+- 06:48 act: {"actions":[],"say":"Billy here, dawn. I'm full, with 4 logs and a wooden sword, no food. I'll go west with the group to look for animals. Name the first animal you see and I'll help.","reasoning":"Da
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-290,"y":67,"z":318}}],"say":"Going west with Worf and the group. Meat goes to Trini and Kimberly first, then Worf.","reasoning":"Join the west animal search in 
