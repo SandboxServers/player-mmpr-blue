@@ -122,3 +122,5 @@
 - 00:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"rest_at_beds_night_247","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","
 - 00:00 act: {"intent":{"goal":"rest_at_beds_night_247","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_opera
 - 00:03 act: {"actions":[{"do":"sleep"}],"say":"Billy trying the bed at night, day 247. Health 20, no food. Trini first at light."}
+- 00:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar here at the white beds. I have no food; Trini first at light."}
+- 00:06 act: {"actions":[{"do":"sleep"}],"say":"Billy at the white bed with the group. No food, health 20. Trini first at light."}
