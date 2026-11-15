@@ -113,3 +113,7 @@
 - 11:50 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Billy here, no food. Where is the pig? I'm coming to the group now.","reasoning":"Follow intent failed. Walk to Lewis, who is with the group, a
 - 11:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Billy: Lewis, LaForge first with the chicken, then Trini. I have no food. Moving north to the group, away from the golem to the sou
 - 11:55 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}}],"say":"Billy: no food. Going to the crafting tables with the group to be near LaForge.","reasoning":"Group gathers at the crafting tables 
+- 12:02 act: {"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"
+- 12:04 act: {"actions":[{"do":"sleep"}]}
+- 12:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
