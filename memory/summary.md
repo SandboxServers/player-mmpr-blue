@@ -1,7 +1,7 @@
 # Summary
 
 ## Where I am
-- Billy, night of day 258, asleep in the yellow bed at -263,67,353 beside Clark (sleep worked, 3 of 8 asleep).
+- Billy, night of day 258, slept in the yellow bed at -263,67,353 (sleep worked again on the final try, after Clark and the golems moved off). Day 259 begins on waking.
 - Health 20, hunger 20. Pack: 3 oak logs, 8 planks, 3 sticks, wooden sword. No food.
 - Days 254 to 258: no food found on any walk. Sheep field south at -257,66,374 empty on day 258. Tommy died on the shore to phantoms (day 258) and woke at spawn with nothing.
 

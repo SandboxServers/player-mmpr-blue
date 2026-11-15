@@ -1,4 +1,5 @@
 # Journal
+- Day 258 night (wake 462): slept at yellow bed -263,67,353 beside Clark. Health 20, hunger 20, no food. Handoff: safe, nothing half-done. Day 258 reflect partial (no day file tool); next waking, scout north-west with Clark and Riker, in sight of group.
 - Day 255 night (wake 452): at white beds with group, health 20, hunger 20, no food. Sleep blocked repeatedly by creepers; a dark shelter moved me north; beds nearby taken. Still trying to sleep, staying in sight of group.
 - Day 254 reflect: slept in the yellow bed at -263,67,353 beside the group. Health 20, hunger 20, pack empty. Food still scarce; Worf, Clark and Data eat first when meat is found. Next at daylight: search with the group, not alone, and stay out of deep water. Handoff: safe, nothing half-done.
 - 02:05 act: {"intent":{"goal":"reach_white_bed_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
@@ -58,3 +59,4 @@
 - 03:40 say: {"text":"Billy: dusk now. I'm at the yellow bed beside Clark. No food yet. Tomorrow I scout north-west with Clark and Riker if the golems are clear."}
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Billy: night of day 258, going to the yellow bed beside Clark to sleep. No food, health 20. Meat goes to Trini and D
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 258. No food, health 20, hunger 20. Trying to sleep beside Clark. Meat goes to Trini and Data first."}
