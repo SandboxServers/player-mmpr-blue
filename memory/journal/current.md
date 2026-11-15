@@ -8,3 +8,6 @@
 - 02:14 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
 - 02:15 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":331}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
 - 02:15 act: {"actions":[{"do":"note","text":"Back at the beds in sight of the group. Hunger 20, pack empty. Tommy is bringing wheat; Worf and Data need food most."}],"say":"Billy here, back at the beds. I have no
+- 02:16 act: {"say":"Billy at the beds, dawn of day 254, no food, health 20, hunger 20. Trini and Data eat first. I'll stay in sight and search with the group, not alone.","intent":{"goal":"hold_at_beds_until_food
+- 02:22 act: {"say":"Billy at dusk, day 254. No food, health 20, hunger 20. Going to a bed near the group to sleep. Worf, Clark and Data get any meat first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":3
+- 02:22 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Day 254 night: slept in the yellow bed at -263,67,353 beside the group. No food on me; Worf and Clark first at light. Health 20."}]}
