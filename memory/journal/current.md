@@ -98,3 +98,9 @@
 - 04:47 act: {"actions":[{"do":"sleep"}],"say":"Billy: trying to sleep at the white bed again. My one wheat is for the bread pool; Picard, I'll give it to you when you're in reach.","reasoning":"Quiet spell, group
 - 04:48 act: {"actions":[{"do":"wait","seconds":240}],"reasoning":"Sleep is blocked repeatedly; the group is here and health is steady. Hold until dawn rather than retry."}
 - 04:48 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, here is my one wheat for the bread pool. Trini and Worf first when there's more.","reasoning":"Dawn. Picard is in
+- 04:49 act: {"say":"Billy at dawn, day 262. Health 20, hunger 18, no food. I hold 1 wheat and 6 oak logs. I'll walk the west grass with anyone who comes.","intent":{"goal":"search_food_west","program":"travel","a
+- 04:49 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, here is my wheat for the bread pool. I have no other food. Trini and Worf eat first when meat turns up."}
+- 04:50 act: {"say":"Billy: yes, I'll walk west with Zack, LaForge and Riker, in sight of each other. Any meat goes to Worf, then Trini. Starting now in short steps.","actions":[{"do":"goto","target":{"x":-285,"y"
+- 04:50 act: {"say":"Billy at -285,66,318, morning of day 262. No animals in sight yet. Going on west in short steps, staying in sight of the group.","intent":{"goal":"west_grass_scout","program":"travel","argumen
+- 04:51 act: {"say":"Beverly, you have the mutton: LaForge is the weakest at health 5, so give it to him first, then Worf or Trini. I have no food.","intent":{"goal":"hold_west_with_group","program":"wait","argume
+- 04:52 act: {"say":"Billy here at -300,66,319, still no food. Walking west with the group in sight. Any meat goes to Worf, then Trini.","intent":{"goal":"scout_west_with_group","program":"travel","arguments":{"ta
