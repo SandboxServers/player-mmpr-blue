@@ -87,3 +87,4 @@
 - 04:32 act: {"say":"Worf, coming to you now with the beef.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":332}},{"do":"give","to":"ag_worf_01","item":"beef","count":1}]}
 - 04:32 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"beef","count":1}],"say":"Worf, giving you the beef now. Trini already sent you her porkchop and wheat.","reasoning":"Previous give went to Tommy inst
 - 04:32 act: {"actions":[],"say":"Lewis, the west cow was near -288,67,257, on grass west of the lake. Keep clear of the deep water near -312,62,245. Worf first for meat. I have no meat left, my beef went to Tommy
+- 04:33 act: {"say":"Billy here, midday, no food, hunger 19. I'll go with Troi to the west cow. Any meat goes to Trini and Worf first.","intent":{"goal":"follow_troi_for_meat","program":"follow","arguments":{"targ
