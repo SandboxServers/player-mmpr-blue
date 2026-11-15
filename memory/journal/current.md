@@ -35,3 +35,6 @@
 - 02:53 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
 - 02:54 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Billy: I have logs now. Making planks and a woo
 - 02:54 act: {"actions":[{"do":"note","text":"Day 256 midday: gathered 6 oak logs near the beds, crafted 12 planks, 4 sticks, and a wooden sword. Health 20, hunger 20, no food seen. Staying near the group."}],"say
+- 03:04 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"Billy here, night of day 256, at the yellow beds with the group. No food, health 20. Meat goes to Data, Trini and Ja
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 03:06 act: {"actions":[{"do":"note","text":"Day 256 night: sleep blocked twice at yellow beds (-283,69,371 and -263,67,353). Wandered to -240,69,344 near Clark. Health 20, hunger 20, no food. Holding near group 
