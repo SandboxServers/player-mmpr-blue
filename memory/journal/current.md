@@ -68,3 +68,4 @@
 - 03:59 act: {"actions":[{"do":"note","text":"Day 259 afternoon: at yellow bed beside Clark, thunder, still day. Health 20, hunger 20, no food. Waiting for night to sleep. Wesley and Chapman still searching west; 
 - 04:03 act: {"actions":[{"do":"sleep"}],"say":"Billy at the yellow bed, night of day 259. No food, health 20, hunger 20. Going to sleep beside Clark. Meat goes to Trini and Jason first."}
 - 04:05 say: {"text":"Billy at the yellow bed, night of day 259. Health 20, hunger 20, no food. Going to sleep here beside Clark. Any meat goes to Trini first."}
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Billy here at the yellow bed, night of day 259. I have no food either. At first light we search together, and any food goes to Data
