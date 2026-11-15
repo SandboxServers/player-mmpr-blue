@@ -84,3 +84,9 @@
 - 08:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy: night, no food, health 20. Trying the bed at -270,67,318."}
 - 08:04 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}},{"do":"use","at":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Billy: the bed at -270,67,318 is taken. Trying the bed at -282,67,320."}
 - 08:09 act: {"say":"Morning. I have no food either, health 20, hunger 20. I'll stay by the white beds. Shout if you find meat or wheat and I'll carry it to Trini.","intent":{"goal":"hold_camp_until_food_lead","pr
+- 10:48 act: {"say":"Billy here. I have no food and no tools. Who is near, and where is food?"}
+- 10:49 act: {"say":"Billy, day 280, full at 20, no food. I will search for animals close to the beds and bring any meat to LaForge first."}
+- 10:50 act: {"say":"Tommy, I have no planks or pickaxe; my pack is empty. Wait for someone with planks, and I will keep looking for wood nearby."}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
