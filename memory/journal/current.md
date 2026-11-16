@@ -52,3 +52,38 @@
 - 09:23 act: {"say":"Billy: we walk now to the cow field, all together. Follow me, lowest eats first, Trini first.","intent":{"goal":"walk_to_cow_field_together","program":"travel","arguments":{"target":{"x":339,"
 - 09:24 act: {"actions":[{"do":"note","text":"At cow field 339,104,-979 alone; no one in sight. Group said they would follow from the beds."}],"say":"Billy here at the cow field, 339,104,-979. I am alone and no on
 - 09:32 act: {"actions":[{"do":"sleep"}],"say":"Billy, alone at the cow field 339,104,-979 for the night. I will not walk in the dark alone. If anyone is near, come to me."}
+- 09:52 act: {"actions":[{"do":"note","text":"Skeleton with bow 21 blocks north-west. Alone, group not come in two days. Walking east-north-east to the bed row, away from it."}],"say":"Billy: a skeleton with a bow
+- 09:52 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1035}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Heading to the bed row at 402,-1036 now. Skeleton is north-west of me. Meet me there."}
+- 09:53 act: {"actions":[{"do":"note","text":"Day 349 morning: back at the bed row 402,-1034 with Tommy, Trini, Data, Jason, Leonardo in reach. Holding here with the group."}],"say":"Billy back at the bed row, 402
+- 09:53 act: {"actions":[],"say":"Data, I have seen no sheep, only the cow field at 339,-979. Trini, you're at 13 and 16, fine for now. We hold here together and walk when everyone is in sight."}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1001}}],"say":"Everyone in sight. Walking to the cow field in short hops. First stop 395,-1001. Stop when I stop, call if you fall behind."}
+- 09:54 act: {"actions":[],"say":"At 395,-1002, and I see nobody with me. Holding here. Jason, Trini, Data, Leonardo, Tommy, Kimberly: come into sight, then I go on."}
+- 09:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Nobody followed me to 395,-1002. Going back to the bed row, where you were. Meet me there."}
+- 09:57 act: {"actions":[{"do":"note","text":"Day 349 midday: whole group in reach at bed row 402,-1034. Holding together. Cow walk only when everyone moves with me."}],"say":"Everyone is in reach now. Good. Nobod
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Billy going to the white bed at 401,-1036 with the group in reach. We walk to the cows at first light, toget
+- 10:02 act: {"actions":[],"intent":{"goal":"sleep_at_bed_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 10:05 act: {"actions":[],"say":"Morning. Billy: cow walk is on, to 339,104,-979. Walk only with everyone in sight. Riker, come into my sight; I go when all are here."}
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}],"say":"Billy walking to the cows now with Picard, Leonardo, Tommy, Kimberly, Data, Jason, Trini. Riker and the others: follow the path s
+- 10:08 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Nobody followed me, so I'm going back to the bed row. I will not walk alone. Cow walk waits until everyone is in sight."}
+- 10:08 act: {"actions":[],"say":"Billy: nine of us in reach now. Cow walk is on. I move in 30 seconds to 390,-1010; keep in sight of me, and say so if you are not coming."}
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}],"say":"Walking now to 390,-1010, toward the cows. Follow me."}
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Nobody followed me to the cows. I'm going back to the bed row to wait for you."}
+- 10:09 act: {"actions":[],"say":"I'm back at the bed row with all of you in reach. Nobody walks until everyone says ready. Then we go together to the cows, and I'll stay in sight of you."}
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1022}}],"say":"Walking now, short hop to 396,-1022. Everyone who is in reach, follow. I'll stop and wait for you."}
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Nobody came with me. Going back to the bed row. I won't walk again until you're in sight."}
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1010}}],"say":"Going to 390,-1010 now with the group in reach. Keep close, Trini and others. I'm stopping there."}
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Nobody came again. Back to the bed row. I'm done walking alone; I'll hold here with you."}
+- 10:15 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Agreed. First hop to 396,-1024. Everyone follow. I'll wait there until you're all in sight."}
+- 10:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Nobody followed the hop. I'm back at the bed row for the night."}
+- 10:16 act: {"say":"Agreed, Leonardo. We stay at the bed row tonight and walk to the cows together at first light.","intent":{"goal":"wait_for_night_at_bed_row","program":"rest","arguments":{},"wake_on":["directl
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- 10:17 act: {"say":"Morning, all. Billy here at the bed row. Let's walk to the cows in short hops, stopping until everyone is in sight. Lowest eats first."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Morning. Billy going back to the bed row at 402,-1034. Everyone gather there; we walk to the cows once most are in sight."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}}],"say":"Cow walk, first hop: Billy to 396,-1028. Everyone follow, I will wait there until you are in sight."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"say":"Only Troi came with me, so I'm going back to the bed row. Everyone, please walk over to me at 402,-1033; the cow walk waits until
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}}],"say":"Walking now, short hop to 396,-1028. Six of us are in reach. Keep in sight, and wait at each stop."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}},{"do":"note","text":"Day 350 morning: hop to 396,-1028 reached with only Troi. Going back to bed row 402,-1033 to regather before any fur
+- 10:21 act: {"actions":[],"say":"Holding at the bed row. Troi and Trini, come back to 402,-1033 and we'll go together. Once six are in sight I'll call the hop."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}}],"say":"Walking now to 396,-1028, short hop. Six in reach. Keep in sight and wait at the stop."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"say":"Only Troi came to 396. I'm not going ahead alone. Back to the bed row. The cows can wait until everyone walks with me."}
