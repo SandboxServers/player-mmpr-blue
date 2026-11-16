@@ -181,3 +181,9 @@
 - 07:40 act: {"say":"Billy back at the beds, Tommy. No food found yet. We stay together here near the beds for the evening."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Dusk. Billy going to the bed at 429,-1036 with the group near. Trini, call me when you reach 6."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:49 act: {"say":"Morning. Billy awake at the beds, health 20, hunger 20. I'll stay in sight of the group and look for cows and melon in daylight. Trini, call me at 6.","intent":{"goal":"stay_near_group","progr
+- 07:50 act: {"say":"Billy here at the beds, health 20, hunger 20. Cows at 364,-1010 are gone. I'll stay at the beds with the group and search in daylight together. Trini, call when you reach 6."}
+- 07:54 act: {"say":"Billy joining the cow walk. Heading to 427,-1021 to meet Jason and Leonardo, then west with the group.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1021}}]}
+- 07:55 act: {"say":"Billy here, health 20. Bow sounds to the south and west, so I'll stay in sight of Wesley and wait for Leonardo at 427,-1021 before we walk to the cow."}
+- 07:59 act: {"say":"Night is here. Billy going to the bed at 429,-1022 with the group, then sleeping.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1022}},
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
