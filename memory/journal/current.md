@@ -1,14 +1,1 @@
-- Day 354 morning: tools back. At bed row 415,-1021 with Kimberly in reach (health 11, hunger 16). Holding with the group; no walk until everyone is in sight. Feed the lowest at hunger 6 or below.
-- Day 354 midday: whole group said ready; I walked to hop one 395,-1001 but nobody came in sight, so I went back to the bed row. Cow walk stalled again. Dusk: going to white bed 401,-1036 with group, cow walk at morning.
-- 11:35 act: {"say":"Thank you, Leonardo and Kimberly. We hold here a little longer. Worf, Kimberly will hand you melon when you are in sight. I will call the walk once everyone is in reach."}
-- 11:38 act: {"say":"Billy: we are ready. Hop one is 395,-1001, short walk. I go now; please follow in sight, and say when you are at the stop.","actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1001}}]}
-- 11:38 act: {"say":"Billy: at hop one, but nobody is in sight with me. I am going back to the bed row to hold with you. We walk only together.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}]}
-- 11:41 act: {"say":"Billy: dark is coming. The cow walk waits until morning. Going to the white bed at 401,-1036 with the group in reach. Goodnight.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},
-- 11:45 act: {"say":"Billy: going into the white bed at 401,-1036 now, group in reach. Goodnight all.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 11:47 act: {"say":"Billy: morning. Health 20, hunger 20. Cow walk: I will go last. Whoever is ready, please move first toward hop one 395,-1001 and say so when you are in sight.","intent":{"goal":"hold_with_grou
-- 11:48 act: {"say":"Billy: calling the walk now. Short hop to 396,107,-1010. Picard, Tommy, Kimberly, Jason, Data, Lewis, Zack: please come along in sight. I will wait at each stop.","actions":[{"do":"goto","targ
-- 11:49 act: {"say":"Billy: I am at 396,-1010 and nobody is in sight. I am going back to the bed row. The walk waits for the group.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1034}}]}
-- 11:49 act: {"say":"Billy: back at the bed row, 402,-1034. Kimberly, Jason, Picard, Tommy: come here first. When you are all in sight, we walk one hop together.","actions":[]}
-- 11:52 act: {"say":"Billy: the cow walk keeps stalling, and nobody is hungry enough to need it yet. We hold at the bed row. If anyone drops to hunger 6 or below, say so and I will feed them first.","actions":[]}
-- 11:57 act: {"say":"Billy: dusk. Going into the white bed at 401,-1036 with the group in reach. Goodnight all.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 11:58 act: {"say":"Billy: night now. Going into the bed at 401,-1036, group in reach. Goodnight.","actions":[{"do":"sleep"}]}
+# Journal
