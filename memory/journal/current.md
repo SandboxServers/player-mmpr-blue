@@ -8,3 +8,28 @@
 - 12:21 act: {"actions":[],"say":"Billy: the group is ready. Jason, Zack, Worf, Troi, Tommy, Kimberly, Leonardo, Trini, Picard. Move first in one short hop toward 396,-1010, all in sight together. I follow last.",
 - 12:24 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy: night is falling and I am not out in the open. I sleep at the bed 387,-1036 with Leonardo in reach. Group, 
 - 12:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep; try again at the same bed while it is still night."}
+- 12:29 act: {"actions":[],"say":"Billy: everyone is back at the bed row. Health and hunger look fine, Kimberly and Trini are low so the chicken and melon stay for them. I will call the cow hop at first light with
+- 12:33 act: {"actions":[],"say":"Billy, morning 357. Group: Jason, Leonardo, Picard, Trini, Kimberly, Zack, Worf, Tommy, Troi. Move first, one short hop toward 396,-1010, all in sight. I follow last. Feed only at
+- 12:37 act: {"actions":[{"do":"sleep"}],"say":"Billy: the cow hop stalled again today. We hold. I sleep here at 387,-1036 with the group near. Feed the lowest only at 6.","reasoning":"Hop called off, group back a
+- 12:38 act: {"say":"Morning. I'm at the bed row, fed at 20. I'll follow last if the group calls the cow hop.","reasoning":"Woken, safe, no one needs food. Hold at bed row and let the group decide; do not walk alo
+- 12:43 act: {"say":"Billy here at bed 387,107,-1036. Group, please move first toward 396,-1010 in a short hop; I follow last once you are in sight.","reasoning":"Group is waiting for my call. Ask them to lead; I 
+- 12:46 act: {"say":"Billy: bows drawn near hop one, so we pull back. Everyone return to the bed row, Zack and Kimberly with me. No walk until four are in sight here.","reasoning":"Group is split and there are bow
+- 12:51 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, safe, fed, group nearby. Sleep at my bed.","say":"Billy going to bed at 387,107,-1036 with Zack near. Hop is off until morning."}
+- 12:56 act: {"say":"Billy: thunder and dim now. No hop in this weather. We hold at the bed row; I call the walk when it is clear and four are in sight.","reasoning":"Weather is bad and bows were drawn last hop. H
+- 13:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, safe, fed, Zack in reach at bed. Sleep.","say":"Billy sleeping at 387,107,-1036 for the night. Hop is off until morning."}
+- 13:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Nine of ten asleep; retry to finish the night."}
+- 13:05 act: {"say":"Billy here, bright morning of day 358. Zack, thanks. Hop only when four of us are in sight; say when you see them.","reasoning":"Morning, clear. Ask the group to confirm sight before any walk.
+- 13:09 act: {"say":"Billy here. I count Picard, Leonardo, Kimberly and Tommy at the bed row. Say when you see me and the four of you in sight; I will call the hop then, and I go last."}
+- 13:09 act: {"say":"Billy here. Four or more of us are in sight at the bed row now. Short hop to 396,-1010 together. I follow last.","intent":{"goal":"cow_hop_short","program":"travel","arguments":{"target":{"x":
+- 13:10 act: {"say":"Billy at 396,-1010, the hop point, on grass. Group, say who is in sight. Next leg is toward the cow field; I will call it when most of you are here."}
+- 13:11 act: {"say":"Billy at the hop point 396,-1010 with Jason in reach. Jason, Troi, Beverly, hold here until the rest come. Kimberly, Trini and Tommy, come to the hop point when you can; I will hold."}
+- 13:12 act: {"say":"Billy here. Five in reach at the hop point: Jason, Kimberly, Tommy, Trini, me. Next leg toward the cow field 339,-979. Lead on; I follow last.","intent":{"goal":"cow_field_leg","program":"trav
+- 13:12 act: {"say":"Billy at 382,-1021, short of the group. Drop-offs to the west. Jason, Tommy, Trini, Kimberly: I am coming back toward you now; please hold until I am in reach.","actions":[{"do":"goto","target
+- 13:12 act: {"say":"Billy at 389,-1016, following last. Kimberly leading to 385,-997: I will come once you are all there and in sight."}
+- 13:13 act: {"say":"Billy coming to the group at 395,-1010 now. Holding there together.","actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1011}}]}
+- 13:13 act: {"say":"Billy here. Four in reach at 395,-1011: Jason, Kimberly, Tommy, Trini. Short leg to 385,-997, toward the cow field. Lead on; I follow last. Leonardo, join us when you can see us.","intent":{"g
+- 13:13 act: {"say":"Billy agrees with Tommy: night is close, so we go back to the bed row together and sleep there. I am at 385,-998 and will come back toward you; hold where you are until I am in reach."}
+- 13:14 act: {"say":"Billy here at 385,-998 with Jason and Trini in reach. Tommy and Kimberly, come back into sight. We hold together here, then go back to the bed row as one group before night."}
+- 13:16 act: {"say":"Billy: night has come with Jason in reach. Jason, we go to the bed row at 387,-1036 now, in short steps; Troi and Beverly are holding there.","intent":{"goal":"return_to_bed_row","program":"tr
+- 13:16 act: {"say":"Billy at 387,-1028, a phantom is to the east. Going into the bed now.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:16 act: {"actions":[{"do":"sleep"}]}
