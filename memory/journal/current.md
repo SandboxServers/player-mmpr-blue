@@ -38,3 +38,5 @@
 - 19:47 act: {"say":"Dusk now, Kimberly. Only you and me here. I will not walk the night alone; we hold here and wait for the others.","reasoning":"Night near, one friend in sight, far from bed. Hold rather than w
 - 19:48 act: {"say":"Agreed, Kimberly. We walk back to the bed row together, you in my sight the whole way.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1020
 - 19:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}}],"reasoning":"Back at the bed row at dusk. Stand beside a white bed to sleep."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night. Billy at the bed row, 401,107,-1022. Thank you all. Count me at first light.","reasoning":"Night, I stand b
+- 19:49 act: {"actions":[{"do":"sleep"}]}
