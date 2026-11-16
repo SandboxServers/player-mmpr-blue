@@ -9,3 +9,5 @@
 - 22:25 act: {"say":"Dusk. Billy sleeps at the white bed 429,107,-1023 in the row's sight. Count at first light. Kimberly, Troi, Trini, Jason, hold near.","reasoning":"Dusk, group in sight, I am at a bed. Sleep no
 - 22:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"reasoning":"Sleep failed, not night yet. Move onto my bed and wait for night while the group settles in the row."}
 - 22:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"reasoning":"Still dusk with bows drawn to the south-east. Try the bed; it will fail if not night."}
+- 22:27 say: {"text":"Billy here, at the white bed 429,107,-1023. Night, and I am holding. Counting you at first light, Data."}
+- 22:27 act: {"actions":[{"do":"sleep"}]}
