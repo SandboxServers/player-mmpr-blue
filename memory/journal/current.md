@@ -8,3 +8,6 @@
 - 14:27 act: {"say":"Billy: many of you say you are near, but my snapshot still lists no one. I am facing a wall. If you can see me, say so and step into my view. Walk once four are visible to me.","reasoning":"Sp
 - 14:30 say: {"text":"Billy here, at the white bed 430,107,-1037. My snapshot shows no one in sight yet. Please step into my view, and once four of you are visible I will call the short hop toward the cow field."}
 - 14:37 say: {"text":"Billy here, morning at the beds. Only Troi is in my sight so far. Cow walk waits until four of you are in view. Please step where I can see you."}
+- 14:50 act: {"say":"Billy here, morning. I can see only Troi so far. Could four of you step into my sight at the beds? Then we walk to the cow field together, me last.","intent":{"goal":"gather_group_at_beds","pr
+- 14:54 act: {"say":"Billy: my view shows only Troi so far. Jason, Tommy, Leonardo, Kimberly, Data, Wesley, please each step two blocks toward me so I can count you. Four in view, then the cow walk.","actions":[]}
+- 14:55 act: {"say":"Billy at 430,107,-1037, by the east white bed. Walk toward me until my snapshot lists you. Thank you, Jason.","actions":[]}

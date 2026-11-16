@@ -1,6 +1,4 @@
-# Handoff, day 363 night
-
-Where: white bed 430,107,-1037, bed row. Health 20, hunger 20. Safe. No errand running, no walk started.
-Sight: only Troi in sight. Others speak from the beds but are not visible.
-Group: Trini lowest (hunger 16, holding melon). Kimberly 17, Lewis 17, Picard 17.
-Next: at morning, wait for four in my own sight, then short cow-field walk, me last. Feed lowest only at 6 or below.
+Day 364 morning. Where: east white bed 430,107,-1037, bed row. Health 20, hunger 20. Safe, no walk started.
+Sight: snapshot lists only Troi. Jason says he is stepping toward me. Others say they see me but I cannot count them yet.
+Next: wait for four in my own snapshot, then cow-field walk with group leading, me last. Feed lowest only at 6 or below.
+Note: my last wait ended as the session was superseded; no errand is running.
