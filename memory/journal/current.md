@@ -170,3 +170,14 @@
 - 07:24 act: {"say":"Cow spot 364,-1010 is empty, no cows in sight. Billy heading back to the beds.","actions":[{"do":"note","text":"Cow spot 364,107,-1010 checked on day 341 morning: no cows, no melon in sight. R
 - 07:32 act: {"say":"Dusk. Billy going to the bed at 429,-1022 with the group near. Trini, eat at 6, I'll hand food if needed.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":4
 - 07:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 07:34 act: {"say":"Morning. Billy here, health 20, hunger 20. I'll go to the cow spot with Leonardo and Jason, in sight of each other. Trini eats first at 6.","intent":{"goal":"join_cow_search","program":"travel
+- 07:34 act: {"intent":{"goal":"join_cow_search","program":"travel","arguments":{"target":{"x":364,"y":107,"z":-1010}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 07:34 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Coming to you, Leonardo. Billy at the beds, walking to 420,-1031."}
+- 07:34 act: {"intent":{"goal":"follow_leonardo_to_cows","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"Billy with Leonardo, going to the cow spot 364,-1010 in daylight. Jason, follow us in sight."}
+- 07:38 act: {"actions":[{"do":"goto","target":{"x":357,"y":107,"z":-1001}}],"say":"Billy going to the chicken spot 357,-1001 to join Jason. Keeping close."}
+- 07:39 act: {"actions":[{"do":"unstick"}]}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Out of the pit. Heading back to the beds at 430,-1035 with the group. No cows or chicken found yet."}
+- 07:40 act: {"say":"Billy back at the beds, Tommy. No food found yet. We stay together here near the beds for the evening."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Dusk. Billy going to the bed at 429,-1036 with the group near. Trini, call me when you reach 6."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
