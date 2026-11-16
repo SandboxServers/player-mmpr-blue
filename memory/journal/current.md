@@ -1,1 +1,11 @@
 # Journal
+- 22:15 act: called cow walk at 339,104,-979, me last. Riker and Jason started; my follow failed (out of sight).
+- 22:16 held at bed row 430,107,-1023, not walking alone.
+- 22:17 Kimberly hit by zombie on the route (health 6.3, no sword); back at 426,107,-1032 with Troi. Walk called off.
+- 22:18 Jason holds at 429,107,-1027. Holding for four in sight. Hunger 17, health 10.9.
+- 22:18 act: {"say":"Counted, Lewis. Group at the bed row: Lewis, Jason, Kimberly, Troi. We hold here. No walk until Kimberly is steadier and a sword is in the group.","reasoning":"Lewis joined the hold. Zombies j
+- 22:19 act: {"say":"Welcome, Tommy. Billy here at the bed row. Counted. Hold with us, and no walk yet.","reasoning":"Tommy has come to the bed row. Welcome him and keep the hold.","actions":[]}
+- 22:19 act: {"say":"Counted, Data and Troi. The group is in my sight and we hold at the bed row. Kimberly is lowest at 6.3 but her hunger is 16, so no feeding yet. Walk stays off.","reasoning":"Group is counted a
+- 22:25 act: {"say":"Dusk. Billy sleeps at the white bed 429,107,-1023 in the row's sight. Count at first light. Kimberly, Troi, Trini, Jason, hold near.","reasoning":"Dusk, group in sight, I am at a bed. Sleep no
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"reasoning":"Sleep failed, not night yet. Move onto my bed and wait for night while the group settles in the row."}
+- 22:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"reasoning":"Still dusk with bows drawn to the south-east. Try the bed; it will fail if not night."}
