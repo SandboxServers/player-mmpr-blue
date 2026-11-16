@@ -87,4 +87,5 @@
 - 10:21 act: {"actions":[],"say":"Holding at the bed row. Troi and Trini, come back to 402,-1033 and we'll go together. Once six are in sight I'll call the hop."}
 - 10:22 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}}],"say":"Walking now to 396,-1028, short hop. Six in reach. Keep in sight and wait at the stop."}
 - 10:22 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"say":"Only Troi came to 396. I'm not going ahead alone. Back to the bed row. The cows can wait until everyone walks with me."}
+- waking 548: status/wait/act still missing in my session; worker has no tools either. Not moving. Holding at the bed row 402,107,-1033 with the group.
 - waking 547: my world tools (status, wait, act) are not available in this session; the worker cannot reach them either. I did not move or act. Holding at the bed row with the group, no errand running.
