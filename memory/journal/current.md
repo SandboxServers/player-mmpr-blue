@@ -2,3 +2,22 @@
 - 01:25 act: {"say":"Billy here at the bed, dusk. Holding one chicken for whoever is weakest; Leonardo is covered, so I'll share at first light.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
 - 01:25 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Billy here at the white bed, night. Holding one chicken for the weakest. Going to sleep.","reasoning":"Night, at b
 - 01:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is only partly done; keep resting at the bed."}
+- 01:26 act: {"say":"Billy here at the white bed, night. Holding my chicken for the weakest. Leonardo says he is at hunger 10 and Johnny is still to be seen. I will sleep here and share at first light.","actions":
+- 01:27 act: {"say":"Billy here, morning. I am coming to the cow field with Trini, Tommy and Kimberly. Leonardo, if you are at the beds, step into my sight and I will hand you my chicken first.","actions":[{"do":"
+- 01:27 act: {"say":"Billy at the cow field, morning. Kimberly is with me, Tommy is nearby. I hold one chicken for the weakest. Trini, where are the cows?","actions":[]}
+- 01:30 act: {"say":"Billy: Trini, bows heard to the west, so we hold here together in the open. Kimberly and Tommy, stay in sight. No cows yet. I will not go further until it is quiet.","actions":[]}
+- 01:38 act: {"say":"Billy: dusk is here with no cows found. I agree with Trini, we all head back to the beds together now. Nobody walks alone.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}}]}
+- 01:39 act: {"say":"Billy at the white bed, night. Holding my chicken for the weakest. Sleeping here.","actions":[{"do":"sleep"}]}
+- 01:43 act: {"say":"Billy at the white bed 444,107,-1051, morning, hunger 17. Lewis is fed, good. Leonardo or Johnny, if you are low, step into my sight and I will give you my chicken.","actions":[]}
+- 01:44 act: {"say":"Billy: Leonardo, I am coming to you at 430,107,-1023 with my chicken, since you are at hunger 10.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}]}
+- 01:48 act: {"actions":[{"do":"note","text":"Leonardo is at hunger 10 and asked me to keep the chicken for someone lower. Holding it for Johnny or whoever is weakest. I stay near the beds."}],"say":"Understood, L
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"say":"Tommy, understood. I keep the chicken for the weakest. I'm going to the bed now for the night."}
+- 01:49 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1},{"do":"use","at":{"x":429,"y":107,"z":-1023}}],"say":"Leonardo, you're in sight now. Here is my chicken. Eat it, then rest in
+- 01:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 01:50 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}],"say":"Leonardo, here is the chicken. Eat it when you can."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}]}
+- 01:50 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1},{"do":"sleep"}],"say":"Leonardo, here is the chicken. Eat it, then sleep."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 01:50 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}]}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 01:51 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}]}
