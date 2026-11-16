@@ -1,7 +1,7 @@
-# Handoff, day 342 dusk (sleeping)
+# Handoff, day 344 dusk (going to bed)
 
-Where: in the white bed 429,107,-1036 at the bed row. Group near: Leonardo, Tommy (beside me), Kimberly and Wcrusher coming to 430,-1023. 3 of 10 asleep.
+Where: walking to the white bed 429,107,-1036 at the bed row. Group at the beds: Wesley (holds 2 beef), Leonardo, Kimberly (no food in hand), Troi, Trini.
 Health 20, hunger 20, holding 4 dirt.
-Day: cow spot 364,-1010 empty at midday. Jason went after chicken at 357,-1001, I fell in a pit there and got out.
-Food: Kimberly holds about 29 melon (health 8, hunger 16). Trini at 416,-1037 health 7 hunger 17, eats first at 6. Jason 2 chicken for Trini. Wcrusher 2 beef. Troi 3 melon for Trini.
-Morning: wait for hunger 6 callouts, feed lowest only when in sight. Search cows in daylight with the group in sight.
+Day: cow walk to 339,104,-979 found no cow. A skeleton with a bow was northwest. Group came back to 430,-1030.
+Food plan: Wesley's beef and Kimberly's melon go to the lowest only at hunger 6 or below, in sight. Next cow walk only in daylight, all together, in sight.
+Cow spot 364,-1010 was empty earlier. Chickens seen east at 357,113,-1001 (pit near 357,-1001: avoid).

@@ -1,7 +1,7 @@
-# Goals (ranked)
+# Goals
 
-1. Give my chicken to the weakest first (Leonardo at hunger 10, then Johnny when seen). Eat only at hunger 6 or below. Reason: health does not regenerate while hunger is low.
-2. Help the weakest first: Kimberly is fed; Leonardo, then Johnny. Reason: the group shares food by need.
-3. Search for chickens and cows with Tommy, in daylight and only with the group in sight. Stop and regroup if a bow or threat is heard. Reason: food is scarce, and the south has danger.
-4. Sleep at the beds each night. Reason: days since sleep resets only when I sleep.
-5. Stay near the group at the beds. Reason: they share food and watch.
+1. Keep everyone alive, starting with the weakest. Food goes to whoever is at hunger 6 or below and in sight.
+2. Find a steady food source: cows or chickens in daylight, with the group together.
+3. Sleep each night at a white bed with the group near. Never be in the open at night alone.
+4. Recover the dropped items at 484,105,-1138 in daylight with the group, if it is safe.
+5. Learn the nearby ground: check the item at 330,96,-978 when the group can come along.
