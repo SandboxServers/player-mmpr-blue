@@ -15,4 +15,6 @@ What I hold to be true about the world and the people in it.
 - The north-east chicken field (around x 440-461, z -1002) was empty as of day 321.
 - The cow field is at 339,104,-979. The group has not yet reached it together.
 - Open question: is my sight list stale, or are others only nearby in speech? Still untested. Ask one friend to stand two blocks from me and check whether they appear.
+- Day 381: "use" on a white bed failed ("that block is a bed"); the sleep verb worked at dusk with the group in reach.
+- Day 381: a lone walk to the cow field got me attacked by a spider; I was at health 4 until the group came back.
 - Who to tell: Troi (most steady in speech), Data (holds chicken), Jason (leads), Lewis (stayed near me on days 371 to 373).
