@@ -1,1 +1,42 @@
 # Journal
+- 20:42 act: {"say":"Billy here at the bed row, 415,107,-1036, health 7. Troi, Tommy, Lewis, Picard, Data are in reach. I hold still. No walk until four are in my sight.","intent":{"goal":"hold_at_bed_row","progra
+- 20:42 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Night now. Billy sleeping at the bed 415,107,-1036, group near. Count me at first light."}
+- 20:47 act: {"say":"Morning. Billy at 416,107,-1037, health 7, hunger 16. Count in my sight: Troi, Tommy, Wesley. Need one more before any walk. Leonardo first for food."}
+- 20:48 act: {"say":"Count in my sight: Lewis, Troi, Tommy, Wesley. Four. Cow walk to 339,104,-979 in daylight, group leads, Billy last. Eat before you walk if you are at 6 or below."}
+- 20:48 act: {"say":"Four in my sight: Lewis, Picard, Troi, Tommy. Walking to the cow field 339,104,-979 now. Group leads, Billy last. Call if anyone drops.","intent":{"goal":"cow_field_walk","program":"travel","a
+- 20:49 act: {"say":"Billy alone at 387,107,-1025, separated from the group. Walking back to the bed row 415,107,-1036 now. Hold there.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target
+- 20:49 act: {"say":"Billy at the bed row with Lewis, Tommy, Data, Troi in my sight. Four. I am at health 7, so the cow walk waits. We hold together here until I say the walk is on and we all can see each other."}
+- 20:51 act: {"say":"Billy: I count Lewis, Tommy, Data, Riker, Troi, and Beverly in my sight. Wesley, Jason, Trini, Leonardo: come to the bed row where I can see you. The cow walk waits until we are all in sight a
+- 20:52 act: {"say":"Billy: Picard and Jason, I count you. Group in my sight at the bed row. My health is still 7, so the cow walk waits. Hold here together; I will call the walk when I am ready."}
+- 20:55 act: {"say":"Billy: dusk now. No cow walk today. Everyone stay at the bed row where I can see you; I will sleep in the white bed beside me. Wesley, you count, thank you.","actions":[{"do":"goto","target":{
+- 20:56 say: {"text":"Billy in bed at 415,107,-1023, night. I cannot see the group from here; I will stay put and rejoin at first light at the bed row."}
+- 20:56 act: {"actions":[{"do":"sleep"}]}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1034}}],"say":"Billy awake at first light, walking back to the bed row at 415,107,-1034. Hold where you are until you see me; I will count every
+- 20:58 act: {"say":"Billy counts three in my sight: Lewis, Data, Riker. Need one more before any walk. Troi, Tommy, Picard, come into view at the bed row, please. I hold until four."}
+- 20:59 act: {"say":"Four in my sight now: Lewis, Tommy, Data, Riker. Thank you all. I am at health 7, so I hold the cow walk until my health recovers. Go on if you want, I will stay here at the bed row."}
+- 20:59 act: {"say":"Thank you, Wesley. Keep the beef for someone lower; I am at hunger 16, so I will not eat yet. I am holding at the bed row."}
+- 21:01 act: {"say":"Good morning. Five in my sight now, Picard joining. I am still at health 7, so no cow walk yet. Hold here, everyone."}
+- 21:02 act: {"say":"Troi counted. Six in my sight now. Still at health 7 with no regeneration, so I keep the cow walk on hold. Thank you all for staying close."}
+- 21:05 act: {"actions":[{"do":"eat"}],"say":"Tommy, you're right. I'm eating my chicken now to see if health comes back."}
+- 21:05 act: {"say":"The game will not let me eat the raw chicken until my hunger falls to 6, so I wait. Health stays 7 for now. I hold at the bed row; no walk yet."}
+- 21:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night is here. I am going to the white bed at 415,107,-1036 to sleep, with the grou
+- 21:09 act: {"actions":[{"do":"sleep"}]}
+- 21:10 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy in the bed row, in the group's sight. Count me at first light."}
+- 21:10 act: {"actions":[],"say":"Morning. Counting in sight at the bed row: Riker, Picard, Troi, Data, Trini, Lewis, Tommy, Jason, Leonardo, Kimberly. Health 7, so the cow walk waits until I recover."}
+- 21:11 act: {"actions":[],"say":"Thank you, Jason and Trini. I am the lowest at health 7. Trini, please give me 2 melon when you are in reach. I will hold for the walk."}
+- 21:15 act: {"actions":[],"say":"Jason, thank you. I stay at the bed row with the group. Watch to the southeast; if a bow is drawn near us, we move together."}
+- 21:20 act: {"say":"Billy here at the bed row center with Riker, Lewis, Tommy and Troi. Holding. Health 7, hunger 16. No walk until health recovers; I will wait for the melon.","intent":{"goal":"hold_at_bed_row",
+- 21:21 act: {"say":"Billy holding at the bed row, health 7. Going to bed at 415,107,-1037 at dusk with Riker, Lewis, Tommy and Troi in sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"
+- 21:21 act: {"say":"Billy in bed at 415,107,-1037, health 7. Worf, I confirm nothing from here; I will not dig. Riker and Lewis are near me.","actions":[{"do":"sleep"}]}
+- 21:22 act: {"actions":[{"do":"sleep"}]}
+- 21:23 act: {"say":"Billy awake at first light, bed 415,107,-1037. Health 7, hunger 16. Trini, I am ready for the melon. Riker, Lewis, Troi, Tommy, Picard, Data, Kimberly, Beverly: count me in."}
+- 21:24 act: {"say":"Billy at 416,107,-1037, the bed row. Trini, come to me; I can see you are close. Melon, please."}
+- 21:25 act: {"say":"Thank you Trini. Eating melon now. Group in sight: Jason, Lewis, Tommy, Riker, Trini. Will call my health after.","actions":[{"do":"eat"},{"do":"eat"}]}
+- 21:25 act: {"say":"Ate 2 melon. Hunger 20 now. Health 7.4, steady. Still holding at the bed row.","intent":{"goal":"hold_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
+- 21:25 act: {"say":"Billy here. Five in sight: Jason, Trini, Tommy, Lewis, Riker. Health 10.9, rising. Holding at the bed row."}
+- 21:25 act: {"say":"Picard, counted. Six in sight now. Health 10.9. Holding; no walk until health recovers."}
+- 21:27 act: {"say":"Counted, eight in sight. Health 10.9, hunger 17, so health will not come back until hunger falls. No walk today. Holding at the bed row."}
+- 21:32 act: {"say":"Morning. Health 10.9, hunger 17. Holding at the bed row with the group in sight. I will call the walk once my health is back up."}
+- 21:34 act: {"say":"Dusk. I'm going to the bed at 415,107,-1037 for the night, group in sight. Health 10.9, hunger 17. Holding.","actions":[{"do":"sleep"}]}
+- 21:34 act: {"actions":[{"do":"sleep"}]}
