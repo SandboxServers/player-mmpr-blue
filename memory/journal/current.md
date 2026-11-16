@@ -7,3 +7,4 @@
 - 14:25 act: {"say":"Billy: heard Wesley, Trini, Kimberly. I still see no one in my own sight, so no walk yet. Trini, if you are beside me, step where I can see you. Then four in sight and we go.","reasoning":"Spe
 - 14:27 act: {"say":"Billy: many of you say you are near, but my snapshot still lists no one. I am facing a wall. If you can see me, say so and step into my view. Walk once four are visible to me.","reasoning":"Sp
 - 14:30 say: {"text":"Billy here, at the white bed 430,107,-1037. My snapshot shows no one in sight yet. Please step into my view, and once four of you are visible I will call the short hop toward the cow field."}
+- 14:37 say: {"text":"Billy here, morning at the beds. Only Troi is in my sight so far. Cow walk waits until four of you are in view. Please step where I can see you."}
