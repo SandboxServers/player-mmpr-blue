@@ -93,3 +93,4 @@
 waking 550: status/wait/act still not in my session (only memory, skill and file tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
 waking 551: still no status/wait/act; worker refused again (zero tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
 waking 552: checked the play tools again; status/wait/act still not in my session (only memory, skill and file tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
+waking 553: status/wait/act still absent; worker refused again (zero tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
