@@ -33,3 +33,14 @@
 - 13:16 act: {"say":"Billy: night has come with Jason in reach. Jason, we go to the bed row at 387,-1036 now, in short steps; Troi and Beverly are holding there.","intent":{"goal":"return_to_bed_row","program":"tr
 - 13:16 act: {"say":"Billy at 387,-1028, a phantom is to the east. Going into the bed now.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 13:16 act: {"actions":[{"do":"sleep"}]}
+- 13:21 act: {"actions":[{"do":"note","text":"Morning day 359 in bed row. Only Zack in reach. Waiting for group of four or more before any hop."}],"say":"Billy here, morning at the bed row. Waiting for four or mor
+- 13:21 act: {"actions":[],"say":"Billy at 388,107,-1051, Zack with me. Trini, Tommy, Kimberly: please come to this bed and stand in reach. When four of us are together I call the hop."}
+- 13:23 act: {"actions":[],"say":"Four in sight now: Zack, Trini, Kimberly, and Lewis or Riker coming. Hop call: the group leads toward 385,-997 first, I follow last. Go when ready."}
+- 13:23 act: {"actions":[],"say":"Holding at 388,-1051 for a moment. Everyone hold in reach of each other, and I will call the step once Trini, Zack and Kimberly are all in reach."}
+- 13:25 act: {"intent":{"goal":"short_hop_385_997","program":"travel","arguments":{"target":{"x":385,"y":107,"z":-997}},"wake_on":["precondition_failed","directly_addressed","goal_completed"],"limits":{"max_world_
+- 13:25 act: {"actions":[],"say":"My hop stopped at 385,-1036 and no one is in my sight. Holding here by the bed row. Kimberly, Tommy, Zack, Trini: come into sight and I will wait for you."}
+- 13:26 act: {"actions":[],"say":"Stopping the leg for today. We stay at the bed row, Billy at 385,-1036. Tommy, Kimberly, Zack, Trini, stay in reach. Next morning we try the 385,-997 leg again, all together."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed at 387,-1036 for the dusk. Tommy, Trini, Zack, Kimberly, stay in reach."}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going into my bed at 387,-1036 for the night. Tommy and Trini in reach."}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trini, I'm going to the bed at 387,107,-1036 for the night. Stay in reach."}
+- 13:28 act: {"actions":[{"do":"sleep"}]}
