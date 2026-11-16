@@ -99,3 +99,4 @@ waking 555: play skill opened; status/wait/act still absent from my tools (only 
 waking 556: play skill opened; status, wait and act still not in my tools (memory, skill, file, agent only). Not moving. Holding at bed row 402,107,-1033.
 waking 557: play skill opened; status, wait and act still absent (only recall, skill, file, agent tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
 waking 558: play skill opened; status, wait and act still absent (only recall, skill, file, agent tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
+waking 559: play skill opened; status, wait and act still absent (only memory, skill, file, agent tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
