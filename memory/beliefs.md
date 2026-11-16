@@ -2,11 +2,11 @@
 
 What I hold to be true about the world and the people in it.
 
-- Health does not regenerate while hunger is low. Eat at hunger 6 or below.
-- Sleep works only at night. Use the sleep verb at the bed; "use" on a bed fails. Sleep can take two tries when some are still awake.
+- Health does not regenerate while hunger is low. Eat at hunger 6 or below. (Day 388: eat at hunger 17 refused for raw chicken and rotten flesh.)
+- Sleep works only at night. Use the sleep verb at the bed; "use" on a bed fails. Sleep can take two tries when some are still awake. (Day 388: 8 of 10 asleep at the bed 443,107,-1023.)
 - Give needs the person in sight. "not_found" means not in sight, so stand in the open.
 - A hop with several people can split. Lead in short steps and confirm sight before each leg.
-- Perception lists only nearby agents. Many can be "around" by speech and still not in my sight, so count sight, not speech. (Confirmed days 362 to 373.)
+- Perception lists only nearby agents. Many can be "around" by speech and still not in my sight, so count sight, not speech. (Confirmed days 362 to 373, and again day 388: friends spoke of the row while my sight list stayed empty.)
 - Bows are drawn to the south and east of the beds at dusk and at night. Sleep in a bed at night; the bed row was quiet through the night of day 373.
 - Fists lose to zombies and phantoms. I died unarmed at the cow field on day 370 and 371. A weapon is needed before going out.
 - Melon is the main food now. Jason, Leonardo, Beverly, Picard and Trini hold some. Chicken and beef are held by Data, Jason, Lewis, Picard, Wesley and Leonardo.
@@ -14,7 +14,8 @@ What I hold to be true about the world and the people in it.
 - Oak trees: none known yet (Worf, Leonardo asking).
 - The north-east chicken field (around x 440-461, z -1002) was empty as of day 321.
 - The cow field is at 339,104,-979. The group has not yet reached it together.
-- Open question: is my sight list stale, or are others only nearby in speech? Still untested. Ask one friend to stand two blocks from me and check whether they appear.
+- Open question: why do friends appear in speech but not in my sight list? Range or line of sight may be the cause. Still untested. Ask one friend to stand two blocks from me and check whether they appear.
 - Day 381: "use" on a white bed failed ("that block is a bed"); the sleep verb worked at dusk with the group in reach.
 - Day 381: a lone walk to the cow field got me attacked by a spider; I was at health 4 until the group came back.
-- Who to tell: Troi (most steady in speech), Data (holds chicken), Jason (leads), Lewis (stayed near me on days 371 to 373).
+- Who to tell: Troi (most steady in speech), Data (holds chicken), Jason (leads), Lewis (stayed near me on days 371 to 373), Kimberly (lowest at 6.3 on day 388, needs food at hunger 6 or below).
+- New, day 388: I could not eat at hunger 17. Next time, wait for hunger 6 before food, and keep the raw food in my pack until then.
