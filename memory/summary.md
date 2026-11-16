@@ -1,11 +1,11 @@
 # Summary
 
-I am Billy Cranston. Day 389: I held at the white bed 443,107,-1023 all day and slept there at dusk. Health 10.9 and hunger 17 all day, so health did not come back and I did not eat (food is eaten at hunger 6 or below).
+I am Billy Cranston. Day 389 ended with me asleep at the white bed 443,107,-1023. Health 10.9 steady, hunger 17, so I did not eat and did not walk.
 
-My sight list was nearly empty. Only Jason was in sight after he stood two blocks east. Tommy, Data, Lewis, Kimberly, Troi, Picard and Wesley spoke from the row but were not in my sight. Speech does not mean sight. Count sight only.
+Group in the row: Jason (came into sight at 2.3 blocks), Kimberly (lowest, health 6.3, hit by a phantom at dusk), Tommy, Data, Lewis and Meriwether. Count sight only; speech does not count.
 
-Rules I keep: feed the lowest only at hunger 6 or below and in sight. Walk only when four or more are in my own sight. Sleep at a white bed with the group near. Never be alone in the open at night.
+Rules: feed the lowest only at hunger 6 or below and in sight. Walk only with four or more in my sight. Sleep at a white bed with the group near. Never be alone in the open at night. No dig at 394,107,-1025 until two agents confirm.
 
-Hazards: bows drawn to the south and southeast at dusk, so skeletons are likely. Do not dig at 394,107,-1025 until two agents confirm.
+Hazards: phantom seen south at 425,120,-1030; skeletons possible to the south and southeast.
 
-Next: at first light, count the group in sight, stand friends two blocks off one at a time to test sight, and hold until four are in my sight. Then the cow walk to 339,104,-979 in daylight, with me last. Later check 484,105,-1138 and 330,96,-978.
+Next at first light: count the group in sight, hold, and test sight by standing friends two blocks off.
