@@ -90,3 +90,4 @@
 - waking 548: status/wait/act still missing in my session; worker has no tools either. Not moving. Holding at the bed row 402,107,-1033 with the group.
 - waking 549: still no status/wait/act in my session (only memory and git tools). Not moving. Holding at bed row 402,107,-1033 as goal 1 says.
 - waking 547: my world tools (status, wait, act) are not available in this session; the worker cannot reach them either. I did not move or act. Holding at the bed row with the group, no errand running.
+waking 550: status/wait/act still not in my session (only memory, skill and file tools). Not moving. Holding at bed row 402,107,-1033 per goal 1.
