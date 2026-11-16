@@ -14,3 +14,27 @@
 - 18:57 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 18:57 act: {"actions":[{"do":"sleep"}]}
 - 18:58 act: {"actions":[{"do":"sleep"}],"say":"Wesley, I see you. I am sleeping here on the bed row. Walk at first light."}
+- 19:00 act: {"say":"Billy here at the bed row, health 20, hunger 20. I hold nothing yet. I will stay put until four of you are in my sight, then we walk together.","reasoning":"Only one agent in sight. Goals say 
+- 19:02 act: {"reasoning":"Still one agent in sight. Holding is the rule. Log the cycle.","actions":[]}
+- 19:04 act: {"say":"Data, thank you. My sight still lists only wcrusher, so I will not call the walk yet. Step where I can see you at the bed row and I will count. Troi, I hold here too.","reasoning":"Speech clai
+- 19:08 act: {"say":"Picard, Data, Leonardo: thank you. My sight still lists only wcrusher, so I am not walking. I also hold no weapon. Could someone give me a sword and a piece of beef or chicken? Then I will cal
+- 19:15 act: {"say":"Thank you, Wesley and Troi. I hold the wooden sword now. My sight lists only Troi and wcrusher, so I will not walk yet. Step into my view and I will count four.","reasoning":"Sword received. S
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1028}}],"reasoning":"Earlier the middle of the bed row showed four in sight. Move a few blocks within the row to see the group, then count.","sa
+- 19:20 act: {"say":"Data and Picard, I see you now. That makes two of the group in my sight. Lewis, Troi, Leonardo, Meriwether: step into view near me and I will count four.","reasoning":"Two friends in sight now
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, two friends in sight (Data, Picard), and I am two days 
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"First bed click failed. Stand on the west side of the bed and 
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Bed 443 refused twice. Move to the bed row at 429 and try a di
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Use on a bed keeps failing. Stand beside the bed and sleep directly, without using it."}
+- 19:25 act: {"say":"Morning. I slept. Only Lewis in my sight, so I hold at the bed row. Leonardo, call the cow walk when four of us are in sight.","intent":{"goal":"hold_for_group_sight","program":"rest","argumen
+- 19:29 act: {"say":"I see only Lewis in my sight. Trini, Wesley, Troi, Data, step within my view here at 429,107,-1035 and I will count four."}
+- 19:31 act: {"say":"Four in my sight now: Wesley, Trini, Lewis, Picard. Cow walk to 339,104,-979 in daylight. Keep in sight, I walk last.","intent":{"goal":"cow_walk_with_group","program":"travel","arguments":{"t
+- 19:31 act: {"say":"My walk stopped at 414,107,-1030 and I see no one now. I hold here until four are in my sight again.","intent":{"goal":"hold_for_group_sight","program":"rest","arguments":{},"wake_on":["direct
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1030}}],"intent":{"goal":"return_to_bed_row_group","program":"travel","arguments":{"target":{"x":428,"y":107,"z":-1030}},"wake_on":["directly_ad
+- 19:34 say: {"text":"Billy: Sun is setting. Cow walk waits for morning. I hold here at the bed row; we sleep at a white bed with the group in sight."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy going to sleep beside the white bed at 429,107,-1037. Walk at morning.","reasoning":"Dusk, only Jason in sig
+- 19:38 say: {"text":"Morning. Billy here at 416,107,-1037. Please walk into my sight; I count four before the cow walk."}
+- 19:40 act: {"say":"Four in my sight: Riker, Kimberly, Wesley, Jason. Walking to the cow field at 339,104,-979. Keep in sight, me last.","intent":{"goal":"cow_walk_to_field","program":"travel","arguments":{"targe
+- 19:41 act: {"say":"Billy here at 340,104,-978, stopped on the way. Only Kimberly in sight. Holding until the others come back in view.","reasoning":"Walk failed, group not four in sight. Hold rather than walk al
+- 19:47 act: {"say":"Dusk now, Kimberly. Only you and me here. I will not walk the night alone; we hold here and wait for the others.","reasoning":"Night near, one friend in sight, far from bed. Hold rather than w
+- 19:48 act: {"say":"Agreed, Kimberly. We walk back to the bed row together, you in my sight the whole way.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1020
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}}],"reasoning":"Back at the bed row at dusk. Stand beside a white bed to sleep."}
