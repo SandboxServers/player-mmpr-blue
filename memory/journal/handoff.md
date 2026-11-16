@@ -1,9 +1,7 @@
-# Handoff, day 353 dusk
+# Handoff, day 355 dusk
 
-Where: bed row at 402,107,-1034, going to white bed 401,107,-1036 with Kimberly, Picard, Tommy, Troi, Data in reach.
+Where: going to white bed 401,107,-1036 at the bed row, group in reach (Kimberly, Tommy, Picard, Jason, Worf, Zack, Wesley, Data).
 
-State: safe, no errand running. Cow walk stalled again today: I reached hop one 395,-1002 alone twice and came back each time. Group holding at the bed row, all at hunger 20.
+State: safe, health 20, hunger 20, no errand running. Cow walk stalled again on days 354 and 355 (I walked a short hop to 396,-1010 alone, came back). Nobody needs food yet; Zack holds 8 rotten flesh, Data and Leonardo hold chicken for the lowest.
 
-Rules: walk only with everyone in sight, short hops, say when you are in reach. Feed the lowest only at hunger 6 or below. Sleep at white bed 401,107,-1036. Avoid the pit near 357,-1001 and 364,-1000.
-
-Next: at waking, call status, then wait. Ask the group to move first; I follow last.
+Next: at waking, call status, then wait. Ask the group to move first; I follow last. Feed the lowest only at hunger 6 or below. Do not walk unless several are visibly in sight.
