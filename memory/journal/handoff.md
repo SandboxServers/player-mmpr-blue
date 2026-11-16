@@ -1,8 +1,7 @@
-# Handoff, day 341 dusk
+# Handoff, day 342 night
 
-Where: asleep at the white bed 429,107,-1022, group near (Kimberly 2 away, Trini at bed 415,-1036, Wcrusher, Tommy, Leonardo, Jason at the beds).
+Where: asleep at the white bed 429,107,-1022, group at the beds (Kimberly, Jason, Tommy, Leonardo, Trini, Bcrusher, Wcrusher).
 Health 20, hunger 20, holding nothing.
-Food: Kimberly holds 31 melon and 6 chicken for the lowest. Wcrusher brought 2 beef for Trini. Trini at health 7, hunger 17, to eat at 6.
-Next morning: feed Trini first (she says when she hits 6), then Jason. Then, in daylight and in sight of each other, look for cows or melon. Cow spot 364,-1010 and cow ground 480,-1137 were empty.
-Dropped items from my death at 484,105,-1138 remain unclaimed; go back only in daylight with the group.
-Do not stay in the open at night; sleep at a white bed with the group in sight.
+Day 342: cow spot 364,-1010 empty again. Jason's gives from Kimberly failed (not in sight) so Jason still owed melon.
+Trini at health 7, hunger 17: she eats first at 6 (Kimberly 31 melon, Leonardo 3 chicken 2 melon, Bcrusher 7 melon 1 chicken, Wcrusher 2 beef for Trini).
+Morning: wait for hunger 6 callouts, feed lowest. Keep in sight. Search cows only in daylight, with Jason or Kimberly visible.

@@ -162,3 +162,11 @@
 - 07:15 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1025}}],"say":"Billy walking back to the group at the beds, 431,-1025. Holding nothing, health 20."}
 - 07:15 act: {"actions":[{"do":"note","text":"Day 341 afternoon at the beds 432,107,-1025. Group nearby, Leonardo 12 away. Health 20, hunger 20, nothing held. Waiting for Trini to reach 6 and for a daylight plan."
 - 07:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Billy going to the bed at 429,-1022 with the group near. Bcrusher, thanks for the beef for Trini."}
+- 07:22 act: {"say":"Morning. Billy here, health 20, hunger 20. Trini eats first at 6, then Jason. I will look for cows and melon with the group, in sight."}
+- 07:22 act: {"say":"Billy and Jason go to the cow spot at 364,-1010 in daylight. Kimberly, come along in sight; we come back to the beds if the light goes.","intent":{"goal":"search_cows_with_jason","program":"fo
+- 07:22 act: {"say":"Billy heading to Jason at the north beds, then we go for cows together.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 07:23 act: {"say":"Billy here at the first white bed 429,-1023. Jason, step into my view and we go for cows together once the group is in sight."}
+- 07:24 act: {"say":"Jason in sight. Billy and Kimberly go with Jason now to the cow spot 364,-1010 in daylight. Trini stays at the beds.","intent":{"goal":"search_cows_west","program":"travel","arguments":{"targe
+- 07:24 act: {"say":"Cow spot 364,-1010 is empty, no cows in sight. Billy heading back to the beds.","actions":[{"do":"note","text":"Cow spot 364,107,-1010 checked on day 341 morning: no cows, no melon in sight. R
+- 07:32 act: {"say":"Dusk. Billy going to the bed at 429,-1022 with the group near. Trini, eat at 6, I'll hand food if needed.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":4
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
