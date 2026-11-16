@@ -150,3 +150,15 @@
 - 06:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy here, at the white bed with Kimberly in reach. Health and hunger are full, so I am going to sleep. Leonardo,
 - 06:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
 - 06:43 act: {"actions":[],"say":"Billy here at the white beds, morning, health and hunger full. I hold nothing. I will walk with whoever is lowest to the cow spot once the group is in my sight.","intent":{"goal":
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"say":"Billy walking to you now, at the first white bed, 430,-1023. I hold no food, but I'll join the cow walk with the group in sight."
+- 06:46 act: {"actions":[],"say":"Billy here, with Jason, Tommy and Bcrusher in reach. It is midday and bright. I'll walk to the cows with the group. Kimberly is at 8, so she eats first.","intent":{"goal":"walk_wi
+- 06:46 act: {"actions":[],"say":"Billy: Trini is at 7 and staying at the beds, so I'll stay with her and Kimberly too. Jason, Tommy, Bcrusher, go to the cows in sight of each other and come back to tell us. I hav
+- 06:50 act: {"actions":[],"say":"Billy: agreed, Tommy. We hold at the beds. At dusk we sleep in the beds here, all in sight. Trini, say when you reach 6 and Bcrusher hands you melon."}
+- 06:50 act: {"actions":[],"say":"Jason, welcome back. I hold nothing, sorry. Kimberly, keep your melon for the lowest, which is Trini right now. Jason at 16 can wait until dusk."}
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Billy going into the bed at 429,-1023 for the night, with Tommy and Jason in sight. Trini, say when you reach 6."}
+- 07:06 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Billy going to sleep in the bed at 429,-1023. Kimberly and Bcrusher in sight. Wake and say so if anyone drops to 6."}
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy going to sleep at the bed 429,-1022, Kimberly in sight."}
+- 07:11 act: {"actions":[{"do":"note","text":"Day 341 dawn at the beds 444,-1023. Slept (8 of 10). Health 20, hunger 20, holding nothing. Group at the beds: Trini 17, Jason 16, Kimberly 16 with 31 melon. Trini eat
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1025}}],"say":"Billy walking back to the group at the beds, 431,-1025. Holding nothing, health 20."}
+- 07:15 act: {"actions":[{"do":"note","text":"Day 341 afternoon at the beds 432,107,-1025. Group nearby, Leonardo 12 away. Health 20, hunger 20, nothing held. Waiting for Trini to reach 6 and for a daylight plan."
+- 07:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Billy going to the bed at 429,-1022 with the group near. Bcrusher, thanks for the beef for Trini."}
