@@ -147,3 +147,6 @@
 - 06:36 act: {"actions":[{"do":"note","text":"Day 339 afternoon at the white beds 427,107,-1035. Group in sight: Leonardo 6.2, Jason 10. Trini is weakest at health 2-5, being fed by Bcrusher, Jason and Leonardo. I
 - 06:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy going to the bed at 429,-1036 with the group for the night. Leonardo, Tommy, Jason, keep the food for the lo
 - 06:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Billy in bed at 429,-1023, Kimberly beside me. I'm full, so keep your melon for the lowest. Good night."}
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy here, at the white bed with Kimberly in reach. Health and hunger are full, so I am going to sleep. Leonardo,
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
+- 06:43 act: {"actions":[],"say":"Billy here at the white beds, morning, health and hunger full. I hold nothing. I will walk with whoever is lowest to the cow spot once the group is in my sight.","intent":{"goal":
