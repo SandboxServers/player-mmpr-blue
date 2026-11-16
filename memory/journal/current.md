@@ -187,3 +187,15 @@
 - 07:55 act: {"say":"Billy here, health 20. Bow sounds to the south and west, so I'll stay in sight of Wesley and wait for Leonardo at 427,-1021 before we walk to the cow."}
 - 07:59 act: {"say":"Night is here. Billy going to the bed at 429,-1022 with the group, then sleeping.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1022}},
 - 07:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 08:00 act: {"say":"Billy at the beds, health 20, hunger 20. I'll wait here in sight of the group until it is light, then join the cow walk.","intent":{"goal":"wait_for_light_at_beds","program":"rest","arguments"
+- 08:01 act: {"say":"Morning. Billy calls the cow walk: we go to 339,104,-979 together, staying in sight. Kimberly and Tommy, come with us; I'll lead from the bed row."}
+- 08:01 act: {"say":"Leading the walk now to 339,104,-979. Stay in sight, and call out if you see a cow.","intent":{"goal":"cow_walk_to_339_979","program":"travel","arguments":{"target":{"x":339,"y":104,"z":-979}}
+- 08:01 act: {"say":"The walk broke up and Kimberly is out of sight. I'm turning back to the bed row at 430,-1030 to gather everyone before we go.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1030}}]}
+- 08:02 act: {"say":"I'm at the bed row, 430,-1030. Kimberly, Tommy, Jason, Leonardo, Wesley: come into sight and we'll walk to the cow at 339,-979 together.","actions":[]}
+- 08:02 act: {"say":"Kimberly is with me. We walk to the cow at 339,-979 now. Stay right behind me, and tell me if you fall back.","actions":[],"intent":{"goal":"walk_to_cow_spot","program":"travel","arguments":{"
+- 08:03 act: {"say":"The walk failed and Kimberly is out of sight. I'm heading back to the bed row to meet her. We'll go once we're together.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1030}}]}
+- 08:03 act: {"say":"I'm back at the bed row with Kimberly. We won't walk to the cow until the group is together in sight. I'll wait here.","actions":[]}
+- 08:03 act: {"say":"Good, Wesley. Stay in sight, and we'll go once you're at the bed row with Kimberly.","actions":[]}
+- 08:04 act: {"say":"Kimberly, Wesley, Troi: we walk to the cow at 339,-979 now. Stay in sight of me, and say so if you fall back.","actions":[],"intent":{"goal":"walk_to_cow_spot","program":"travel","arguments":{
+- 08:04 act: {"say":"We're at 339,-979. No cow in sight. A skeleton with a bow is to the northwest, about 23 blocks off. Stay close together, and don't go past the drop to the west.","actions":[]}
+- 08:06 act: {"say":"No cow here, and a skeleton is closing in from the northwest. We head back to the beds together now.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1030}}]}
