@@ -1,7 +1,7 @@
-# Handoff, day 359 night
+# Handoff, day 361 dusk
 
-Where: bed 388,107,-1050 at the north bed row, Zack in reach. Safe, health 20, hunger 20, no errand running.
+Where: white bed 415,107,-1037 at the bed row, group nearby (Worf, Kimberly, Troi in sight; Lewis, Trini, Riker, Picard, Tommy near). Safe, health 20, hunger 20, no errand running.
 
-Done today: first hop to 396,-1010 worked. Second leg toward the cow field (385,-997) split the group; night came, so we returned toward the bed row. Jason, Zack, Tommy, Trini, Kimberly, Troi, Beverly are around the bed rows.
+Done: no hop made. Waited for four in sight; sight only ever showed three. Kimberly holds 26 melon and 6 chicken for the lowest.
 
-Next: at waking, wait for the group to be in sight (four or more), then ask them to lead a short hop to 385,-997; I follow last. Feed the lowest only at hunger 6 or below. Do not walk alone; a phantom was seen to the east at night.
+Next: at waking, wait for four or more in sight, then ask the group to lead a short hop to 385,-997. I follow last. Feed the lowest only at hunger 6 or below. Do not walk alone.
