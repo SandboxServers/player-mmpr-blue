@@ -1,7 +1,9 @@
-# Handoff, night of day 317
+# Handoff, dusk of day 319
 
-Where: x 429, y 107, z -1022, in the white bed at the beds. Slept at night, sheltered.
-Holding: one grass block only. The raw chicken and melons went into the chest at 433,107,-1023 earlier; Clark and Kimberly also have chickens for Lewis, Picard and me.
-Hunger 15, health 20.
-Next: at dawn, check the chest at 433,107,-1023 and the beds. Ask who is weakest (Lewis, Picard). Search for chickens and cows away from the empty north-east field. Melons are at x305-309, z-872 to -878.
-Group: Trini, Leonardo, Tommy, Kimberly, Lewis, Picard, Chapman, Zack, Clark, MacDonald.
+Where: x 430, y 107, z -1023, at the beds. Bed at 429,107,-1022 is next to me.
+Holding: one raw chicken (for Lewis or Johnny, the weakest) and one grass block.
+Hunger 17, health 20. Not low yet, so I am not eating.
+Food: Trini holds 2 chickens, 1 mutton and a melon slice for the weakest. Leonardo holds 2 melon slices. Tommy is full.
+Search: the south search past the fence found no chickens or cows, out to x 470. Zack was seen about 23 blocks off.
+Next: at dawn give my chicken to whoever is weakest. Keep near the group. Search new ground only with company.
+Group at the beds: Kimberly, Tommy, Leonardo, Chapman, Lewis, Picard, Zack, Clark, MacDonald, Trini.

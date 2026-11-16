@@ -21,3 +21,21 @@
 - 23:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}]}
 - 23:17 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1024}},{"do":"open","at":{"x":433,"y":107,"z":-1023}}],"say":"Billy here at the beds. I hold only a grass block, hunger 15. Trini, I will check 
 - 23:17 say: {"text":"Billy: I am at hunger 15, so the food goes to Lewis and Picard first. I will search for chickens and cows to the south, past the fence."}
+- 23:20 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1023}}],"reasoning":"Going to the chest first as the errand says."}
+- 23:20 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1023}},{"do":"open","at":{"x":433,"y":107,"z":-1023}}],"reasoning":"Chest is at -1023; I'm about 6 blocks north. Walk there and open it."}
+- 23:20 act: {"actions":[{"do":"withdraw","at":{"x":433,"y":107,"z":-1023},"item":"melon_slice","count":8}],"reasoning":"Contents not shown; try withdrawing melon slices, the known food here."}
+- 23:20 act: {"actions":[{"do":"withdraw","at":{"x":433,"y":107,"z":-1023},"item":"melon_slice","count":1},{"do":"eat"}],"reasoning":"One melon slice is the only edible item. Take it and eat since hunger is above 
+- 23:23 act: {"say":"Thank you Leonardo. I'm not the weakest, Lewis is at health 6. I'll hold this chicken for Lewis, and if he's not in sight, Kimberly or Chapman next.","intent":{"goal":"hold_chicken_for_lewis",
+- 23:23 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1022}}],"reasoning":"Search west first, a new direction."}
+- 23:23 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1022}}],"reasoning":"My first walk stopped short; retry west."}
+- 23:23 act: {"actions":[{"do":"goto","target":{"x":370,"y":107,"z":-1022}}],"reasoning":"Continue west another 30 blocks to look for animals."}
+- 23:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"reasoning":"Dark, no animals seen, path blocked. Return to beds and report."}
+- 23:24 say: {"text":"Billy: searched west to x 373, z -1019. No chickens or cows seen, path blocked by trees and dark. Back at the beds. I still hold the one raw chicken from Leonardo, no other food."}
+- 23:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 23:25 act: {"actions":[{"do":"sleep"}]}
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 23:33 act: {"say":"Morning all. Billy here at the beds. Lewis, I hold a raw chicken for you. Say where you are and I'll bring it. Trini, thank you for the chicken spot."}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 23:43 act: {"say":"Billy here, in sight by the beds at 430,107,-1022. I hold one raw chicken for whoever is weakest. Goodnight."}
+- 23:45 act: {"say":"Morning Trini. Yes, let's search together. I'll take the west side toward the trees, and you take the chicken spot at 421,107,-989. I'll keep my chicken for whoever is weakest first."}
+- 00:03 say: {"text":"Billy here. Hunger 17, health 20, not low yet. I hold one chicken for Lewis or Johnny. Trini, you keep the food for the weakest."}
