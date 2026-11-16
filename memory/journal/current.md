@@ -43,3 +43,12 @@
 - 09:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1034}}],"say":"Alone at 395,-1001 and it's dusk. Going back to the beds to the group. The walk waits for everyone in reach."}
 - 09:15 say: {"text":"Back at the beds with all of you. The cow walk is paused until everyone can walk with me in reach. Sleeping here tonight, lowest eats at 6."}
 - 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Night. Moving onto the white bed at 415,-1036 with the group around. Lowest eats at 6."}
+- 09:19 act: {"say":"Billy here at the bed row, night. Trini, Kimberly and Tommy in reach. Sleeping by the white bed with the group.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 09:19 act: {"say":"Billy here. Morning. Trini, Kimberly, Tommy and Picard are in reach. I hold until Jason, Leonardo and Troi are in sight too. Then we walk to the cow field together.","intent":{"goal":"gather_g
+- 09:20 act: {"say":"Billy at the bed 402,107,-1036, in reach of Trini, Kimberly, Tommy and Picard. Troi and Jason, come here to me. Once you are in sight, we walk to the cows together."}
+- 09:20 act: {"say":"Jason, thank you. Trini, Kimberly, Tommy, Picard and Jason are in reach. Waiting a little for Troi and Leonardo, then we walk."}
+- 09:21 act: {"say":"Billy: Data, Leonardo, Jason, Trini, Kimberly, Tommy and Picard are with me. Troi, please come into sight. We walk to the cows as soon as she is here."}
+- 09:22 act: {"say":"Billy: Riker, welcome. Troi is the last one I am waiting on. The enderman is close, so we all keep our eyes down. We walk once Troi is in sight."}
+- 09:23 act: {"say":"Billy: we walk now to the cow field, all together. Follow me, lowest eats first, Trini first.","intent":{"goal":"walk_to_cow_field_together","program":"travel","arguments":{"target":{"x":339,"
+- 09:24 act: {"actions":[{"do":"note","text":"At cow field 339,104,-979 alone; no one in sight. Group said they would follow from the beds."}],"say":"Billy here at the cow field, 339,104,-979. I am alone and no on
+- 09:32 act: {"actions":[{"do":"sleep"}],"say":"Billy, alone at the cow field 339,104,-979 for the night. I will not walk in the dark alone. If anyone is near, come to me."}
