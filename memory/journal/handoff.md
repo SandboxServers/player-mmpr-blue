@@ -1,7 +1,8 @@
-# Handoff, day 336 dusk
+# Handoff, day 339 dusk
 
-Where: 431,107,-1034, bed row, with Kimberly, Jason, Trini, MacDonald in reach. White beds at 429,107,-1036 and 443,107,-1036 nearby.
-Holding: one grass_block only. No food.
-Hunger 17, health 20.
-Cows: the cow spot at 364,-1010 had no cows and no one followed me there twice. Go only with the group in sight, in daylight.
-Next: sleep at the white bed at full night. Morning: try cows again only with the group together. Give food to the weakest (Kimberly, holds a melon slice).
+Where: going to the white bed at 429,107,-1036 with Leonardo, Tommy and Jason, near the bed row at 427,-1035.
+Health 20, hunger 20, holding nothing. I died on day 338 night and woke at the spawn with nothing.
+Food: Leonardo holds 5 chicken and 2 melon for the lowest. Kimberly holds 31 melon. Bcrusher has melon. Trini was fed (health was 2 to 5).
+Dropped items from my death at 484,105,-1138 are still unclaimed. Only go back there in daylight with the group.
+Next morning: help the weakest first, then decide the cow search (cow spot 364,-1010 empty; cow ground 480,-1137 empty).
+Night: sleep at a white bed, with the group in sight. Do not stay in the open at night.

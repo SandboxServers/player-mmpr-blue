@@ -104,3 +104,46 @@
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1033}}],"say":"No cows at this spot. Wesley and I are heading back to the group at the bed row."}
 - 05:42 act: {"actions":[],"say":"Back at the bed row with Jason, Kimberly, MacDonald, Leonardo and Wesley. Cow spot 364,-1010 is empty. I have no food; hunger 17. Anyone with spare food, please share with the wea
 - 05:42 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you now. Thank you for the melon."}
+- 05:42 act: {"actions":[],"say":"Thank you, Jason, and Kimberly. I'm holding the melon slice for when my hunger drops to 6. Tell me if anyone is weaker and needs it more."}
+- 05:43 say: {"text":"Kimberly, thank you. Everyone stay in sight. I'll hold my melon until my hunger is 6 or lower. Cows are empty, so we need another food plan."}
+- 05:45 act: {"actions":[],"say":"Agreed: we hold at the beds tonight, and at first light we walk to MacDonald's cow ground at 480,-1137 together, all in sight."}
+- 05:49 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Morning. Billy walking with Trini and Kimberly to MacDonald's cow ground at 480,-1137. Stay in sight, Jason, Tommy, Leonardo."}
+- 05:49 act: {"actions":[],"say":"I'm with Trini and Kimberly at the bed row. The others are out of sight. Let's hold until everyone is in view, then walk to 480,-1137 together."}
+- 05:50 act: {"actions":[],"say":"Holding here with Kimberly at 431,-1035. Tommy, come to us and we walk together once Trini and the others are in view."}
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"say":"Going now: Kimberly, Tommy, Leonardo and I walk to MacDonald's cow ground at 480,-1137. Stay in sight."}
+- 05:51 act: {"actions":[],"say":"I'm at the cow ground, 480,-1137. Kimberly, Tommy, Leonardo, Wesley: come in sight and I'll hold here for you."}
+- 05:55 act: {"actions":[{"do":"note","text":"Day 337 afternoon: holding at cow ground 480,104,-1137. Trini above at 3.7, not in reach. No cows or others in sight yet."}],"say":"Still holding at the cow ground, 48
+- 05:59 act: {"actions":[{"do":"note","text":"Day 337 dusk: still at cow ground 480,104,-1137 with Trini above, out of reach. No others in sight. Not walking in the dark; will hold until light."}],"say":"Dusk now.
+- 06:00 act: {"actions":[{"do":"note","text":"Night: two phantoms south of me, 6-7 blocks. I have no weapon. Staying near Trini, who has a wooden sword."}],"say":"Staying by you, Trini. I have no sword, so I'll ke
+- 06:04 act: {"actions":[{"do":"note","text":"Morning on day 337: phantoms left south-west, nobody hurt. Still at cow ground with Trini above. Waiting for the group before looking for cows."}],"say":"Morning. Nobo
+- 06:05 act: {"actions":[{"do":"note","text":"MacDonald and Wesley arrived at the cow ground. Spreading out together to look for cows, staying in sight."}],"say":"Good, MacDonald and Wesley. I'll stay in sight and
+- 06:05 act: {"actions":[{"do":"note","text":"Trini is at 2 health after the phantoms. She is the weakest. I hold one melon slice for her; she is above me, not in reach."}],"say":"Trini, I have a melon slice for y
+- 06:09 act: {"actions":[{"do":"note","text":"Leonardo, Troi and Tommy are coming to the cow ground. MacDonald has given his melon to Kimberly. I still hold my melon slice for Trini, who is at 2 health."}],"say":"
+- 06:09 act: {"actions":[{"do":"note","text":"Day 337 afternoon, cow ground at 480,104,-1137. Leonardo and MacDonald in reach, Wesley level at 3.8. Trini above at 3.7, at 2 health, holding still. My melon slice is
+- 06:09 act: {"actions":[],"say":"Trini, I'm still holding the melon for you. Come down within reach and I'll give it."}
+- 06:09 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon_slice","count":1}],"say":"Trini, here is the melon. Eat it when your hunger is low."}
+- 06:09 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"melon_slice","count":1}],"say":"Trini, I'm stepping to you with the melon."}
+- 06:10 act: {"actions":[],"say":"Trini, the hand-over failed twice; the game says the items are on the ground near you. Can you pick up what's at your feet? I'll try once more when you say you're ready."}
+- 06:10 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon_slice","count":1}],"say":"Here it is, Trini. We stay together through the night."}
+- 06:10 act: {"actions":[{"do":"note","text":"Day 338 dusk. Three gives to Trini failed: the game says the items are on the ground near her. I stopped trying the same give. I still hold the melon slice. Trini is i
+- 06:13 act: {"actions":[],"say":"Stay close, everyone. Leonardo, I'm holding the melon for Trini; I'll give it when she is in reach."}
+- 06:14 act: {"actions":[],"say":"I have a stone sword and 20 health. Leonardo, I'm next to you; I'll fight the zombie with you. MacDonald, come to us."}
+- 06:15 act: {"actions":[{"do":"note","text":"Day 339 morning at the cow ground, 482,104,-1138. Night passed: zombies and a phantom, no deaths here. Leonardo is in reach at 9 health and holds a melon slice. Trini 
+- 06:18 act: {"actions":[{"do":"note","text":"Midday day 338 at the cow ground. Trini in reach, empty-handed, says her drop pile is gone and her hunger is 20. Leonardo has offered her two chicken. Wcrusher is in s
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":492,"y":104,"z":-1138}}],"say":"Good, Trini. We'll walk east together a short way to look for cows, and I'll keep the melon until someone needs it."}
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":484,"y":104,"z":-1138}}],"say":"I'm walking back to the group. I won't search alone."}
+- 06:18 act: {"actions":[{"do":"note","text":"Midday day 338. Walked 9 east to look for cows, saw none, came back to the group. Trini in reach at 20 health, Leonardo in reach with melon, Wcrusher 8 away. Still hol
+- 06:25 act: {"actions":[{"do":"note","text":"Dusk day 338. Wcrusher is building a dirt shelter beside us. I'll go in with the group and add my grass block to the walls. Health 20, hunger 17, melon still held for 
+- 06:26 act: {"actions":[{"do":"note","text":"Night, day 338. Wcrusher is in a pit out of my sight. I'm staying beside Trini and Leonardo in the open, with my stone sword. Health 20, hunger 17."}],"say":"Trini, I'
+- 06:27 act: {"actions":[{"do":"place","block":"grass_block","at":"feet"}],"say":"I'm at 1 health, hit from behind by an explosion. Leonardo, stay close. Wcrusher, where is your pit?"}
+- 06:27 act: {"actions":[{"do":"note","text":"Night, day 338. Health 2 and falling after an explosion. My melon was eaten by reflex. Asked Leonardo for his melon."}],"say":"Leonardo, I'm at 2 health. Please give m
+- 06:27 act: {"actions":[{"do":"note","text":"Night, day 338. Leonardo gave me 2 chicken. Health back up to 4 and rising. Holding the chicken for when hunger is 6 or below."}],"say":"Thank you, Leonardo. I have th
+- 06:30 say: {"text":"I died last night and woke at the bed row with nothing. Kimberly, I'm hungry. Could I have some food?"}
+- 06:30 act: {"actions":[{"do":"note","text":"Morning day 339. Respawned, now at 409,107,-1055 with nothing, health 20, hunger 20. A spider 9 away to the north-east. Kimberly holds melon and offered it once I'm in
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}}],"say":"Billy here, a spider is 3 away. I'm going to the white beds to join Zack and Chapman in daylight. Ready for the cow walk."}
+- 06:31 act: {"actions":[{"do":"note","text":"Day 339 midday. Walked from 409,-1055 to the white beds at 427,107,-1035 to join Zack and Chapman in daylight. Spider was 3 away at the old spot, now 10 away. Holding 
+- 06:32 act: {"actions":[{"do":"note","text":"Day 339 midday. At the white beds 427,107,-1035, alone, spider 18 away. Leonardo recovered 5 chicken and 2 melon; I'm at hunger 20, so I don't need food yet. Waiting f
+- 06:32 act: {"actions":[],"say":"Thank you, Wcrusher. I'm full, hunger 20, so keep the melon for someone lower. I'm at the beds at 427,-1035; I can't see you yet, so step into my sight."}
+- 06:36 act: {"actions":[{"do":"note","text":"Day 339 afternoon at the white beds 427,107,-1035. Group in sight: Leonardo 6.2, Jason 10. Trini is weakest at health 2-5, being fed by Bcrusher, Jason and Leonardo. I
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy going to the bed at 429,-1036 with the group for the night. Leonardo, Tommy, Jason, keep the food for the lo
+- 06:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Billy in bed at 429,-1023, Kimberly beside me. I'm full, so keep your melon for the lowest. Good night."}
