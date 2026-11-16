@@ -89,3 +89,18 @@
 - 05:21 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy sleeping at the bed row, Tommy and Kimberly in sight. Cow walk at first light."}
 - 05:21 act: {"say":"Sleep worked, the night was skipped. Billy is at the bed row, no one in sight yet. Cow walk when the group is here at daylight."}
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1036}}],"say":"Morning. Going to the bed row at 429,-1036 to meet Trini and MacDonald. Then the cow walk to 364,-1010 together."}
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"Group is in sight. Kimberly, eat the melon slice in your hand when your hunger drops. Walking to the cows at 364,-1010 now, stay 
+- 05:22 act: {"actions":[{"do":"note","text":"Day 335 morning: reached 364,-1010. No cows or group in sight here; group still at the bed row. Holding here until they arrive."}],"say":"I'm at the cow spot, 364,-101
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"No one came to the cow spot and no cows are in view. I'm walking back to the bed row to be with the group."}
+- 05:26 act: {"say":"Back at the bed row with Kimberly, Jason, Trini and MacDonald in reach. The cows were not in view at 364,-1010. Next: we go together to look again, all in sight."}
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"Day 336. Going to the cows at 364,-1010 now. MacDonald, Jason, Trini, Kimberly, follow in sight."}
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"Sun is low and no cows are here, and no one came with me. I'm going back to the bed row before dark."}
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Dusk. Billy is going to the bed at 429,-1036 for the night, group in sight. Cows again at first light, together."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Billy going to the bed at 429,-1036. Cows at first light, together."}
+- 05:36 act: {"actions":[],"say":"Morning. Billy here at 430,-1023. Group, come to me; cow walk to 364,-1010 once everyone is in sight."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1033}}],"say":"Coming to the group at the bed row. Then cow walk together."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":364,"y":107,"z":-1010}}],"say":"All five in sight. Cow walk to 364,-1010 now, stay close."}
+- 05:41 act: {"actions":[],"say":"Billy at the cow spot 364,107,-1010, standing on grass. No cows here yet. Wesley, walk to me."}
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1033}}],"say":"No cows at this spot. Wesley and I are heading back to the group at the bed row."}
+- 05:42 act: {"actions":[],"say":"Back at the bed row with Jason, Kimberly, MacDonald, Leonardo and Wesley. Cow spot 364,-1010 is empty. I have no food; hunger 17. Anyone with spare food, please share with the wea
+- 05:42 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, I'm coming to you now. Thank you for the melon."}
