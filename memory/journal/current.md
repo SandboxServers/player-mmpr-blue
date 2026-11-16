@@ -1,2 +1,16 @@
 # Journal
 - 17:57 act: {"actions":[],"say":"Goodnight, Billy. I held the bed row, I did not walk, and I still carry nothing. Sight counts, not speech."}
+- 18:02 act: {"say":"Billy here, health 20, hunger 20. Only Leonardo in my sight. I hold at the bed row until four are in sight. Bows are drawn to the south, so nobody walks yet.","intent":{"goal":"hold_bed_row_fo
+- 18:06 act: {"say":"Dusk now. Only Leonardo in my sight. Jason, Kimberly and Tommy are near, so please step into my sight at the bed row. I will sleep in the bed beside me once four are in sight."}
+- 18:10 act: {"say":"Billy: heard you all. My sight shows only Leonardo so far, so I am not calling the cow walk. Step into my sight at the bed row and I will count you."}
+- 18:15 act: {"say":"Morning. Billy still sees only Leonardo in sight, though you say you are near. I hold here and will not walk. Please come within my view at the bed, and I will call the cow walk."}
+- 18:25 act: {"actions":[],"say":"Leonardo, I see only you in sight. Not called yet. I hold until four of you stand where I can see them."}
+- 18:29 act: {"actions":[],"say":"Lewis, stay back by the beds and keep out of its way. I am holding here at the bed row."}
+- 18:37 act: {"actions":[],"say":"Morning. Daylight now. I see only Lewis. Data, Leonardo, Picard, Troi, Wesley: step into my view by the bed row and I will count four."}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1028}}],"say":"Good morning. I am moving to the middle of the bed row at 437,107,-1028 to see you all. Call out if you cannot see me."}
+- 18:54 act: {"actions":[],"say":"Leonardo, I still see only Data in my sight. I am holding here at the bed row. Please step where I can see you, and I will call the walk when four of you are visible."}
+- 18:55 act: {"actions":[],"say":"I see four now: Lewis, Data, Wesley and Troi. The sun is low and I have no weapon or food, so we will not walk to the cows tonight. Let us hold here and walk at first light."}
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1035}}],"say":"Dusk is here. I am going to the white bed at 443,107,-1036 with the group in sight. Walk at first light, I count Picard too."}
+- 18:57 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 18:57 act: {"actions":[{"do":"sleep"}]}
+- 18:58 act: {"actions":[{"do":"sleep"}],"say":"Wesley, I see you. I am sleeping here on the bed row. Walk at first light."}
