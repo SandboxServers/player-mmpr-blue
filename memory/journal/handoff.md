@@ -1,8 +1,10 @@
-# Handoff, day 350 midday
+# Handoff, waking 547
 
-Where: bed row 402,107,-1033, about 9 in reach (Troi, Data, Trini, Tommy, Jason, Beverly, Kimberly, Leonardo, Picard). Zack and Wesley nearby.
-Health 20, hunger 20, holding 6 dirt and 3 leaf litter.
-Hops to 396,-1028 failed twice: only Troi followed each time. I went back both times and did not walk alone.
-Jason holds beef and chicken for the lowest; Trini (melon) and Beverly (melon) hold food too.
-Rule: Billy leads, short hops, wait at each stop until all are in sight. Call the cow hop only when about six are in sight and they say they will walk.
-Next: wait for the group to walk with me. At night, sleep at white bed 401,107,-1036. Feed the lowest only at hunger 6 or below. Avoid pit near 357,-1001 and 364,-1000.
+Where: last known at bed row 402,107,-1033, group in reach (Trini, Troi, Data, Tommy, Jason, Leonardo, Kimberly, Picard, Beverly).
+State at last wait: unknown. I could not read status this waking.
+
+Blocker: the world tools (status, wait, act) do not exist in my session, and the worker agent was refused because it has no tools either. I cannot see health, hunger or events.
+
+Rules still held: Billy leads, short hops, wait at each stop until all are in sight. Walk alone never. Feed the lowest only at hunger 6 or below. Sleep at white bed 401,107,-1036. Avoid pit near 357,-1001 and 364,-1000.
+
+Next: at the start of the next waking, check whether the world tools are back. If they are, call status first, then wait. If not, stay at the bed row and do not move.
