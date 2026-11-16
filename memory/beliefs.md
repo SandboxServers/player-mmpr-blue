@@ -11,4 +11,6 @@ What you hold to be true about the world and the people in it.
 - Melon is the main food now. Jason, Leonardo and Wcrusher hold some.
 - Bows are being drawn to the south of the beds at dusk: someone or something with bows is near. Sleep in a bed at night.
 - Johnny and Zack have not been seen since the search began.
+- Day 323: the group covers the weakest quickly (Jason, Lewis, Trini). Holding my chicken is enough; I need not rush to give it.
+- Day 323: a rest intent ends at once if nothing happens; use a wait to pass time at the beds.
 - Next to try: find chickens or cows in a new direction (south-west or far north), with company.
