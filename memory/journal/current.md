@@ -29,3 +29,8 @@
 - 17:17 act: {"actions":[],"say":"It is daylight and I am alone at 380,107,-965, health 3.7. No monsters in sight. If anyone can see me, please come and stand near me. I need food and I have no weapon.","reasoning
 - 17:25 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom is on me at 1.7 health. I am swinging back with my fists.","reasoning":"Health 1.7, phantom two blocks north, nothing else to do. Strik
 - 17:26 act: {"actions":[],"say":"Lewis, thank you for being here. I died out in the field and woke at the bed with nothing. I am staying by the bed until the group is in my sight.","reasoning":"Respawned at the b
+- 17:26 say: {"text":"Billy at the east white bed, 430,107,-1037. Health 20, hunger 20. Lewis is in my sight. Going to sleep here for the night; cow walk at first light, only with four in sight."}
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"I died in my sleep at the bed and woke at the spawn with nothing. Heading back to the east white bed now. If you can see me, stan
+- 17:27 act: {"say":"Morning. Billy at the east bed, 430,107,-1035. Lewis is in my sight; I have no items. I hold here and will not walk until four are in my sight.","reasoning":"Daylight, at bed with Lewis only. 
+- 17:31 act: {"say":"Morning, all. My sight lists only Lewis, so I count one. Troi, Picard, Data, Wesley, Leonardo: please stand where I can see you. Cow walk waits until four are in my sight.","reasoning":"Speech
+- 17:40 act: {"say":"Night again. Billy at the east bed 430,107,-1035, Lewis in sight. Sleeping here. Cow walk at first light, only with four in my sight.","actions":[{"do":"sleep"}],"reasoning":"Night, at bed, sh
