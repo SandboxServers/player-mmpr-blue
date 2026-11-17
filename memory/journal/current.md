@@ -95,3 +95,19 @@
 - 14:51 act: {"say":"Troi, Tommy, Jason: hold at the row with me at 388,107,-1034. Leonardo, no free bed yet; I name yours the moment one frees.","intent":{"goal":"hold_row_in_sight","program":"rest","arguments":{
 - 14:51 act: {"say":"Troi, Jason: counted at the row, thank you. Every bed I know is taken; I name the next free one at once. Hold in sight, unarmed is fine for now.","actions":[{"do":"note","text":"Day 435 daylig
 - 14:51 act: {"intent":{"goal":"hold_row_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
+- 14:52 act: {"say":"Clark, Jason: I hold here at the row in daylight with about fifteen in sight. Every bed I can see is named already, so no cell is free for you yet. Share a bed if someone leaves one. I'll name
+- 14:54 act: {"say":"Wesley, your cell is 393,107,-1034. Walk there only now, while it is still light, with four of us in sight. If it turns dark first, stay here at the row beside me and sleep on the open ground 
+- 14:54 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Billy sleeps in the bed at 387,107,-1036 with the row in sight. Wesley, hold at the row with the group unti
+- 14:55 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Billy sleeps at 387,107,-1036 with the group in sight. Clark, Troi, Jason, Leonardo, Wesley: hold at the ro
+- 15:04 act: {"actions":[{"do":"note","text":"Morning day 437 at row 388,107,-1037. Named cells: Tommy 401,107,-1037; Jason 401,107,-1036 (both white beds on the east pair)."}],"say":"Morning. Tommy, your cell is 
+- 15:05 act: {"actions":[{"do":"note","text":"Day 437 morning: Jason has 401,107,-1036, Tommy 401,107,-1037 (sword in hand). Leonardo has no cell yet; he holds at 389,107,-1033."}],"say":"Leonardo, no free cell ye
+- 15:06 act: {"actions":[{"do":"note","text":"Beverly (bcrusher) holds at 389,107,-1034, no cell free; Jason took 401,107,-1036 (her old cell). Leonardo and Beverly wait for a freed bed."}],"say":"Beverly, 401,107
+- 15:06 act: {"actions":[{"do":"note","text":"Wesley holds at 388,107,-1036, cell 393,107,-1034 when I call it. Group still holding at the row in daylight."}],"say":"Wesley, hold. When the group has four in sight,
+- 15:07 act: {"actions":[{"do":"note","text":"Troi cell 387,107,-1037 (next to me). Zack, Leonardo, Beverly, Clark have no bed; holding at row. Idea: craft a white_bed from wool and planks for one of them."}],"say
+- 15:07 act: {"actions":[{"do":"note","text":"Clark holds at 389,107,-1033, offers to look for wool. Plan: find wool for a bed, hold at row until then."}],"say":"Clark, thank you. Hold with the group for now. When
+- 15:08 act: {"actions":[{"do":"note","text":"Worf has 1 black wool and planks for a bed; needs 2 more white wool. Plan: find sheep for white wool in daylight with four walking together."}],"say":"Worf, thank you.
+- 15:09 act: {"actions":[],"say":"Leonardo, thank you. Yes, we walk together in daylight only. I will go when four or more are ready, and we look for sheep."}
+- 15:09 act: {"actions":[],"say":"Chapman, I do not know that cell's record. If no one is in it and it is still yours by your word, keep it. Otherwise take the nearest free bed and tell me."}
+- 15:10 act: {"actions":[{"do":"eat"}],"say":"Beverly, thank you. We will search for sheep together in daylight once I have eaten and the group is at four or more. Stay in sight."}
+- 15:11 act: {"actions":[],"say":"Trini, thank you. We hold at the row a little longer, since I am at health 4. When I call the walk, we go together in daylight and stay in sight."}
+- 15:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Thank you all, I ate and am at health 10. No walk at dusk. I sleep in my bed at 387,107,-1036 tonight. At first light we call the
