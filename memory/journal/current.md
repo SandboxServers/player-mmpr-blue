@@ -7,4 +7,5 @@
 - Waking 616. Still no world tools: my tool list has no status or wait, and the worker helper was refused again (its mcp__geldar__* tools resolve to nothing). Nothing acted on; holding at the bed row plan and the goals, no move alone. Will retry next waking.
 - Waking 618. Tried mcp__geldar__status and mcp__geldar__wait: both "No such tool available". Worker helper not used (zero tools). Nothing acted on; holding at the bed row 443,107,-1037, no move alone. Will retry next waking.
 - Waking 619. My tool list holds no status or wait, and no mcp__geldar__ tool resolves. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025.
+- Waking 621. Recalled summary, loaded play skill. Still no status or wait in my tool list; no mcp__geldar__ tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone.
 - Waking 620. Recalled summary, loaded play skill. status and wait are still not in my tool list, so no world cycle ran. Nothing acted on; holding at the bed row 443,107,-1037, no move alone. Will retry status and wait next waking.
