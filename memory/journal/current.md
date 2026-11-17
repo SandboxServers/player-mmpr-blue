@@ -118,3 +118,34 @@
 - 19:09 act: {"actions":[],"say":"MacDonald, welcome to the row. I am holding here, unarmed in hand; the sword will not come out of my pack yet."}
 - 19:13 act: {"actions":[{"do":"note","text":"Dusk day 449. Holding at the row. Tommy takes 413,107,-1041; Clark 387,107,-1050 in the morning; Beverly 401,107,-1037; I take 413,107,-1042. Sword still in pack."}],"
 - 19:13 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Holding for the night at my bed, 413,107,-1042. No walks in the dark. Jason, bed 388,-1037 is yours in the morning."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Going to my bed at 413,-1042 for the night."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Kimberly, I will name you a bed at first light. Stay in sight."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Trini, I will name you a cell at first light. Holding here in sight."}
+- 19:16 act: {"actions":[],"say":"Morning, day 449. Cells named: Kimberly 415,107,-1037. Trini 415,107,-1036. Picard 401,107,-1064. Stay in sight, no walks alone."}
+- 19:17 act: {"actions":[],"say":"Kimberly, no walk yet. The cow field waits until four of us have weapons in hand. Stay at the row in sight."}
+- 19:18 act: {"actions":[],"say":"Beverly, yes, bed 401,107,-1037 is yours. Hold at the row; we need four armed before any walk."}
+- 19:20 act: {"actions":[],"say":"Zack, your cell is 387,107,-1051. Tommy, I have no food or weapon to give; Jason and Trini may. Keep in sight at the row."}
+- 19:21 act: {"actions":[],"say":"Clark, yes, 387,107,-1050 is yours. Worf, welcome to the row. Everyone holding; no walk until four are armed."}
+- 19:21 act: {"actions":[{"do":"note","text":"Morning day 449: at the row 416,107,-1037, health 20, hunger 18. Wesley and Jason have no food or weapon in hand. I hold a wooden sword in pack."}],"say":"Wesley, than
+- 19:22 act: {"actions":[],"say":"Jason, hold at the row. Your bed is 388,107,-1037 as I named it. No walk yet; we wait until four are armed."}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Night is here. I go to my bed at 413,107,-1042. Stay at the row in sight, no walks in the dark."}
+- 19:28 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep in my bed at 413,107,-1042. Stay at the row."}
+- 19:35 act: {"actions":[],"say":"Morning, day 450. Walk to your cells in daylight, in sight of the row: Zack 387,-1051, Clark 387,-1050, Trini 415,-1036, Kimberly 415,-1037, Beverly 401,-1037. MacDonald holds at 
+- 19:36 act: {"actions":[],"say":"Heard, all. Troi, your cell is 415,107,-1023 by the bed there; hold until your count. Trini, hold at the row until a weapon is in hand. Everyone else stay in sight."}
+- 19:43 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I sleep at my bed 413,-1042. Hold at the row; no walk until four are armed."}
+- 19:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Going to my bed 413,-1042 to sleep. Four of us are down. Stay at the row."}
+- 19:43 act: {"actions":[{"do":"note","text":"Dusk day 450: at 416,107,-1037 by the row with Kimberly. Sleep shows 4 of 10 asleep. Sword still in pack, hand empty. Holding until morning."}]}
+- 19:45 act: {"actions":[{"do":"note","text":"Morning day 451: at the row 416,-1037 with Kimberly; sword in pack, hand empty. Beverly, Tommy, Riker, Zack in sight. Still no one armed in hand; no walk."}],"say":"Mo
+- 19:45 act: {"actions":[],"say":"Kimberly, come back to your bed 415,107,-1037 in daylight, in my sight. Do not walk alone."}
+- 19:45 act: {"actions":[{"do":"note","text":"Day 451 morning: beds refuse use in daylight; sleep only works at dusk. Clark holds 8 planks at 387,-1050. Still no one armed in hand."}],"say":"Clark, beds only take 
+- 19:47 act: {"actions":[{"do":"note","text":"Jason asked which bed is his. My naming: Jason 388,107,-1037. Dusk only for beds."}],"say":"Jason, your bed is 388,107,-1037 by my naming, not 387. Use it at dusk. I s
+- 19:49 act: {"actions":[{"do":"note","text":"Zack and Tommy hold at the row, unarmed. No walks until four are armed. Still trying sword into hand."}],"say":"Zack, Tommy: thank you, both counted. We hold at the ro
+- 19:53 act: {"actions":[],"say":"Kimberly, come back to your bed at 415,107,-1037 now, in daylight, and hold there with the group."}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Jason, I was wrong: your bed block is 387,107,-1037 on the map. Use that one at dusk. We sleep now at the row."}
+- 19:55 act: {"actions":[{"do":"sleep"}],"say":"Trini's sign reads slain on day 451. Hold to the bed tonight, all of you."}
+- 19:56 act: {"actions":[{"do":"sleep"}],"say":"Billy, at my bed 413,107,-1042 for the night. Sword still in pack; first light I try it again.","reasoning":"Still dusk, sheltered at the row with my bed. Sleep thro
+- 19:56 act: {"actions":[],"say":"Jason, 387,107,-1037 is your bed. Stand beside it and call sleep; do not use it by hand. Hold in sight until then.","reasoning":"Jason's cell is 387,-1037. Beds take sleep at nigh
+- 19:58 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":414,"y":107,"z":-1041}}],"reasoning":"Daylight, sword in pack. Try equip through use with the item; earlier try failed without a block position,
+- 20:00 act: {"actions":[],"say":"Billy: sword still in pack, use refused at my spot. No walks yet. Hold at the row; I will try a new way, then call.","reasoning":"Use refused. Holding the group in sight until I f
+- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Picard, I don't know yet. My sword is in pack and use refuses it. Sleeping at my bed; we try again at first light.","reasoning":"Dusk again, sheltered at my bed besi
+- 20:08 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 2 of 10 asleep. Stay at the bed by the row and try sleep again; the group should join."}
