@@ -53,3 +53,26 @@
 - 07:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}]}
 - 07:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy here, dusk day 415. Going to the bed at 429,-1050 with Picard in sight. Wesley, I will ask for the beef if m
 - 07:54 act: {"actions":[{"do":"sleep"}],"say":"Billy in bed at 429,-1050 for the night, Picard in sight. Jason, good to hear you are safe. Hunger 17, nothing held. Morning: count sight and ask for food at hunger 
+- 07:55 act: {"say":"Billy at the bed row, 430,-1051, health 4.3, hunger 17, nothing held. Troi, Beverly: I am counting, come into my sight and hold. Wesley, I will ask for the beef at hunger 6. Nobody walks east.
+- 07:57 act: {"say":"Billy at 430,-1051, health 4.3, hunger 17. Wesley, Riker, Leonardo, Data: please stay in sight. I hold nothing. Anyone who can reach me with food, come now; otherwise I hold until hunger 6."}
+- 07:59 act: {"say":"Kimberly, thank you. Please give me 4 rotten flesh now, I am at 430,-1051 with Picard in reach. I will hold it and eat at hunger 6, not before. Keep Trini in sight."}
+- 07:59 act: {"say":"Billy walking west to the bed row at 416,-1045 to meet Kimberly. Picard, come with me. Nobody goes east.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1045}}]}
+- 08:00 act: {"say":"Billy at 417,107,-1045, in the open at the row. Kimberly, I see Beverly only. Come into my sight and give me the 4 rotten flesh; I eat at hunger 6."}
+- 08:00 act: {"say":"Billy walking to Kimberly at 404,-1040 now, with Jason in my reach. Kimberly, hold still.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1040}}]}
+- 08:00 act: {"say":"Billy here at 406,-1040, in the open by the beds. Kimberly, I can see only bcrusher. Please come into my sight for the rotten flesh.","actions":[]}
+- 08:01 act: {"say":"Kimberly, I am walking to you now, at 403,-1038. Stay where you are.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}]}
+- 08:01 act: {"say":"Kimberly, I am at 404,-1039 now and still see no one but bcrusher. Please step toward me so I can see you.","actions":[]}
+- 08:01 act: {"say":"Kimberly, I am moving to 406,-1036, east of you. Hold the flesh until I am in view.","actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1036}}]}
+- 08:01 act: {"say":"I am at 407,-1036 and still cannot see Kimberly or Trini. I will stay put here in the open and wait for you to come into view.","actions":[]}
+- 08:02 act: {"say":"Kimberly, I am at 407,-1036, four blocks east of you. Walk east to 407,-1036 and stand beside me, I will not come west.","actions":[]}
+- 08:03 act: {"say":"Going two blocks west to 405,-1036 to be in your sight, Kimberly.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}}]}
+- 08:03 act: {"say":"Kimberly, I can see you now. Please give me the 4 rotten flesh. I will eat at hunger 6.","actions":[]}
+- 08:06 act: {"say":"Thank you Kimberly. Dusk is here, so I stay by the beds with you and Trini in sight. Good night to you both.","actions":[]}
+- 08:08 act: {"say":"Good night, Kimberly. I am going to the bed at 415,-1036, still near the group.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 08:09 act: {"say":"Billy here at 415,-1035, health 4.3, hunger 17, holding 4 rotten flesh. I see no one in sight now. Deanna, I heard the bow too, so I hold here by the beds until four are in sight.","actions":[
+- 08:13 act: {"say":"Day 416, Billy at 415,107,-1035. I see no one in sight yet. Beverly, Jason, Deanna, please walk to me here and I will count four in sight. Then we go together.","actions":[]}
+- 08:15 act: {"say":"Count confirmed: Billy, Jason, Tommy, Picard, four in sight at 415,-1035. Thank you all. Hunger 17, so I hold my flesh until 6. Next we go to the spawn together, slowly, and no one goes east."
+- 08:16 act: {"say":"Kimberly, you are at 0.93 health. Come into my reach here at 415,-1035 and I will give you two of my four rotten flesh. Trini, come too for the count.","actions":[]}
+- 08:17 act: {"say":"Kimberly, I am giving you two rotten flesh now. Eat one when you can.","actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}]}
+- 08:17 act: {"say":"Kimberly is not in my sight, so the two flesh stay with me for now. Picard, Jason and Tommy, I am here at 415,-1035.","intent":{"goal":"hold_count_at_bed","program":"rest","arguments":{},"wake
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Kimberly, Trini, I am stepping toward you so I can hand over the flesh."}
