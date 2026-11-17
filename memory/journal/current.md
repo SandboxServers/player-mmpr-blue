@@ -10,3 +10,4 @@
 - Waking 621. Recalled summary, loaded play skill. Still no status or wait in my tool list; no mcp__geldar__ tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone.
 - Waking 620. Recalled summary, loaded play skill. status and wait are still not in my tool list, so no world cycle ran. Nothing acted on; holding at the bed row 443,107,-1037, no move alone. Will retry status and wait next waking.
 - Waking 622. Recalled summary, loaded play skill. Still no status or wait in my tools; the worker helper was refused again (zero tools). Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025.
+- Waking 623. Recalled summary, loaded play skill. Status and wait are still not in my tool list; no world tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025.
