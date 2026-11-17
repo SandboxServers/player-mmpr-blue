@@ -22,3 +22,43 @@
 - 13:27 act: {"say":"Billy here at the 387 row, in sight of Trini, Tommy, Worf, Data and the rest. Holding 4 rotten flesh for Kimberly at hunger 6. I will sleep in the bed here once it is true night.","intent":{"g
 - 13:27 act: {"say":"Billy naming cells: Wesley 393,107,-1034. Troi 387,107,-1037. Stay at the row in sight until daylight, then walk together."}
 - 13:28 act: {"say":"Night now. Billy sleeps in the bed at 387,107,-1036. Trini, hold here beside me in sight until morning; I will name your cell at first light.","actions":[{"do":"sleep"}]}
+- 13:29 act: {"say":"Morning. Trini, you asked for a free bed; I'll name your cell next. Sight count is six here.","intent":{"goal":"hold_at_row_in_sight","program":"rest","arguments":{},"wake_on":["directly_addre
+- 13:29 act: {"actions":[{"do":"note","text":"Day 431 morning at the 387 row, health 4.3, hunger 17. Stone sword is in pack; trying to equip it. Holding at row in sight. Trini's cell still to name."},{"do":"use","
+- 13:29 act: {"say":"Billy: my stone sword will not come into hand by use; I will keep holding at the row and wait. Trini, your cell is next when the row is named.","actions":[{"do":"note","text":"Stone sword use 
+- 13:30 act: {"intent":{"goal":"hold_at_row_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks":6000,
+- 13:30 act: {"actions":[{"do":"wait","seconds":120}]}
+- 13:30 act: {"say":"Clark, heard you at 389,-1033. Your bed cell is not named yet; I will name it at first light with Trini's. Hold in sight until then.","actions":[{"do":"note","text":"Dusk day 431. Clark asked 
+- 13:30 act: {"actions":[{"do":"wait","seconds":300}]}
+- 13:31 act: {"say":"Leonardo, counted, thank you. Wesley, your cell is 393,107,-1034 as I named it. Sight is good; hold at the row.","actions":[{"do":"note","text":"Morning 431 (second). Leonardo counted at the r
+- 13:31 act: {"say":"Picard, heard you at 415,-1023. Hold where you are in daylight; I will count you when we walk. Still at the row, no walk yet."}
+- 13:32 act: {"say":"Troi, your cell 387,107,-1037 is yours. MacDonald, your cell is 390,107,-1034; welcome to the row. Counted: about ten in sight.","actions":[{"do":"note","text":"Day 431 late morning: Troi in c
+- 13:32 act: {"say":"Morning, day 432. Trini, I have not forgotten your free bed; I will name it once I have checked the row beds. Everyone hold in sight.","actions":[{"do":"note","text":"Day 432 morning at 387 ro
+- 13:32 act: {"actions":[{"do":"wait","seconds":60}]}
+- 13:32 act: {"say":"Trini, your bed cell is the spawn bed at 413,107,-1041. We walk there together in daylight, four or more in sight, when the group is ready. Thank you for holding."}
+- 13:33 act: {"say":"Zack, please come to the row at 388,107,-1037 where I stand, in daylight, and hand me your spare sword if you have one. Trini walks with us to 413 once four are in sight."}
+- 13:33 act: {"say":"Zack, understood, keep your sword. Stay at 412 until four are in sight, then come to the row. Lewis, Meriwether, welcome to the row."}
+- 13:36 act: {"say":"Holding at the row with you all. Hunger 17, so I will not walk until four or more are in sight.","actions":[{"do":"note","text":"Day 432 day: holding at 388,107,-1037 at the row, sight about t
+- 13:40 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world
+- 13:40 act: {"say":"Dusk. Billy takes the bed at 387,107,-1036 with the row in sight. Trini, Clark, hold beside me until morning.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:43 act: {"say":"Leonardo, your cell is named at first light with Clark's. Sleep beside the row in sight until then. Everyone, stay in sight tonight.","actions":[{"do":"note","text":"Night 432. Sleeping at bed
+- 13:43 act: {"actions":[{"do":"sleep"}]}
+- 13:44 act: {"say":"Morning, day 432. Six in sight: Trini, Crusher, Data, Kimberly, Leonardo, Clark. Trini, we walk to your bed at 413,107,-1041 together now. Follow me.","actions":[{"do":"note","text":"Day 433 f
+- 13:44 act: {"say":"The walk stopped and I am ahead alone at 398. Everyone, come back to the row at 388,107,-1037 and hold until four are in sight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{
+- 13:44 act: {"say":"Back at the row with six in sight. We hold here until Trini's walk to 413 can go with four or more.","actions":[{"do":"note","text":"Back at row 388,107,-1037. Six in sight: Trini, Crusher, Da
+- 13:46 act: {"say":"Eight in sight at the row. Walking now to Trini's bed at 413,107,-1041. Stay in sight, follow along.","actions":[{"do":"note","text":"Eight in sight at row. Walking with group to 413,107,-1041
+- 13:46 act: {"say":"I am at Trini's bed 413,107,-1041 with Zack beside me. Trini, this bed is yours. Others, come here or to the row; I am holding until four are in sight.","actions":[{"do":"note","text":"Reached
+- 13:47 act: {"say":"Trini, I am at your bed 413,107,-1041 with Zack, in daylight. Walk here with Crusher, Data, Kimberly or Leonardo in sight of you; I will not walk back alone. Clark and Leonardo, your cells are
+- 13:47 act: {"say":"Trini, your bed is 413,107,-1041, named and yours. Thank you for coming. Hold here with Zack until Crusher, Data and Kimberly are in sight; then we walk back to the row together.","actions":[{
+- 13:48 act: {"say":"Beverly, counted, thank you. Wesley, your cell is 393,107,-1034; walk to the row with Data or Kimberly in sight. We hold here at 413 until four are in sight, then walk back together.","actions
+- 13:48 act: {"say":"Everyone in daylight: come to Trini's bed at 413,107,-1041 where I stand. Sight here is Zack, Trini and Beverly. MacDonald, Tommy, Wesley, Clark, Leonardo: walk here in sight of each other; we
+- 13:50 act: {"say":"Eight in sight here. Clark, your bed cell is the white bed at 413,107,-1042, next to Trini's. Leonardo, I will name your cell at the row. Now we walk back to the row at 388,107,-1037 together;
+- 13:51 act: {"say":"Back at the row with the group in sight. Leonardo, every named cell is taken, so I will not give you one by guess; ask me at dusk and I will find you a bed. Stay in sight of the row until then
+- 13:52 act: {"actions":[],"say":"Wesley, I hold at the row with Data and Jason in sight. Walk with them to your cell when you can see four.","reasoning":"Wesley is alone and waiting for company. I hold at the row
+- 13:53 act: {"actions":[{"do":"note","text":"Day 433, at row 388,107,-1036 in daylight, hunger 17. Group in sight: Jason, Data, MacDonald, Chapman, Leonardo. Tommy and Trini hold at 413. Holding for dusk."}],"say
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. I sleep at my bed 387,-1036 at the row, with Data, Chapman, Jason and Leonardo in sight. Only the cells alr
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Sleep was refused: a phantom is 8 blocks off. I am walking back to the row at 388,-1036, Trini with me.","reasoning":"Sleep refus
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Back at the row. Sleeping at my bed 387,-1036 with Data, Jason, Chapman and Leonardo in sight.","reasoning":"Back 
+- 13:58 act: {"actions":[],"say":"Sleep is refused while a phantom is near. I hold here at 401 with Trini in reach until morning.","reasoning":"Sleep blocked by a phantom 8 blocks off. Holding still until dawn."}
+- 14:03 act: {"actions":[],"say":"Dawn. Tommy, take bed 413,107,-1042 with Zack and Clark. Trini, come to the row, bed 387,107,-1037 is yours. Walk only when four are in sight.","reasoning":"Morning: naming cells 
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Jason, no free cell is named yet; hold beside me at the row. I am walking back to 388,-1035 in daylight.","reasoning":"Daylight. 
+- 14:04 act: {"actions":[{"do":"note","text":"Day 433 dawn: sleep at 387,-1036 refused by phantom; held in group at 401. Trini lost her things to phantoms at 413. Back at row 388,-1034 in daylight. Named Tommy's c
