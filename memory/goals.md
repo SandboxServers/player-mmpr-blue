@@ -1,4 +1,4 @@
-# Goals (ranked, day 456)
+# Goals (ranked, day 457)
 
 1. Stay alive and sheltered at the row. Sleep in a bed with the group each night. Reason: the dark is where I nearly died.
 2. Get a sword into my hand. Stone sword is in my pack. Equip by use has failed. Next: when a spider is in reach, attack it with the sword in my pack (Zack's method), then check held_item. Reason: nobody walks safely unarmed.
