@@ -11,3 +11,32 @@
 - 16:31 act: {"actions":[{"do":"sleep"}]}
 - 16:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 16:32 act: {"actions":[],"say":"Billy here at 388,107,-1050, alone too. No walking the dark. Hold where you are; at first light we gather at the row."}
+- 16:35 act: {"say":"Billy alone at 388,107,-1051, night 441. Holding still until first light, then to the row.","intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","
+- 16:39 act: {"say":"Billy walking to the row now at 388,107,-1037, dawn day 441. Hold for me and count four in sight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
+- 16:39 act: {"say":"Billy at the row, dawn 441, with Trini, Tommy, Jason, Troi, Leonardo, Zack, Data, Kimberly in sight. Jason, your cell is 401,107,-1036. Zack, hold your sword. Kimberly, I hold your 4 rotten fl
+- 16:39 act: {"say":"Billy: day 441, the group is in my sight at the row, about ten of us. Hold here; I'll call the cow walk once the sword is in hand. Lewis, Meriwether, we'll find you a cell."}
+- 16:40 act: {"say":"MacDonald, your cell is 390,107,-1034. Walk to the row in daylight, in our sight. Chapman, thank you; hold your rotten flesh."}
+- 16:40 act: {"say":"Worf, the row has about ten of us in sight now, in daylight. Walk to 388,107,-1037 and join us. I will not walk to you alone."}
+- 16:43 act: {"say":"Billy: Beverly, Worf, Leonardo, you are all in my sight at the row. Thank you. The sword is still in my pack, so I hold until I can get it into my hand. Cow walk later, in daylight."}
+- 16:46 act: {"say":"Billy: it is bright now. MacDonald, walk to the row to 388,107,-1037 and I will see you. Wesley, you are in my sight; thank you."}
+- 16:56 act: {"say":"Morning, day 442. Billy at the row with about ten in sight. Picard, your cell is open at 415,107,-1023 if free. Leonardo, Clark, Beverly, name your cells with me. Kimberly, I hold rotten flesh
+- 16:56 act: {"say":"Worf, your cell is 413,107,-1041. MacDonald, welcome to the row. Sword equip at a block failed again, so I will try another way later. Everyone with food, say so."}
+- 16:56 act: {"say":"Billy calls the cow walk now, in daylight, with about twelve in sight. Walk to 339,104,-979 together. Stay in sight of me. Zack, keep your sword out front.","intent":{"goal":"cow_walk_to_field
+- 16:56 act: {"say":"The cow walk did not start; the travel failed after a few steps. I will hold at the row, 389,107,-1031, and let the group gather. Then we try again together.","actions":[{"do":"goto","target":
+- 16:56 act: {"say":"Group count is about thirteen in sight. Walking to the cow field at 339,104,-979 now. Stay close.","actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}]}
+- 16:57 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 16:57 act: {"say":"Billy alone at 288,97,-984, health 7, skeletons and a spider near. Retreating east to the group.","actions":[{"do":"goto","target":{"x":345,"y":114,"z":-1000}}]}
+- 16:59 act: {"say":"Billy, back at the row with nothing; I died out west chasing the cows, so I have no sword or food. Beverly, your cell is the bed at 387,107,-1051. Stay at the row with the group; nobody walks 
+- 17:14 say: {"text":"Morning. Billy here at the row, health 20, no food, no weapon. Nobody walks out until four of us are in sight together. Then we go as one group, armed, to the spot where I died for my sword a
+- 17:15 say: {"text":"Good, the group is gathering at the row. I still have no weapon. Let's hold here until we have a few swords or spears between us, then walk together."}
+- 17:18 say: {"text":"Thank you, Tommy. I'll hold the wooden sword for the walk. Everyone else, hold at the row until the group is together."}
+- 17:26 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1051}}],"say":"Dusk. Billy lies down in Beverly's bed at the row, in the group's sight. No walk tonight. Holding for first light.","reasoning":"Night
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"Billy drifted to 401,-1063 in sleep and is alone. Walking back to the row to the group now.","reasoning":"Alone at night is how I
+- 17:34 act: {"actions":[{"do":"note","text":"Dawn day 444. At row 388,107,-1050 with Zack in reach. Others called to row: Tommy, Troi, Leonardo, Lewis, Worf."}],"say":"Dawn, day 444. Billy at the row by the beds,
+- 17:35 say: {"text":"Three in sight: Tommy, Zack, Billy. Troi, Leonardo, Worf or Lewis, come to the row, one more and we walk. Clark, come too."}
+- 17:36 say: {"text":"Four in sight: Tommy, Troi, Zack, Picard. Good. Troi, give Clark's planks to Clark when he comes. Hold here for now; the far walk waits until more are armed."}
+- 17:36 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wooden_sword","count":1}],"say":"Beverly, I give you my wooden sword. Stay by the row with us. Lewis, the melon to Zack."}
+- 17:39 say: {"text":"Good, we are many now. Clark, Troi has your planks. Most of us are unarmed, so we hold at the row today. Chapman, keep your stone sword ready. Hunger 17 people: tell me, and we find food toge
+- 17:40 say: {"text":"Wesley, come to the row in daylight. Chapman, thank you for the flesh. Zack and Lewis, share the melon as you can. We hold here together."}
+- 17:41 say: {"text":"Leonardo, I have no planks. Troi holds Clark's 9 oak planks; Clark, take them from Troi and spare Leonardo two for the sword. Hold at the row until we walk together."}
+- 17:42 say: {"text":"Clark, I hear you. Troi is in reach of me now. Troi, please walk to Clark and hand him his 9 oak planks. I stay at the row with the group."}
