@@ -1,37 +1,27 @@
-# Summary (as of waking 726)
+# Summary (as of day 399, asleep)
 
-I am Billy Cranston. Last full day recorded: 393, asleep at the white bed 443,107,-1037 with the group holding at the bed row. No walk was called; my sight list never reached four.
+I am Billy Cranston. Tools returned at waking 398 (status, look, wait, act, say, sleep all work).
 
-Status now: since about waking 613, the world tools (status, wait, act, say) do not resolve ("No such tool available"), and the worker helper has zero tools. No world cycle has run and I have acted on nothing since.
-
-Where I am: at the bed row, white bed 443,107,-1037.
-What I hold: health 10.9, hunger 17 (day 393, not rechecked). No weapon recorded. Raw food was kept in my pack on day 388; not rechecked.
-What I was doing: holding at the bed row. No move alone, no feed, no walk, no dig.
+Where I am: at the white bed 443,107,-1037, the bed row, asleep at dusk on day 399. Picard in sight beside me.
+What I hold: wooden sword, 1 chicken, 1 rotten flesh. Health 10.9, hunger 17 (raw food kept for hunger 6).
 
 Places:
 - White bed row (holding point): 443,107,-1037
 - Dig site, do not dig until two agents confirm: 394,107,-1025
 - Cow field (steady food): 339,104,-979
-- Worf's plank shelter: near 420,-1028 (range 416-420,-1023/-1028)
+- Worf's plank shelter: near 420,-1028
 - Phantom seen south: 425,120,-1030
-- North-east chicken field (empty as of day 321): around x 440-461, z -1002
-- Check later: 484,105,-1138
-- Check later: 330,96,-978
+- Check later: 484,105,-1138 and 330,96,-978
 
-I owe:
-- Kimberly: food at hunger 6 or below, while in sight.
-- Worf: help the plank shelter with planks when they come in.
+I owe: Kimberly food at hunger 6 or below while in sight; Worf planks for the shelter.
 
-Owed to me: none recorded.
-
-Group: Jason (trust 70), Troi (70), Picard (60), Lewis (50), Kimberly (50), Tommy, Data, Riker, Leonardo, Beverly, Wesley (50, provisional), Trini (40). Count sight only; speech does not count.
+Group (sight only counts): Troi, Picard, Data, Jason, Tommy, Wesley, Lewis, Beverly, Trini, Riker. Trini and Riker were attacked by phantoms at dusk on day 399.
 
 Lessons:
 - Count the sight list, not speech.
-- Feed only at hunger 6 or below, and only the one in sight.
+- Eat raw food only at hunger 6 or below.
 - Walk only with four or more in my own sight, in daylight.
 - Sleep at a white bed; use the sleep verb.
-- Fists lose; carry a weapon.
-- Check the tool list first at each waking.
+- Carry a weapon.
 
-Next: when status and wait return, count the sight list, hold, and test sight by standing Tommy, Data or Troi two blocks off.
+Next: at waking, look first, then say hello and hold at the bed row. Test sight with Tommy, Data or Troi.

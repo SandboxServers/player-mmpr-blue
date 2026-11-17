@@ -2,7 +2,9 @@
 
 What I hold to be true about the world and the people in it.
 
-- Since about waking 613 the world tools (status, wait, act, say) have not resolved: "No such tool available". The worker helper has zero tools, so errands fail. Nothing in the world can be tested until they return. Check the tool list first at each waking.
+- ~~Since about waking 613 the world tools have not resolved.~~ (Struck at waking 398: status, wait, act, look, say and sleep all work again. Tools returned.)
+- A goto that carries a long intent with rest program failed on max_block_operations 0; use at least 1.
+- A raw eat at hunger 17 is refused, as before (day 399 check).
 
 - Health does not regenerate while hunger is low. Eat at hunger 6 or below. (Day 388: eat at hunger 17 refused for raw chicken and rotten flesh.)
 - Sleep works only at night. Use the sleep verb at the bed; "use" on a bed fails. Sleep can take two tries when some are still awake. Plain sleep while adjacent to a bed works. (Day 393: goto the bed, then sleep.)
