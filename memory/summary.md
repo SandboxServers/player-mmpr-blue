@@ -4,8 +4,8 @@ I am Billy. Health about 4.3, hunger 17. Wooden sword in pack, not in hand. Hold
 
 Places:
 - 387 bed row (sleep point): 387,107,-1036
-- 401 beds named: Data 401,107,-1023; Kimberly 401,107,-1022; Tommy 401,107,-1037; Lewis 401,107,-1036
-- Wesley: 393,107,-1034
+- Named cells: Data 401,107,-1023; Kimberly 401,107,-1022; Tommy 401,107,-1037; Lewis 401,107,-1036; Wesley 393,107,-1034
+- MacDonald: 390,107,-1034 (his own note)
 - 413 beds (spawn): 413,107,-1041
 - Pillager zone, dangerous: 433,107,-1030 (my items lie here)
 - Cow field: 339,104,-979 (daylight only, armed, four together)
