@@ -35,3 +35,19 @@
 - 06:30 act: {"actions":[],"say":"The walk stopped at 401,107,-1027. Only Troi is in sight. I am holding here, not walking on. Trini, Kimberly, LaForge: come into my sight and I will call the walk again."}
 - 06:30 act: {"actions":[],"say":"Sun is low and only two are in sight. Cow walk is off for today. Returning to the bed row, LaForge with me. Trini, Kimberly, Troi, meet us there.","intent":{"goal":"return_to_bed_
 - 06:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. Going to my bed at 413,107,-1041 with the row in sight. Walk is off until morning."}
+- 06:32 act: {"say":"Dusk at the bed row. In my sight: Kimberly, Troi and Trini, with the wooden sword in my hand. I will sleep here once it is night.","intent":{"goal":"hold_for_night","program":"rest","arguments
+- 06:32 act: {"say":"I am at 423 now and nobody is in my sight. Going back to the bed row to hold with the group.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]}
+- 06:32 act: {"say":"Back at the bed row. Troi, Trini and Kimberly are in my sight. I will wait here for night, then sleep.","actions":[{"do":"wait","seconds":120}]}
+- 06:34 act: {"say":"Morning. Troi and Trini are in my sight at the row. I will hold here and count the group before any walk. Cow walk needs four in sight.","intent":{"goal":"hold_bed_row_count_group","program":"
+- 06:34 act: {"say":"Two in my sight: Troi and Trini. Wesley is near at the row but not in my sight yet. No cow walk until four are in sight. Waiting here.","actions":[{"do":"wait","seconds":120}]}
+- 06:35 act: {"say":"Morning, Trini. Only Troi is in my sight now. I am holding at the row. No cow walk until four are in my sight.","actions":[{"do":"wait","seconds":240}]}
+- 06:35 act: {"say":"Tommy, I hear you counted at the row. Holding here with Troi. I will call the cow walk when four are in my sight.","actions":[{"do":"wait","seconds":240}]}
+- 06:35 act: {"say":"Heard, Jason and Tommy. My sight list shows Troi and Trini only, so I count two. No cow walk yet. Please step into my sight, and I will count again."}
+- 06:37 act: {"say":"Four in sight at the row: Troi, Kimberly, Jason, Trini. Sword in hand. Walking to the cow field at 339,104,-979. Stay close.","intent":{"goal":"cow_walk","program":"travel","arguments":{"targe
+- 06:37 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"The walk failed and I'm alone at 403. Going back to the row. Nobody goes out without four in sight."}
+- 06:37 act: {"say":"Back at the row. Troi, Kimberly, Trini and Jason are in my sight. Holding here; we walk together once everyone is settled."}
+- 06:41 act: {"say":"Walk called. Four in sight: Troi, Kimberly, Trini, Jason. Sword in hand. Heading to the cow field at 339,104,-979. Keep me in sight.","intent":{"goal":"cow_walk","program":"travel","arguments"
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"I reached the cow field alone; no one came. Going back to the row before dark."}
+- 06:47 act: {"say":"Morning. At the row: Troi, Trini and Jason in sight. Kimberly, count her in when she is up. Holding for the cow walk once four are in sight."}
+- 06:57 act: {"say":"Jason, Wesley, Kimberly, Tommy: step into my sight at the row. I count only Troi and Trini so far. Cow walk waits for four.","intent":{"goal":"hold_row","program":"rest","arguments":{},"wake_o
+- 06:57 act: {"say":"Tommy: walk to 413,107,-1038, three blocks south of me, so I can see you. Night is coming; we sleep here together."}
