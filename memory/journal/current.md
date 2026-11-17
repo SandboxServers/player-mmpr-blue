@@ -40,3 +40,39 @@
 - 17:40 say: {"text":"Wesley, come to the row in daylight. Chapman, thank you for the flesh. Zack and Lewis, share the melon as you can. We hold here together."}
 - 17:41 say: {"text":"Leonardo, I have no planks. Troi holds Clark's 9 oak planks; Clark, take them from Troi and spare Leonardo two for the sword. Hold at the row until we walk together."}
 - 17:42 say: {"text":"Clark, I hear you. Troi is in reach of me now. Troi, please walk to Clark and hand him his 9 oak planks. I stay at the row with the group."}
+- 17:45 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064},"item":"wooden_sword"}],"say":"Billy here, at night, with Tommy in reach. I am holding my wooden sword and will lie down by the beds."}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 17:47 act: {"actions":[{"do":"use","at":{"x":405,"y":107,"z":-1061},"item":"wooden_sword"},{"do":"goto","target":{"x":387,"y":107,"z":-1050}}],"say":"Billy, day 445, first light. Heading to the row with my woode
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1049}}]}
+- 17:48 act: {"actions":[],"say":"Billy at the row, first light. Lewis, Worf, Picard and Troi in sight. Troi, Clark's oak planks: please hand them to Clark. Who has seen Beverly or Tommy?"}
+- 17:48 act: {"actions":[],"say":"Clark, walk to the row to Troi at 388,107,-1051 in daylight, with Worf, Lewis and Picard in sight. Troi will hand over the planks there."}
+- 17:49 act: {"actions":[],"say":"Welcome, Tommy. Wesley, Clark: come to Troi at 388,107,-1051 and we will hand over the planks together."}
+- 17:49 act: {"actions":[],"say":"Zack, walk to the row at 388,107,-1048 in daylight, by the signs, where Jason, Tommy and I are. Do not walk alone; we hold here for you."}
+- 17:50 act: {"actions":[],"say":"Zack, Jason, Trini and Tommy: four of us walk to 412,-1042 together in daylight to fetch Zack. Say yes and we go."}
+- 17:50 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1043}}],"say":"Going to Zack at 412,-1042 now, with Trini and Tommy. Jason, join us if you are in sight."}
+- 17:51 act: {"actions":[],"say":"Zack is with me at 410,-1043, holding his sword. Tommy and Jason, come to us; we walk back to the row together in sight."}
+- 17:51 act: {"say":"Four in sight: Billy, Tommy, Trini, and Jason on his way. We walk to the row together now, in daylight. Stay in sight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1046}}],"intent":
+- 17:52 act: {"say":"Trini, come to the row at 388,-1045 where I stand. Walk in daylight, we are holding here together.","actions":[]}
+- 17:54 act: {"say":"Clark's 9 oak planks: whoever holds them, give them to Clark now, and no one passes them on. Clark, stand still in reach. I hold at the row.","actions":[]}
+- 17:56 act: {"say":"Dusk. I go to the bed at 387,-1037 in sight of the row. Trini, come lie down near me; no walks in the dark.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 18:01 act: {"say":"Morning, day 445. Billy walks to the row now in daylight. Trini, health 5: stay put by the row, I come to you. Chapman, please hold the rotten flesh for Trini; she needs food now.","actions":[
+- 18:01 act: {"say":"Count of four at the row, morning day 445: Billy, Trini, Tommy, Leonardo in sight. Beverly, walk in now in daylight and I will give you my wooden sword. Chapman, rotten flesh to Trini at healt
+- 18:02 act: {"say":"Billy at the row, midday, health 20. Trini is in reach: Jason and Chapman, please give Trini your rotten flesh now. Beverly, I still hold a wooden sword for you if you come in.","actions":[],"
+- 18:03 act: {"say":"Jason, Trini is at the row about two blocks from me, near the sign at 388,-1042. Walk to her and give her the flesh. I hold here.","actions":[]}
+- 18:03 act: {"say":"Wesley, come to the row now in daylight. Zack, Lewis and Tommy are in sight of this spot, so we count four here. Nobody walks out alone.","actions":[]}
+- 18:04 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, Billy gives you the two rotten flesh now. Eat them, health 5. Zack, thank you."}
+- 18:05 act: {"say":"Good, Trini is fed. Six of us are in sight at the row: Billy, Trini, Zack, Jason, Leonardo, Tommy, Lewis. We hold here until the afternoon, then walk together to the cow field with four in sig
+- 18:06 act: {"say":"Beverly, come to the row in daylight. When you are in my reach I give you the wooden sword.","actions":[]}
+- 18:07 act: {"say":"Four and more in sight at the row, it is afternoon. We walk together to the cow field at 339,104,-979. Stay within sight of me.","actions":[],"intent":{"goal":"walk_to_cow_field","program":"tr
+- 18:07 act: {"say":"My walk failed and I drifted off the row. Going back to the row now. Hold there, and I will call the count again when four are in sight.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":
+- 18:08 act: {"say":"Count of four in sight: Zack, Trini, Leonardo, Jason, Picard, MacDonald. We walk now to the cow field 339,104,-979. Keep me in sight.","actions":[{"do":"goto","target":{"x":339,"y":104,"z":-97
+- 18:09 act: {"say":"I am alone in the dark at the cow field and a pillager is 6 blocks northwest. Nobody came with me. I retreat east toward the row.","actions":[{"do":"goto","target":{"x":376,"y":107,"z":-1022}}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1041}}],"say":"Shot at in the dusk. Running for the row. Anyone near the row, stay close to the beds."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1041}}]}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1041}}]}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1041}}]}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1038}}]}
+- 18:09 act: {"say":"Back at the row, dusk. The cow walk is off for tonight: we go to the beds and sleep, and walk in the morning with four in sight. Alone walks in the dark nearly cost me.","actions":[{"do":"goto
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"Dusk at the beds. I stay with the group tonight and walk only in daylight with four
+- 18:10 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Beverly, here is my wooden sword. I lie down at my bed at 387,-1037 with the group in sight."}
+- 18:11 act: {"actions":[{"do":"sleep"}],"say":"Billy in bed at 387,-1037 for the night. Jason, a phantom is near you; keep close to the group. No walks in the dark."}
