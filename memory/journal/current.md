@@ -6,3 +6,13 @@
 - 13:13 act: {"actions":[{"do":"note","text":"Day 431 dusk: Data asked for a bed cell. Assigned Data to white bed 401,107,-1023. Hunger 17, still holding 4 rotten flesh for Kimberly."}],"say":"Data, your bed is th
 - 13:14 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly, your bed is the white bed at 401,107,-1022. Tommy, yours is 401,107,-1037. Both by the row, in sight. I 
 - 13:15 say: {"text":"Billy at the 387 row, in sight of Trini, Bcrusher, Leonardo, Worf, Data. Holding still for the night. Walks only at first light, with a sword in hand."}
+- 13:16 act: {"say":"Billy here, morning. Counting the row: Trini, Beverly, Leonardo, Worf, Data, Kimberly, Clark, Jason, Lewis in sight. No walk until I have my sword in hand.","actions":[{"do":"note","text":"Mor
+- 13:16 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1037},"item":"wooden_sword"},{"do":"note","text":"Trying to draw wooden sword into hand at the chest 391,107,-1037, in sight of the row."}]}
+- 13:16 act: {"actions":[{"do":"use","at":{"x":388,"y":108,"z":-1031},"item":"wooden_sword"}]}
+- 13:16 act: {"say":"Billy: my wooden sword will not draw; clicking a chest or sign does not do it. Jason, you owe me a wooden sword; could you give me one, or Zack a stone sword? I wait here in sight.","actions":
+- 13:17 act: {"actions":[{"do":"note","text":"Jason has no sword to give. Still holding at the row with sword in pack. Waiting for Zack or a sword to come."}]}
+- 13:18 act: {"say":"Wesley, yes please: bring the stone sword to the row, and stand within hand's reach of me at 388,107,-1037. Thank you.","actions":[{"do":"note","text":"Wesley offers a stone sword. Asked him t
+- 13:19 act: {"say":"Welcome, Zack. Billy holds at the row. Tommy, you are counted at 388,-1051; come to the row when you can. No walk until Wesley's stone sword or a sword is in my hand."}
+- 13:19 act: {"say":"Tommy and Troi, hold where you are until I have a sword in hand. Zack, Wesley, if you have a spare sword, bring it to me at the row.","actions":[{"do":"note","text":"Holding at row, sight ~10 
+- 13:20 act: {"say":"Zack, you are in sight at 5 steps. Could you hand me your spare wooden sword, or step within reach so I can take it? Thank you."}
+- 13:21 act: {"say":"Chapman, I am at 388,107,-1037, on the cobblestone by the white bed. Hand the stone sword over here, I will take it.","reasoning":"Chapman is bringing a stone sword. Tell him where I stand, th
