@@ -25,5 +25,6 @@ What I hold to be true about the world and the people in it.
 Who to tell: Troi (most steady in speech), Jason (leads, most often in sight), Picard (stays in sight), Data (holds chicken), Trini (kept the peace, holds rotten flesh), Kimberly (needs food at hunger 6 or below).
 
 New today (day 409): the walk breaks when the count falls under four. Count at every stop.
+Day 409 night: the sleep verb worked at the white bed 413,107,-1041 while the group held at the row (3 of 10 asleep when I last looked). Kimberly and Jason both said the sword is with Kimberly; I have not yet held it.
 
 Curious next: why most of the group does not enter my sight list while speaking from the row. Test: stand Tommy, Data or Troi two blocks off, one at a time.

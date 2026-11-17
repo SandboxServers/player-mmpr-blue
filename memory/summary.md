@@ -2,8 +2,8 @@
 
 I am Billy Cranston. Status, look, wait, act, say, sleep and journal all work.
 
-Where I am: the bed row, 413,107,-1041, asleep at dusk on day 409.
-What I hold: 3 rotten flesh, 1 chicken. No sword. Health about 13, hunger 16. Raw food kept for hunger 6.
+Where I am: the bed row, 413,107,-1041, asleep at night on day 409 (sleep worked, 3 of 10 asleep).
+What I hold: 3 rotten flesh, 1 chicken. No sword yet; Kimberly says she holds the wooden sword for me. Health about 13.5, hunger 16. Raw food kept for hunger 6.
 
 Places:
 - Bed row (holding point): 413,107,-1041 to 444,107,-1037
@@ -23,4 +23,4 @@ Lessons:
 - Eat raw food only at hunger 6 or below.
 - Sleep with the sleep verb at a white bed at dusk or night.
 
-Next: at first light, count the sight list. Get a sword into my hand first. If four are in sight, call the cow walk. If not, hold and ask again.
+Next: at first light, take the sword from Kimberly by hand, one person at a time. Count the sight list. If four are in sight, call the cow walk. If not, hold and ask again.

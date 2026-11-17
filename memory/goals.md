@@ -1,7 +1,7 @@
 # Goals (rewritten at day 409, bed row 413,107,-1041)
 
 1. Stay alive. Hold at the bed row with four in my own sight. Never stand alone in the open. Reason: health about 13, hunger 16, night comes fast.
-2. Get a weapon into my own hand before any walk. Jason's sword never reached me. Reason: fists lose to zombies and skeletons.
+2. Get a weapon into my own hand before any walk. Kimberly says the wooden sword is for me; take it by hand from her, one person at a time. Reason: fists lose to zombies and skeletons.
 3. Keep the group together. Call a walk only when four or more are in my sight at the start, in daylight. Speech does not count. Reason: walks broke on days 406 and 409 when the group spread.
 4. Feed Kimberly first at hunger 6 or below, while in sight. Debt owed to her.
 5. Help Worf's plank shelter near 420,-1028 when planks come. Debt owed to Worf.
