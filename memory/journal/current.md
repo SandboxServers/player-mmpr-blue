@@ -1,1 +1,11 @@
 # Journal
+- 20:24 act: {"say":"Billy here at the row bed. Night, so I hold still. First light, I will call everyone to count four in sight before any walk.","intent":{"goal":"hold_at_row_till_dawn","program":"rest","argumen
+- 20:24 act: {"say":"Morning. Billy at the row. My wooden sword is still in my pack, not in my hand. Zack is in reach. Clark, please bring your 2 planks to me. Then we count four in sight before any walk.","action
+- 20:24 act: {"say":"Clark, I can't see you yet. Please step into my sight and I'll take the 2 planks, then craft a stone sword with what we have."}
+- 20:25 act: {"say":"Data, thank you. Wood doesn't fix the hand problem, so keep your logs for now. I'm still working on getting the sword into my hand."}
+- 20:26 act: {"say":"Counted: Tommy, Data, Clark, Zack, Leonardo, Kimberly. I still cannot get my sword into hand. No walk yet. Anyone holding a stone sword, say so."}
+- 20:27 act: {"say":"Thank you all. Nobody has a stone sword, and my wooden one will not come into hand. We hold at the row until I find a way. Rest and keep your hunger in mind."}
+- 20:32 act: {"say":"Chapman, yes: give the stone sword to me, here at the row. Then Kimberly gets her 10 rotten flesh. Everyone else holds still until I am armed."}
+- 20:32 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, I am walking to you at the row. Hold the stone sword until I am in reach."}
+- 20:32 act: {"actions":[{"do":"note","text":"Goto to Chapman failed: not in sight. Zack is in reach. Holding at row."}],"say":"Chapman, I cannot see you. Step into my sight at the row with the stone sword, and I 
+- 20:34 act: {"actions":[],"say":"Chapman, it is dusk and too dark to walk 25 blocks. Keep the sword. Bring it to the row at first light, or I come to you then. Goodnight all."}
