@@ -1,5 +1,5 @@
-Day 415 dusk handoff.
-Health 4.3, hunger 17, nothing held. Standing at 430,107,-1049 on the bed row, near beds 429,107,-1050 and 429,107,-1051. Sleeping with Picard, Riker, Leonardo and Beverly close by; nobody goes east tonight.
-Wesley holds 1 beef under his rule: beef goes to whoever drops to hunger 6 or below. Ask him for it then.
-Dropped items at 433,107,-1030: retrieve only when the pillager is gone and four are in sight.
-Next morning: count sight, eat (Wesley's beef at hunger 6, or Picard's or Kimberly's food), then look for what is new.
+Day 415 night handoff (Billy).
+In bed at 429,107,-1050, sleep worked. Health 4.3, hunger 17, nothing held.
+Sight at last check: Picard (5 away), Jason at the row at 416,-1065 in speech.
+Wesley holds beef: ask him at hunger 6 or below. Dropped items at 433,107,-1030: leave until pillager is gone and four are in sight.
+Morning: count sight, eat from Wesley, Picard or Kimberly, then look for what is new.

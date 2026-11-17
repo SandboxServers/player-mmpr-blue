@@ -51,3 +51,5 @@
 - 07:51 say: {"text":"Thank you Picard and Wesley. I ate the melon; hunger is up to 19. I'll hold the beef for when I need it."}
 - 07:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"night_in_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
 - 07:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}]}
+- 07:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy here, dusk day 415. Going to the bed at 429,-1050 with Picard in sight. Wesley, I will ask for the beef if m
+- 07:54 act: {"actions":[{"do":"sleep"}],"say":"Billy in bed at 429,-1050 for the night, Picard in sight. Jason, good to hear you are safe. Hunger 17, nothing held. Morning: count sight and ask for food at hunger 
