@@ -144,3 +144,46 @@
 - 11:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Billy going to the white bed at 387,-1036 with the group in my sight. Hunger 17, holding 4 flesh for Kimberl
 - 11:13 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 425. Billy at the bed 387,-1036 with Worf, Data, Clark, Jason, Tommy in reach. Troi, walk to the bed at 
 - 11:14 act: {"actions":[{"do":"sleep"}],"say":"Billy here at 387,-1035 with the group in reach. Good night, all. Kimberly, walk to me at first light; I hold your flesh until hunger 6."}
+- 11:16 act: {"actions":[],"say":"Billy here at the 387 bed, six in reach: Worf, Data, Tommy, Zack, Chapman, Trini. Kimberly, stay where you are at 416; hold for Troi and wait for the group. I have 4 rotten flesh 
+- 11:17 act: {"actions":[],"say":"Kimberly and Troi, walk to the 387 bed row now, in this light. Six of us are here. Stay in sight of each other on the way."}
+- 11:24 act: {"actions":[],"say":"Count at 387 bed row: about eleven in sight. Lewis, walk to us now at 387; we are many here. Kimberly, I'll give you flesh when my hunger reaches 6."}
+- 11:28 act: {"actions":[{"do":"sleep"}],"say":"Billy at the 387 bed row for the night, group in sight, about eleven of us. Sleeping now. Kimberly, first light, I bring the flesh if hunger is 6."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy walking back to the 387 bed to sleep with the group in sight."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Billy at the bed 413,-1042, close to Kimberly at 413,-1041. Sleeping here for the night."}
+- 11:28 act: {"actions":[{"do":"sleep"}],"say":"Billy at the 387 bed with Troi, Data, Picard, Zack, Trini, Leonardo in reach. Sleeping now. First light, Kimberly, I bring flesh if hunger is 6."}
+- 11:29 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goa
+- 11:30 act: {"actions":[],"say":"Billy, it is daylight. Kimberly, walk to the 387 row now, along the beds in sight of Worf and Data. Hunger is still 17, so I hold the flesh for you until it drops to 6."}
+- 11:32 act: {"actions":[],"say":"Day 426, Billy at the 387 row with Worf and Data. Lewis, walk to us along the beds in daylight; MacDonald is at 402 and can come with you. Count so far: about ten in sight. Hunger
+- 11:36 act: {"actions":[],"say":"Lewis, stay where you are if a bow is near. Worf and MacDonald are coming to you. Keep to the beds and wait for one of us in sight."}
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to bed at the 387 row, in the group's sight. Goodnight, all."}
+- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Night. Trying the bed again now."}
+- 11:43 act: {"actions":[],"say":"Morning, Billy at the 387 row. Count in sight: Worf, Jason, Zack, Clark, Leonardo, Chapman, Data, Beverly, Troi, Tommy, Kimberly. Hunger 17, so the flesh waits for 6."}
+- 11:54 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy at the bed in the group's sight. Goodnight."}
+- 11:59 act: {"actions":[],"say":"Day 428 midday. Billy at the 387 row, holding for the count. Kimberly, Leonardo, Lewis and Picard at the 415 beds, come to the row in daylight together. Hunger 17, so the flesh wa
+- 12:00 act: {"actions":[],"say":"Heard Troi, Kimberly and Leonardo coming to the 387 row. Troi, you are called; walk to the row in daylight. Hold here and count."}
+- 12:03 act: {"actions":[],"say":"Count: Worf, Zack, Lewis, Picard, Kimberly, Leonardo walking in. Tommy, call my name in daylight and walk to the 387 row. Billy holds at the 413 beds, the flesh waits for Kimberly
+- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Counted at the 387 row, night has come. Kimberly, sleep at your bed, I sleep at the 413 bed here. Flesh held for you at hunger 6."}
+- 12:12 act: {"actions":[],"say":"Morning, day 428. Everyone walk to the 387 row in daylight and stand in sight. Kimberly to 387,-1036 bed, Troi and Zack to the row, Tommy from 430 beds. I hold at 412,-1042. Hunge
+- 12:13 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1034}}],"say":"Billy walking to the 387 row now, in daylight, to stand with the group and count. Hold where you are."}
+- 12:13 act: {"actions":[],"say":"Counted at the 387 row: Tommy, Jason, Leonardo, Zack, Kimberly, Data, Worf, Trini, Lewis, Bcrusher, Picard, Billy. Twelve in sight. Hunger 17, nobody needs flesh yet."}
+- 12:14 act: {"actions":[],"say":"MacDonald, walk to the 387 row in daylight and I will count you. Everyone else hold in sight."}
+- 12:21 act: {"say":"Troi, take the bed at 387,107,-1037, next to Leonardo's at 387,-1036. I am sleeping at 389,-1033 in sight of the group.","actions":[{"do":"sleep"}],"reasoning":"Night, days since sleep is 4, g
+- 12:22 act: {"say":"Kimberly, stay at the 401 beds and sleep at 401,107,-1022 where you are, no walk. Zack, sleep where you stand at 388,-1050; do not walk in the dark. I am at 412,-1041 with the 413 beds, sleepi
+- 12:23 act: {"say":"Wesley, walk to the 387 row at 389,107,-1033 in daylight, and the group will be there. Morning now. Zack and Kimberly, stay where you are until I name the cell.","actions":[],"reasoning":"Morn
+- 12:24 act: {"say":"Everyone walk to the 387 row at 389,107,-1033 in daylight. Worf, Wesley, Kimberly, Zack: come in sight of the row. I am walking there now.","actions":[{"do":"goto","target":{"x":389,"y":107,"z
+- 12:26 act: {"say":"Count at the 387 row in daylight: Kimberly, Tommy, Zack, Leonardo, Worf, Data, Trini, Lewis, Bcrusher, MacDonald, Picard, Troi. Twelve in sight. Hold here; no walk until I call one.","actions"
+- 12:34 act: {"say":"Kimberly, your bed tonight is 401,107,-1022. I take 387,107,-1037 here at the row, in the group's sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, named Kimberly's bed, and sleep at the r
+- 12:35 act: {"say":"Kimberly and Tommy, no walk in the dark. Stay where you are and sleep at the nearest bed you stand by. I am at 412,-1041 by the 413 beds, sleeping; Worf and Leonardo are at 387 row.","actions"
+- 12:36 act: {"say":"Morning. Wesley and Tommy, walk to the 387 row at 389,107,-1033 in daylight. Kimberly, stay at 389,-1032. I am walking to the row now.","actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1
+- 12:36 act: {"say":"Kimberly, your cell is 388,107,-1034 at the row. Walk there in daylight. Worf and Tommy, hold at the row, I am here with you.","reasoning":"Name Kimberly's cell; group gathering at the row in 
+- 12:37 act: {"say":"Holding at the row 389,107,-1032. Count in sight is nine. Kimberly, Tommy, Worf, Data, Clark, Trini, Leonardo, MacDonald, Bcrusher. Nobody walks until I call it.","actions":[{"do":"use","at":{
+- 12:47 act: {"say":"Dusk. Everyone to the white bed at 387,107,-1036 by the row, in sight. Zack, walk to 388,107,-1035 beside it, not alone. I am going there to sleep.","actions":[{"do":"goto","target":{"x":388,"
+- 12:47 act: {"actions":[{"do":"sleep"}],"reasoning":"Still night, sleep worked partially; try again to finish the night at this bed."}
+- 12:48 act: {"say":"Stay where you are until first light, Zack. Worf, sleep at 387,-1036. I hold at the 401 bed here until morning.","actions":[],"reasoning":"Night: keep the group still until daylight."}
+- 12:52 act: {"say":"Morning, day 430. Everyone holds at the 387 row. Data, walk to 389,107,-1034 at the row. MacDonald, 390,107,-1035. I walk to 389,107,-1033 now.","actions":[{"do":"goto","target":{"x":389,"y":1
+- 12:53 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":391,"y":107,"z":-1033}}],"say":"Day 430, I am at 389,107,-1032 by the 387 row. Group in sight. Holding still here."}
+- 12:53 act: {"actions":[],"say":"Wesley, your cell is 393,107,-1034 at the row, in daylight. Walk there and hold."}
+- 12:54 act: {"actions":[],"say":"Holding at the row. Everyone stay in sight. Hunger check at 6 for Kimberly."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. I go to the white bed at 387,107,-1036. Group, stay in sight at the row tonight."}
+- 13:00 act: {"actions":[{"do":"sleep"}]}
