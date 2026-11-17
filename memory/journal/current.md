@@ -111,3 +111,12 @@
 - 15:10 act: {"actions":[{"do":"eat"}],"say":"Beverly, thank you. We will search for sheep together in daylight once I have eaten and the group is at four or more. Stay in sight."}
 - 15:11 act: {"actions":[],"say":"Trini, thank you. We hold at the row a little longer, since I am at health 4. When I call the walk, we go together in daylight and stay in sight."}
 - 15:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Thank you all, I ate and am at health 10. No walk at dusk. I sleep in my bed at 387,107,-1036 tonight. At first light we call the
+- 15:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"It is night and I am alone at the 401 beds. Going to sleep in the bed here."}
+- 15:16 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 15:16 act: {"actions":[{"do":"sleep"}]}
+- 15:18 act: {"actions":[{"do":"note","text":"Night 437 at 402,107,-1037, alone, no one in sight. Bed use refused at 401 beds; sleep gives only 2 of 10. Holding still until dawn, not walking the dark."}],"say":"Bi
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Dawn. Billy walking to the row at 388,-1036 now, in light. Hold there and call me if sight falls."}
+- 15:23 act: {"actions":[{"do":"note","text":"Dawn day 437 at row 388,107,-1036. About 13 in sight: Trini, Chapman, Lewis, MacDonald, Jason, Troi, Zack, Wesley, Data, Worf, Kimberly, Leonardo, Clark. Hunger 17, ho
+- 15:23 act: {"actions":[],"say":"Wesley, come west to the row at 388,-1036 in this light. Group is in sight here. Walk toward us, and hold when you see four."}
+- 15:24 act: {"actions":[{"do":"eat"}],"say":"Bright now, thirteen in sight. I eat my bread, then we walk for sheep together for white wool. Zack, Clark, Trini, Leonardo, Troi: stay within sight of me."}
+- 15:24 act: {"actions":[{"do":"note","text":"Day 437 bright at row 388,107,-1036. Ate bread, hunger 20, health 11. Thirteen in sight. No sheep known nearby; sheep walk not yet called. Holding with group."}]}
