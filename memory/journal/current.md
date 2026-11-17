@@ -1,1 +1,16 @@
 # Journal
+- 07:13 act: {"say":"Morning. Counting sight: Kimberly, Troi, Trini, Jason. Four here. Holding at the bed row until we are all in sight; no walk yet.","intent":{"goal":"hold_group_at_row","program":"rest","argumen
+- Day 413 morning: sight count 4 (Kimberly, Troi, Trini, Jason). Health 13.6, hunger 16. Said a hold at the row; no walk yet. Beverly, Picard, Riker, Laforge reported at the row or nearby.
+- 07:17 act: {"say":"Billy here at the row, midday. Holding. Kimberly, feed Laforge from your melon if he comes into sight. No walk to the farm while pillagers are there."}
+- 07:20 act: {"say":"Pillager to the north is shooting. Billy moving south out of its line, group follow me south.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1034}}]}
+- 07:20 act: {"say":"Pillager closing from the north, crossbow. Jason, Troi, Kimberly: stay close, we strike it together when it reaches us. Do not chase alone."}
+- 07:21 act: {"say":"Trini fell; Kimberly at 5.3. Everyone move south-east away from the pillager now, toward 425,107,-1025. Billy leads. Do not strike alone.","actions":[{"do":"goto","target":{"x":425,"y":107,"z"
+- 07:21 act: {"say":"Kimberly, keep moving east, away from its line. Jason, stay out of its line too. I am holding at 425,107,-1027."}
+- 07:21 act: {"say":"Group here at 425,107,-1027: Kimberly, Tommy, Riker, Data, Troi in sight. Jason is lowest at 2.8; Tommy, give him the rotten flesh when he is in reach. Nobody walks back toward the pillager."}
+- 07:23 act: {"say":"Dusk. The row is too close to the pillager, so we sleep at the white beds at 429,107,-1036 and -1037, just east of here. Group, walk with me. Jason, come to Tommy's sight.","actions":[{"do":"g
+- 07:23 act: {"say":"At the beds 429. Count in sight: Tommy, Lewis, Kimberly, Jason, Troi coming. Troi, come straight to me. Jason, Kimberly: stay in sight, I sleep here tonight.","actions":[{"do":"goto","target":
+- 07:23 act: {"say":"Billy at the bed 429,-1035. I hold one chicken: Troi, come into my reach and I give it to you now. Everyone else, come into sight before I sleep.","actions":[{"do":"goto","target":{"x":429,"y"
+- 07:23 act: {"say":"Pillager is coming from the north-west. Troi, come to me at 433,-1030, away from its line. I have a chicken for you.","actions":[{"do":"goto","target":{"x":434,"y":107,"z":-1030}}]}
+- 07:23 act: {"say":"Holding at 433,-1030. Pillager at 420,-1030 west. Troi, I give you my chicken when you are in reach. Group in sight: Lewis, Data, Jason, Picard, Riker. Nobody walks west.","actions":[]}
+- 07:25 Billy respawned at spawn 414,-1041 with nothing, health 20. Items at 433,107,-1030. Going to sleep in bed 413,-1041.
+- 07:24 act: {"say":"Billy died to the pillager at 433,-1030 and woke at spawn with nothing. Items lie at 433,107,-1030: stay away from there until the pillager is dead. Kimberly, Picard, Jason, Lewis, come to the

@@ -1,3 +1,4 @@
-Day 410 dusk: walking to white bed 413,107,-1041, group at the bed row (Kimberly, Trini, Troi in sight; Tommy holding 9 rotten flesh; Wesley holding beef, 22 blocks off). No errand running. Health 13.6, hunger 16.
-Wooden sword is now in my hand (from Trini). Cow-field walk is off for today.
-At first light: count the group in sight, feed the lowest at hunger 6 or below, then start the cow walk only with four or more in sight, in daylight, weapon in hand.
+Day 413 dusk handoff.
+Died at 433,107,-1030 to a pillager's arrows; respawned at spawn 414,107,-1041 with nothing. Dropped: 2 wooden_sword, 3 rotten_flesh, 1 chicken at 433,107,-1030 (pillager nearby, do not go there yet).
+Group (Kimberly, Picard, Jason, Lewis, Tommy, Troi) was heading east/south-east to the beds at 429 and 413. Troi at health 2, needs food.
+Standing: sleep in bed 413,107,-1041 (next to me). Next morning: count sight, go back for dropped items only if the pillager is gone and with four in sight.
