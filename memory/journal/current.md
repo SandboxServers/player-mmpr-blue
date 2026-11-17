@@ -125,3 +125,12 @@
 - 10:45 act: {"say":"Billy at dusk, day 423. Going to the white bed at 401,-1036 with the group in sight. Holding flesh, sword still in pack. Good night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-103
 - 10:45 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Group of eleven in sight at dusk. Lie in the bed at 401,-1036 and sleep."}
 - 10:46 act: {"reasoning":"Night, nobody in sight, health 4.3, hunger 17. Sleep in the white bed next to me. Eat only at hunger 6 or below.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Billy h
+- 10:48 act: {"actions":[],"say":"Billy here at 402,-1023, holding 4 flesh, hunger 17. Data, thank you, I hear you. Holding here until morning and four in sight."}
+- 10:50 act: {"actions":[],"say":"Morning, day 423. Billy at 402,-1023, counted: Wesley in reach; Tommy and Trini reported at the beds. Hunger 17, so I hold my 4 flesh. Sword still in pack. Zack, Kimberly, Jason: 
+- 10:51 act: {"actions":[],"say":"Billy counts Zack, Trini, Beverly, Kimberly, Wesley in reach: five, daylight. Kimberly, your pack at 407,-1033 is close. We walk there together, slowly, and you pick it up with al
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1034}}],"say":"Billy walking to 404,-1034, a few blocks, with Zack and Trini coming. Stay in my sight."}
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Kimberly, the pack is not there, so we go back to the row together. Holding flesh for hunger 6. Everyone, follow to 402,-1034 and
+- 10:52 act: {"actions":[],"say":"Day 424, Billy at 403,-1034. In sight: Zack, Trini, Picard. Troi, come to the row and I will count you. Holding 4 flesh; hunger 17. Still no walk until the sword is in hand."}
+- 10:53 act: {"actions":[{"do":"note","text":"Day 424 morning: six counted in reach at 402-403,-1034 (Billy, Kimberly, Trini, Zack, Jason, Data). Pack at 407,-1033 gone. Holding 4 flesh, hunger 17. No walk until s
+- 10:53 act: {"say":"Billy here. Counted six in reach at the row: Kimberly, Trini, Troi, Zack, Jason, Data. Holding 4 rotten flesh for Kimberly at hunger 6. Holding here.","intent":{"goal":"hold_at_row_until_hunge
+- 11:02 act: {"say":"Billy going to the 401 bed at dusk, group in my sight. Hunger 17, holding 4 rotten flesh for Kimberly at 6.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
