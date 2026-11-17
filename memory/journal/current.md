@@ -3,3 +3,11 @@
 - 16:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 16:16 act: {"actions":[],"say":"Billy sleeping at the row. Ten must lie down to rest. Please lie down in your cells."}
 - 16:19 act: {"actions":[],"say":"Morning, day 440. Beverly, come back to the row in our sight. Troi and Tommy, come to the row too. No sheep walk yet; we need four in sight to go."}
+- 16:22 act: {"actions":[],"say":"MacDonald, walk to the row now, 388,107,-1037, in daylight. Clark, Tommy, hold at the row with us."}
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy to bed at 387,107,-1036, dusk day 440. Group in sight. No walks in the dark. Lie down in your cells."}
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Billy went off to -1023 by mistake and is walking back to the row now."}
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}]}
+- 16:31 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy going to bed at the row. Lie down in your cells if you can."}
+- 16:31 act: {"actions":[{"do":"sleep"}]}
+- 16:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:32 act: {"actions":[],"say":"Billy here at 388,107,-1050, alone too. No walking the dark. Hold where you are; at first light we gather at the row."}
