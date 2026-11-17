@@ -76,3 +76,4 @@
 - 08:17 act: {"say":"Kimberly, I am giving you two rotten flesh now. Eat one when you can.","actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":2}]}
 - 08:17 act: {"say":"Kimberly is not in my sight, so the two flesh stay with me for now. Picard, Jason and Tommy, I am here at 415,-1035.","intent":{"goal":"hold_count_at_bed","program":"rest","arguments":{},"wake
 - 08:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Kimberly, Trini, I am stepping toward you so I can hand over the flesh."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Billy counts four in reach: Picard, Jason, Tommy, Beverly. Going to bed at the row.
