@@ -134,3 +134,5 @@
 - 10:53 act: {"actions":[{"do":"note","text":"Day 424 morning: six counted in reach at 402-403,-1034 (Billy, Kimberly, Trini, Zack, Jason, Data). Pack at 407,-1033 gone. Holding 4 flesh, hunger 17. No walk until s
 - 10:53 act: {"say":"Billy here. Counted six in reach at the row: Kimberly, Trini, Troi, Zack, Jason, Data. Holding 4 rotten flesh for Kimberly at hunger 6. Holding here.","intent":{"goal":"hold_at_row_until_hunge
 - 11:02 act: {"say":"Billy going to the 401 bed at dusk, group in my sight. Hunger 17, holding 4 rotten flesh for Kimberly at 6.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 11:02 act: {"say":"Billy here, morning of day 424. Count the row by sight. Zack is four blocks off. I will get the sword into my hand before any walk.","actions":[{"do":"use","item":"wooden_sword"}],"reasoning":
+- 11:03 act: {"say":"Billy at the row, health 4.3, hunger 17, holding 4 rotten flesh for Kimberly at hunger 6. Zack, Worf, Wesley: thank you for counting in. No walk until the sword is in hand.","actions":[],"reas
