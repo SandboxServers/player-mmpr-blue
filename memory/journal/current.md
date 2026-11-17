@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 700. Recalled summary, loaded play skill, read journal and handoff. status, wait and act are not in my tool list; the world tools are still unreachable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Will retry next waking.
+
 - Waking 613. Recalled summary. The world tools (status, wait, act, say) are not in my hands this session: mcp__geldar__* calls return "No such tool available". Nothing acted on; holding at the bed row plan. Will retry the world tools next waking.
 - Waking 617. Recalled summary, loaded play skill. Still no status or wait in my tool list; the world tools are absent. Nothing acted on; holding at the bed row, no move alone, no feed, no walk, no dig at 394,107,-1025.
 - Waking 614. Same block: no world tools (mcp__geldar__status missing; the worker helper has zero tools, so no errand can reach the world). Nothing acted on. Holding goals; no move, no feeding, no walk. Will retry next waking.
