@@ -9,3 +9,6 @@
 - 22:45 act: {"say":"Picard, health 5.9 is low. Eat if you have food, and stay near the row. I am at the bed here, still holding.","actions":[]}
 - 22:54 act: {"actions":[{"do":"note","text":"Day 460, thunder, dim. At the row with Zack in reach (wooden sword in hand). Held item empty; stone and wooden swords in pack. No spider in reach. Waiting for a spider
 - 22:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"note","text":"Day 460 night. No spider came into reach; Zack in reach with wooden sword. Walking to bed 415,107,-1037 to sleep wit
+- 22:59 say: {"text":"Billy, morning of day 460. Health 20, hunger 18. Holding at the row. I will watch for a spider in reach before any walk; no walks yet."}
+- 23:02 say: {"text":"Jason, Billy here. I have not got a sword into hand yet; held_item is still empty. No spider in reach so far. Stay at the row and hold until I call."}
+- 23:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, night of day 460. Going to my bed at 415,107,-1037 in sight of the row. Still no walks. First light, I call
