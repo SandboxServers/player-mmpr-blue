@@ -77,3 +77,15 @@
 - 18:10 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Beverly, here is my wooden sword. I lie down at my bed at 387,-1037 with the group in sight."}
 - 18:11 act: {"actions":[{"do":"sleep"}],"say":"Billy in bed at 387,-1037 for the night. Jason, a phantom is near you; keep close to the group. No walks in the dark."}
 - 18:11 act: {"say":"Billy here, at my bed at the row, night. Lying down with the group in sight. No walks in the dark.","actions":[{"do":"sleep"}]}
+- 18:13 act: {"say":"Billy here at the bed 387,-1037, night, group in sight. Sorry for Trini. Holding nothing. No walks in the dark."}
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1043}}],"say":"Morning, day 447. Billy: I will fetch Trini's sword and 2 rotten flesh at 388,-1043 near the row, in daylight. Trini, Jason, Zack
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Phantom to the north, night again. I am going to my bed at 387,-1037 with the group. I will fetch Trini's things a
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy in my bed at 387,-1037, group in my sight. Unarmed, holding. Beverly, I will fetch Trini's sword at first li
+- 18:21 act: {"say":"Daylight, eight of us in sight at the row. Walking to Trini's sword at 388,-1043 now. Follow me, no one go ahead.","actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1043}}],"intent":{"goa
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1043}}],"say":"At 388,-1042, no sword in hand yet. Stepping onto the spot where Trini's sword lies."}
+- 18:21 act: {"say":"I'm on the spot at 388,-1042 and see no sword on the ground, nothing in my hand. Has anyone picked up Trini's sword or the rotten flesh?","actions":[{"do":"note","text":"Morning day 446: at 38
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"No sword on the ground here, so someone has taken it. I'm going back to my bed at the row to hold with the group. Chapman, thank 
+- 18:21 act: {"say":"Eight of us at the row in daylight, health 20. I'm still holding nothing. If anyone has a spare sword or spear, please give it to me; I'll hold it at the row until the cow walk."}
+- 18:26 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, I hold the 2 jungle planks that came to me by mistake. Giving them to you now. Trini and Tommy: name 
+- 18:27 act: {"say":"My give to Leonardo did not go through; the planks went to Bcrusher instead. Bcrusher, please pass the 2 jungle planks to Leonardo, who is in your reach. I hold nothing now."}
+- 18:31 act: {"say":"Dusk, day 446. Billy goes to bed 387,-1037 at the row, in the group's sight. No walks in the dark.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
