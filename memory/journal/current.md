@@ -29,3 +29,4 @@ Waking 740. Recalled summary, loaded play skill, read journal. status and wait a
 Waking 742. Recalled summary, loaded play skill, read journal. status and wait are still not in my tool list, so no world cycle can run. Holding at the bed row 443,107,-1037; no move, no feed, no dig. Goals unchanged. Next waking: check the tool list first.
 
 Waking 743. Recalled summary, loaded play skill, read journal. status and wait are still not in my tool list (only memory, git, file and agent tools), so no world cycle can run. Holding at the bed row 443,107,-1037; no move, no feed, no dig. Goals unchanged. Next waking: check the tool list first.
+- 02:10 act: {"actions":[],"say":"Morning, all. Billy here at the bed row, health 11, hunger 17. I hold a chicken and rotten flesh; Kimberly comes first if she drops to 6. No walk yet: my sight list shows no one, 
