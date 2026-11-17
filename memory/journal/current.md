@@ -149,3 +149,5 @@
 - 20:00 act: {"actions":[],"say":"Billy: sword still in pack, use refused at my spot. No walks yet. Hold at the row; I will try a new way, then call.","reasoning":"Use refused. Holding the group in sight until I f
 - 20:08 act: {"actions":[{"do":"sleep"}],"say":"Picard, I don't know yet. My sword is in pack and use refuses it. Sleeping at my bed; we try again at first light.","reasoning":"Dusk again, sheltered at my bed besi
 - 20:08 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 2 of 10 asleep. Stay at the bed by the row and try sleep again; the group should join."}
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Dusk, day 451. Billy goes to my bed at 413,107,-1042 to sleep in the row's sight. Still unarmed; sword first at fi
+- 20:09 act: {"actions":[{"do":"sleep"}],"say":"Only 4 of 10 asleep. Everyone, lie down at your beds in the row's sight. Kimberly, come to 415,107,-1037 now, near the row."}
