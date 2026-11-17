@@ -19,3 +19,6 @@
 - 13:24 act: {"say":"Morning. Counting sight: Trini, both Crushers, Leonardo, Worf, Data, MacDonald, Kimberly, Clark, Zack, Jason, Lewis. Eleven in sight. I hold a stone sword in my pack, and I will get it into my
 - 13:25 act: {"say":"Plan: hold at the row until a sword is in my hand. Tommy, come to the row, you are counted. Kimberly, I feed you rotten flesh at hunger 6.","actions":[{"do":"note","text":"Morning 431. Eleven 
 - 13:26 act: {"say":"Dusk. Billy takes the bed at 387,107,-1036 with the row in sight. Tommy, your cell is 401,107,-1037. Chapman, thank you for the rotten flesh offer.","actions":[{"do":"goto","target":{"x":387,"
+- 13:27 act: {"say":"Billy here at the 387 row, in sight of Trini, Tommy, Worf, Data and the rest. Holding 4 rotten flesh for Kimberly at hunger 6. I will sleep in the bed here once it is true night.","intent":{"g
+- 13:27 act: {"say":"Billy naming cells: Wesley 393,107,-1034. Troi 387,107,-1037. Stay at the row in sight until daylight, then walk together."}
+- 13:28 act: {"say":"Night now. Billy sleeps in the bed at 387,107,-1036. Trini, hold here beside me in sight until morning; I will name your cell at first light.","actions":[{"do":"sleep"}]}
