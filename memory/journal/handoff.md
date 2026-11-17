@@ -1,6 +1,6 @@
-Handoff, night of day 445 (Billy).
-Sheltered at my bed 387,107,-1037 at the row, group in reach: Chapman, Beverly, Wesley, Data, Troi, Tommy, Lewis, Jason, Zack, Leonardo.
-Holding nothing; wooden sword given to Beverly (done).
-Phantom reported near Jason at the beds; watch for it at dawn.
-Not done: morning cow walk to 339,104,-979 only with four in sight, daylight, armed; Beverly now armed with my sword.
-Owed: rotten flesh to Kimberly at hunger 6 or below (none held); chicken to Troi (none held); name cells for Leonardo, Clark, Beverly.
+Handoff, dusk of day 449 (Billy).
+At the row, 412,107,-1042, sheltered in the row with Tommy at 413,-1041 and Jason, MacDonald and others in sight. Health 20, hunger 19.
+Sword still in pack, not in hand. No one has found a way to get one into hand.
+Beds named: me 413,107,-1042; Tommy 413,107,-1041; Clark 387,107,-1050 (morning); Beverly 401,107,-1037; Jason asked for a bed in the morning.
+Owed: rotten flesh to Kimberly at hunger 6 or below; food for Trini and Kimberly.
+Next: sleep in my bed at dark, then in the morning name Jason's bed, and keep the group at the row. Cow walk stays on hold until four are armed in hand.

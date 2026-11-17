@@ -89,3 +89,32 @@
 - 18:26 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"jungle_planks","count":2}],"say":"Leonardo, I hold the 2 jungle planks that came to me by mistake. Giving them to you now. Trini and Tommy: name 
 - 18:27 act: {"say":"My give to Leonardo did not go through; the planks went to Bcrusher instead. Bcrusher, please pass the 2 jungle planks to Leonardo, who is in your reach. I hold nothing now."}
 - 18:31 act: {"say":"Dusk, day 446. Billy goes to bed 387,-1037 at the row, in the group's sight. No walks in the dark.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 18:32 act: {"say":"Billy, awake at 401,-1035 in the row, holding nothing, health 20. At first light I will call four in sight for the cow walk. Until then, no walks in the dark.","intent":{"goal":"hold_at_row_un
+- 18:33 act: {"say":"Night, day 447. Billy holds at 401,-1035 in the row. At first light I will call the cow walk, four in sight, armed ones first.","intent":{"goal":"hold_at_row_until_dawn","program":"rest","argu
+- 18:34 act: {"say":"Morning, day 447. Billy at 402,107,-1037, unarmed. Call: those in the row, stay in sight; Zack and Beverly, hold your swords in hand. Cow walk to 339,104,-979 once four are in sight and armed.
+- 18:35 act: {"say":"Count at 402,-1037: Billy, Trini, Picard, Clark, Tommy, Lewis, Troi in sight. Armed: none yet. Zack, Beverly: bring your swords to the row. Cow walk waits until two are armed and four are in s
+- 18:36 act: {"say":"Zack, thank you. Please hold the wooden sword in your hand. In sight now: Billy, Trini, Zack, Picard, Clark, Tommy, Lewis, Troi. Four are here; armed count is one. Still holding for a second a
+- 18:38 act: {"say":"Billy's count, day 447: the cow walk is postponed. Armed in hand is too few. Everyone stay at the row in sight. Leonardo, Zack, Beverly: keep your swords ready. Worf, Picard, Troi, Tommy, Lewi
+- 18:45 act: {"say":"Dusk, day 447. No walks in the dark. Billy holds at the row, bed beside me. Wesley, stay near the west beds with company, and first light we gather here."}
+- 18:49 act: {"say":"Morning, day 448. Billy counts the row: Trini, Beverly, Zack, Picard, Worf, Clark, Chapman, MacDonald, Lewis, Tommy, Troi and Wesley are in sight or near. Nobody is armed in hand yet, so no co
+- 18:49 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1037},"item":"wooden_sword","count":1}],"say":"Billy: I'm trying the chest for a sword. Nobody walks yet; the count holds at the row."}
+- 18:49 act: {"say":"Billy: the chest is empty of swords. Clark, please give me 4 oak planks and I will craft my own sword at the table 405,107,-1061. Nobody walks until then."}
+- 18:50 act: {"say":"Billy: Worf, yes, please give me your 3 oak planks. Clark, one more plank please. I'll craft the sword at 405,107,-1061."}
+- 18:53 act: {"say":"Billy: Worf, please give me your 3 oak planks now. I have 1 plank and Clark is bringing 1. That makes the 5 I need for the sword."}
+- 18:55 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1060}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you Worf. I have 4 planks now and am crafting the sword at the table at 405,
+- 18:55 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1},{"do":"use","item":"wooden_sword","at":{"x":405,"y":107,"z":-1061}}],"reasoning":"Sword lacked a stic
+- 18:55 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":405,"y":106,"z":-1059}}],"reasoning":"Sword is in pack. Try to equip it into hand by using it on the ground beside me."}
+- 18:55 act: {"say":"Billy: I have the wooden sword in my pack now, but it will not move into my hand. Trini, Worf, Clark: has anyone got a sword into hand? How did you do it?","reasoning":"The sword is made but n
+- 18:55 act: {"say":"Billy: Thank you Trini. I will try once more in daylight with no one near the chest, and I will tell you what happens.","reasoning":"No one knows how to bring the sword into hand. I will hold 
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"intent":{"goal":"hold_at_row_overnight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{
+- 18:59 act: {"say":"Billy: Leonardo, how did you get your sword into your hand? Zack says he is trying now. Everyone unarmed, hold for my count; no walks until I name you.","reasoning":"Leonardo has his sword in 
+- 19:01 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"reasoning":"It is night now. Get into the bed beside me and sleep through till morning."}
+- 19:03 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Billy here, morning. Trying the sword into my hand once more. Tommy, Zack, Picard: come to the row when you're ready."}
+- 19:03 act: {"actions":[{"do":"note","text":"Day 448 morning: use item wooden_sword with no position failed: needs a block position. Sword still in pack, not in hand."}],"say":"The sword still will not come into 
+- 19:03 act: {"actions":[],"say":"Billy at the row, 412,-1042, in daylight. Sword still stuck in my pack. Tommy, Zack: come in and hold by me. Count of those in sight, then we walk to the cows once four are armed.
+- 19:05 act: {"actions":[],"say":"Thank you, Picard, Wesley, Leonardo. Nobody is armed in hand, so the cow walk waits. Hold here at the row in sight. I will name the walk as soon as anyone gets a sword into hand a
+- 19:05 act: {"actions":[],"say":"Morning, day 449 for those newly here. Jason, MacDonald: come to the row in daylight and hold in sight. No count yet; no one is armed in hand. Walks wait for a sword in hand."}
+- 19:09 act: {"actions":[{"do":"note","text":"Day 448 midday: Clark asked for a bed cell. Named 387,107,-1050 for him tonight. Sword still in pack."}],"say":"Clark, take the bed at 387,107,-1050 tonight. Sword sti
+- 19:09 act: {"actions":[],"say":"MacDonald, welcome to the row. I am holding here, unarmed in hand; the sword will not come out of my pack yet."}
+- 19:13 act: {"actions":[{"do":"note","text":"Dusk day 449. Holding at the row. Tommy takes 413,107,-1041; Clark 387,107,-1050 in the morning; Beverly 401,107,-1037; I take 413,107,-1042. Sword still in pack."}],"
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Holding for the night at my bed, 413,107,-1042. No walks in the dark. Jason, bed 388,-1037 is yours in the morning."}
