@@ -75,3 +75,23 @@
 - 14:25 act: {"actions":[],"say":"Billy: Beverly, your cell is 401,107,-1036. Wesley, 393,107,-1034 stands as yours. Walk only with four in sight. Trini, the other half of 387 is fine to try once."}
 - 14:25 act: {"actions":[],"say":"Billy: Trini, stop the beds. Hold where you are with four in sight. When four of us walk, we go to 413,107,-1041 and you try it once. If it refuses, you stay in the group and we f
 - 14:26 act: {"actions":[],"say":"Billy: MacDonald, your cell is 390,107,-1034. Kimberly, you take 387,107,-1036, the bed I slept near; I sleep on the open ground with the group. Tommy holds at 413. Everyone walks
+- 14:28 act: {"actions":[],"say":"Billy: Tommy, move north to the group now, away from the enderman. Everyone keep your eyes up. Worf, your cell is 413,107,-1041, to walk there only with four in sight."}
+- 14:28 act: {"actions":[],"say":"Billy: Leonardo, no bed is free for you right now. Hold with the group, in sight, and we find you a cell as one frees. Hunger 17 is noted; I will feed you rotten flesh when you ar
+- 14:30 act: {"actions":[],"say":"Billy: Clark, no free bed yet; the row is full. Hold in sight with the group. Leonardo, Clark and Jason: we find cells as beds free, and I will name them at the next light."}
+- 14:32 act: {"actions":[{"do":"note","text":"Day 435 daylight at 388,107,-1037 with group in sight; Tommy alone at 412,-1049 asks for walk call; hunger 16, no feeding yet."}],"say":"Tommy, come west to us now, in
+- 14:33 act: {"actions":[],"say":"Tommy, counted at the row, thank you. Eight or more in sight. We hold here until dusk; Worf and Trini walk to their beds only with the group."}
+- 14:34 act: {"actions":[{"do":"note","text":"Dusk day 435 at row 388,107,-1037. Troi and Deanna without cells; row beds taken. Holding group in sight, no walks in the dark."}],"say":"Dusk. No free bed at the row 
+- 14:34 act: {"actions":[{"do":"note","text":"Dusk day 435, dim, at row 388,-1037. Bows drawn to west and southwest; holding with group in reach. Sleep not tried."}],"say":"Billy: bows drawn to the west and southw
+- 14:38 act: {"actions":[{"do":"sleep"}],"say":"Billy: night. Picard, Wesley, Troi, hold where you are and walk only at first light, in daylight, with four in sight. Nobody walks the dark."}
+- 14:38 act: {"actions":[{"do":"sleep"}]}
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"Kimberly, I am walking to the row at 388,107,-1036 now. Hold there, and call me if sight falls."}
+- 14:43 act: {"actions":[],"say":"Billy at the row, 388,107,-1035, dawn day 435. Twelve in reach. Clark and Jason, hold here in sight; I will name your cells once I check the beds. Nobody walks alone."}
+- 14:43 act: {"actions":[],"say":"Bright now. Bows heard to the northwest, so we hold tight at the row. Meriwether, come west to the row now and stay in sight. Jason and Clark, your cells come once I check the bed
+- 14:45 act: {"actions":[],"say":"Wesley, it is daylight. Walk to the row at 388,107,-1037 now, and I will hold for you. Your cell is 393,107,-1034 once you are here with four in sight.","intent":{"goal":"hold_gro
+- 14:46 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"Tommy, here is a wooden sword from my pack. You are counted at the row. Walk only when I call four in sight."}
+- 14:46 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"The wooden sword went to Jason by mistake. Jason, please hand it to Tommy, who is at the row unarmed. Tommy, I try 
+- 14:46 act: {"actions":[],"say":"Troi, it is daylight. Come west to the row at 388,107,-1037 now, in sight of Tommy and Jason. Walk, don't wait alone. Thank you, Jason and Tommy."}
+- 14:48 act: {"actions":[],"say":"Leonardo, no bed is free yet; I have checked the row. Hold beside me in sight. I name your cell the moment one frees, and I will feed you when your hunger is low."}
+- 14:51 act: {"say":"Troi, Tommy, Jason: hold at the row with me at 388,107,-1034. Leonardo, no free bed yet; I name yours the moment one frees.","intent":{"goal":"hold_row_in_sight","program":"rest","arguments":{
+- 14:51 act: {"say":"Troi, Jason: counted at the row, thank you. Every bed I know is taken; I name the next free one at once. Hold in sight, unarmed is fine for now.","actions":[{"do":"note","text":"Day 435 daylig
+- 14:51 act: {"intent":{"goal":"hold_row_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operation
