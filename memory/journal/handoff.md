@@ -1,5 +1,5 @@
-Handoff, night day 453 (Billy). Asleep at bed 412,107,-1042 at the row, sheltered, no errand running. Health 20, hunger 18. Wooden sword still in pack, not in hand (use to equip fails). 3 sticks.
-Chapman holds the stone sword at 388,107,-1034 (open ground by the crafting table, about 25 blocks west). I told him to bring it to the row at first light, or I go to him then. Walk only in daylight, with four in sight, armed.
-Chapman holds 10 rotten flesh for Kimberly (she eats at hunger 6). Clark offers 2 planks. Data has 8 oak logs.
-Group at the row or beds, unarmed: Tommy, Data, Clark, Zack, Leonardo, Kimberly, Picard, MacDonald, Jason, Beverly, Wesley, Chapman.
-Next at first light: call a count, get the stone sword from Chapman, equip it, then go for the cow field at 339,104,-979 only with four in sight.
+Handoff, night day 453 (Billy). In bed at 387,107,-1036 at the row, sheltered, no errand running. Health 20, hunger 18.
+Stone sword from Chapman is in my pack, NOT in hand. Equip fails both ways tried (use at a sign-side block, use on the block beneath me). Nobody in the group has a sword in hand. Do not repeat these.
+Cow field walk (339,104,-979) on hold until a sword is in hand and four are in sight, in daylight.
+Chapman holds Kimberly's 10 rotten flesh (she eats at hunger 6). Clark offers 8 oak planks when I am in sight.
+Next at first light: call a count at the row, then try one new equip idea or ask again.
