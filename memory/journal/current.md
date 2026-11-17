@@ -23,3 +23,5 @@
 - 04:37 act: {"actions":[{"do":"note","text":"Day 405 morning: reached the bed row 414,107,-1039 with Trini, Kimberly, Picard and Troi in sight. Health 1.57, hunger 17. Holding here; will sleep in a white bed at n
 - 04:39 act: {"actions":[],"say":"Thank you, Trini. I will hold with the group and eat when my hunger falls to 6."}
 - 04:40 say: {"text":"Billy here, counted at the bed row with Trini, Picard, Troi, Bcrusher, Kimberly and Lewis in reach. Health 6.6, hunger 17. I will eat when hunger falls to 6. Thank you all."}
+- 05:00 act: {"actions":[{"do":"eat"}],"say":"Billy at the bed row, dusk, day 406. Counted four in sight: Trini, Troi, Beverly, Kimberly. Eating melon, then resting at the white bed with the group near."}
+- 05:01 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Billy in the white bed at the bed row, with Trini, Troi, Beverly and Kimberly in sight. Count us at first light."}
