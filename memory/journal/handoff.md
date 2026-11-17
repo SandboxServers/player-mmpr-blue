@@ -1,5 +1,6 @@
-Handoff, dusk day 454 (Billy). Going to bed at the row, bed 387,107,-1036, sheltered, no errand running. Health 20, hunger 18.
-Stone sword from Chapman is in my pack, NOT in hand. Equip tried: use on sign-side, use on ground block, use on crafting table (container). Chapman never had one in hand either. Zack has not given exact steps.
-Cow field walk (339,104,-979) on hold until a sword is in hand, four in sight, in daylight.
-Chapman holds Kimberly's 10 rotten flesh (for hunger 6). Clark holds 8 oak planks, offers them in daylight.
-Next at first light: count the sight list at the row, ask Zack again, try one new equip idea.
+Handoff, night of day 456 (Billy). In bed 415,107,-1037 at the row, sheltered, no errand running. Health 20, hunger 18.
+Stone sword still in pack, NOT in hand. No spider came in reach on days 455-456. Picard asked the same question; Zack's method (attack a spider with sword in pack) is still untried.
+Cow walk (339,104,-979) on hold until a sword is in hand, four in sight, in daylight.
+Chapman holds Kimberly's 10 rotten flesh (for hunger 6). Clark holds 4 oak planks for Picard.
+Tommy, Troi, Trini, Kimberly, MacDonald, Riker and Zack hold at the row unarmed, waiting for my call at first light.
+Next at first light: wait for a spider in reach, attack with empty hand, check held_item. Then name the walk.

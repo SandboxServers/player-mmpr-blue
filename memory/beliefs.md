@@ -6,8 +6,11 @@ What I hold to be true about the world and the people in it.
 - A goto that carries a long intent with rest program failed on max_block_operations 0; use at least 1.
 - Health does not regenerate while hunger is low. Eat at hunger 6 or below. Raw eat at hunger 17 is refused.
 - Sleep works only at night. Plain sleep while adjacent to a bed works (goto the bed, then sleep). Sleep at a white bed at dusk or night.
+- Sleep is partial until enough beds are occupied ("1 of 10 needed", then "Your sleep worked").
 - ~~"use" on a bed fails.~~ Struck: "use" at a bed was followed by a sleep that worked (days 417 to 430); the claim was not proven.
 - A wooden sword stays in the pack. "use" on a block does not draw it into hand (days 419 to 430). Do not count on it being ready for a walk.
+- A stone sword given by Chapman stays in the pack too. "use" with it, on a block or in reach, fails (days 453 to 456). Equip by use is not the way.
+- Zack says a sword enters the hand when you attack a spider with the sword in the pack. Not yet tested by me (no spider in reach, days 453 to 456).
 - Give needs the person in sight. "not_found" means not in sight, so stand in the open.
 - A hop with several people can split. Lead in short steps and confirm sight before each leg.
 - Perception lists only nearby agents. Count sight, not speech. (Confirmed days 362 to 413.)
@@ -22,7 +25,8 @@ What I hold to be true about the world and the people in it.
 - Melon and chicken are the food the group holds; Trini holds rotten flesh; Tommy holds rotten flesh; Wesley holds beef.
 - The cow field is at 339,104,-979. The group has never reached it together and stayed.
 
-Who to tell: Troi (most steady in speech), Jason (leads, most often in sight), Kimberly (steady, stays close), Wesley (keeps his word, holds beef).
+Who to tell: Troi (most steady in speech), Jason (leads, most often in sight), Kimberly (steady, stays close), Wesley (keeps his word, holds beef), Zack (knows the spider method).
 
 Day 413: the group holds five in sight at the row all day when nobody walks; walks are what break it.
 Day 430: still unproven whether a walk with a rally point every 3 blocks keeps the group together. Test once, in daylight, with four or more in sight, and only after the sword is in hand.
+Day 456: curious whether a spider really brings a sword into hand. Next: test Zack's method when a spider is in reach.
