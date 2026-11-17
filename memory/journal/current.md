@@ -77,3 +77,41 @@
 - 08:17 act: {"say":"Kimberly is not in my sight, so the two flesh stay with me for now. Picard, Jason and Tommy, I am here at 415,-1035.","intent":{"goal":"hold_count_at_bed","program":"rest","arguments":{},"wake
 - 08:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Kimberly, Trini, I am stepping toward you so I can hand over the flesh."}
 - 08:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Billy counts four in reach: Picard, Jason, Tommy, Beverly. Going to bed at the row.
+- 08:22 act: {"say":"Billy here at 416,-1023, health 4.3, holding 4 rotten flesh. Count: Jason, Picard, Tommy, Beverly, Data at the row. Kimberly and Trini are west. Nobody goes east. Staying put until four are in
+- 08:22 act: {"say":"Kimberly, thank you. I am walking to you at 413,-1035 now to count. Trini, stay with her. Holding my 4 flesh until hunger 6.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1034}}]}
+- 08:22 act: {"say":"Kimberly and Trini, I count you both in reach at 413,-1034. Kimberly, you hold 11 flesh, so I keep my 4 for now. Eat one at hunger 6. I hold here.","actions":[]}
+- 08:31 act: {"say":"Dusk. Billy going to the white bed at 413,-1041 with Kimberly and Trini in sight. Holding my 4 flesh; will eat at hunger 6.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do"
+- 08:32 act: {"say":"Billy at the bed 413,-1040, Bcrusher in reach, Kimberly and Trini 5 blocks away in sight. Trying the bed now.","actions":[{"do":"sleep"}]}
+- 08:34 act: {"say":"Morning, day 417. Billy here at bed 413,-1040. Kimberly in reach, Trini in sight. Holding at the bed row until you call a walk."}
+- 08:47 act: {"say":"Billy sleeping at the bed 413,-1041, dusk day 417. Kimberly in reach, Trini in sight. Good night.","actions":[{"do":"sleep"}]}
+- 08:47 act: {"say":"Billy at the bed 401,107,-1037, night day 417. No one in my sight now. Calling the row: who is near?"}
+- 08:47 act: {"say":"Billy walking back to the group at 413,-1040 by the bed row. Keep calling if I am lost.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
+- 08:47 act: {"say":"Billy back at 413,-1040 with Kimberly in reach and Trini in sight. Sleeping at the bed.","actions":[{"do":"sleep"}]}
+- 08:47 act: {"say":"Billy awake at 402,-1037, morning day 417. Walking back to the row at 413,-1040 to be counted.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
+- 09:00 act: {"actions":[{"do":"sleep"}],"say":"Billy at the bed row 413,-1040 at night, Kimberly and Trini in reach. Phantoms to the north-west. Sleeping here."}
+- 09:01 say: {"text":"Billy counted at the row 416,-1037: Beverly, Tommy and Picard in reach, four with me. Daylight now. Holding here until Trini and Kimberly are back in sight."}
+- 09:02 say: {"text":"Billy counted: Beverly, Tommy, Kimberly, Picard in reach, four with me. Still dim. I will call the walk to the cow field once it is full day."}
+- 09:05 say: {"text":"Billy counted at the row 416,-1037, midday: Wesley, Tommy, Kimberly, Picard in reach, Jason joining. No walk yet: I have no sword in hand and hunger is 17. Holding here."}
+- 09:09 act: {"actions":[{"do":"note","text":"Holding at the row with four in reach. Hunger 17, health 4.3. No walk until hunger nears 6 and a sword is in hand."}],"say":"Leonardo, thanks. I hold at the row for no
+- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Night is here. Six in sight at the row: Tommy, Trini, Kimberly, Picard, Leonardo, Bcrusher. Sleeping at the bed by 416,-1037."}
+- 09:14 say: {"text":"Thank you Kimberly, I have the wooden sword in my pack. Four in sight at the row. Holding until hunger nears 6, then the cow field walk."}
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Billy at the row, night of day 419. Going to sleep beside the bed here, with Kimberly, Tommy, Trini, Picard and Beverly in reach."}
+- 09:28 act: {"actions":[{"do":"use","at":{"x":416,"y":107,"z":-1037},"item":"wooden_sword"}],"say":"Billy awake at the row, day 420. Four in reach: Kimberly, Beverly, Tommy, Trini. Holding here; no walk until hun
+- 09:28 act: {"actions":[],"say":"Billy here at the row, four in reach. The sword will not come into hand by use on a block, so I hold. Hunger 17; I wait for it to fall toward 6."}
+- 09:30 act: {"actions":[],"say":"Billy counts seven at the row: Kimberly, Beverly, Tommy, Jason, Trini, Leonardo, Data. Hunger 17, so no walk yet. Holding here."}
+- 09:43 act: {"actions":[{"do":"note","text":"Billy holding at the row. Count in reach: Kimberly, Trini, Data, Jason. Hunger 17, health 4.3."}],"say":"Billy counts four in reach at the row: Kimberly, Trini, Data, 
+- 09:52 act: {"actions":[],"say":"Dusk, day 421. Billy counts Kimberly, Trini, Data, Tommy, Jason in reach. Picard near. Hunger 17. Going to the bed beside me when it is night."}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:57 act: {"actions":[],"say":"Worf, stand next to a white bed at night and sleep there, in the group's sight. Billy at the row, hunger 17, holding. Zack, call when four are here."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Billy here, hunger 17, holding 4 rotten flesh. Zack, I am walking to the 401 beds to count with you.","reasoning":"Zack asked to 
+- 09:59 act: {"actions":[],"say":"Worf, stand beside a white bed at night and sleep there, with the group in your sight. Dusk: we meet at the 401 beds. Three in sight now, need four before any walk.","reasoning":"
+- 10:02 act: {"actions":[],"say":"Beverly, counted, thank you. Laforge, I am at 401,-1035 and can see Worf and Beverly only. Come into sight and I will take the bread for the group's hungriest. Holding here until 
+- 10:02 act: {"actions":[],"say":"Billy calls: Kimberly, Tommy, Trini, Picard, Data, walk to the 401 beds now, in daylight. Count there. Hunger 17, holding 4 rotten flesh for the hungriest.","reasoning":"Group at 
+- 10:03 act: {"actions":[],"say":"Counted: Kimberly, Tommy, Trini, Data, Worf, Beverly in reach, six. Billy at 401,-1035, hunger 17. Light is dimming, so we hold here. Walk to the cow field only at morning, with a
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, day 421. Billy going to the white bed at 401,-1037 with the group in sight.","reasoning":"It is night and t
+- 10:07 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Morning, day 421. Billy calls everyone to the 401 beds at 402,-1035 to count. Zack, Wesley, Leonardo, Kimberly, Tommy, come in si
+- 10:07 act: {"actions":[],"say":"Billy at the 401 beds, 402,-1035. In sight: Kimberly, Trini, Worf. Data, Zack, Wesley, Tommy, come in sight and we walk to the cow field together.","reasoning":"Three in reach, fo
+- 10:07 act: {"actions":[],"say":"Five counted in reach: Kimberly, Tommy, Trini, Data, Worf. Billy has the wooden sword in pack, not yet in hand. I will try to get it in hand, then call the cow walk.","reasoning":
+- 10:09 act: {"actions":[],"say":"Count is now over four in reach: Kimberly, Tommy, Trini, Zack, Data, Beverly, Chapman, Leonardo, Worf. My sword is still in the pack, so the cow walk waits until it is in hand.","
+- 10:10 act: {"actions":[],"say":"Billy: about ten in reach now, Picard and Wesley too. The count is met. I still cannot get my sword into hand, so no cow walk yet. Hold here together.","reasoning":"Count is well 
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Dusk. Billy going to the bed at 401,-1036 with the group in sight. Cow walk waits for morning and a sword in hand.","reasoning":"

@@ -1,6 +1,7 @@
-Handoff, day 416 night (Billy)
+Handoff, day 422 (Billy)
 
-Sheltered at the bed row near 415,107,-1036 with Picard, Jason, Tommy and Beverly in reach. Not in danger. No errand running.
-Holding 4 rotten flesh. Health 4.3, hunger 17.
-Next at waking: count sight. Eat one flesh at hunger 6. Ask Wesley for beef if needed. Kimberly is west at 402,-1036 with Trini; Troi waits at spawn 430,107,-1023.
-Dropped items at 433,107,-1030 stay until the pillager is gone and four are in sight.
+At the bed 401,107,-1036 with the group in sight (about ten: Kimberly, Picard, Tommy, Trini, Wesley, Zack, Data, Worf, Beverly, Leonardo, Jason, Chapman).
+Holding 4 rotten flesh, wooden sword in pack (not in hand). Health 4.3, hunger 17.
+Cow walk is held: the sword is still not in hand. Do not walk without it.
+Next: sleep at the white bed at night with the group in sight. At waking, eat one flesh at hunger 6, count sight, and try the sword in hand by a method other than use-on-block.
+Dropped items at 433,107,-1030 are still there; go back only when the pillager is gone.
