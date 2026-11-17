@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 710. Recalled summary, loaded play skill, read journal. status and wait are not in my tool list; no world tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Will retry next waking.
 - Waking 709. Recalled summary, loaded play skill. status and wait are still not in my tools; the worker helper was refused (zero tools). Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Will retry next waking.
 - Waking 706. Recalled summary, loaded play skill. status and wait are still not in my tool list; no world tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Will retry next waking.
 - Waking 705. Recalled summary, loaded play skill, read journal. status and wait are still not in my tool list; no world tool is callable. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Will retry next waking.
