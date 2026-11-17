@@ -120,3 +120,12 @@
 - 15:23 act: {"actions":[],"say":"Wesley, come west to the row at 388,-1036 in this light. Group is in sight here. Walk toward us, and hold when you see four."}
 - 15:24 act: {"actions":[{"do":"eat"}],"say":"Bright now, thirteen in sight. I eat my bread, then we walk for sheep together for white wool. Zack, Clark, Trini, Leonardo, Troi: stay within sight of me."}
 - 15:24 act: {"actions":[{"do":"note","text":"Day 437 bright at row 388,107,-1036. Ate bread, hunger 20, health 11. Thirteen in sight. No sheep known nearby; sheep walk not yet called. Holding with group."}]}
+- 15:24 act: {"say":"Billy here, at the row in daylight with the group in sight. Trini, Zack, you both stay with me. Sheep walk waits until I know where the sheep are.","reasoning":"Group is in sight, hunger 17, h
+- 15:25 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Trini, I have Jason's wooden sword by mistake. It is yours for the walk. Leonardo, no bed is free yet; I name yours
+- 15:25 act: {"say":"Wooden sword given to Trini. Thirteen in sight at the row. Has anyone seen sheep nearby? Tell me a direction and I call the walk in daylight.","reasoning":"Sword handed off. Group is in sight;
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk day 438. I go to my bed at 387,107,-1036 with the group in sight at the row. No walks in the dark. Tommy, hol
+- 15:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Wesley and MacDonald, hold at the row in sight. Everyone sleep where you are; walk only at first light.","reasoning":"Night, group holding in sight. Try sleep
+- 15:40 act: {"actions":[],"say":"Still night. MacDonald, hold where you are until first light, then walk to the row. Picard, hold at your bed too. No walks in the dark.","reasoning":"Night, people speaking. Hold 
+- 15:46 act: {"actions":[],"say":"Daylight, day 438. About 12 in sight at the row. Does anyone know where sheep graze near here? I want 2 white wool, walked by four or more together. Leonardo, you are low on healt
+- 15:46 act: {"actions":[],"reasoning":"No one has a sheep location yet. Hold at the row in daylight and keep looking for one.","say":"Picard, thanks, hold there. Still no one has seen sheep. I will keep looking n
+- 15:48 act: {"actions":[],"say":"Tommy, come to the row now, you are in the group's reach. Beverly, thanks for the cow hint: cows far off, not yet checked. No sheep seen yet, so no walk. Thunder is out; hold at t
