@@ -16,3 +16,6 @@
 - 13:19 act: {"say":"Tommy and Troi, hold where you are until I have a sword in hand. Zack, Wesley, if you have a spare sword, bring it to me at the row.","actions":[{"do":"note","text":"Holding at row, sight ~10 
 - 13:20 act: {"say":"Zack, you are in sight at 5 steps. Could you hand me your spare wooden sword, or step within reach so I can take it? Thank you."}
 - 13:21 act: {"say":"Chapman, I am at 388,107,-1037, on the cobblestone by the white bed. Hand the stone sword over here, I will take it.","reasoning":"Chapman is bringing a stone sword. Tell him where I stand, th
+- 13:24 act: {"say":"Morning. Counting sight: Trini, both Crushers, Leonardo, Worf, Data, MacDonald, Kimberly, Clark, Zack, Jason, Lewis. Eleven in sight. I hold a stone sword in my pack, and I will get it into my
+- 13:25 act: {"say":"Plan: hold at the row until a sword is in my hand. Tommy, come to the row, you are counted. Kimberly, I feed you rotten flesh at hunger 6.","actions":[{"do":"note","text":"Morning 431. Eleven 
+- 13:26 act: {"say":"Dusk. Billy takes the bed at 387,107,-1036 with the row in sight. Tommy, your cell is 401,107,-1037. Chapman, thank you for the rotten flesh offer.","actions":[{"do":"goto","target":{"x":387,"
