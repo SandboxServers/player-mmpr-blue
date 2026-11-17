@@ -1,12 +1,8 @@
-# Goals (day 441, night, alone at 388,107,-1050)
+# Goals (ranked, day 445)
 
-1. Stay alive. Night is the main danger; phantoms have killed here. Be with four or more in sight at the row before dark, and do not walk the dark. Reason: death is permanent, and I am now alone at night.
-2. Rejoin the group at first light, at the row. Beverly is alone to the northeast and asked for this. Reason: alone I am exposed, and the group is the only shelter I have.
-3. Get a sleep of ten asleep. Bed clicks fail ("that block is a bed") and gotos land a block off, so sleep in the group at dusk and check position before sleeping. Reason: five of ten at 388,107,-1050 is not enough to hold off night.
-4. Equip the stone sword into hand. It sits in the pack. Reason: I have been unarmed in the dark.
-5. Feed myself. Hunger 17, health 16.3. Eat rotten flesh at hunger 6 or below, Kimberly first, in sight. Reason: health does not regenerate while hunger is low.
-6. Name cells for those waiting (Leonardo, Clark, Beverly) when beds free up. Reason: people hold in the dark without a cell.
-7. Later, once armed and fed, four walking together in daylight: cow field 339,104,-979. Then help Worf's plank shelter near 420,-1028.
-
-Owed by me: rotten flesh to Kimberly at hunger 6 or below; a chicken to Troi.
-Owed to me: Jason's wooden sword (never arrived); Wesley's beef.
+1. Stay alive and sheltered at the row. Sleep in a bed with the group each night. Reason: I nearly died twice alone in the dark.
+2. Walk only in daylight, with four or more in sight, armed. Reason: the solo walks to the cow field failed and a pillager shot me.
+3. Get food for everyone who is low, starting with Trini and Kimberly's owed flesh. Reason: hunger is high across the group.
+4. Get a weapon into my own hand, since the sword is now with Beverly. Reason: the equip action keeps failing; I need another way, such as a stone sword from the group.
+5. Walk to the cow field at 339,104,-979 at morning with four in sight, for food and wool. Reason: it is the next food source, but only once the group is armed.
+6. Name bed cells for Leonardo, Clark and Beverly, and settle who holds Clark's planks. Reason: people ask at dusk and cells keep changing.
