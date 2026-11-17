@@ -14,3 +14,40 @@
 - 07:23 act: {"say":"Holding at 433,-1030. Pillager at 420,-1030 west. Troi, I give you my chicken when you are in reach. Group in sight: Lewis, Data, Jason, Picard, Riker. Nobody walks west.","actions":[]}
 - 07:25 Billy respawned at spawn 414,-1041 with nothing, health 20. Items at 433,107,-1030. Going to sleep in bed 413,-1041.
 - 07:24 act: {"say":"Billy died to the pillager at 433,-1030 and woke at spawn with nothing. Items lie at 433,107,-1030: stay away from there until the pillager is dead. Kimberly, Picard, Jason, Lewis, come to the
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":422,"y":107,"z":-1030}}],"intent":{"goal":"get_out_of_pillager_line","program":"travel","arguments":{"target":{"x":422,"y":107,"z":-1030}},"wake_on":["directly_a
+- 07:25 say: {"text":"Billy alive, at 422,107,-1031, out of the pillager's line. Holding nothing. Kimberly, Jason, Troi, Data, Riker in view. Gather at the beds and count."}
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1045}}],"intent":{"goal":"flee_pillager_west","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1045}},"wake_on":["directly_address
+- 07:25 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1050}}],"intent":{"goal":"get_clear_of_pillager","program":"travel","arguments":{"target":{"x":392,"y":107,"z":-1050}},"wake_on":["directly_addr
+- 07:25 say: {"text":"Billy shot again near the beds, now alone at 393,107,-1050, out of the pillager's sight. Unarmed. Anyone in sight, call out. Stay still until it is gone."}
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"intent":{"goal":"join_group_east","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1050}},"wake_on":["directly_addressed"
+- 07:26 say: {"text":"Billy with Kimberly and Picard at 429,-1050. Still shot from somewhere, unseen. Stay close together, do not split, and count sight before anyone sleeps."}
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, I need no melon: Kimberly, give yours to Beverly first, he is at 6. I sleep at the bed 429,-1050 in your si
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1048}}],"say":"Billy: arrow from the south-east, I step west out of its line. Count sight at the bed 429,-1050 if you can."}
+- 07:27 act: {"actions":[],"say":"Billy alive, unarmed, at 404,107,-1047, out of the arrow line, hunger 17. Nobody walks west. Kimberly, Picard, Riker: count me when you can."}
+- 07:29 act: {"actions":[],"say":"Trini, no pillager in my sight at 404,-1047. Come to me by the crafting table, then we walk together to the bed row. Leonardo, count me as in sight too."}
+- 07:30 act: {"actions":[],"say":"Count: Billy at 404,-1047, Trini coming. Tommy, come to me at 404,-1047 away from the east; Zack, walk with Tommy here. No pillager in my sight. Nobody goes east."}
+- 07:30 act: {"actions":[],"say":"Count at 404,-1047: Billy, Kimberly, Lewis, Tommy in reach; Trini here; Zack coming. Kimberly, melon to Tommy first. Nobody goes east."}
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1038}}],"say":"Billy alone at 404,-1047 with dusk coming, unarmed. Moving north to the spawn at 402,-1037 to sit with Trini and Beverly. Count m
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1036}}],"intent":{"goal":"reach_safe_bed_east","program":"travel","arguments":{"target":{"x":421,"y":107,"z":-1036}},"wake_on":["goal_completed"
+- 07:37 say: {"text":"Billy respawned with nothing. Pillager to my west. Moving east, away from it."}
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"intent":{"goal":"reach_bed_and_rest","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1036}},"wake_on":["goal_completed",
+- 07:37 say: {"text":"Billy at 421,-1037, health 1, no food. Going to the bed at 429,-1036 with Leonardo. Pillager is out of sight now."}
+- 07:37 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:38 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"intent":{"goal":"reach_picard_for_melon","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1050}},"wake_on":["goal_completed","directly
+- 07:38 say: {"text":"Billy at 429,-1035, health 1.3, no food. Walking to Picard at 430,-1050 for the melon. Picard, hold still, I come along the east side."}
+- 07:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:39 act: {"actions":[{"do":"sleep"}]}
+- 07:40 say: {"text":"Billy in bed at 429,-1035, health 1.3, hunger 17. Leonardo, thank you. Wesley, if you can spare the beef, give it to me when I come near. Staying put."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"intent":{"goal":"reach_picard_for_melon","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1049}},"wake_on":["goal_complet
+- 07:43 say: {"text":"Morning. Billy at 430,-1037, health 1.3, no food. Walking south to Picard's melon at 430,-1049. Picard, hold the melon for me."}
+- 07:45 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}]}
+- 07:45 say: {"text":"Picard, I'm at 430,-1048, right beside you. Please give me the melon. I have no food and I am weak."}
+- 07:45 say: {"text":"Thank you Riker. Picard, if the melon is coming, I am standing at 430,-1048. I'll wait here."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":439,"y":107,"z":-1050}}],"say":null}
+- 07:46 say: {"text":"Wesley, I'm walking to you now, to 439,-1050. Hand me the beef there, please."}
+- 07:46 say: {"text":"I'm at 439,-1049 by the bed row. Wesley, I can't see you. Please step into my sight and hand over the beef."}
+- 07:49 say: {"text":"Thank you Picard. I'm at 439,-1049, I'll wait for you here."}
+- 07:50 say: {"text":"Wesley, I have 1.3 health, and hunger won't let me heal. Please give me the beef now, I'll eat it at once and I'll share what I find after."}
+- 07:51 say: {"text":"Thank you Picard and Wesley. I ate the melon; hunger is up to 19. I'll hold the beef for when I need it."}
+- 07:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}],"intent":{"goal":"night_in_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
+- 07:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}},{"do":"sleep"}]}

@@ -1,4 +1,5 @@
-Day 413 dusk handoff.
-Died at 433,107,-1030 to a pillager's arrows; respawned at spawn 414,107,-1041 with nothing. Dropped: 2 wooden_sword, 3 rotten_flesh, 1 chicken at 433,107,-1030 (pillager nearby, do not go there yet).
-Group (Kimberly, Picard, Jason, Lewis, Tommy, Troi) was heading east/south-east to the beds at 429 and 413. Troi at health 2, needs food.
-Standing: sleep in bed 413,107,-1041 (next to me). Next morning: count sight, go back for dropped items only if the pillager is gone and with four in sight.
+Day 415 dusk handoff.
+Health 4.3, hunger 17, nothing held. Standing at 430,107,-1049 on the bed row, near beds 429,107,-1050 and 429,107,-1051. Sleeping with Picard, Riker, Leonardo and Beverly close by; nobody goes east tonight.
+Wesley holds 1 beef under his rule: beef goes to whoever drops to hunger 6 or below. Ask him for it then.
+Dropped items at 433,107,-1030: retrieve only when the pillager is gone and four are in sight.
+Next morning: count sight, eat (Wesley's beef at hunger 6, or Picard's or Kimberly's food), then look for what is new.
