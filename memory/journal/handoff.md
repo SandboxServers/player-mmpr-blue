@@ -1,7 +1,6 @@
-Handoff, day 422 (Billy)
+Handoff, day 423 night (Billy)
 
-At the bed 401,107,-1036 with the group in sight (about ten: Kimberly, Picard, Tommy, Trini, Wesley, Zack, Data, Worf, Beverly, Leonardo, Jason, Chapman).
-Holding 4 rotten flesh, wooden sword in pack (not in hand). Health 4.3, hunger 17.
-Cow walk is held: the sword is still not in hand. Do not walk without it.
-Next: sleep at the white bed at night with the group in sight. At waking, eat one flesh at hunger 6, count sight, and try the sword in hand by a method other than use-on-block.
-Dropped items at 433,107,-1030 are still there; go back only when the pillager is gone.
+Asleep at a white bed near 401,107,-1023 (position 402,107,-1023). Sleep worked, 3 of 10 asleep. Nobody in sight at the moment.
+Holding 4 rotten flesh, wooden sword still in pack (not in hand). Health 4.3, hunger 17.
+Cow walk still held: sword not in hand. Use with the sword needs a block position, so it does not draw the sword; find another way.
+Next: at waking, eat one flesh at hunger 6 (Kimberly first), count sight with the group, and get the sword into hand before any walk.

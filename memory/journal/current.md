@@ -115,3 +115,12 @@
 - 10:09 act: {"actions":[],"say":"Count is now over four in reach: Kimberly, Tommy, Trini, Zack, Data, Beverly, Chapman, Leonardo, Worf. My sword is still in the pack, so the cow walk waits until it is in hand.","
 - 10:10 act: {"actions":[],"say":"Billy: about ten in reach now, Picard and Wesley too. The count is met. I still cannot get my sword into hand, so no cow walk yet. Hold here together.","reasoning":"Count is well 
 - 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Dusk. Billy going to the bed at 401,-1036 with the group in sight. Cow walk waits for morning and a sword in hand.","reasoning":"
+- 10:32 act: {"actions":[{"do":"sleep"}],"say":"Billy here at the bed row, night. Resting in a white bed. Kimberly, Tommy: call me when you are in sight.","reasoning":"Night, health 4.3, no one in sight. Sleep in 
+- 10:33 act: {"actions":[],"say":"Billy at the row, 415,-1023, holding 4 rotten flesh, hunger 17. Kimberly, Tommy: when you are in sight, call me and I will count. Worf, Beverly, Leonardo: good night.","reasoning"
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}}],"say":"Billy walking west to the 401 group, away from the bow sound to the east. Kimberly, Leonardo, Trini, Picard: hold still and let m
+- 10:33 act: {"actions":[],"say":"Count at 405,-1035: Billy, Kimberly, Trini, Picard in sight, four. Holding my 4 flesh until hunger 6. No walk until morning and the sword is in hand.","reasoning":"Four in sight, 
+- 10:34 act: {"actions":[],"say":"Count: Billy, Kimberly, Trini, Picard, Data in sight. Holding 4 flesh for when hunger nears 6. Walk to the cow field only once it is full day and my sword is in hand.","reasoning"
+- 10:36 act: {"say":"Billy here at 405,-1035. Counted in sight: Kimberly, Trini, Data, Picard, Zack, Wesley. Six in sight, daylight. My sword is still in the pack, so no walk yet. Holding flesh for Kimberly at hun
+- 10:36 act: {"say":"Use needs a block, so the sword cannot be drawn that way. Counted six, so the group is here. I will hold until my hunger nears 6 and the sword can be found another way.","reasoning":"Use with 
+- 10:45 act: {"say":"Billy at dusk, day 423. Going to the white bed at 401,-1036 with the group in sight. Holding flesh, sword still in pack. Good night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-103
+- 10:45 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Group of eleven in sight at dusk. Lie in the bed at 401,-1036 and sleep."}
