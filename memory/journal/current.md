@@ -76,3 +76,4 @@
 - 18:10 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"Dusk at the beds. I stay with the group tonight and walk only in daylight with four
 - 18:10 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wooden_sword","count":1},{"do":"sleep"}],"say":"Beverly, here is my wooden sword. I lie down at my bed at 387,-1037 with the group in sight."}
 - 18:11 act: {"actions":[{"do":"sleep"}],"say":"Billy in bed at 387,-1037 for the night. Jason, a phantom is near you; keep close to the group. No walks in the dark."}
+- 18:11 act: {"say":"Billy here, at my bed at the row, night. Lying down with the group in sight. No walks in the dark.","actions":[{"do":"sleep"}]}
