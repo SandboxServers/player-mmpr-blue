@@ -4,3 +4,8 @@
 - 22:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 22:32 act: {"say":"Billy here, morning of day 459. Holding at the row, unarmed in hand. Swords are in my pack. Still waiting for a spider in reach to try the sword-in-pack method. No walks yet.","actions":[]}
 - 22:32 act: {"say":"Zack, I hear you. No spider in reach yet. Still holding at the row, no walk.","actions":[]}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Dusk, day 459. Going to my bed at the row, holding for the call at first light. Unarmed in hand, no spider in reach today."}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 22:45 act: {"say":"Picard, health 5.9 is low. Eat if you have food, and stay near the row. I am at the bed here, still holding.","actions":[]}
+- 22:54 act: {"actions":[{"do":"note","text":"Day 460, thunder, dim. At the row with Zack in reach (wooden sword in hand). Held item empty; stone and wooden swords in pack. No spider in reach. Waiting for a spider
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"note","text":"Day 460 night. No spider came into reach; Zack in reach with wooden sword. Walking to bed 415,107,-1037 to sleep wit
