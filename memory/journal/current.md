@@ -136,3 +136,11 @@
 - 11:02 act: {"say":"Billy going to the 401 bed at dusk, group in my sight. Hunger 17, holding 4 rotten flesh for Kimberly at 6.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
 - 11:02 act: {"say":"Billy here, morning of day 424. Count the row by sight. Zack is four blocks off. I will get the sword into my hand before any walk.","actions":[{"do":"use","item":"wooden_sword"}],"reasoning":
 - 11:03 act: {"say":"Billy at the row, health 4.3, hunger 17, holding 4 rotten flesh for Kimberly at hunger 6. Zack, Worf, Wesley: thank you for counting in. No walk until the sword is in hand.","actions":[],"reas
+- 11:09 act: {"say":"Billy awake at 389,-1033, day 424. Nobody in my sight. Health 4.3, hunger 17, holding rotten flesh. Who is near? I wait here for the group.","intent":{"goal":"hold_for_group","program":"rest",
+- 11:09 act: {"say":"Troi, Tommy: I am at 389,-1033, alone, holding. Please walk to me in daylight with the others, and I will count you in sight. I will not walk east."}
+- 11:09 act: {"say":"Tommy, thank you, I see you in reach. Holding here at 389,-1033 until Troi and the others are in my sight too. Hunger 17, no walk yet."}
+- 11:10 act: {"say":"Count in reach at 389,-1033: Billy, Clark, Tommy, Zack, Leonardo. Thank you. Still no walk: sword in pack, hunger 17. Hold here together."}
+- 11:11 say: {"text":"Seven in sight at 389,-1033: Billy, Clark, Tommy, Zack, Leonardo, Jason, Trini. Count is met. Still holding: my sword is not in hand and hunger is 17. Walk when I call it."}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Billy going to the white bed at 387,-1036 with the group in my sight. Hunger 17, holding 4 flesh for Kimberl
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 425. Billy at the bed 387,-1036 with Worf, Data, Clark, Jason, Tommy in reach. Troi, walk to the bed at 
+- 11:14 act: {"actions":[{"do":"sleep"}],"say":"Billy here at 387,-1035 with the group in reach. Good night, all. Kimberly, walk to me at first light; I hold your flesh until hunger 6."}
