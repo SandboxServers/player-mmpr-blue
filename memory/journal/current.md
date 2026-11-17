@@ -62,3 +62,16 @@
 - 14:03 act: {"actions":[],"say":"Dawn. Tommy, take bed 413,107,-1042 with Zack and Clark. Trini, come to the row, bed 387,107,-1037 is yours. Walk only when four are in sight.","reasoning":"Morning: naming cells 
 - 14:04 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Jason, no free cell is named yet; hold beside me at the row. I am walking back to 388,-1035 in daylight.","reasoning":"Daylight. 
 - 14:04 act: {"actions":[{"do":"note","text":"Day 433 dawn: sleep at 387,-1036 refused by phantom; held in group at 401. Trini lost her things to phantoms at 413. Back at row 388,-1034 in daylight. Named Tommy's c
+- 14:05 act: {"actions":[{"do":"use","item":"stone_sword"}],"say":"Billy at the row, day 433. I hold 4 rotten flesh for Kimberly. Wesley, walk to the row now, with Tommy and Beverly in sight. Hold here till dusk."
+- 14:06 act: {"actions":[],"say":"Billy: Kimberly and MacDonald, walk to the row now at 388,107,-1034 in daylight, with four in sight. Kimberly, your cell is 413,107,-1041 per my note; I will confirm it at the row
+- 14:07 act: {"actions":[],"say":"Billy: Kimberly, hold at the row with the group. Your cell is 413,107,-1041, but it has refused use before, so do not walk there alone. We walk together at dusk."}
+- 14:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Billy: dusk. I go to my bed 387,107,-1036 in the row. Stay in sight, and no walking in the dark."}
+- 14:15 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 14:15 act: {"actions":[{"do":"sleep"}]}
+- 14:16 act: {"actions":[],"say":"Billy: night. Nobody walks. Hold where you stand in sight of the row. Clark and Zack, no cell tonight; we name cells at dawn. Trini, your bed refusal is noted."}
+- 14:20 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[],"say":"Billy: dawn. Zack, your cell is 401,107,-1037. Clark and Jason and Leonardo, I name yours at the next light. Keep the group in sight."}
+- 14:24 act: {"actions":[],"say":"Billy: Trini, yes, 387,107,-1037 is yours. Try it with the group in sight. Kimberly and Clark, your cells come at next light."}
+- 14:25 act: {"actions":[],"say":"Billy: Beverly, your cell is 401,107,-1036. Wesley, 393,107,-1034 stands as yours. Walk only with four in sight. Trini, the other half of 387 is fine to try once."}
+- 14:25 act: {"actions":[],"say":"Billy: Trini, stop the beds. Hold where you are with four in sight. When four of us walk, we go to 413,107,-1041 and you try it once. If it refuses, you stay in the group and we f
+- 14:26 act: {"actions":[],"say":"Billy: MacDonald, your cell is 390,107,-1034. Kimberly, you take 387,107,-1036, the bed I slept near; I sleep on the open ground with the group. Tommy holds at 413. Everyone walks
