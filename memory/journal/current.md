@@ -20,3 +20,7 @@
 - 20:41 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":388,"y":106,"z":-1033}}],"say":"Kimberly, Worf, thank you. I still cannot get the stone sword into my hand. I will try the ground beside me once 
 - 20:42 act: {"actions":[],"say":"Thank you, all. I already tried that: use with the stone sword on a block in reach fails the same way. Nobody has a sword in hand, so I will stop trying for now and stay at the ro
 - 20:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Dusk. Going to the bed at 387,107,-1036 with the group. Still unarmed; no walks tonight.","reasoning":"Night is coming; sleep in 
+- 20:48 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1033},"item":"stone_sword"}],"say":"Billy here at the row, stone sword in pack from Chapman, thanks. Trying a new way to get it into my hand.","reaso
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, sheltered with the group. Crafting table use failed: it is a container. Sleep in the bed beside me."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy in bed at 387,-1036. Spiders are out at 401; stay in sight of the row.","reasoning":"Still night and I am no
+- 20:51 act: {"actions":[],"say":"Morning, all. Billy, stone sword in pack, not in hand. Zack, what exact step got the wooden sword into your hand? I'll try your way once you tell me.","reasoning":"Morning, count.
