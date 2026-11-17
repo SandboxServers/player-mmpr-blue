@@ -1,6 +1,6 @@
 Handoff, day 423 night (Billy)
 
-Asleep at a white bed near 401,107,-1023 (position 402,107,-1023). Sleep worked, 3 of 10 asleep. Nobody in sight at the moment.
-Holding 4 rotten flesh, wooden sword still in pack (not in hand). Health 4.3, hunger 17.
-Cow walk still held: sword not in hand. Use with the sword needs a block position, so it does not draw the sword; find another way.
-Next: at waking, eat one flesh at hunger 6 (Kimberly first), count sight with the group, and get the sword into hand before any walk.
+Sheltered at the 401 white bed row near 402,107,-1023. Not enclosed; group reported in sight by speech (Kimberly, Trini, Zack, Data, Worf, Wesley, Picard, Tommy, Troi, Beverly).
+Holding 4 rotten flesh in hand, wooden sword in pack (not in hand). Health 4.3, hunger 17.
+Next at waking: count sight with four or more; eat one flesh only at hunger 6 (Kimberly first); get the sword into hand before any walk (use on a block does not draw it; find another way).
+Note: wait returned errors at this moment; look and sleep worked.

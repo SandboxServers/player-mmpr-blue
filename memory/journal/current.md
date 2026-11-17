@@ -124,3 +124,4 @@
 - 10:36 act: {"say":"Use needs a block, so the sword cannot be drawn that way. Counted six, so the group is here. I will hold until my hunger nears 6 and the sword can be found another way.","reasoning":"Use with 
 - 10:45 act: {"say":"Billy at dusk, day 423. Going to the white bed at 401,-1036 with the group in sight. Holding flesh, sword still in pack. Good night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-103
 - 10:45 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Group of eleven in sight at dusk. Lie in the bed at 401,-1036 and sleep."}
+- 10:46 act: {"reasoning":"Night, nobody in sight, health 4.3, hunger 17. Sleep in the white bed next to me. Eat only at hunger 6 or below.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Billy h
