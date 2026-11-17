@@ -47,3 +47,10 @@
 - 05:39 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Dusk. Going to the bed at 413,107,-1042 to sleep. Trini has the one at -1041. Riker, Kimberly, Troi, Bcrusher, stay in sight."}
 - 05:39 act: {"actions":[{"do":"sleep"}],"say":"In bed at 413,107,-1042. Kimberly, Trini, Troi close by. Sleeping now."}
 - 05:41 act: {"actions":[{"do":"sleep"}],"say":"Night, day 408. Billy in bed at 413,107,-1042 with Kimberly and Trini in reach. Count me at first light."}
+- 05:42 act: {"say":"Morning. Billy here at the bed row with Trini, Kimberly and Troi in sight. Three in sight, so no cow walk yet. Holding; I will call it when four are in my sight.","actions":[{"do":"eat"}],"rea
+- 05:43 say: {"text":"Billy at the row with Trini, Kimberly and Troi in sight. Tommy, I cannot see you yet; walk into the row's sight and I will count you."}
+- 05:44 say: {"text":"Tommy, I see you now at 5 blocks. With Trini, Kimberly and Troi that makes four in my sight. Worf, hold in the pit, no dig. I will call the cow walk once the four are still in sight at the ne
+- 05:45 act: {"say":"Five in my sight now: Trini, Kimberly, Troi, Beverly and Tommy. Midday, bright. Walking to the cow field; stay in my sight, and say so if you fall behind.","intent":{"goal":"reach_cow_field","
+- 05:45 act: {"say":"The walk broke about 15 blocks out. Only three in my sight, so I am going back to the bed row. Kimberly, Troi, Beverly, hold for me.","intent":{"goal":"return_to_bed_row","program":"travel","a
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk. Going to the white bed at 413,107,-1041 with the group in sight.","reasoning":"Dusk, six in sight, white bed
+- 05:54 act: {"actions":[{"do":"sleep"}],"say":"Night, day 409. Billy at the bed 413,107,-1041 with Trini and LaForge in reach. Count me at first light.","reasoning":"Night, at the bed with the group close. Sleep 

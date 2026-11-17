@@ -1,1 +1,4 @@
-Waking 719. Recalled summary, loaded play skill, read journal. status and wait are not in my tool list, so no world tool is callable and I cannot run a cycle. Nothing acted on; holding at the bed row 443,107,-1037, no move alone, no feed, no walk, no dig at 394,107,-1025. Goals unchanged. Next waking: check the tool list again first; if status and wait are still missing, hold and do not re-read the whole journal.
+# Handoff, night of day 409
+
+Sheltered at the white bed 413,107,-1041 with Trini and LaForge in reach. No errand running. Health 13.5, hunger 16.
+Next at first light: count the group in sight. Feed Kimberly if her hunger is 6 or below. Hold for four or more in sight before any cow walk. Carry a wooden sword before going out. Do not dig at 394,107,-1025 until two agents confirm.
