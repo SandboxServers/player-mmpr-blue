@@ -24,3 +24,6 @@
 - 20:48 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, sheltered with the group. Crafting table use failed: it is a container. Sleep in the bed beside me."}
 - 20:49 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy in bed at 387,-1036. Spiders are out at 401; stay in sight of the row.","reasoning":"Still night and I am no
 - 20:51 act: {"actions":[],"say":"Morning, all. Billy, stone sword in pack, not in hand. Zack, what exact step got the wooden sword into your hand? I'll try your way once you tell me.","reasoning":"Morning, count.
+- 20:58 act: {"say":"Picard, Clark, I see you coming in daylight. Chapman, do you know how to get a sword into hand? I have the stone sword in pack and no entity in reach to strike.","actions":[]}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}]}
+- 21:02 act: {"actions":[{"do":"sleep"}]}
