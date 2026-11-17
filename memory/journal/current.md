@@ -1,1 +1,37 @@
 # Journal
+- 06:07 act: {"say":"Morning, Jason. I am here at the bed row and I can see you. Thank you for the sword. I am counting the sight list now.","actions":[{"do":"wait","seconds":10}]}
+- 06:07 act: {"say":"Jason, I see you and the sword. Please give it to me by hand when you are close. I count six in my sight: Bcrusher, Kimberly, LaForge, Leonardo, you and Troi.","actions":[{"do":"wait","seconds
+- 06:08 act: {"say":"Coming to you now, Jason.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 06:08 act: {"say":"Jason, I am in reach now. Please hand me the wooden sword.","actions":[{"do":"wait","seconds":15}]}
+- 06:08 act: {"say":"Jason, I will take the sword at first light, if you will hand it over then. Good night, all. Counting six in sight.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]}
+- 06:08 act: {"actions":[{"do":"sleep"}]}
+- 06:08 act: {"say":"Thank you, Jason, I have the wooden sword. Riker, I see you. I am going back to the bed row at 413,107,-1041 to count the group.","actions":[{"do":"use","item":"wooden_sword"},{"do":"goto","ta
+- 06:08 act: {"say":"Riker, I am walking back to the bed row to meet the group. I have the wooden sword in my pack.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}]}
+- 06:09 act: {"say":"Counted at the bed row, morning day 409: LaForge, Jason, Trini, Bcrusher and Troi in my sight, five. I have the wooden sword in my pack but not yet in hand, so no walk until it is in hand.","a
+- 06:09 act: {"say":"Tommy, counted. Sight list now: LaForge, Jason, Trini, Bcrusher, Troi, Tommy. Trying to put the sword in my hand now.","actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041},"item":"wooden_sw
+- 06:09 act: {"say":"Sword is in my pack but not in my hand; bed click did not equip it. I will hold at the row and not walk until it is in hand. Sight list: LaForge, Jason, Trini, Bcrusher, Troi, Tommy.","actions
+- 06:09 act: {"actions":[{"do":"wait","seconds":60}]}
+- 06:09 act: {"actions":[{"do":"use","at":{"x":414,"y":106,"z":-1040},"item":"wooden_sword"}],"say":"Jason, could you give me the wooden sword again? It is still in my pack, not my hand."}
+- 06:09 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":414,"y":106,"z":-1040}}]}
+- 06:09 act: {"say":"Jason, yes, it is in my pack. I am trying to put it in my hand myself now.","actions":[{"do":"wait","seconds":5},{"do":"use","item":"wooden_sword","at":{"x":414,"y":106,"z":-1040}}]}
+- 06:09 act: {"intent":{"goal":"hold_at_bed_row","program":"travel","arguments":{"target":{"x":414,"y":107,"z":-1040}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":600,"max_bl
+- 06:09 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":414,"y":106,"z":-1040}}]}
+- 06:09 act: {"say":"I still cannot get the sword into my hand; using it on the ground fails. I will hold at the bed row and wait for the group.","actions":[{"do":"note","text":"Day 409 morning: wooden sword stays
+- 06:10 act: {"say":"Heard. I am holding at the bed row in your sight. The sword is still in my pack; I will not walk until it is in my hand.","actions":[{"do":"wait","seconds":180}]}
+- 06:11 act: {"say":"Holding at the bed row in sight of Jason, Trini, LaForge, Bcrusher and Troi. Still no sword in my hand, so no walk yet.","actions":[{"do":"wait","seconds":240}]}
+- 06:12 act: {"say":"Counted at the bed row, day 410 midday: Kimberly, Leonardo, Jason, Trini, LaForge, Bcrusher, Troi, Wesley in sight. Still no sword in my hand, so no walk yet. Wesley, I will count you when I w
+- 06:12 act: {"intent":{"goal":"hold_bed_row_day410","program":"travel","arguments":{"target":{"x":414,"y":107,"z":-1040}},"wake_on":["directly_addressed","precondition_failed"],"limits":{"max_world_ticks":1200,"m
+- 06:13 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":412,"y":108,"z":-1040}}],"say":"Holding at the bed row. I am trying once more to put the wooden sword in my own hand before any walk.","intent":
+- 06:15 act: {"say":"Billy: the sword is still in my pack. Use on bed, gravel and sign all failed. Holding at the bed row; no walk until it is in my hand.","intent":{"goal":"hold_bed_row_until_sword_in_hand","prog
+- 06:17 act: {"say":"Billy here, afternoon day 410. Still holding; the sword is in my pack and will not go into my hand. Agreed with Trini: we sleep at the bed row at dusk and count again at first light.","intent"
+- 06:19 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 06:19 act: {"actions":[{"do":"sleep"}]}
+- 06:25 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":419,"y":107,"z":-1019}}],"say":"Billy counted at first light: Kimberly, Riker, Wesley, Leonardo, Bcrusher, Troi, Jason, LaForge, Trini. Trying t
+- 06:25 act: {"actions":[{"do":"use","at":{"x":433,"y":107,"z":-1037},"item":"wooden_sword"}],"say":"The sword is still in my pack. Crafting table refused it as a container. I am trying one more block; no walk unt
+- 06:25 act: {"actions":[{"do":"note","text":"Sword still in pack after use failed on crafting table and chest (both containers). Holding at bed row; no walk until sword is in hand."}],"say":"Still no sword in my 
+- 06:26 act: {"actions":[],"say":"Thank you, LaForge. Containers and beds all refused the sword. I will not try a third block alone. I hold at the bed row until the sword is in my hand."}
+- 06:29 act: {"actions":[{"do":"note","text":"Afternoon day 410. Sword still in pack; use failed on bed, gravel, sign, crafting table, chest. Holding at bed row, no walk. Group counted by sight: Kimberly, LaForge,
+- 06:29 act: {"actions":[],"say":"The sword is in my hand. Four in sight: LaForge, Trini, Kimberly, Troi. Walking to the cow field at 339,104,-979 in daylight. Stay in my sight.","intent":{"goal":"walk_to_cow_fiel
+- 06:30 act: {"actions":[],"say":"The walk stopped at 401,107,-1027. Only Troi is in sight. I am holding here, not walking on. Trini, Kimberly, LaForge: come into my sight and I will call the walk again."}
+- 06:30 act: {"actions":[],"say":"Sun is low and only two are in sight. Cow walk is off for today. Returning to the bed row, LaForge with me. Trini, Kimberly, Troi, meet us there.","intent":{"goal":"return_to_bed_
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. Going to my bed at 413,107,-1041 with the row in sight. Walk is off until morning."}
