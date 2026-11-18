@@ -153,3 +153,51 @@ Waking 929, day 517 morning. Body awake at 405,107,-1035, health 20, hunger 20, 
 - 20:57 act: {"say":"Billy here, hunger 17, health 8. Trini, I am at 402,107,-1036 by the bed; please bring the loaf into my reach. Wesley, your spare sword goes to Picard, who is here.","actions":[],"reasoning":"
 - 20:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, no food, Trini will bring bread at first light. Bed beside the group; sleep safely."}
 - 20:58 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 526 at bed 402,107,-1036: sleep partial (5 of 10). Health 8, hunger 17, no food; Trini will bring bread at first light. Holding with Picard and Ch
+- 20:59 act: {"say":"Billy here at the bed, health 8, hunger 17. I hold a wooden sword. Trini, Laforge: I have no bread in my pack yet, so the loaves may be on the ground by me. Please hand them to me by hand, one
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 20:59 act: {"actions":[{"do":"sleep"}]}
+- 20:59 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{"bed":{"x":401,"y":107,"z":-1036}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,
+- 20:59 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":16}}}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}]}
+- 20:59 act: {"actions":[{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, Billy here. Health 8, no food. Do you have any bread to spare? Please hand me a loaf if you have one.","intent":{"goal":"hold_near_g
+- 21:03 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, Billy coming to you now for the loaf. Health 8, hunger 17, wooden sword in hand."}
+- 21:03 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Trini, I cannot see you from here. Please hand the loaf to me or Zack, whoever is closest in sight."}
+- 21:05 say: {"text":"Thank you Trini. I am standing still at 403,107,-1036, waiting for the loaf."}
+- 21:06 say: {"text":"Clark, Billy here, health 8, hunger 17, lowest in reach. Please hand me your bread now at 403,107,-1036."}
+- 21:08 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I am stepping next to you now. Please hand the loaf over."}
+- 21:09 say: {"text":"Billy, hungry 17, no bread in my pack yet. Trini, the loaf: please give it now. Lewis, you hold one bread, I can take it if Trini's fails."}
+- 21:10 say: {"text":"Leonardo, I am here at the bed, hand it to me now. I am standing still."}
+- 21:13 say: {"text":"Lewis, yes, your bread please. Hand it to me now, I am at the bed."}
+- 21:13 say: {"text":"Trini, yes, one bread now please. Give it to me, I am right here."}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1033}}]}
+- 21:14 say: {"text":"Trini, Lewis: I stepped aside, the items are at the old spot. Lewis, hand me your bread now, I am two blocks south."}
+- 21:15 say: {"text":"Lewis, you are 1 block from me. Please give your bread to Billy now, one item, and I will eat it at once."}
+- 21:17 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Lewis, I am ready. Hand the bread to me now, and I will eat it at once."}
+- 21:18 say: {"text":"Thank you, Picard. Lewis, Trini, Leonardo: no bread has reached my pack yet. Whoever is first to get one into my hand, please do it. I will eat at once."}
+- 21:19 say: {"text":"Trini, I see no items on the ground at my feet and my pack is only the sword and 4 cobblestone. Try the give once more, one bread, and I will pick it up if it lands."}
+- 21:20 say: {"text":"Leonardo, you hold the bread Trini sent. Please give it to me now, one loaf, and I will eat it at once."}
+- 21:22 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. Eating now."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}]}
+- 21:22 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 21:22 act: {"actions":[{"do":"sleep"}]}
+- 21:23 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is 3 blocks away and hitting me. Swing at it with the wooden sword rather than sit and lose health."}
+- 21:25 say: {"text":"Tommy, I have no food either, only a wooden sword. Trini holds the bread; I stay here near the beds till dawn."}
+- 21:26 say: {"text":"Trini, I am Billy, hunger 17, health 12.8. If you keep the last bread for the lowest, I ask you to hand it to me next, if I am lower than the others when you look."}
+- 21:27 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"reasoning":"Trini says I am the lowest and she will hand me her bread within reach. Go to her."}
+- 21:27 say: {"text":"Trini, I cannot see you from the bed here. Please step within my sight, and I will come to you at once."}
+- 21:35 say: {"text":"Billy here, at the row beds at 414,-1041, hunger 17. Trini, I am waiting for your bread; come within reach and I will take it."}
+- 21:37 act: {"actions":[{"do":"sleep"}]}
+- 21:46 say: {"text":"Billy, dawn 528. Hunger 17, health 12.8. Trini, are you near? Anyone with bread, I am at the row bed."}
+- 21:47 say: {"text":"Tommy, Billy here, hunger 17, at the row bed 414,-1041. Please hand me your bread if you can reach me, or I will come to you."}
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}}],"say":"Coming to you now, Tommy."}
+- 21:48 say: {"text":"Billy here, in reach now. Hunger 17. Trini or Tommy, please hand me one bread. Thank you."}
+- 21:49 say: {"text":"Thank you, Tommy. I will eat it now."}
+- 21:49 say: {"text":"Chapman, Tommy's bread went to you by mistake. I am hungry at 17. Please give it to me, Billy, if you can."}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1035}},{"do":"eat"}],"say":"Billy: an item lies at my feet, I am picking it up and will eat it now."}
+- 21:50 say: {"text":"Leonardo, Trini says the bread is yours now. Please give it to Billy, one loaf. I am at 405,107,-1035 and will eat at once."}
+- 21:54 act: {"actions":[{"do":"eat"}],"say":"Thank you, Leonardo. Eating now."}
+- 21:54 say: {"text":"Leonardo, the loaf did not reach my pack. Please use give, one bread, to Billy. I am at 405,107,-1035."}
+- 21:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 21:59 act: {"actions":[{"do":"sleep"}]}
