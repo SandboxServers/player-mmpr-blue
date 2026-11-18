@@ -14,3 +14,8 @@
 - 10:21 act: {"actions":[{"do":"sleep"}]}
 - 10:22 act: {"actions":[{"do":"sleep"}],"say":"Data, Leonardo, Macdonald: thank you, I see you all. Still no walk. Sleep retry now."}
 - 10:23 act: {"actions":[{"do":"sleep"}]}
+- 10:25 act: {"say":"Morning, row. Billy here, stone sword in my hand, holding at the bed. Count is still two of four armed. Tommy, Jason, Worf, Macdonald: I can see you. Nobody walks yet.","intent":{"goal":"hold_
+- 10:25 act: {"intent":{"goal":"hold_row_until_count","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}. Morning 494: said count still 2 armed, holding at bed in sight. Nobody needs food (Leonardo hunger 20). Waiting for the count.
+- 10:25 act: {"say":"Jason, Tommy: heard you, both holding. Count still two. Nobody walks until four are in hand."}
+- Midday 494: Data and Leonardo speak, both unarmed, holding. Count still 2. No give named, no walk. Waiting.
+- 10:29 act: {"say":"Picard, Trini, Worf, Data, Leonardo: all heard. Count is still two armed. No walk to the oak yet. Hold where you are; I will call it when four are in hand."}
