@@ -30,3 +30,9 @@
 - 06:23 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1037}}],"say":"Morning, row. I slept. Health 12, hunger 17. No sword in my pack. Opening the chest at 419,107,-1037 to see what it holds. Holding, n
 - 06:23 act: {"actions":[{"do":"withdraw","at":{"x":419,"y":107,"z":-1037},"item":"wooden_sword","count":1}],"say":"The chest at 419,107,-1037 opened. I am trying to take a wooden sword out of it. Holding, no walk
 - 06:24 act: {"actions":[],"say":"Kimberly, Billy here. The chest at 419,107,-1037 holds no wooden sword; the withdraw came back not found. Still no way found to get a sword into hand. Everyone hold at your beds, 
+- 06:27 act: {"actions":[],"say":"Picard, Billy: your health is 5.9. Eating does not heal you at hunger 17 and only raises hunger. Rest at your bed, no walk. Data, keep your logs for now. Everyone hold."}
+- 06:27 act: {"actions":[],"say":"Correction, Picard: eating raises hunger, and health comes back once hunger is high enough. I am not sure of the exact line. Rest at your bed and tell me if your health falls."}
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Sun is low. Billy going to bed at 413,107,-1041. Health 12, hunger 17. Still no sword method. Holding, no walk."}
+- 06:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy sleeping at 413,107,-1041. Everyone holds, no walk. Sword method still unknown."}
+- 06:38 act: {"say":"Morning, row. Billy awake at 414,107,-1041, health 12, hunger 17. Everyone holds, no walk. Picard, report your health. Still no sword method.","actions":[{"do":"withdraw","at":{"x":391,"y":107
+- 06:38 act: {"say":"Data, Picard: I have never held a sword. The chest at 391,107,-1037 is also empty of wooden swords. Walking back to the row bed.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]
