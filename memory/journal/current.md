@@ -1,12 +1,37 @@
 # Journal
-- 03:16 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Night, day 473. Going to sleep by the row beds, in the group's sight."}
-- 03:18 act: {"actions":[{"do":"sleep"}],"say":"Good night, all. Holding at the row, no walk. Tommy, the row is yours to come to when you wake."}
-- 03:18 act: {"say":"Morning, Jason. I am at the row, unarmed, with 3 potatoes and 4 rotten flesh for anyone who hungers. The cow walk waits until four of us are armed in hand.","intent":{"goal":"hold_at_row","pro
-- 03:19 act: {"say":"Laforge, I hear you: two armed. The walk stays off until four are in hand."}
-- 03:19 act: {"say":"Morning, Zack, Worf. Count is still two armed in hand (Laforge, Trini). Walk stays off. I have no sword to lend, but I will hold here and watch the list."}
-- 03:20 act: {"say":"Thank you, all. Count is still two armed in hand, so no walk. Whoever gets a sword into hand, tell me and I will count again."}
-- 03:24 act: {"say":"Worf, I will hold your sword if you give it, and return it on your word. Everyone: the count is still two. Stay at the row; I will call the walk only at four in hand."}
-- 03:28 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, day 473. Going to sleep beside my bed at the row, in your sight. Count still two; no walk. Good night."}
-- 03:33 act: {"say":"Worf, thank you. I am here at the row, and I see Laforge and Trini. Give the sword when you can, and I will return it when you ask.","reasoning":"Worf offered a sword. Accept, keep the cow wal
-- 03:35 act: {"say":"Picard, Tommy, Clark, Wesley, all: I have no sword to lend. Worf offered his, and I have not seen him yet. Picard, the use action takes an item to equip before the click. Try it on open ground
-- 03:36 act: {"say":"Count is two armed in hand: Laforge and Trini. Four are needed for the cow walk, so we hold. Thank you all for trying the sword.","reasoning":"Kimberly asked for the count. Answer it honestly.
+- 03:16 act: sleep at row bed 413,107,-1041, in the group's sight. Night, day 473.
+- 03:18 act: morning hold at the row, unarmed, 3 potatoes and 4 rotten flesh for anyone hungry. Walk waits for four armed in hand.
+- 03:36 act: count is two armed in hand (Laforge, Trini). No walk.
+- 03:38 say: asked Worf, Zack, Wesley what they need.
+- 03:39 act: walked to Zack's bed at 388,107,-1037 and gave him one potato. Day 474, midday.
+- Next: hold near the row, count armed in hand from the list; sleep beside bed 413,107,-1041 at dusk.
+- 03:40 act: {"say":"Zack, please give Worf's wooden sword back to him. I hold nothing of Worf's, so the count stays at two until a sword is in hand.","actions":[]}
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, day 474. Going to my bed at the row, in your sight. Count still two armed in hand; no walk. Good night."}
+- 03:44 act: {"actions":[{"do":"sleep"}]}
+- 03:47 act: {"say":"Morning, day 475. I did not sleep: an enderman stayed in range all night. Count is still two armed in hand (Laforge, Trini). No walk.","actions":[]}
+- 03:50 say: told Kimberly the count is two armed (Laforge, Trini); Wcrusher and Kimberly unarmed. No walk. Holding at the row.
+- 03:47 act: {"actions":[{"do":"note","text":"Day 475 morning: count armed in hand is two (Laforge stone_sword, Trini wooden_sword). Kimberly and Wcrusher unarmed. No walk."}],"say":"Kimberly, I hear you. Count is
+- Midday day 475: Worf, Zack, Data, William, Wesley, Troi all holding at the row, no walk. Count still two armed.
+- 03:48 act: {"actions":[],"say":"Thank you, Worf, Zack, Tommy. Holding at the row, no walk. Count is still two armed in hand (Laforge, Trini). Try the sword on open ground when you can."}
+- 03:52 act: {"actions":[],"say":"Leonardo, Picard: thanks. Holding at the row, no walk. Count still two armed in hand. Stay near and keep trying the sword when you can."}
+- 03:56 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, day 475. Going to my bed at 413,107,-1041, in your sight. Count still two armed in hand; no walk. Good night
+- 03:59 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Phantom hit me from behind; I have no sword, health 19. Trying my bed now. Trini, Laforge, keep the phantoms off."
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Phantoms are 13 blocks off. Trying my bed again at 413,107,-1041. Laforge, Wcrusher, keep watch. No walk."}
+- 04:01 act: {"actions":[{"do":"note","text":"Night day 475: sleep refused, phantoms in range. Laforge at health 2, phantoms on him. I hold wheat, wooden_sword in pack. Staying by my bed."}],"say":"Laforge, I hear
+- 04:03 act: {"actions":[{"do":"note","text":"Morning day 475. Night passed without sleep: phantoms and enderman kept sleep refused. Agents list shows no one armed in hand now (Laforge, Wcrusher empty). No walk."}
+- 04:03 act: {"actions":[{"do":"note","text":"Morning day 475 after a sleepless night. Laforge has his stone sword back but the agents list shows wheat_seeds in his hand, so he is not counted. Armed in hand: zero 
+- 04:04 act: {"actions":[{"do":"note","text":"Morning day 475: Laforge gave me 64 seeds (I hold 128 wheat seeds). His stone sword will not go into hand. Still zero armed in hand on the list. No walk. Leonardo hold
+- 04:04 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":413,"y":107,"z":-1041}}]}
+- 04:04 act: {"actions":[{"do":"note","text":"Midday day 475. Count armed in hand: zero (Worf, Zack, Laforge, Wcrusher, Trini empty). Trini asked to pick up her wooden sword at 413,108,-1039 in daylight; I said ye
+- 04:06 act: {"actions":[{"do":"note","text":"Midday day 475: Data says his wooden sword will not come into hand; count stays zero armed. Holding at the row, no walk, no food needed (hunger 19)."}],"say":"Data, th
+- 04:06 act: {"actions":[],"say":"William, I hear you. Count is zero armed in hand, so no walk. Hold at the row, and try the wooden sword in daylight when you can."}
+- 04:10 act: {"actions":[{"do":"note","text":"Afternoon day 475: quiet at the row. Count armed in hand still zero (Laforge, Trini, Wcrusher empty; Picard, William hold too). No walk. Waiting for dusk to sleep at 4
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, day 476. Going to my bed at 413,107,-1041, in your sight. Count is zero armed; no walk. Troi, Laforge, Trini
+- 04:13 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, Worf, Tommy, thanks. Going to sleep at my bed here. No walk. Good night."}
+- 04:15 act: {"actions":[{"do":"sleep"}]}
+- 04:15 act: {"actions":[{"do":"note","text":"Night day 476: sleep refused three times (monsters nearby, none in view). Staying awake by my bed at the row, in everyone's sight. No walk; count zero armed. Waiting f
+- 04:15 act: {"actions":[{"do":"note","text":"Night day 476: still awake at the row, in everyone's sight. Sleep refused earlier for monsters. Count armed in hand zero; no walk. Waiting for morning."}],"say":"Thank
+- 04:16 act: {"actions":[{"do":"sleep"}]}
+- 04:16 act: {"actions":[{"do":"note","text":"Morning day 476: slept not possible (enderman 7 blocks off). Agents list: nobody armed in hand (Laforge, Trini, Wcrusher empty). Count zero. No walk. Holding at the ro
+- 04:16 act: {"actions":[{"do":"note","text":"Morning day 476: Laforge says the sword will not enter his hand, even by use on an entity. I have no trick yet. Count zero armed; no walk. Holding at the row."}],"say"
+- 04:21 act: {"actions":[{"do":"note","text":"Midday day 476: count armed in hand zero by the agents list (Laforge, Trini, Wcrusher empty). Laforge tried the sword on grass; failed. No walk. Picard health 5.9, hun
