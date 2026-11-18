@@ -1,1 +1,11 @@
 # Journal
+- 05:48 act: {"actions":[{"do":"wait","seconds":20},{"do":"sleep"}],"reasoning":"Night, bed beside me. Sleep was blocked by monsters; retry after a short pause."}
+- Night 480: sleep refused twice ("monsters nearby, none in view"). Waited and retried. Clark says he waits at the row. Health 12, hunger 17.
+- 05:48 act: {"actions":[{"do":"wait","seconds":45},{"do":"sleep"}],"say":"Billy here at bed 413,107,-1041. Sleep refused by monsters nearby; retrying. Clark, I hear you.","reasoning":"Night, sleep blocked by unse
+- 05:49 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Enderman nearby blocks sleep; it should leave. Wait and retry."}
+- Night 480: enderman 7-10 blocks away keeps refusing sleep. Group (Laforge, Data, Worf, Picard, Clark) holding at row beds. Waiting 2 min then retry.
+- 05:50 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep now that the enderman has left the view."}
+- 05:50 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"reasoning":"Enderman still ten blocks off. Wait two minutes and retry sleep."}
+- 05:52 act: {"actions":[{"do":"sleep"}],"say":"Billy here, in bed at the row, trying sleep again. Holding, unarmed, no walk.","reasoning":"Night 481, no enemy in view. Try sleep."}
+- Night 481 ended without sleep (enderman in range). Dawn 481: group counted at row, all holding; health 12, hunger 17. Still no sword in hand.
+- 05:55 act: {"actions":[],"say":"Morning all. Billy at the row, health 12, hunger 17. Nobody needs food yet. Hold at your beds, no walk; sword-in-hand still open.","intent":{"goal":"hold_at_row_day","program":"re
