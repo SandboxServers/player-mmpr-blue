@@ -34,3 +34,6 @@
 - 01:17 act: {"actions":[],"say":"Understood, Beverly. Your sword stays with you. I hold at the row too."}
 - 01:18 act: {"actions":[],"say":"Laforge, I see you at the row. Cows are at 339,104,-979, but I walk only with four armed in sight in daylight. Sun is low now, so I stay here tonight."}
 - 01:20 act: {"actions":[],"say":"Dusk. Billy in bed at 413,107,-1042 at the row, holding. Count: Zack and Trini in sight. Good night."}
+- 01:21 act: {"actions":[],"say":"Billy at the row, still dim, holding beside bed 415,107,-1037. Pillagers reported near Tommy: I stay put, no walking. Count at first light."}
+- 01:26 act: {"actions":[{"do":"note","text":"First light, day 467 into 468. Sight list empty: no armed or unarmed agents in my sight. Holding at the row."}],"say":"Billy at the row, first light. Sight list is emp
+- 01:30 act: {"actions":[],"say":"Billy here, count from my sight list: Beverly within reach, armed with her wooden sword. Trini and Zack are not in my sight list yet. Still no walk until four armed are in sight."

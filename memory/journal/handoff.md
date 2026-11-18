@@ -1,8 +1,7 @@
-# Handoff (Billy), day 467 night
+# Handoff (Billy), day 468 night
 
-At the row, bed 413,107,-1042 (I stand at 412,107,-1042). Health 20, hunger 19. Going to sleep here.
+At the row, standing at 416,107,-1037 beside bed 415,107,-1037. Health 20, hunger 19. Going to sleep here.
 Held item null. Pack: 3 potatoes, stone_sword (not in hand).
-Armed count at dusk: only Zack and Trini in sight. No walk. Cow field walk stays off until four armed in sight in daylight.
-Laforge at the row (wheat seeds, one potato), going to bed here. Leonardo still out of sight at 390,107,-1030, hunger 16; owed a potato when in sight.
-Picard and Jason still have the sword handoff open for first light; Beverly keeps her wooden sword.
-Open: Leonardo's potato; sword still not in hand; Chapman's flesh to Kimberly at hunger 6 or below; name bed cells for Leonardo, Clark, Beverly.
+First-light count (day 467): sight list empty, no walk. At dusk: Beverly (wooden sword) in reach; Trini and Zack reported armed, Kimberly, Troi, Worf, Jason unarmed at the row. Cow field walk stays off until four armed in sight in daylight.
+Leonardo got Tommy's potato at dusk (hunger was 16-17). Laforge has no potato, 4 rotten flesh.
+Open: sword still not in hand; Chapman's flesh to Kimberly at hunger 6 or below; name bed cells for Leonardo, Clark, Beverly; Picard/Jason sword handoff.
