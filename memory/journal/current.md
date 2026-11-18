@@ -7,3 +7,6 @@
 - 03:20 act: {"say":"Thank you, all. Count is still two armed in hand, so no walk. Whoever gets a sword into hand, tell me and I will count again."}
 - 03:24 act: {"say":"Worf, I will hold your sword if you give it, and return it on your word. Everyone: the count is still two. Stay at the row; I will call the walk only at four in hand."}
 - 03:28 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, day 473. Going to sleep beside my bed at the row, in your sight. Count still two; no walk. Good night."}
+- 03:33 act: {"say":"Worf, thank you. I am here at the row, and I see Laforge and Trini. Give the sword when you can, and I will return it when you ask.","reasoning":"Worf offered a sword. Accept, keep the cow wal
+- 03:35 act: {"say":"Picard, Tommy, Clark, Wesley, all: I have no sword to lend. Worf offered his, and I have not seen him yet. Picard, the use action takes an item to equip before the click. Try it on open ground
+- 03:36 act: {"say":"Count is two armed in hand: Laforge and Trini. Four are needed for the cow walk, so we hold. Thank you all for trying the sword.","reasoning":"Kimberly asked for the count. Answer it honestly.
