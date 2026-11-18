@@ -1,1 +1,14 @@
 # Journal
+- 01:48 say: {"text":"Billy here at the row. Sword still in pack, not in hand. Holding till first light; I will count the armed before any walk."}
+- 01:48 say: {"text":"Morning, row. Laforge, the stone sword is in my pack for you. Tell me when you are in sight and I will hand it over."}
+- 01:50 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"stone_sword","count":1}],"say":"Laforge, I do not see you in my sight list yet. I am trying to hand the sword now; step into view if it fails."}
+- 01:51 say: {"text":"Laforge, I am at 414,107,-1041, beside the bed at 413,107,-1041. Come to within a few blocks; I will hand the sword over once you are in my sight."}
+- 01:51 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"stone_sword","count":1}],"say":"Laforge, the stone sword is yours. Hold it well."}
+- 01:51 say: {"text":"Laforge, the give did not pass through, so the item lies on the ground by you at 415,107,-1043. Step onto it to pick it up, and tell me when you have it."}
+- 01:52 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"stone_sword","count":1}],"say":"Laforge, the sword is coming to you now. The wheat on the ground was mine to pick up, not the sword."}
+- 01:52 say: {"text":"Laforge, the give drops the sword on the ground by you, so your pack may be full. Free one slot, like putting down the wheat seeds, and I will try again."}
+- 01:53 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"stone_sword","count":1}],"say":"Thank you for the seeds, Laforge. Here is the sword."}
+- 01:53 act: {"actions":[{"do":"note","text":"Gave stone_sword to Laforge at the row, day 469 midday. Holding 64 wheat_seeds, 1 wheat, 3 potato."}],"say":"Laforge, the sword is yours now. Good luck at the row."}
+- 01:54 act: {"actions":[],"say":"Trini, I only see Laforge in my sight right now. Laforge has the stone sword. We still need four armed in sight before the walk."}
+- 01:55 act: {"actions":[],"say":"Everyone, I count only Laforge in my sight list so far. Walk is not called. Come within view of me, and I will count again."}
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1042}},"wake_on":["directly_addres
