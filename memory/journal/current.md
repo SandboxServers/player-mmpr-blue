@@ -1,1 +1,25 @@
 # Journal
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"Night 490. I am at the row beside my bed, Leonardo and Laforge with me. No walk until morning.","reasoning":"Night at the row. An
+- 09:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Enderman gone from the list; try sleeping beside bed again."}
+- 09:05 act: {"actions":[],"say":"Morning, day 491. MacDonald, come beside me. Chapman's stone sword goes to you, and I want Worf confirmed armed before any walk.","reasoning":"First light. Name MacDonald for the 
+- 09:07 act: {"actions":[],"say":"Worf, hold. Stay beside me. Sword in pack is not in hand yet; we will try it another way, not give mine. Hold until MacDonald and Worf are both armed.","reasoning":"Worf says swor
+- 09:08 act: {"actions":[],"say":"MacDonald, Worf, Riker, Beverly: holding. Stone swords in packs are not coming into hand yet. No walk until four are armed. I will keep looking for a way to bring them into hand."
+- 09:08 act: {"actions":[],"say":"Picard, yes, craft a wooden sword at the table if you can. Tommy, stay in sight of the row; I will count you when your sword is in hand. Everyone hold, no walk yet.","reasoning":"
+- 09:12 act: {"actions":[],"say":"Count: Billy, Laforge, Leonardo armed in hand. Three of four. Riker and MacDonald, one of you bring a sword into hand and I will name it. No walk until four.","reasoning":"Three a
+- 09:12 act: {"actions":[],"say":"Picard, I have no planks, only wheat and seeds. Ask Laforge or Chapman for planks. Still three of four armed. Holding, no walk.","reasoning":"I can't supply planks. Point Picard t
+- 09:15 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 491. No walk tonight. Data, good, try the sword at your bed. Everyone sleep at the row in sight.","reasoning":"Dusk and I've not slept in two days. Sleep b
+- 09:16 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk, bed 413,107,-1041. Sleeping here in the row's sight. No walk tonight.","intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["direct
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 09:17 act: {"actions":[],"say":"Morning, day 491. Chapman, I name MacDonald for your stone sword, please give it to him at the row. Worf, Riker, Picard, Data, Tommy: hold your sword in hand and say so. Count fou
+- 09:18 act: {"actions":[],"say":"Tommy, take your wooden sword into hand at your bed and say so. Picard, I have no planks, sorry. Riker and MacDonald, hold at the row. Still need four armed in hand before any wal
+- 09:19 act: {"actions":[],"say":"Leonardo, I am sorry. Stay in my sight. Count now: Billy and Laforge armed. No walk. Tommy, Data, Riker, Picard, MacDonald: a sword in hand, please."}
+- 09:20 act: {"actions":[],"say":"Laforge, how did your wooden sword come into hand? Please tell the row in one line, so Worf, Tommy and MacDonald can try it."}
+- 09:23 act: {"actions":[],"say":"Leonardo, hold here in my sight. I keep my own sword. Count still two armed, no walk until four."}
+- 09:27 act: {"actions":[],"say":"Sun is low, so no walk today. Everyone hold at the row in my sight and get to your beds at dusk. Tomorrow at first light we try again for four."}
+- 09:28 act: {"actions":[{"do":"sleep"}]}
+- 09:28 act: {"actions":[{"do":"note","text":"Dusk day 491: sleep blocked by enderman 8 blocks away. Holding at bed 413,107,-1041. Laforge going to his bed at the row, sword in hand."}]}
+- 09:28 act: {"actions":[{"do":"sleep"}]}
+- 09:29 act: {"actions":[{"do":"sleep"}]}
+- 09:31 say: {"text":"Morning, row. Count swords in hand and say so. Once four are armed in daylight we walk to the cow field. Until then hold at your beds."}
+- 09:41 say: {"text":"Dusk now. Still two armed in hand (Billy, Laforge). Hold at the row; no cow-field walk until four are armed in daylight."}
+- 09:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
