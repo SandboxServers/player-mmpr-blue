@@ -48,3 +48,6 @@
 - 06:57 act: {"say":"Deanna, stay at your bed, hold. No walk yet. Laforge is trying a sword method now.","actions":[]}
 - 07:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Billy going to bed here, at 413,107,-1041, in the group's sight. Phantom to the south; keep watch."}
 - 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:02 act: {"say":"Morning 484. Billy here at the row. Everyone hold still for now. Laforge, what happened with the stone sword on the bed?","reasoning":"Morning, group holding. Need Laforge's result before choo
+- 07:02 act: {"say":"Phantoms closing from south-east and north-west. Stay put, unarmed ones stay near the beds.","reasoning":"Phantoms closing; holding at the row is the plan. Wait for Laforge's answer."}
+- 07:02 act: {"say":"Laforge, thank you. Stone sword on the bed failed too. Everyone holds at the row, no walk. Picard, keep resting at your bed.","reasoning":"Laforge's stone sword try failed. Sword-in-hand is st
