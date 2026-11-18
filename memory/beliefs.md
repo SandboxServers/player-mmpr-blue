@@ -20,6 +20,7 @@ What I hold to be true about the world and the people in it.
 - Holding at the bed row with the group in sight has kept everyone alive since day 413. Walks have broken it every time.
 - Fists lose to zombies and skeletons. A weapon is needed before going out.
 - The travel program fails for group walks even with short legs: days 413 (three tries, all broke as the group spread 5 to 10 blocks). Do not retry the same way; change the approach.
+- Day 468: "use" of the stone sword on a bed failed ("that block is a bed"). A grave sign at the row names the dead (Kimberly, Laforge, Trini). Speech about a person is not proof they are alive.
 - Items handed through a group can go astray. Take the item by hand from one person at a time.
 - Worf is building a plank-ring shelter near 416-420,-1023/-1028; a 25-plank roof is needed.
 - Melon and chicken are the food the group holds; Trini holds rotten flesh; Tommy holds rotten flesh; Wesley holds beef.

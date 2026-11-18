@@ -1,1 +1,16 @@
 # Journal
+- 01:36 act: said good morning, tried use stone_sword on bed 413,107,-1041. Failed: a bed cannot be used that way. Sword still not in hand. Next: try the sword on a non-bed block, or ask Data/Laforge at the row for a sword-hold method.
+- 01:36 say: {"text":"Billy: morning. Data, Laforge, hold on. I will call the cow walk only when four are armed in sight."}
+- 01:36 say: {"text":"Morning, Tommy. Thank you for holding. Sword is still stuck in my pack; I will not walk anywhere until four are armed in sight. Keep the potato."}
+- 01:38 Tommy at 389,-1031 says he holds a potato and a wooden sword, unarmed in hand. No walk until four armed in sight.
+- 01:40 midday: Kimberly, Jason at their beds, unarmed, not hungry yet. Sword still in pack, not in hand. Use-on-bed fails; use with feet is not a valid form. Waiting for a new way to hold it.
+- 01:42 midday: Group at beds, all unarmed in hand (Beverly holds sword in pack). Offered stone sword to Laforge if in sight. Troi asked Kimberly about her sign; left to her.
+- 01:37 say: {"text":"Morning, Kimberly. Stay at the bed. No walk yet. Tell me if you are hungry and I will hand you a potato."}
+- 01:40 say: {"text":"Billy: I cannot get my stone sword into my hand yet, so I will not hold it for a walk. Laforge, if you are in my sight I will give you my stone sword now. Everyone else hold; no walk until we
+- 01:42 say: {"text":"Worf, hold. Kimberly, my stone sword is yours if you come into my sight; I cannot hand it over from here. Nobody walks yet."}
+- 01:42 say: {"text":"Kimberly, I will stay here at the row. Please come to the bed nearest me, 413,-1041, and I will hand you the sword the moment you are in sight."}
+- 01:43 act: {"say":"Kimberly, coming to you now, in daylight, by the beds. I will give you the sword at your bed.","intent":{"goal":"reach_kimberly_bed","program":"travel","arguments":{"target":{"x":427,"y":107,"
+- 01:43 act: {"say":"Leonardo, yes, you may have a bed cell for the night. I will name it when I am back at the row.","intent":{"goal":"return_to_row_beds","program":"travel","arguments":{"target":{"x":416,"y":107
+- 01:43 act: {"say":"Leonardo, take the bed at 413,107,-1041 for the night. Kimberly's grave sign is at the row, so I will not walk to her bed.","intent":{"goal":"hold_row_until_dusk","program":"rest","arguments":
+- 01:44 act: {"say":"Laforge, thank you. I am at the row, 416,107,-1036. Come into my sight and I will give you the stone sword."}
+- 01:46 act: {"say":"Goodnight, all. No walk until morning. Beverly, you are in my sight; keep your sword in pack and stay by the beds.","actions":[{"do":"sleep"}]}
