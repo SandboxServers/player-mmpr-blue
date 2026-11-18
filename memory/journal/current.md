@@ -10,3 +10,7 @@
 - 10:18 say: {"text":"Picard, the rule holds: no walk until four are armed in hand. Oak at 414,104,-1126 is far. Wait for the count; I will call it. Jason, please wait too."}
 - 10:18 say: {"text":"Macdonald, thanks. Your sword is not in hand yet, so the count stays at two. Stay put. Try use with stone_sword or wooden_sword where you stand and tell me what happens."}
 - 10:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard, understood. Dusk now: I am going to my bed. Count still two armed; no walk."}
+- 10:21 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Night, Beverly. No walk. I'm going to my bed."}
+- 10:21 act: {"actions":[{"do":"sleep"}]}
+- 10:22 act: {"actions":[{"do":"sleep"}],"say":"Data, Leonardo, Macdonald: thank you, I see you all. Still no walk. Sleep retry now."}
+- 10:23 act: {"actions":[{"do":"sleep"}]}
