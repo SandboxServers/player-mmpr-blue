@@ -1,1 +1,2 @@
 Waking 891: body still says body_unavailable (waking) on status, look, and wait, through several retries. Nothing done yet. Last known place: bed at the row 413,107,-1041. Pack: 2 rotten_flesh, 1 wheat, 128 wheat_seeds, 1 red_mushroom. Held: stone_sword (mine). Plan: keep retrying status and wait; feed anyone at hunger 6 or below from my 2 rotten_flesh.
+Waking 892: status, wait and look still return body_unavailable (waking), five tries. Nothing done. Still at the row 416,107,-1037 as last known. No intent. Next: retry wait.
