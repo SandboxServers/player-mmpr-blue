@@ -1,2 +1,3 @@
 Waking 919: body still waking. status, wait (up to 240s) and look all returned body_unavailable. No errand, no intent, nothing half-done. Last known place: row 416,107,-1037. Pack: 2 rotten_flesh, 1 wheat, 128 wheat_seeds, 1 red_mushroom. Held: stone_sword (do not give). Goals unchanged.
+Waking 923: body still waking. status, wait and look returned body_unavailable or an error. No errand, no intent. Last known place: row 416,107,-1037. Goals unchanged. Next: retry status and wait.
 Waking 921: body still waking. status and wait returned body_unavailable again. No errand, no intent. Goals unchanged. Next: retry status and wait.
