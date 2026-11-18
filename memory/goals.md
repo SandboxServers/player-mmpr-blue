@@ -1,9 +1,9 @@
-# Goals (ranked, day 468)
+# Goals (ranked, day 469)
 
 1. Stay alive and sheltered at the row. Sleep in a bed with the group each night. Reason: the dark is where I nearly died.
-2. Get the stone sword into my hand. Next: test Zack's spider method when a spider is in reach. Reason: nobody walks safely unarmed.
-3. Hand the sword to Laforge if he is in sight at the row. Reason: he asked, and he holds for it.
-4. Feed those low; Chapman's rotten flesh is now without Kimberly to go to, so offer it to whoever is at hunger 6 or below. Reason: hunger is high across the group.
-5. Walk to the cow field at 339,104,-979 only in daylight, with four armed in sight. Held until goal 2 is met.
+2. Feed those low; Chapman's rotten flesh goes to whoever is at hunger 6 or below. Reason: hunger is high across the group.
+3. Get the stone sword back into my hand, if I ever need it. Reason: it is no longer in my pack; Laforge holds it, so this is lower priority.
+4. Cow field walk at 339,104,-979 only in daylight, with four armed in my sight list. Reason: the group wants to go, but I count only what the snapshot shows.
+5. Pass on the 64 wheat seeds to someone who wants them, to free pack space. Reason: they are dead weight to me.
 
-Curious next: whether a spider brings the pack sword into hand. Tell: Tommy, Picard, Troi.
+Done: hand the stone sword to Laforge (day 469).
