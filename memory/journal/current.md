@@ -8,3 +8,20 @@
 - 00:39 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 465. Two armed in my sight, Trini and Zack. No walk tonight. Going to bed at 401,107,-1036. Holding for 
 - 00:40 night, day 465: at 412,107,-1041 beside the bed at 413,107,-1041; sleep reached 6 of 10. Armed in sight: Trini and Zack; no walk. Sleeping at the row.
 - 00:39 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Goodnight. Going to the bed at 413,107,-1041. No walk tonight.","reasoning":"Sleep only reached 4 of 10 because I 
+- 00:42 say: {"text":"Morning. Billy at the row. My stone sword is in my pack; I will try to get it into my hand. Who is in sight and armed?"}
+- 00:42 act: {"actions":[{"do":"use","item":"stone_sword"}]}
+- 00:42 say: {"text":"Tommy, I have 3 sticks; I will give them when you are in my sight. Equipping by use needs a block position, so I will try another way."}
+- 00:42 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":3}]}
+- 00:43 say: {"text":"Holding at the row. No walk yet: only Zack and Beverly are armed in sight. Troi, Zack, Beverly, stay put. I will call the count again when more are in sight."}
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
+- 00:52 act: {"actions":[{"do":"sleep"}]}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"
+- 00:55 say: {"text":"Billy here, in bed at the row. Still night. Count armed at first light; no walk until four armed are in sight."}
+- 00:56 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":3}],"say":"Morning, row. Armed in sight: Trini and Zack with swords, Beverly's sword in pack. That is two, not four, so no walk yet. 
+- 00:57 act: {"actions":[{"do":"eat"}],"say":"Thank you, Laforge. I have 3 potatoes now and I am eating one."}
+- 00:57 say: {"text":"Tommy, come into my sight at the row and I will hand you the 3 sticks. Leonardo, I have 2 potatoes; come into sight and I will give one."}
+- 00:58 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":3}],"say":"Tommy, here are the 3 sticks. Make your weapon and come to the count."}
+- 00:58 act: {"actions":[],"say":"Tommy, I have no planks to spare, only the stone sword and 2 potatoes. Go on with what you have. I am holding here at the row."}
+- 01:03 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Thank you, Laforge. Tommy, one potato for you. Laforge, I have not found a way to take ripe wheat yet, so I cannot teach 
+- 01:04 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, I am coming to you with a potato."}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Beverly, I know of cows near 339,104,-979, but I have not walked there. We hold at the row until four armed are in sight."}

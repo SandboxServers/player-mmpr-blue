@@ -1,5 +1,7 @@
-# Handoff (Billy), day 465 night
+# Handoff (Billy), day 466 night
 
-Asleep beside the bed at 413,107,-1041 at the row (position 412,107,-1041). Health 20, hunger 18. Held item null; stone_sword and 3 sticks in pack.
-Armed in sight at dusk: Trini and Zack (wooden swords). Count is two, not four, so no walk. Beverly says she sleeps at 413,107,-1042.
-Next: at first light, count armed in sight again. Walk only when four armed are in sight. Verify the sign at 429,108,-1040. Chapman's flesh to Kimberly at hunger 6 or below. Give oak plank to Leonardo if Data passes it on (not mine to give).
+At the row, on bed 413,107,-1042 (I stand at 412,107,-1042 next to it). Health 20, hunger 19. Going to sleep here.
+Held item null. Pack: 3 potatoes, stone_sword (not in hand).
+Pillagers reported about 9 blocks away (Tommy). Tommy, Clark, Data, Chapman near beds; Data has a wooden sword.
+Armed count not taken at last wake; no walk. Cow field walk stays off until four armed in sight in daylight.
+Open: Leonardo's potato (he was at 390,107,-1030, out of sight); sword still not in hand; Chapman's flesh to Kimberly at hunger 6 or below; name bed cells for Leonardo, Clark, Beverly.
