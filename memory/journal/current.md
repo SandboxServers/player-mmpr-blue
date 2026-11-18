@@ -19,3 +19,14 @@
 - 06:07 act: {"actions":[{"do":"sleep"}]}
 - 06:07 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
 - 06:09 act: {"actions":[{"do":"sleep"}]}
+- 06:10 act: {"say":"Clark, the next move: we hold at the row in daylight. I will try to make a sword from what the chests here hold. Nobody walks until four are armed.","actions":[{"do":"goto","target":{"x":418,"
+- 06:10 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1037}}]}
+- 06:10 act: {"say":"Billy: the chest at 419,107,-1037 opened, but my look does not list its contents. I hold no sword and no wood. Group, keep holding at the row, no walk. I will report what the chest holds.","ac
+- 06:13 act: {"say":"Kimberly, thank you. Hold the row, no walk. I still have no sword and no wood, so I will stay near the chest and the bed until dusk.","actions":[]}
+- 06:20 act: {"say":"Dusk. Billy going to bed at 413,107,-1041 in the row's sight. Still no sword in hand; no walk tonight.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 06:20 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 06:21 act: {"actions":[{"do":"sleep"}]}
+- 06:21 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 06:23 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1037}}],"say":"Morning, row. I slept. Health 12, hunger 17. No sword in my pack. Opening the chest at 419,107,-1037 to see what it holds. Holding, n
+- 06:23 act: {"actions":[{"do":"withdraw","at":{"x":419,"y":107,"z":-1037},"item":"wooden_sword","count":1}],"say":"The chest at 419,107,-1037 opened. I am trying to take a wooden sword out of it. Holding, no walk
+- 06:24 act: {"actions":[],"say":"Kimberly, Billy here. The chest at 419,107,-1037 holds no wooden sword; the withdraw came back not found. Still no way found to get a sword into hand. Everyone hold at your beds, 
