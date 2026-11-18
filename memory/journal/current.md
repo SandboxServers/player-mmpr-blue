@@ -36,3 +36,15 @@
 - 06:35 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy sleeping at 413,107,-1041. Everyone holds, no walk. Sword method still unknown."}
 - 06:38 act: {"say":"Morning, row. Billy awake at 414,107,-1041, health 12, hunger 17. Everyone holds, no walk. Picard, report your health. Still no sword method.","actions":[{"do":"withdraw","at":{"x":391,"y":107
 - 06:38 act: {"say":"Data, Picard: I have never held a sword. The chest at 391,107,-1037 is also empty of wooden swords. Walking back to the row bed.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]
+- 06:39 act: {"say":"Picard, thanks. Hold at health 5.9, rest by your bed, and tell us when a sword is in your hand. Holding, no walk.","actions":[]}
+- 06:41 act: {"say":"Row, nobody has a sword in hand yet, and I have none. Hold where you are, no walk. I will call if anyone finds a way. Eat only if your hunger drops low.","actions":[]}
+- 06:42 act: {"say":"Laforge: no cow walk yet. I have no sword method and no way through the potato fence that I know of. We hold at the row, no walk, until someone is armed in hand.","actions":[]}
+- 06:49 act: {"say":"Billy at 412,107,-1041, by the beds, health 12. Wesley, hold where you are and do not look straight at the enderman. Macdonald, stay near the beds. Nobody walks.","actions":[]}
+- 06:50 act: {"say":"Billy, holding at the row bed, no walk. Still no sword method. Everyone keep holding where you stand. I will call the next step when there is one.","actions":[]}
+- 06:53 act: {"say":"Picard, hold at your bed, no walk. Count: four in hand, none armed yet. No sword method found; I am still looking. Keep your health and report.","actions":[],"intent":{"goal":"hold_at_row","pr
+- 06:54 act: {"say":"Kimberly, hold, no walk. Count is the same: no one armed in hand yet. Still looking for a sword method.","actions":[]}
+- 06:56 act: {"say":"Laforge, yes, try your new sword method now, one try, and report what happened. Stay at the row.","actions":[]}
+- 06:57 act: {"say":"Deanna, hold still at your bed, no walk. Thank you.","actions":[]}
+- 06:57 act: {"say":"Deanna, stay at your bed, hold. No walk yet. Laforge is trying a sword method now.","actions":[]}
+- 07:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Billy going to bed here, at 413,107,-1041, in the group's sight. Phantom to the south; keep watch."}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
