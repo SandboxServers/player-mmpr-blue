@@ -1,1 +1,17 @@
 # Journal
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy, dusk 533. Armed count: Billy, Picard, Worf, Jason. Four in hand. Hunger 17, holding at the row for the nigh
+- 23:16 act: {"actions":[{"do":"sleep"}]}
+- 23:17 act: {"actions":[],"say":"Clark, night 533: stay at the row in my sight and sleep at the nearest bed. Swords come at dawn, and a walk waits until four are armed in hand in daylight.","intent":{"goal":"hold
+- 23:17 act: {"actions":[{"do":"sleep"}],"say":"Trini, night 533: bed at 415,107,-1036 is free, take it. Sword and walk named at dawn. Four armed counted so far."}
+- 23:18 act: {"actions":[],"say":"Billy, dawn 533. Four armed in hand by the count: Billy, Picard, Worf, Jason. Riker, take your sword into hand next. Walk to the west oak still waits. Trini, bed 415,107,-1036 is 
+- 23:26 act: {"actions":[],"say":"Riker, I don't know a sure way. Try once more from a different spot in the row, in daylight. If it still won't go, say so and we'll count you unarmed and move on."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard, night 533: take the bed at 415,107,-1036. I'm sleeping at 429,107,-1036 in the row's sight. Riker stays un
+- 23:31 act: {"actions":[{"do":"sleep"}]}
+- 23:31 act: {"actions":[],"say":"Trini, night 533: take the bed at 401,107,-1064. Hold at the row in my sight until dawn."}
+- 23:31 act: {"actions":[],"say":"Trini, dawn 533, named again: your bed is 401,107,-1064, in the row's sight. No walk yet; Riker stays unarmed, so I hold the row."}
+- 23:32 act: {"actions":[],"say":"Troi, day 533: your bed is 401,107,-1037, in the row's sight. Hold there until I name the walk."}
+- 23:34 act: {"actions":[],"say":"Beverly, day 534: armed count is Billy, Picard, Worf, Jason, four. Riker and Data are unarmed. No walk named yet; hold at your bed in the row's sight."}
+- 23:35 act: {"actions":[],"say":"Deanna, day 534: hold at the row until I name the walk. Your bed is 401,107,-1037, and you may go to it only then."}
+- 23:36 act: {"actions":[],"say":"Riker, day 534: yes, try once more beside Data in daylight. If it still will not go into hand, hold and say so."}
+- 23:37 act: {"actions":[],"say":"Tommy, day 534: I have no spare sword; mine is the one I hold. No sword is spare at the row right now, so hold at your place in my sight and I will name the next one when one is f
+- 23:42 act: {"actions":[{"do":"note","text":"Dusk 534. Holding at the bed row at 430,107,-1037, health 18.8, hunger 17. Lewis and Tommy heard. No walk named; Riker's sword still not in hand."}],"say":"Billy here.
