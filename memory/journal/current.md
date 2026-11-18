@@ -6,3 +6,15 @@
 - 08:23 act: {"say":"Billy here, beside bed 413,107,-1041. Holding at the row, no walk. Leonardo, I still have 2 rotten flesh; I will feed you when you reach 6.","actions":[{"do":"sleep"}]}
 - 08:24 act: {"say":"Night 488. Holding at the row beside my bed. Leonardo, I will feed you when you reach 6.","actions":[{"do":"sleep"}]}
 - 08:28 act: {"say":"Morning 488. Billy at the row, health 13, hunger 16. Still holding. No walk until four are armed in hand. Leonardo, tell me when you reach 6.","intent":{"goal":"hold_at_row_daylight","program"
+- 08:28 act: {"say":"Billy at the row, day 488, health 13, hunger 16. Chapman, thank you for the stone sword. Still no walk until four are armed in hand. Leonardo, tell me when you reach 6.","reasoning":"Hold posi
+- 08:31 act: {"say":"Worf, hold your wooden sword in your hand, then say so. Armed count so far: Billy and Chapman. Still no give or walk.","reasoning":"Gives go to the nearest agent, and MacDonald is nearest at 2
+- 08:32 act: {"say":"Chapman, try the use action with item stone_sword and no target, or hold the sword from your pack by its slot. Day 489, Billy at the row, health 13, hunger 16. Still no walk until four are arm
+- 08:33 act: {"say":"Thank you Laforge, counted. Armed in hand so far: Billy, Laforge. Chapman and Worf, please say when your sword is in hand. Holding at the row.","reasoning":"Keep the armed count honest. Hold p
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"Dusk 489. Billy going to my place beside bed 413,107,-1041 for the night, in the row's sight. Leonardo, you count as armed; Lafor
+- 08:35 act: {"actions":[{"do":"sleep"}],"say":"Billy beside bed 413,107,-1041, dusk 489. Holding for the night in your sight. Leonardo, I will feed you at 6.","reasoning":"Dusk at my bed spot, group in sight. Sle
+- 08:36 act: {"say":"Jason, stay still and do not look at the enderman. Try once more to sleep where you stand; if refused, face away and wait. Billy here beside bed 413,107,-1041, night 489.","reasoning":"Enderma
+- 08:37 act: {"say":"Morning 489, Billy at the row, health 13, hunger 16. Armed in hand: Billy, Laforge, Leonardo. Need one more for four. Worf, Chapman, please say when your sword is in hand. No walk yet.","reaso
+- 08:37 act: {"say":"MacDonald, you are the nearest unarmed one to me. If you want a sword for the walk, stand still and I will name you for Chapman's stone sword. Chapman, give it only to someone right beside you
+- 08:42 act: {"say":"MacDonald, I am not holding Chapman's sword; mine stays with me. Chapman, if you are beside MacDonald, please give him your stone sword directly. Worf, please say when yours is in hand.","reas
+- 08:46 act: {"say":"MacDonald, stay where you are at the row. Chapman, come to the row and give your stone sword to MacDonald when you are beside him. No walk yet.","reasoning":"Hold position, keep the group toge
+- 08:49 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"Night is here. I am going to my bed at 413,107,-1041 in the row's sight. Chapman, the sword at first light, once MacDonald is nam
