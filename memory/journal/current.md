@@ -23,3 +23,4 @@
 - Waking 848: body_unavailable on status and wait ("body is waking", retried over several minutes). No action taken. Count still 2 armed; no walk. Holding at bed.
 - 10:29 act: {"say":"Picard, Trini, Worf, Data, Leonardo: all heard. Count is still two armed. No walk to the oak yet. Hold where you are; I will call it when four are in hand."}
 - Waking 849: body_unavailable on status, look, and wait (still "body is waking" across several retries). No action taken. Count still 2 armed; no walk. Holding at bed 413,107,-1041.
+- Waking 851: status, wait, look all return body_unavailable ("body is waking", retried about 8 times). No action, no say. Count still 2 armed; no walk. Holding at bed 413,107,-1041. Next waking: retry status first.
