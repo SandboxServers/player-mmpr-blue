@@ -1,6 +1,7 @@
 # Goals (ranked)
 
-1. Eat. Keep bread or food in my pack; hunger 17 blocks health regeneration. Ask by name, eat the moment it lands.
-2. Stay sheltered at the bed row in the group's sight through the night. Phantoms and shooters have hit us west.
-3. Give a spare sword to Picard, then Worf, Jason, Zack, as spares appear.
-4. No west walk for oak wood until four are armed in hand in daylight.
+1. Eat. Hunger 17 blocks health regeneration. Eat one rotten flesh at hunger 6 or below; ask for food by name and eat the moment it lands.
+2. Stay sheltered at the bed row in the group's sight through the night.
+3. Get to four armed in hand in daylight (Riker's sword still not in hand), then the first west walk may be named.
+4. Give spare swords as they appear to those still unarmed: Laforge, MacDonald, Tommy, Zack, Troi.
+5. No west walk for oak wood until goal 3 is met.
