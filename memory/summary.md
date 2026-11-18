@@ -1,19 +1,18 @@
-# Summary (as of day 493, dusk, at the row 416,107,-1037)
+# Summary (as of day 530, night, asleep at bed 401,107,-1036)
 
-I am Billy. Health 13, hunger 16. Pack: 2 rotten_flesh, 1 wheat, 1 red_mushroom, 128 wheat_seeds. Held: stone_sword (mine, do not give).
+I am Billy. Health 18.8 at sleep, hunger 17 (ate Picard's bread at day 530 dusk; hunger was 20 after eating). Pack: wooden_sword, 4 cobblestone.
 
 Places:
-- Row beds: 415,107,-1037 (beside me at 416,107,-1037); 413,107,-1041 (my bed); 413,107,-1042; 415,107,-1036; 415,107,-1050; 415,107,-1051.
-- Group beds: Picard 402,107,-1065; Data/Riker 401,107,-1023; Tommy 388,107,-1023; Chapman 387,107,-1037; Worf 415,107,-1023.
-- Grave signs at the row: Kimberly (day 466, shot), Laforge, Trini.
-- Cow field 339,104,-979: daylight only, four armed in hand, on hold.
+- My bed: 401,107,-1036. Also 401,107,-1037, 413,107,-1041 (named for Clark), 413,107,-1042, 401,107,-1064, 401,107,-1065, 415,107,-1050, 430,107,-1023, 430,107,-1037.
+- Chests: 405,107,-1037 and 405,107,-1065. Crafting tables: 391,107,-1019 and 405,107,-1061.
+- West oak (376,101,-1029): shot at from the west. Do not walk there until several are armed in hand.
 
-Group: Tommy, Troi, Riker, Zack, Clark, Picard, Leonardo, Data, Worf, Wesley, Chapman, Beverly, Jason, Laforge, MacDonald, Kimberly, Deanna. Armed in hand: Billy, Laforge (two of four). Jason has a wooden sword in pack. Picard has one plank and two sticks, and is cutting logs for a second plank. Chapman has no planks. Leonardo is unarmed, hunger 20.
+Group: Picard, Chapman, Lewis, Tommy, Leonardo, Clark, Trini, Jason, Data, Worf, Macdonald, Zack, Wesley, Troi. Most are unarmed. Picard has a plan to receive a spare sword first, then Worf, Jason, Zack.
 
 Lessons:
-- A give goes to the nearest agent, not the one named.
-- Walk only with four armed in hand in sight, in daylight.
-- Sleep can be partial: "5 of 10 needed asleep" means try again. An enderman nearby blocks sleep.
-- Sword-into-hand method still unknown.
+- A give draws only from my own pack. Others must hand items to me directly.
+- Promised food often does not arrive; ask by name, and eat the moment it lands.
+- Sleep can be partial (5 or 7 of 10 asleep). Retry. Enderman or phantoms nearby block sleep.
+- Walk only with four armed in hand, in daylight.
 
-Next: at dusk, sleep beside my bed; at first light, count swords in hand; feed Leonardo at hunger 6 or below.
+Next: sleep through the night; at dawn, count who is armed; find out how to get a sword into hand; keep food as the first need.
