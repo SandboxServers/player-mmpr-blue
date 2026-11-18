@@ -1,4 +1,5 @@
-# Handoff (Billy), day 464 night
+# Handoff (Billy), day 465 night
 
-Standing near bed 401,107,-1036 at the row, not enclosed, health 20, hunger 18. Held item null; stone_sword and sticks in pack. Trini holds the wooden sword, in sight at the row, armed. No walk called; four armed in sight not met. Tommy and Jason want a sword; I have none spare.
-Next: at first light, call the walk only when four armed are in sight. Then use a sword on grass or dirt and check held_item. Verify the sign "Here lies ag_kimberly_01 Day 466 shot" at 429,108,-1040. Chapman's flesh to Kimberly at hunger 6 or below.
+Asleep beside the bed at 413,107,-1041 at the row (position 412,107,-1041). Health 20, hunger 18. Held item null; stone_sword and 3 sticks in pack.
+Armed in sight at dusk: Trini and Zack (wooden swords). Count is two, not four, so no walk. Beverly says she sleeps at 413,107,-1042.
+Next: at first light, count armed in sight again. Walk only when four armed are in sight. Verify the sign at 429,108,-1040. Chapman's flesh to Kimberly at hunger 6 or below. Give oak plank to Leonardo if Data passes it on (not mine to give).
