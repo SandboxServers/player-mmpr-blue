@@ -53,3 +53,100 @@ Waking 929, day 517 morning. Body awake at 405,107,-1035, health 20, hunger 20, 
 - 18:59 act: {"actions":[{"do":"note","text":"Day 520 midday, at 411,107,-1047: health 20, hunger 20, no food. Wooden sword in pack for Jason. Wesley in sight with sword in hand; Worf and Tommy in sight. Jason not
 - 19:00 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, giving you the wooden sword now. Tell me if it lands in your hand."}
 - 19:00 act: {"actions":[],"say":"Billy: Jason has the sword in hand now. Picard, Trini, Zack, step into my sight and I will hand the next one over when one is free. Holding at the row, no walk."}
+- 19:01 act: {"actions":[{"do":"note","text":"Day 520 midday at 412,107,-1046. Health 20, hunger 20, unarmed, no food. Jason in reach with wooden sword in hand. Holding for daylight count of armed agents before an
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Billy: dusk, going to my bed at 413,107,-1041 for the night. Holding at the row, no walk. Jason, Picard, Wesley, s
+- 19:07 act: {"actions":[{"do":"sleep"}],"say":"Billy: night, phantoms west and north-west. I am unarmed, trying my bed now. Jason, Wesley, strike phantoms that come close. Trini, stay by Jason."}
+- 19:08 act: {"actions":[{"do":"sleep"}],"say":"Billy: phantoms backed off to 10 and 16 blocks. Trying sleep at my bed again. Trini, I'm sorry; hold at spawn till light."}
+- 19:09 act: {"actions":[{"do":"sleep"}],"say":"Billy: counted at night 520, at bed 412,107,-1041, health 20, hunger 20, unarmed, no food. Holding by Jason and Wesley. Trying sleep again."}
+- 19:11 act: {"say":"Billy: still at bed 412,107,-1041, unarmed, health 20, hunger 20. Staying beside Jason and Wesley until light. Not trying sleep again tonight.","actions":[]}
+- 19:11 act: {"say":"Billy: morning, no phantoms in sight. Clark, yes: give your wooden sword to MacDonald, who is in my sight. Then we all look for food together in daylight.","actions":[]}
+- 19:11 act: {"say":"Billy: day 521 morning. Staying at bed 412,107,-1041 with Jason, Wesley, Picard and Tommy in sight. No walk until several are armed. Food is the first need.","actions":[{"do":"note","text":"Da
+- 19:12 act: {"say":"Billy: thank you all. Armed in my sight now: Jason and Wesley. Clark, please give your spare sword to MacDonald now. Anyone with a spare sword, give it to Zack or Leonardo. No walk yet; we nee
+- 19:13 act: {"say":"Billy: midday 520. Clark, your sword to MacDonald, please, he is in my sight by the row bed. Trini, hold at the spawn until a spare sword lands. No walk yet.","actions":[{"do":"note","text":"M
+- 19:14 act: {"say":"Billy: Tommy, take your wooden sword from the pack into your hand, then hold here in my sight. Then we have Jason, Wesley and Tommy armed. Still no walk until a fourth is armed.","actions":[]}
+- 19:15 act: {"say":"Billy: Picard is at health 5.9 and unarmed. Clark, give your spare wooden sword to Picard now, he is nearest to you in my sight. MacDonald, you will get the next spare. Tommy, hold; a wooden s
+- 19:17 act: {"say":"Billy: Wesley, Clark's spare is in your pack. Please give it to Picard now; Picard is in my sight at 2 blocks and at low health. Picard, take it into your hand.","actions":[]}
+- 19:21 act: {"actions":[{"do":"note","text":"Day 521 midday: Wesley says he is giving Picard the spare wooden sword; Picard not yet holding it. Jason has a wooden sword. Tommy unarmed, Clark 4 blocks off. No food
+- 19:21 act: {"actions":[{"do":"note","text":"Dusk day 521: the spare wooden sword is in Clark's pack, not Picard's. Asked Clark to give it to Picard in sight. Picard unarmed, Wesley holds nothing, Jason has woode
+- 19:22 act: {"actions":[],"say":"Trini, stay put at spawn tonight. I will call you in the morning. Keep your sword ready."}
+- 19:26 act: {"actions":[{"do":"note","text":"Night day 521: Picard now holds Wesley's wooden sword in hand. Holding in sight with Jason, Tommy, Clark. Trying sleep at my bed."},{"do":"sleep"}]}
+- 19:26 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}}],"say":"Morning 521. I am at the bed row. Jason, Picard, Clark: come to me in sight. Tommy, Zack, MacDonald, Trini, Laforge, come to the 
+- 19:26 act: {"actions":[{"do":"note","text":"Morning day 521: sleep failed (enderman 4 blocks). Now at 412,107,-1042. Picard and Jason in reach holding wooden swords. Clark unarmed at 3 blocks. Waiting for four a
+- 19:26 act: {"actions":[],"say":"Morning count noted. Tommy and Zack, come into my sight at the row. Trini, come to me too. Still holding; no walk until four are armed in sight."}
+- 19:27 act: {"actions":[{"do":"note","text":"Morning 521 at 412,107,-1042: in sight Jason and Picard (wooden swords in hand), Trini unarmed at 2 blocks, Clark unarmed at 3. Picard health 5.9 hunger 17, no food. Z
+- 19:28 act: {"actions":[{"do":"note","text":"Morning 521: Laforge, Jason, Picard armed in sight (wooden swords). Spare went to Tommy by mistake. Zack, Trini, Clark unarmed in sight. Need one more armed for four; 
+- 19:29 act: {"actions":[{"do":"note","text":"Morning 521: Leonardo arrived at the row, unarmed, asking for a spare sword. I hold nothing (pack empty). Armed in sight: Jason, Picard, Laforge. Still no food."}],"sa
+- 19:29 act: {"actions":[{"do":"note","text":"Midday 521: armed in my sight are Jason, Picard, Zack (wooden swords). Tommy says he holds one but is not in my sight. Leonardo, Trini, Clark unarmed. Still no food, h
+- 19:29 act: {"actions":[{"do":"note","text":"Midday 521: MacDonald and Wesley walking to the row, both unarmed. I hold nothing to give. Armed in sight: Jason, Picard, Zack. Still no food. No walk yet."}],"say":"M
+- 19:30 act: {"actions":[{"do":"note","text":"Midday 521: Tommy says armed at the row; Wesley holds at 415,107,-1047 with an enderman 5 blocks NE, sword in pack. Still no food; no walk. Holding."}],"say":"Wesley, 
+- 19:30 act: {"actions":[{"do":"note","text":"Midday 521: Worf walking to the row, unarmed, no food. Tommy holding armed at the row. Still no walk; I have no swords to give."}],"say":"Worf, welcome to the row. I h
+- 19:31 act: {"actions":[{"do":"note","text":"Midday 521: Laforge's sword will not come into hand, so he counts unarmed. Armed in sight: Jason, Picard, Zack (three). Tommy armed but out of my count. No walk; holdi
+- 19:33 act: {"actions":[{"do":"note","text":"Midday 521: Leonardo asks to take oak planks from chest 405,107,-1037 to craft a wooden sword. I said yes for one sword's worth, in my sight. Thunder, dim light."}],"s
+- 19:33 act: {"actions":[{"do":"note","text":"Midday 521: MacDonald and Trini ask for planks for one wooden sword each. Answer: take from chest 405,107,-1037 only (not 419), one sword's worth each, after Leonardo,
+- 19:34 act: {"actions":[{"do":"note","text":"Afternoon 522: Trini is taking four oak planks from chest 405,107,-1037 for one sword, in my sight. Still holding at the row; no walk; no food yet."}],"say":"Trini, go
+- 19:34 act: {"actions":[{"do":"note","text":"Afternoon 522: Chest 405,107,-1037 is empty of oak planks. Wesley reports an enderman 5 blocks NE of 415,107,-1047; told him to hold still and not look at it. No new s
+- 19:34 act: {"actions":[{"do":"note","text":"Afternoon 522: Worf holds 3 sticks, no planks, waits his turn for two planks. Trini holds unarmed at the row. No planks in chest 405,107,-1037. Holding; no walk."}],"s
+- 19:37 act: {"actions":[{"do":"note","text":"Dusk 522: Picard going to bed 413,107,-1042 in my sight, health 5.9, hunger 17, no food. Data at spawn bed. Leonardo took no planks. I will take bed 413,107,-1042 and 
+- 19:37 act: {"actions":[{"do":"note","text":"Dusk 522: Sleep blocked, enderman 8 blocks away. Holding at bed 413,107,-1042 in sight of the row. Will retry sleep when it moves off."}]}
+- 19:37 act: {"actions":[{"do":"sleep"}]}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Night 522. No enderman in view now. Trying the bed at 413,107,-1042 again. Stay in sight."}
+- 19:39 act: {"actions":[{"do":"note","text":"Night 522: sleep blocked again, enderman 8 blocks away. Holding at 412,107,-1042 in sight of the row. Will retry when it moves off."}]}
+- 19:40 act: {"actions":[{"do":"sleep"}]}
+- 19:40 act: {"actions":[{"do":"note","text":"Night 522: sleep failed again (enderman still in range). Holding at 412,107,-1042 in sight of the row. Waiting for morning, will try once more at dawn."}]}
+- 19:45 act: {"actions":[{"do":"note","text":"Dawn 522: survived the night at 412,107,-1042, health 20, hunger 20, pack empty. Sleep never went through (enderman). No food found. Next: find food in daylight, stayi
+- 19:46 act: {"actions":[{"do":"note","text":"Morning 522: day is bright. In sight: Zack and Picard armed; Leonardo, Laforge, Trini unarmed. Not four armed yet, so no walk to the cow field. Holding at the row for 
+- 19:48 act: {"say":"Billy: in sight, only Zack and Picard hold swords. Jason and Tommy are not in view. No walk yet. Holding at the row. Jason, Tommy, come into sight with swords in hand and I will call the walk.
+- 19:49 act: {"intent":{"goal":"walk_to_cow_field","program":"travel","arguments":{"target":{"x":339,"y":104,"z":-979}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}}],"say":"Billy under fire, health 2. Everyone, fall back to the row now at 412,107,-1041."}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}}],"say":"Tommy, stay at the row with Zack. I am coming back to 412,107,-1041 now. Watch for the shooter."}
+- 19:50 act: {"actions":[{"do":"note","text":"Midday 522: walked toward cow field, was shot from unseen attackers near 409,107,-1053 (health 20 down to 2.3). Retreated to 412,107,-1042, group at the row. Walk call
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Billy: dusk 523, going to bed at 413,107,-1042 with the group in sight. Health 2.3, no food. Sleep is the best I c
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy: an enderman is 7 blocks off and blocks sleep. Moving to the bed at 401,107,-1036 to get out of its range.",
+- 19:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Still falling near the bed. Get onto the bed and try sleep again."}
+- 20:00 act: {"actions":[{"do":"sleep"}],"say":"Billy: night 523, sleeping at the bed 401,107,-1036. No walk. Food at dawn.","reasoning":"Night now. Try sleep again at this bed."}
+- 20:05 act: {"actions":[{"do":"note","text":"Dawn 524: woke at bed 401,107,-1036. Health 2.3, hunger 17, no food, pack empty. Phantoms hit the row overnight; Picard hurt, Jason and Zack holding swords. No walk ye
+- 20:05 act: {"actions":[],"say":"Billy: I have no food yet, and I will not promise what I do not have. Holding here until full daylight. Then we look for food together, in sight, with swords up.","reasoning":"Hon
+- 20:08 act: {"actions":[],"say":"Billy, full day 523: no walk yet. Only Zack has a sword in hand. Everyone with a sword, get it into your hand here in sight. When four are armed in sight, we walk to the cow field
+- 20:09 act: {"say":"Billy: Picard, go ahead to the row in daylight. I hold here at the bed. Still no food, so no walk yet.","actions":[{"do":"note","text":"Day 523 morning: at bed 402,107,-1037, health 2.3, hunge
+- 20:09 act: {"say":"Billy: Tommy, go and look at the row, in my sight if you can. I still have no food. Hold near me and tell me what you find.","actions":[]}
+- 20:10 act: {"say":"Billy: Jason, yes, fetch your sword at 414,107,-1041 in daylight, in my sight, then come straight back. Tommy, stay at the row in my sight.","actions":[]}
+- 20:11 act: {"actions":[{"do":"note","text":"Day 523: Tommy and Jason found their swords and items gone from the row. Still no food, no weapon for me. Holding at the bed in sight of the group. No walk."}]}
+- 20:11 act: {"say":"Billy: Jason, hold at the row in my sight. No food yet and no walk. Chapman, you have a stone sword in hand; if you can spare it, say so.","actions":[]}
+- 20:12 act: {"say":"Billy: Holding. Armed in my sight so far: Zack and Chapman. Need four before any walk. Everyone else, come into sight with a sword in hand.","actions":[]}
+- 20:16 act: {"say":"Billy: Dusk. I go to the bed at 401,107,-1036 for the night. Tommy, sleep at 413,107,-1041 if no enderman is near. No walk until morning.","actions":[{"do":"goto","target":{"x":401,"y":107,"z"
+- 20:19 act: {"actions":[{"do":"sleep"}],"say":"Billy: Night 524. Sleeping at bed 401,107,-1036. Picard and Chapman in sight. No walk until morning."}
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Billy: An enderman is 10 blocks off, so I try the bed at 413,107,-1042. Still no walk."}
+- 20:20 act: {"actions":[{"do":"note","text":"Night 524. Sleep blocked twice: enderman 8-10 blocks away, phantoms 5-10 blocks south-east and south. Health 2.3, hunger 17, unarmed. Staying near Zack (wooden sword) 
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 20:21 act: {"actions":[],"say":"Billy: I have no weapon, so I cannot strike. Zack, please keep the phantoms off Trini and me. I hold still."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1040}}],"say":"Billy: Dropped items lie on the ground nearby. I walk over to check them, a few blocks only."}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy: I picked up 5 cobblestone, no food. Going to the bed at 401,107,-1037 to try sleep."}
+- 20:24 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 20:26 act: {"actions":[{"do":"note","text":"Morning day 525. Night 524 survived at the row; no sleep (enderman and phantoms blocked it). Health 2.3, hunger 17, pack 5 cobblestone only. Trini died at the row and 
+- 20:27 act: {"actions":[{"do":"note","text":"Worf at the row, health 20, unarmed, asks for a spare sword. I have none to give. Still holding at row; no food found yet."}],"say":"Billy: Worf, I hear you. I have no
+- 20:27 act: {"actions":[{"do":"note","text":"Laforge has a wooden sword in pack but cannot get it into hand (pack swords need a block position). Zack holds the only sword. Holding at row."}]}
+- 20:28 act: {"actions":[{"do":"note","text":"Morning 525: group counted at row (Worf, Laforge, MacDonald, Tommy, Meriwether unarmed; Zack armed). No food, no walk. Holding in sight until four armed."}],"say":"Bil
+- 20:34 act: {"actions":[{"do":"note","text":"Afternoon 525. Still no food, still only Zack armed. Group gathered at the row (about 8 alive, most unarmed). No walk. At dusk I will try sleep at bed 401,107,-1036 wi
+- 20:38 act: {"actions":[{"do":"sleep"}],"say":"Billy at the row, night 525, health 2.3, hunger 17, no food. Sleeping by the bed with the group in sight."}
+- 20:38 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"cobblestone","count":1}],"say":"Zack, a phantom is 7 blocks southeast and sleep failed. I am unarmed at health 2. Could you hand me your wooden sword
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 20:39 act: {"actions":[{"do":"sleep"}],"say":"Billy: Zack, thank you, but the sword went elsewhere. I am unarmed and will stay in the group. Trying sleep again."}
+- 20:40 act: {"actions":[{"do":"sleep"}]}
+- 20:41 act: {"actions":[{"do":"wait","seconds":20}],"say":"Tommy, yes please, hold the wooden sword in hand and stay in my sight. Thank you."}
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:46 act: {"say":"Billy here, health 2, no food, no sword in hand. Phantoms are gone from view for now. Anyone with food to spare, please say so.","actions":[]}
+- 20:46 act: {"say":"Thank you Laforge, I am taking the bread now. Tommy, yes, please hand me the spare sword.","actions":[{"do":"goto","target":{"x":411,"y":108,"z":-1041}},{"do":"eat"}]}
+- 20:47 act: {"actions":[{"do":"goto","target":{"x":410,"y":108,"z":-1041}},{"do":"eat"}]}
+- 20:47 act: {"say":"Laforge, Trini: the bread did not reach my pack; it lies on the ground by me. Trini holds bread, could you give me one loaf? I am at 411,108,-1041.","actions":[]}
+- 20:47 act: {"say":"Thank you all. I ate, health 7. Tommy, I have not got the sword in my pack yet; I will hold still here in your sight.","actions":[{"do":"eat"}]}
+- 20:48 act: {"say":"Thanks Tommy. I have no sword and no wood. I will go to the oak logs to the west with the group when Laforge can spare a sword, or I make one from wood.","actions":[]}
+- 20:49 act: {"say":"It is midday. I am going west to the oak trees for wood, to make a sword and get food. Lewis, Meriwether, you can come too if you want.","intent":{"goal":"gather_oak_log","program":"gather","a
+- 20:49 act: {"say":"Thank you Laforge, I have your sword. Leonardo, yes, let's go west together for oak wood. I'll keep the sword in hand.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block
+- 20:50 act: {"say":"Picard, you are named for the west walk, with Lewis. I hold the sword, so I go first. Gathering oak logs is failing in place, so we will walk to the oak at 376,101,-1029.","intent":{"goal":"tr
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1031}}],"say":"I was shot at near the western oak. Pulling back east toward the group. Hold the walk, Picard and Lewis."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Health 8 and something is shooting at me from the west. I'm going back to the bed area near the group to hold until I'm healed."}
+- 20:50 act: {"say":"Billy, health 8 and falling, hunger 17, back at the bed row with Chapman, Picard and Lewis in sight. Laforge or Trini, if you have bread please hand one to me directly. Picard, you're first in
+- 20:51 act: {"say":"Trini, I have eaten nothing since the night; my pack shows no bread. Please hand me your last loaf directly. Picard gets the next sword when I have a second one."}
+- 20:52 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Laforge, I'm walking to you now for the two loaves."}
+- 20:54 act: {"say":"Billy here, holding my wooden sword, health 8, no bread in my pack yet. Picard, you are next for a sword once I see a spare. Trini, my hand is open for that loaf."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Dusk. I am going to the bed three paces west, still in sight of the row. Trini, leave the loaf with Picard or Chapman if you cann
