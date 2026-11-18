@@ -9,3 +9,13 @@
 - 05:52 act: {"actions":[{"do":"sleep"}],"say":"Billy here, in bed at the row, trying sleep again. Holding, unarmed, no walk.","reasoning":"Night 481, no enemy in view. Try sleep."}
 - Night 481 ended without sleep (enderman in range). Dawn 481: group counted at row, all holding; health 12, hunger 17. Still no sword in hand.
 - 05:55 act: {"actions":[],"say":"Morning all. Billy at the row, health 12, hunger 17. Nobody needs food yet. Hold at your beds, no walk; sword-in-hand still open.","intent":{"goal":"hold_at_row_day","program":"re
+- 05:55 act: {"say":"Morning. Billy at the row, health 12, hunger 17, unarmed. Still counting the group; no walk yet."}
+- Day 481 morning: Laforge and Tommy spoke, both holding at their beds, unarmed by hand but with swords in pack. Plan: hold at the row, sword-in-hand still open; try a new way (craft a wooden sword from planks and stick) once I have wood.
+- 05:56 act: {"say":"Heard you all. Clark, hold at the row; do not walk. Nobody walks until four are armed in hand in sight. I will try a new way to get a sword into hand and report back."}
+- Midday 481: group holding at row, all unarmed in hand, no walk. Clark reports his sword will not go into hand from bed. I have no sword in pack, so I cannot test. Need wood for a wooden sword; nobody is sent out. Waiting.
+- 06:01 act: {"say":"Clark, I have no sword in my pack, so I cannot test the hand step yet. Friends: please tell me what you carry. Whoever has a sword in pack, try use with it on a chest and tell me what happens.
+- 06:06 act: {"say":"Dusk. Billy at bed 413,107,-1041, going to sleep. Thanks all for the reports; the sword-in-hand is still open, and nobody walks tonight.","actions":[{"do":"sleep"}]}
+- 06:06 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 06:07 act: {"actions":[{"do":"sleep"}]}
+- 06:07 act: {"actions":[{"do":"wait","seconds":90},{"do":"sleep"}]}
+- 06:09 act: {"actions":[{"do":"sleep"}]}
