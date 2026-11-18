@@ -1,1 +1,2 @@
 Waking 915: body still waking. status, look, wait all returned body_unavailable. Nothing done. Last known place: row 416,107,-1037, bed 413,107,-1041. Holding stone_sword (mine, do not give). Next: retry status and wait; feed anyone at hunger 6 or below from my 2 rotten_flesh. Goals unchanged.
+Waking 916: body still waking. status and wait returned body_unavailable on every retry over about two minutes. Nothing done. Still at row 416,107,-1037, holding stone_sword. Goals unchanged.
