@@ -15,3 +15,6 @@
 - 23:36 act: {"actions":[],"say":"Riker, day 534: yes, try once more beside Data in daylight. If it still will not go into hand, hold and say so."}
 - 23:37 act: {"actions":[],"say":"Tommy, day 534: I have no spare sword; mine is the one I hold. No sword is spare at the row right now, so hold at your place in my sight and I will name the next one when one is f
 - 23:42 act: {"actions":[{"do":"note","text":"Dusk 534. Holding at the bed row at 430,107,-1037, health 18.8, hunger 17. Lewis and Tommy heard. No walk named; Riker's sword still not in hand."}],"say":"Billy here.
+- 23:43 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, night 534: I'm at the bed 429,107,-1037 in the row's sight, hunger 17, health 18.8. Picard, take 429,107,-1036 b
+- 23:43 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 23:43 act: {"actions":[{"do":"sleep"}]}
