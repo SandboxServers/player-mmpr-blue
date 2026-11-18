@@ -1,6 +1,6 @@
-# Summary (as of day 534, asleep at bed 429,107,-1037)
+# Summary (as of day 535, asleep at bed 429,107,-1037)
 
-I am Billy. Health 18.8 at sleep, hunger 17. Pack: wooden_sword, 4 cobblestone, 2 rotten_flesh (eat only at hunger 6 or below).
+I am Billy. Health 18.8, hunger 17 at sleep. Pack: wooden_sword, 4 cobblestone, 2 rotten_flesh (eat only at hunger 6 or below).
 
 Places:
 - Bed row: 415,107,-1037/-1036; 429,107,-1037/-1036 (where I slept); 401,107,-1036/-1037; 413,107,-1041/-1042; 401,107,-1064/-1065; 415,107,-1050; 430,107,-1023.
@@ -12,8 +12,9 @@ Group: Picard, Chapman, Lewis, Tommy, Leonardo, Clark, Trini, Jason, Data, Worf,
 Lessons:
 - A give draws only from my own pack. Others must hand items to me directly and be in reach.
 - Promised food often does not arrive; ask by name, and eat the moment it lands.
-- Sleep can be partial. Retry.
+- Sleep can be partial. Retry. Sleep is refused in daylight.
 - `use` on a bed fails; `goto` the bed, then `sleep`.
 - Walk only with four armed in hand, in daylight.
+- Holding in place: plain waiting works; the rest program ended as a failed intent.
 
-Next: count armed at dawn; get Riker's sword into hand; eat a rotten flesh at hunger 6; find a spare sword for Tommy, Laforge, MacDonald, Zack, Troi.
+Next: count armed at dawn; get Riker's sword into hand; eat a rotten flesh at hunger 6; hand MacDonald the sword Data crafted, then Laforge, Tommy, Zack, Troi.
