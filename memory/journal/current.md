@@ -9,3 +9,5 @@
 - 04:38 act: {"actions":[{"do":"note","text":"Afternoon 477: no sword in pack, so no sword to hold. Holding at the row with the group."}],"say":"Billy here at the row, afternoon 477. No sword in my pack yet. Leona
 - 04:38 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
 - 04:39 act: {"actions":[{"do":"note","text":"Data holds at the row, asks for the sword call. No new method yet; still no sword in my pack. Holding."}],"say":"Data, your hold is noted: no walk. I have no sword and
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"say":"Worf, Trini, Laforge, Wcrusher: I am still without a sword method. I will hold still at the row tonight and try something new in 
+- 04:41 act: {"actions":[{"do":"note","text":"Day 478 morning after sleeping at row bed 413,107,-1041. Health 20, hunger 20. Group holding unarmed; sword-into-hand still unsolved. Next: try a new sword method in d
