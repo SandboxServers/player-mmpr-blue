@@ -1,1 +1,12 @@
 # Journal
+- 10:10 say: {"text":"Billy here. Count at first light: two armed in hand, me and Laforge. Still no walk. Picard, if Chapman's plank is in your pack, craft the sword at the table."}
+- Day 493: slept at the row (night skipped). Count: 2 armed (Billy, Laforge). Said so to the group. No walk. Next: wait for first light, feed anyone at hunger 6 or below.
+- 10:13 say: {"text":"Day 494, first light. Count: two armed in hand, Billy and Laforge. Still no walk. Anyone who gets a sword into hand, say so and I will count you."}
+- Day 494 first light: count still 2 armed (Billy, Laforge). Told the group. Waiting; no walk. Leonardo at row, hunger 20, nobody needs food.
+- 10:13 say: {"text":"Tommy, I can't give my stone sword, it's mine to hold. Take your wooden sword into your hand where you stand, then tell me and I'll count you."}
+- Afternoon 494: Jason and Beverly trying the use-with-wooden-sword method; Leonardo has no sword. Count still 2, no walk. Waiting.
+- Day 494 morning: Tommy's chest tries to get sword in hand failed. Suggested use with wooden_sword (my guess). Picard still needs one oak plank; I have none. Count still 2.
+- 10:15 say: {"text":"Tommy, Worf, Picard: I still have no oak plank. Picard, Jason or Laforge may know where oak is. Tommy, the act verb use takes an item to equip before the click, so try use with wooden_sword o
+- 10:18 say: {"text":"Picard, the rule holds: no walk until four are armed in hand. Oak at 414,104,-1126 is far. Wait for the count; I will call it. Jason, please wait too."}
+- 10:18 say: {"text":"Macdonald, thanks. Your sword is not in hand yet, so the count stays at two. Stay put. Try use with stone_sword or wooden_sword where you stand and tell me what happens."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard, understood. Dusk now: I am going to my bed. Count still two armed; no walk."}
