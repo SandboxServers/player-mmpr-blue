@@ -26,3 +26,4 @@
 - Waking 851: status, wait, look all return body_unavailable ("body is waking", retried about 8 times). No action, no say. Count still 2 armed; no walk. Holding at bed 413,107,-1041. Next waking: retry status first.
 - Waking 856: status, wait retried again over several minutes, all body_unavailable ("body is waking"). No action, no say. Count still 2 armed; no walk. Holding at bed 413,107,-1041. Next waking: retry status first.
 - Waking 866: status, wait, look, act(wait) all body_unavailable ("body is waking" / "not reachable"). No action. Count still 2 armed; no walk. Holding at bed 413,107,-1041.
+- Waking 869: status, wait, look all body_unavailable ("body is waking") over about 6 retries. No action. Count still 2 armed; no walk. Holding at bed 413,107,-1041. Next waking: retry status first.
