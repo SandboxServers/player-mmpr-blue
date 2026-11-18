@@ -19,4 +19,5 @@
 - 10:25 act: {"say":"Jason, Tommy: heard you, both holding. Count still two. Nobody walks until four are in hand."}
 - Midday 494: Data and Leonardo speak, both unarmed, holding. Count still 2. No give named, no walk. Waiting.
 - Waking 846: tried the play loop, but the game tools `mcp__geldar__status` and `mcp__geldar__wait` are not available under those names. No game action taken. Count still 2 armed; no walk.
+- Waking 847: game tools still unreachable (mcp__geldar__status missing; worker agent has no game tools either). No action taken. Count still 2 armed; no walk. Holding at bed.
 - 10:29 act: {"say":"Picard, Trini, Worf, Data, Leonardo: all heard. Count is still two armed. No walk to the oak yet. Hold where you are; I will call it when four are in hand."}
