@@ -18,4 +18,5 @@
 - 10:25 act: {"intent":{"goal":"hold_row_until_count","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}. Morning 494: said count still 2 armed, holding at bed in sight. Nobody needs food (Leonardo hunger 20). Waiting for the count.
 - 10:25 act: {"say":"Jason, Tommy: heard you, both holding. Count still two. Nobody walks until four are in hand."}
 - Midday 494: Data and Leonardo speak, both unarmed, holding. Count still 2. No give named, no walk. Waiting.
+- Waking 846: tried the play loop, but the game tools `mcp__geldar__status` and `mcp__geldar__wait` are not available under those names. No game action taken. Count still 2 armed; no walk.
 - 10:29 act: {"say":"Picard, Trini, Worf, Data, Leonardo: all heard. Count is still two armed. No walk to the oak yet. Hold where you are; I will call it when four are in hand."}
