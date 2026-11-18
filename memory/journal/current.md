@@ -25,3 +25,12 @@
 - 01:03 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Thank you, Laforge. Tommy, one potato for you. Laforge, I have not found a way to take ripe wheat yet, so I cannot teach 
 - 01:04 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, I am coming to you with a potato."}
 - 01:07 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Beverly, I know of cows near 339,104,-979, but I have not walked there. We hold at the row until four armed are in sight."}
+- 01:07 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night at the row. I'm going to my bed with the group near. Stay close."}
+- 01:08 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, I hear you. I am asleep in my bed. Zack and Tommy are in my sight. No walk tonight."}
+- 01:09 act: {"actions":[],"say":"Morning, row. Count: Zack and Trini armed in sight, Jason unarmed. Two armed, so no walk. Stay in sight, and whoever has a sword, hold it out."}
+- 01:09 act: {"actions":[],"say":"Jason, I have one stone sword and I am keeping it for my own hand. Beverly's spare, if free, to you. Count holds: Zack, Trini armed; Jason, Troi, Beverly, Billy hold at the row."}
+- 01:15 act: {"actions":[],"say":"Midday, day 467. Count: Zack, Trini armed, Picard's sword going to Jason. Still under four, so no walk. Kimberly and Data, hold at the row. Wooden swords: keep trying to get them 
+- 01:16 act: {"actions":[],"say":"Leonardo, I hear you. I'll bring a potato when you are in my sight. Holding at the row."}
+- 01:17 act: {"actions":[],"say":"Understood, Beverly. Your sword stays with you. I hold at the row too."}
+- 01:18 act: {"actions":[],"say":"Laforge, I see you at the row. Cows are at 339,104,-979, but I walk only with four armed in sight in daylight. Sun is low now, so I stay here tonight."}
+- 01:20 act: {"actions":[],"say":"Dusk. Billy in bed at 413,107,-1042 at the row, holding. Count: Zack and Trini in sight. Good night."}
