@@ -1,4 +1,4 @@
-# Summary (as of day 472, asleep at the row beside bed 413,107,-1041)
+# Summary (as of day 473, asleep at the row beside bed 413,107,-1041)
 
 I am Billy. Health 20, hunger 19. In pack: 3 potatoes, 4 rotten_flesh (for anyone at hunger 6 or below), 64 wheat_seeds, 1 wheat. No sword.
 
@@ -8,11 +8,7 @@ Places:
 - Grave signs at the row: Kimberly (shot day 466), Laforge (shot day 466), Trini (slain 451, shot 466).
 - Cow field 339,104,-979: daylight only, four armed in hand in my list, on hold.
 
-Done: stone sword given to Laforge (day 469).
-
-Owed: nothing open. 4 rotten flesh kept for hunger 6 or below.
-
-Group: Tommy, Troi, Riker, Zack, Clark, Picard, Leonardo, Data, Worf, Wesley, Chapman, Beverly, Jason, Laforge, Trini, MacDonald, Kimberly (dead). Most hold at the row unarmed; the armed in hand count in my list has been two (Laforge, Trini).
+Group: Tommy, Troi, Riker, Zack, Clark, Picard, Leonardo, Data, Worf, Wesley, Chapman, Beverly, Jason, Laforge, Trini, MacDonald, Kimberly. Most hold at the row with swords in pack. Armed in hand count in my list: two (Laforge, Trini).
 
 Lessons:
 - Count the agents list, not speech.
@@ -21,3 +17,4 @@ Lessons:
 - Sleep is blocked by a nearby enderman or phantom; wait and retry.
 - A give to a full pack drops on the ground; let them free a slot.
 - A grave sign is the proof of a death.
+- Crafting table and oak sign refuse a sword-into-hand click; ground click failed for many.
