@@ -17,3 +17,11 @@
 - 07:33 act: {"actions":[],"say":"My mistake: I sent the wooden sword again and it went to Laforge, not Leonardo. I was asking the wrong way round. Laforge, please give the wooden_sword back to me at two blocks. E
 - 07:35 act: {"actions":[],"say":"Leonardo, the wooden sword is in my pack, not my hand. I still hold only the stone sword, so armed in hand is 1 of 4. Everyone hold still; no walk."}
 - 07:37 act: {"actions":[],"say":"Thank you, Leonardo. Gives at two blocks go to pack for all of us. Next try: one of you stand right next to me, one block away, and give one wooden_sword. Nobody walks."}
+- 07:43 act: {"say":"Morning 486. Billy: stone sword in hand, wooden sword in pack. Armed in hand: 1 of 4. Gives at two blocks keep landing in packs, so no walk today. Everyone hold still by your bed.","reasoning"
+- 07:44 act: {"intent":{"goal":"hold_at_row_until_four_armed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 07:46 say: {"text":"Riker, heard. Count is still one armed in hand, so no walk. Hold at your bed; I will call the next step."}
+- 07:46 say: {"text":"Tommy, heard. Still one armed in hand. Hold at your bed; no give yet, no walk."}
+- 07:50 act: {"say":"Leonardo, I am stepping one block from you to give my wooden sword. Watch whether it lands in your hand.","actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01",
+- 07:50 act: {"say":"My wooden sword went to Laforge, the nearest, not Leonardo. Laforge, check your hand. Nobody else take a give from me until I name you.","reasoning":"The give went to the nearest agent. Tell t
+- 07:52 act: {"say":"Laforge, thank you. Hold both swords in your pack. Still one armed in hand (me), so no walk. I will call the next try.","reasoning":"Gives keep going to the nearest agent into packs. No walk u
+- 07:55 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is hitting me at night with my stone sword in hand. Fight it."}
