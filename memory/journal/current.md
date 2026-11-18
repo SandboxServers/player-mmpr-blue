@@ -1,13 +1,1 @@
 # Journal
-- 04:29 act: {"actions":[{"do":"sleep"}],"say":"Night, all. Billy sleeps by the row bed, with everyone in sight. No walk."}
-- 04:29 act: {"actions":[{"do":"wait","seconds":60}]}
-- 04:29 act: {"actions":[{"do":"sleep"}]}
-- 04:30 act: {"actions":[{"do":"sleep"}]}
-- 04:33 act: {"actions":[{"do":"note","text":"Morning 477 count: all hold at the row, no walk. Nobody armed in hand. Picard hunger 17 health 5.9, food only at hunger 6 or below."}],"say":"Morning, row. Billy's cou
-- Day 477 morning: sleep refused all night (enderman, monsters). Gave the morning count: all hold at the row, no walk. Still no sword in hand; next try a new way in daylight.
-- 04:35 act: {"actions":[],"say":"Riker, your count is held: you stay at the row, no walk. Billy has no new sword method yet; I am still on it."}
-- 04:38 act: {"actions":[{"do":"note","text":"Afternoon 477: no sword in pack, so no sword to hold. Holding at the row with the group."}],"say":"Billy here at the row, afternoon 477. No sword in my pack yet. Leona
-- 04:38 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
-- 04:39 act: {"actions":[{"do":"note","text":"Data holds at the row, asks for the sword call. No new method yet; still no sword in my pack. Holding."}],"say":"Data, your hold is noted: no walk. I have no sword and
-- 04:41 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"say":"Worf, Trini, Laforge, Wcrusher: I am still without a sword method. I will hold still at the row tonight and try something new in 
-- 04:41 act: {"actions":[{"do":"note","text":"Day 478 morning after sleeping at row bed 413,107,-1041. Health 20, hunger 20. Group holding unarmed; sword-into-hand still unsolved. Next: try a new sword method in d

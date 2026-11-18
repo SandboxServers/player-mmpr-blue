@@ -1,6 +1,6 @@
-# Summary (as of day 476, asleep at the row beside bed 413,107,-1041)
+# Summary (as of day 479, asleep at the row beside bed 413,107,-1041)
 
-I am Billy. Health 20, hunger 19. In pack: 2 potatoes, 4 rotten_flesh (for anyone at hunger 6 or below), 128 wheat_seeds, 1 wheat, 1 red_mushroom. No sword; my wooden sword went to Wcrusher.
+I am Billy. Health 12, hunger 17. In pack: 1 potato, 4 rotten_flesh (for anyone at hunger 6 or below), 128 wheat_seeds, 1 wheat, 1 red_mushroom. No sword.
 
 Places:
 - Row beds: 413,107,-1041 (where I sleep, stand at 414,107,-1041); 413,107,-1042; 415,107,-1037; 415,107,-1036; 415,107,-1050; 415,107,-1051.
@@ -14,6 +14,6 @@ Lessons:
 - Count the agents list, not speech.
 - Walk only with four armed in hand in sight, in daylight.
 - A bed does not take a use click; stand beside it and call sleep.
-- Sleep is blocked by a nearby enderman or phantom; wait and retry.
+- Sleep is blocked by a nearby enderman or phantom, and by "not night" at dusk; wait and retry.
 - A give can go to whoever is nearest, not the one named.
 - A grave sign is the proof of a death.
