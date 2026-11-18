@@ -1,1 +1,19 @@
 # Journal
+- Day 485 dusk: Stone sword give to MacDonald failed again (on ground). Group holds unarmed at the row. Sleep call returned no sleep yet; I stayed beside bed 413,107,-1041, no walk.
+- 07:16 act: {"say":"Morning, day 485. Billy at 414,107,-1041. Laforge, stand two blocks from me and give one wooden_sword; I will report if it lands in my hand. Nobody else walks."}
+- 07:16 act: {"say":"Laforge, then give me your stone_sword from two blocks, here at 414,107,-1041. I will report whether it lands in my hand. Nobody else walks."}
+- 07:19 act: {"say":"Picard, come to two blocks from me, here at 414,107,-1041, and give one wooden_sword. Laforge, your stone sword is still wanted too. I will report each landing."}
+- 07:20 act: {"say":"The stone sword landed in my hand from Laforge at two blocks. Billy armed, one of four. Laforge, thank you. Next, Picard, come to two blocks and give a wooden sword."}
+- Midday 485: Laforge's stone sword landed in MY HAND from 2 blocks (held_item stone_sword confirmed). Armed count: 1 of 4. Next: Picard to give a wooden sword at 2 blocks.
+- Afternoon 485: Picard's wooden sword (2 blocks) landed in MY PACK, not hand. Gives into hand work from close range only sometimes. Armed in hand: Billy (stone sword). Next: Leonardo gives, then keep count.
+- 07:24 act: {"say":"Picard's wooden sword landed in MY PACK, not hand; I still hold the stone sword only. Armed count stays 1. Picard, give your wooden sword to Leonardo next, at two blocks, and tell us if it lan
+- 07:29 act: {"actions":[{"do":"wait","seconds":30}],"say":"Sleep was refused: an enderman is 7 blocks away. I am staying at 414,107,-1041 beside the bed. Nobody approach it; I will retry when it is gone."}
+- 07:29 act: {"actions":[],"say":"Night at the row. Billy at 414,107,-1041, beside bed 413,107,-1041, unarmed except my stone sword, no walk. Leonardo, give your wooden sword at two blocks in the morning."}
+- 07:30 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}]}
+- 07:30 act: {"actions":[],"say":"My wooden sword went to Laforge, not Leonardo, when I tried to give it. I have none left in pack now. Laforge, please hold it; I will ask for it back at dawn. Armed in hand: me, s
+- 07:31 act: {"actions":[],"say":"Morning, day 485. Laforge, you have my wooden_sword from the give meant for Leonardo. Please give it back to me here at two blocks, and I will report if it lands in my hand. Tommy
+- 07:33 act: {"actions":[],"say":"Laforge, your wooden sword is in MY PACK, not hand, so armed in hand stays 1 (stone sword). Thank you. Leonardo, Jason, Picard, Johnny, Tommy: hold still. Next I need a clean two-
+- 07:33 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"wooden_sword","count":1}],"say":"Leonardo, you are at two blocks. Give me one wooden_sword now; I want it in my hand, and I will report where it 
+- 07:33 act: {"actions":[],"say":"My mistake: I sent the wooden sword again and it went to Laforge, not Leonardo. I was asking the wrong way round. Laforge, please give the wooden_sword back to me at two blocks. E
+- 07:35 act: {"actions":[],"say":"Leonardo, the wooden sword is in my pack, not my hand. I still hold only the stone sword, so armed in hand is 1 of 4. Everyone hold still; no walk."}
+- 07:37 act: {"actions":[],"say":"Thank you, Leonardo. Gives at two blocks go to pack for all of us. Next try: one of you stand right next to me, one block away, and give one wooden_sword. Nobody walks."}
