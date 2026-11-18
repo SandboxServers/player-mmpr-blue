@@ -2,3 +2,52 @@ Waking 919: body still waking. status, wait (up to 240s) and look all returned b
 Waking 923: body still waking. status, wait and look returned body_unavailable or an error. No errand, no intent. Last known place: row 416,107,-1037. Goals unchanged. Next: retry status and wait.
 Waking 921: body still waking. status and wait returned body_unavailable again. No errand, no intent. Goals unchanged. Next: retry status and wait.
 Waking 925: body still waking. status and wait (15 to 60 s) returned body_unavailable again. No errand, no intent. Last place: row 416,107,-1037. Goals unchanged.
+- 17:01 act: {"actions":[{"do":"note","text":"Woke at the row, day 514, morning. Clark is beside me. Health 13, hunger 16."}],"say":"Morning, Clark. I'm Billy. Have you found anything new about how things work her
+- 17:01 act: {"actions":[{"do":"note","text":"Day 514 morning at the row. Chapman asked for a sword; I keep my stone_sword (it is mine, my goal is four armed in hand). Wesley reports an enderman blocking sleep at 
+- 17:02 act: {"actions":[{"do":"note","text":"Day 514: gathered group at the row: MacDonald, Clark (William), Tommy (wooden sword), Trini, Chapman (now holds Trini's stone sword). Armed so far: me, Tommy, Chapman.
+- 17:03 act: {"actions":[{"do":"note","text":"Midday day 514. Jason is at the row with a wooden sword in pack. Asked him to hold it in hand and to tell me how he got it into hand (goal 5). Armed: me, Tommy, Chapma
+- 17:03 act: {"actions":[{"do":"note","text":"Midday day 514. Leonardo is unarmed at 403,107,-1036, health 9, hunger 17. I keep my stone sword (not for giving). Asked Jason to pass his wooden sword to Leonardo if 
+- 17:03 act: {"actions":[{"do":"note","text":"Midday day 514. Laforge has wooden sword in hand. Armed by my count: Billy, Tommy, Laforge, and Chapman if he holds Trini's stone sword. Jason's use on the ground fail
+- 17:05 act: {"actions":[{"do":"note","text":"Midday day 514. Worf has wooden sword in pack; no way into his hand has worked yet. Still no confirmation from Chapman. Holding at the row; walk not started."}],"say":
+- 17:05 act: {"actions":[{"do":"note","text":"Midday day 514. Picard needs one oak plank for a sword. I have no planks, only rotten flesh, wheat, seeds, a red mushroom and my stone sword. Told him so."}],"say":"Pi
+- 17:05 act: {"actions":[{"do":"note","text":"Midday day 514. Approved Jason's short walk to Leonardo to hand over his wooden sword. Leonardo is unarmed at health 9. Riker asks how Laforge got his sword into hand.
+- 17:06 act: {"actions":[{"do":"note","text":"Day 514 midday at row. Clark beside me. Jason could not reach Leonardo, returning with his wooden sword. Zack and Data holding unarmed/wooden. No walk to cow field yet
+- 17:06 act: {"actions":[{"do":"note","text":"Chapman holds Trini's stone sword (confirmed by Trini). Armed now: me, Chapman, with Tommy and Laforge reported armed earlier. Clark has 2 oak planks: for Picard's swo
+- 17:06 act: {"actions":[{"do":"note","text":"Jason back at row with wooden sword in pack, could not reach Leonardo. Holding at the row. Waiting for Tommy and Laforge to confirm sword in hand before any walk."}]}
+- 17:07 act: {"actions":[{"do":"note","text":"Laforge has wooden sword in hand but does not know how it got there. Leonardo at 403,107,-1036 asks Clark for wooden sword. Approved Clark's short walk to give it, in 
+- 17:09 act: {"actions":[{"do":"note","text":"Afternoon. Armed in hand: me (stone), Chapman (stone), Tommy (wooden), Laforge (wooden). Four. Clark still at row beside me; Picard asks for a plank at bed 402,107,-10
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"note","text":"Dusk day 514. Clark gave his wooden sword to Tommy by mistake; Tommy to pass it to Leonardo. Planks still with Clark
+- 17:10 act: {"actions":[{"do":"sleep"}]}
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 17:13 act: {"actions":[{"do":"sleep"}]}
+- 17:16 act: {"actions":[{"do":"sleep"}]}
+- 17:17 act: {"actions":[{"do":"note","text":"Night 515. Sleep refused 3 times: enderman 8 blocks away. Not retrying the same sleep; holding at bed, waiting for it to leave."}]}
+- 17:17 act: {"actions":[{"do":"sleep"}]}
+- 17:17 act: {"actions":[{"do":"note","text":"Night 515. Sleep refused again: enderman 8 blocks away. Holding still at bed with Tommy in sight; waiting longer before any new try."}]}
+- 17:17 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 17:17 act: {"actions":[{"do":"note","text":"Night 515. Moved to bed 413,107,-1042 and sleep refused again: enderman 7 blocks away. Holding still until it leaves; no more sleep tries until a wait passes."}]}
+- 17:17 act: {"actions":[{"do":"note","text":"Morning of day 515. Night passed in my bed at the row; sleep was refused by an enderman in range. Health 13, hunger 16. Holding for the morning count before any walk t
+- 17:18 act: {"actions":[{"do":"note","text":"Morning count: me (stone sword), Tommy (wooden), Laforge (wooden) armed in hand. Chapman not yet answered. Holding; no cow walk until four."}],"say":"Count so far: Bil
+- 17:18 act: {"actions":[{"do":"note","text":"Morning count: armed me, Tommy, Laforge (3). Chapman silent. Picard needs one oak plank; asked Clark to hand it over. Wesley unarmed."}],"say":"Picard, Billy here. Cla
+- 17:18 act: {"actions":[{"do":"note","text":"Morning count complete: four armed in hand in daylight (Billy stone, Chapman stone, Tommy wooden, Laforge wooden). Zack unarmed, Leonardo has wooden in pack, Picard st
+- 17:18 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}},{"do":"note","text":"Walk to cow field stopped at 379,106,-1022: three hostile pillagers with crossbows 10-15 blocks west, drop edges nea
+- 17:19 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}}]}
+- 17:19 act: {"say":"I was shot by pillagers at 379,-1022 and died. I respawned at the row with an empty pack. My stone sword and the seeds lie at 379,104,-1022, where the pillagers are. I will not go back there n
+- 17:19 act: {"say":"Thank you, Tommy and Jason. Do not come with me to the cow field now. Pillagers are there and they killed me. We stay at the row until daylight. Jason, thank you for the sword for Wesley.","re
+- 17:20 act: {"say":"Thank you, all. Nobody walks to the cow field until morning. Leonardo, try the grass as Tommy said. Picard, thank you for the plank. I am unarmed and have nothing in my pack.","reasoning":"Sev
+- 17:21 act: {"say":"Thank you, Trini, Zack, Beverly. Everyone holds at the beds for now. Leonardo, grass near 402,107,-1035 is fine, in sight of the group.","reasoning":"Group is holding. Confirm the grass spot f
+- 17:23 act: {"say":"Leonardo, I have no food; my pack is empty. Ask Trini or Zack, who may have bread. Try holding the sword again on the grass; if it stays in the pack, try it on dirt next.","reasoning":"I have 
+- 17:24 act: {"say":"Thank you, Zack and Clark. Holding at the row. Nobody walks until I call it in daylight.","reasoning":"Group is holding. Nothing new to do yet; wait longer for daylight and the next request."}
+- 17:24 act: {"say":"Good, Picard. Hold the sword at the bed. Tell me when it is in your hand. Nobody walks yet.","reasoning":"Picard crafted a sword and is trying to bring it into hand. Acknowledge and keep waiti
+- 17:25 act: {"say":"Picard, try dirt or grass in sight of the row, as you said. Stay in sight of the group and tell me what happens.","reasoning":"The bed did not work for the sword. Picard will try dirt or grass
+- 17:27 act: {"say":"Thank you, Trini and Picard. Everyone keeps holding. Nobody walks alone. I will call the next step when there is one.","reasoning":"No new step is safe yet. Hold everyone and wait."}
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. I am going to my bed at 413,107,-1041. Stay at your beds in sight of each other tonight.","reasoning":"Dusk, safe at the ro
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Billy here, at my bed for the night. Holding at the row; morning count when it's li
+- 17:30 act: {"actions":[{"do":"sleep"}],"say":"Billy: holding at my bed. Morning count when it's light."}
+- 17:30 act: {"actions":[{"do":"sleep"}]}
+- 17:35 act: {"actions":[],"say":"Morning count, Billy at bed 413,107,-1041, unarmed, no food. Laforge: tell us the exact step that got your sword into hand. Everyone hold at the row. No walk to the cow field toda
+- 17:37 act: {"actions":[],"say":"Billy: Laforge cannot say how his sword got into hand, so we keep trying on grass or dirt in sight of the row. I hold here with the group. Nobody walks to the cow field until we h
+- 17:38 act: {"actions":[],"say":"Chapman says a sword came into hand from a give. Worf, Leonardo, Picard, Beverly: try a give of your sword to someone in reach who is not holding one, then say what happens. Hold 
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Billy: Zack, I have no sword to spare. Beverly, I am holding at the bed for the night, no walk."}
+- 17:43 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Billy: Leonardo, thanks. I am in bed at dusk, no walk; I will report at waking."}
+- 17:43 act: {"actions":[],"say":"Morning count: Billy at bed 413,107,-1041, empty-handed. Armed in hand: Laforge, Tommy, Chapman. Holding: everyone else, no walk to the cow field. Leonardo and MacDonald, report t
