@@ -62,3 +62,5 @@
 - 07:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Laforge, leave the stone sword where it is, and stop trying. Dusk is here; I am going to my bed to sleep in the group's sight. Ev
 - 07:12 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, you are in sight now. Giving you my wooden sword.","reasoning":"Jason is in sight at 3.3 blocks; test the gi
 - 07:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Jason, the give worked: my sword left my hand into yours. Tell us if it is in your 
+- 07:13 say: {"text":"Billy here, dusk at the row. Thanks Jason, the wooden sword is in your pack, not mine. I'm going to sleep beside my bed now, in the group's sight."}
+- 07:13 act: {"actions":[{"do":"sleep"}]}
