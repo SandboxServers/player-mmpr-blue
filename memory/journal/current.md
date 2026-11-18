@@ -51,3 +51,12 @@ Waking 925: body still waking. status and wait (15 to 60 s) returned body_unavai
 - 17:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Billy: Zack, I have no sword to spare. Beverly, I am holding at the bed for the night, no walk."}
 - 17:43 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Billy: Leonardo, thanks. I am in bed at dusk, no walk; I will report at waking."}
 - 17:43 act: {"actions":[],"say":"Morning count: Billy at bed 413,107,-1041, empty-handed. Armed in hand: Laforge, Tommy, Chapman. Holding: everyone else, no walk to the cow field. Leonardo and MacDonald, report t
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Leonardo, I have no food, my pack is empty. I am at my bed 413,107,-1041, trying to sleep here.","reasoning":"Nigh
+- 17:51 act: {"actions":[],"say":"Morning count at dawn. Billy at bed 413,107,-1041, empty-handed, no food. Armed in hand: Laforge, Tommy, Chapman. Everyone else holds at the row. No walk to the cow field today un
+- 17:51 act: {"actions":[],"say":"Correction from Billy: Tommy gave his sword away, so he is unarmed. Armed in hand now: Laforge and Chapman only. Everyone holds at the row. No walk.","reasoning":"Tommy's report c
+- 17:53 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1036}},{"do":"open","at":{"x":405,"y":107,"z":-1037}}],"say":"Billy: it is day, I am checking the chest at 405,107,-1037 for food for Leonardo. 
+- 17:53 act: {"actions":[],"say":"Leonardo, I am at the chest 405,107,-1037, it is open. My look does not show what is inside. Tell me what you see in it. I have no food to give.","reasoning":"Look did not list ch
+- 17:54 act: {"actions":[{"do":"withdraw","at":{"x":405,"y":107,"z":-1037},"item":"bread","count":1}],"say":"Leonardo, I am trying to take one bread from the chest now. If it works, I will give it to you.","reason
+- 17:54 act: {"actions":[{"do":"note","text":"Withdraw bread from chest 405,107,-1037 failed: container has 0 bread. Still no known food."}],"say":"Leonardo, the chest has no bread. I have no food either. I will k
+- 17:55 act: {"actions":[{"do":"note","text":"Day 517 midday at row. No food anywhere in the group. Jason: Wesley's sword not in hand. Worf giving wooden sword to Riker. Holding; no walk."}],"say":"Jason, thank yo
+- 17:57 act: {"actions":[{"do":"note","text":"Day 517. Clark holds Picard's wooden sword in pack, unarmed. Asked him to give it to Jason when Jason is in reach, then say if it lands in hand. No food."}],"say":"Cla
