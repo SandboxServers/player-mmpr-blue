@@ -150,3 +150,6 @@ Waking 929, day 517 morning. Body awake at 405,107,-1035, health 20, hunger 20, 
 - 20:52 act: {"actions":[{"do":"goto","target":"ag_laforge_01"}],"say":"Laforge, I'm walking to you now for the two loaves."}
 - 20:54 act: {"say":"Billy here, holding my wooden sword, health 8, no bread in my pack yet. Picard, you are next for a sword once I see a spare. Trini, my hand is open for that loaf."}
 - 20:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Dusk. I am going to the bed three paces west, still in sight of the row. Trini, leave the loaf with Picard or Chapman if you cann
+- 20:57 act: {"say":"Billy here, hunger 17, health 8. Trini, I am at 402,107,-1036 by the bed; please bring the loaf into my reach. Wesley, your spare sword goes to Picard, who is here.","actions":[],"reasoning":"
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night, no food, Trini will bring bread at first light. Bed beside the group; sleep safely."}
+- 20:58 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 526 at bed 402,107,-1036: sleep partial (5 of 10). Health 8, hunger 17, no food; Trini will bring bread at first light. Holding with Picard and Ch
