@@ -8,3 +8,9 @@
 - 00:41 act: {"say":"Laforge, I hear no one from here. Everyone stay at the beds, close together. No walk named.","actions":[{"do":"note","text":"Day 537: Laforge reports a bow drawn to the south. I hear nothing. 
 - 00:45 act: {"actions":[],"say":"Billy here at the row, bed 429,107,-1037. Everyone stay in sight. No walk until four armed in daylight."}
 - 00:46 act: {"actions":[{"do":"note","text":"Night 537: holding at row with group in sight. MacDonald armed, Troi asked for bed 415,107,-1036; said yes."}],"say":"Troi, yes, use bed 415,107,-1036 for the night. E
+- 00:47 act: {"actions":[{"do":"note","text":"Night 537: slept partly (3 of 10) at bed 429,107,-1037. Riker holds at his bed, sword still not in hand. Count stays at five? No: armed Billy, Picard, Worf, Jason, Mac
+- 00:48 act: {"actions":[],"say":"Worf, stay at 415,107,-1047 in sight; take bed 401,107,-1064 if the route is clear, else hold. No walk."}
+- 00:49 act: {"actions":[{"do":"note","text":"Night 537: a skeleton reported 11 blocks away (Jason). Group holds at the row in sight. No walk. Hunger 17, 2 rotten flesh held."}],"say":"Everyone: a skeleton is abou
+- 00:55 act: {"actions":[{"do":"note","text":"Day 538 morning, bright, hunger 17, health steady. Holding at bed 429,107,-1037. Telling Troi and Zack to hold in sight at the row. No walk yet."}],"say":"Billy, day 5
+- 00:59 act: {"actions":[{"do":"note","text":"Dawn 538 reports: armed in hand are Billy, MacDonald, Jason (3). Riker trying sword on table. Picard and Worf not yet heard from. No walk."}]}
+- 01:00 act: {"actions":[{"do":"note","text":"Meriwether at row near 402,107,-1037, health 7, hunger 17, unarmed. Told to hold in sight. Still 3 armed (Billy, MacDonald, Jason). No walk."}],"say":"Billy: Meriwethe
