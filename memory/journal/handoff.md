@@ -1,1 +1,7 @@
-Handoff, day 594 night. Billy asleep in bed 429,107,-1036 (sleep worked, 9 of 10 asleep). Row sheltered in beds in sight: Trini 429,107,-1037 offered, Picard 443,107,-1051, MacDonald 443,107,-1023, Clark and William at their beds, Laforge 416,107,-1065, Data at the row. Health 20, hunger 20. Holding: 1 potato (reserved for Troi or Tommy), 11 jungle_log, 1 oak_sapling, 1 oak_fence. No errand running. No verified west route; hold. Next morning: check hunger (feed at 10 or below, Troi and Tommy first), ask again for a west route, daylight walks only, named aloud, escort; do not walk west past x=370.
+# Handoff, day 597 night
+
+Billy asleep in bed 443,107,-1037 (sleep worked). Row sheltered in beds in sight: Troi 430,107,-1051 (hunger 16), Tommy 443,107,-1065 (hunger 16, 2 potatoes), Jason 415,107,-1051, Picard 443,107,-1051, MacDonald 443,107,-1023, John 430,107,-1023, Lewis 443,107,-1036, Trini 415,107,-1035, Kimberly 416,107,-1036, William 416,107,-1023, Zack 429,107,-1022, Wesley 415,107,-1050, Beverly 430,107,-1065.
+
+Holding: 1 potato (for Troi or Tommy at hunger 10 or below), 11 jungle_log, 1 oak_sapling, 1 oak_fence. No errand running, no intent set. No verified west route; hold. Do not walk west past x=370.
+
+Next morning: check hunger and feed at 10 or below, Troi and Tommy first. Give only to a visible name. Ask the row for a named walk only in daylight with an armed escort. Resolve the Worf and Wesley bed refusals.

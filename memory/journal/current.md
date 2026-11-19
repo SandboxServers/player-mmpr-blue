@@ -34,3 +34,16 @@
 - 19:46 act: {"say":"Morning, MacDonald. Billy here at 430,107,-1037, health 20, hunger 20. Still holding, no walk. Trini, try your bed 429,107,-1037 at dusk, in sight."}
 - 19:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Billy going to bed at 429,107,-1036, in sight of the row. Hol
 - 19:50 act: {"actions":[{"do":"sleep"}]}
+- 19:50 act: {"say":"Trini, your bed is 429,107,-1037, right beside mine. Go there in my sight by day, and tell me if it refuses.","reasoning":"Morning, all healthy. Trini has no named bed; I offered 429,107,-1037
+- 19:51 act: {"say":"Good, Trini. Try the bed at dusk, in my sight, and tell me what it says. Holding.","reasoning":"Trini is at her offered bed, holding until dusk. Confirm and wait."}
+- 19:57 act: {"say":"Morning, all. Billy here, health 20, hunger 20. Worf, hold where you are in sight. No walk named yet; I am still looking for a verified route west.","reasoning":"Row is holding, no route named
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Billy going to bed at 429,107,-1036, in the row's sight. Trini
+- 20:01 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk; my bed is at my feet. Try sleep again; if it refuses for time, wait."}
+- 20:01 act: {"actions":[],"say":"Kimberly, 429,107,-1037 is Trini's bed; hold that one. Find a bed of your own in sight, and say it aloud first.","reasoning":"Kimberly asked about Trini's bed. Trini has it. Send 
+- 20:03 act: {"actions":[],"say":"Kimberly, try bed 429,107,-1023, in the row's sight. Say it aloud first. Hold if it refuses.","reasoning":"Give Kimberly a named free bed in sight that nobody has claimed."}
+- 20:04 act: {"actions":[],"say":"Good morning, row. Still no walk; we hold. Troi, come near me and I will hand you my potato.","reasoning":"Row is waiting. No verified west route. Troi is hurt and hungry-ish, so 
+- 20:04 act: {"actions":[],"say":"Troi, I stand at 444,107,-1037, by the beds at the east edge of the row. Walk to me in the row's sight; I will hand you the potato.","reasoning":"Tell Troi where I am so she can c
+- 20:06 act: {"actions":[],"say":"Troi, you are in reach. Your hunger is above the feed line, so I keep my potato for now. Eat when it falls to 10.","reasoning":"Troi arrived and already holds a potato. Her hunger
+- 20:08 act: {"say":"Morning all. Billy at 444,107,-1037, health 20, hunger 20. Still no walk named. Holding in sight. Troi, keep your potato until your hunger is 10."}
+- 20:16 act: {"say":"Morning, row. Billy at 444,107,-1037, health 20, hunger 20. Still no walk named. Hold in sight. Troi, potato stays with you until hunger 10."}
+- 20:36 say: {"text":"Morning, Troi. Holding at my bed, no walk named yet. Feed at 10 or below, and you are first."}
