@@ -1,5 +1,4 @@
-Handoff, day 587 dusk. Billy at 430,107,-1023 beside bed 429,107,-1022. Health 20, hunger 20. Holding: 3 potatoes, 11 jungle_log, 1 oak_sapling, 1 oak_fence.
-Leonardo reported: west route is a 6-block drop from 385,107, no planks, no clear path. Still no walk.
-Troi (hunger ~16, health ~14) is holding at bed 430,107,-1051, out of my sight. Offered her 2 potatoes if she walks to 430,107,-1023. Not yet done. First at morning: check Troi and give potatoes if she is in sight.
-Wesley on bed 415,107,-1050 in sight. Kimberly and Worf still holding in the row. No route verified for them.
-Next: sleep in bed 429,107,-1022 tonight.
+Handoff, day 587 night. Billy at 430,107,-1049, sleeping in bed 429,107,-1050 (no walk at night). Health 20, hunger 20. Holding: 1 potato, 11 jungle_log, 1 oak_sapling, 1 oak_fence.
+Troi (holds 8 potatoes), Trini, Zack, Wesley, Jason, Kimberly are all holding at their beds in the row, no walks.
+Kimberly reports bed 415,107,-1036 refused use twice; she was told not to force it.
+Next morning: confirm nobody is at hunger 6 or below; verify the west route to Worf's bed 415,107,-1036 with Worf, Tommy or Leonardo before any walk; walk only in daylight, named aloud, with an escort.

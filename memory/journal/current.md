@@ -24,3 +24,5 @@
 - 17:11 act: {"actions":[{"do":"note","text":"Night 586. At bed 429,107,-1022, sleeping. Troi holds at 430,107,-1051. Walk only at daylight."}],"say":"Troi, Billy here. It is still night, so I stay in my bed. At f
 - 17:15 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}},{"do":"give","to":"ag_troi_01","item":"potato","count":2}],"say":"Morning. Billy walking to Troi at 430,107,-1049, in daylight, to give 2
 - 17:16 act: {"actions":[{"do":"note","text":"Day 587: at 430,107,-1049. Give of 2 potatoes went to Zack instead of Troi; I hold 1 potato now. Troi hunger 16, not urgent."}],"say":"Zack, the potatoes went to you b
+- 17:18 act: {"actions":[{"do":"note","text":"Day 587 day: Troi has 8 potatoes, hunger 16, fed enough. No one at 6 or below. West route still unverified; goal says no west past x=370, so no scouting now."}],"say":
+- 17:20 act: {"actions":[{"do":"note","text":"Kimberly reports bed 415,107,-1036 refused use twice. Holding her in place; no walk until the route is verified."}],"say":"Kimberly, stay where you are and do not forc
