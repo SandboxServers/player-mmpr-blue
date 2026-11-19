@@ -13,3 +13,7 @@
 - 09:48 act: {"say":"Clark, hold your 6 at the row. Troi, bring yours there too. Hungry ones in sight, come to the row bed 429,107,-1036 and I will name the share when all are gathered."}
 - 09:49 act: {"say":"Kimberly, you are full, so stay where you are by the east beds. Walk to the row only if you are hungry. Still waiting on Troi and Clark at the row."}
 - 09:53 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Deanna holds 16 potatoes; share at first light, named by me. Riker has Lewis's potato. I am walking to the row bed to sleep
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Billy here, night 564. Walking to the row bed by the group now, unarmed, and I'll sleep there in your sight."}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Morning 565. Billy at the row. Deanna, please share 3 potatoes with Riker, who is hungry at 17, and keep the rest in your pack. H
