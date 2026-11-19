@@ -1,11 +1,11 @@
-# Summary (as of day 581, night, asleep at bed 429,107,-1022)
+# Summary (as of day 584, night, asleep at bed 429,107,-1022)
 
-I am Billy. Health 20, hunger 20 at sleep. Inventory: 3 potatoes, 11 jungle_log, 1 oak_sapling, 1 oak_fence.
+I am Billy. Health 20, hunger 20. Inventory: 3 potatoes, 11 jungle_log, 1 oak_sapling, 1 oak_fence.
 
-Places: my bed 443,107,-1037 (Lewis's bed 443,107,-1036). Beds: Kimberly 429,107,-1036; Zack 429,107,-1050; Trini 429,107,-1037; Troi 429,107,-1023; Picard 443,107,-1050; Tommy 443,107,-1051; Worf 415,107,-1036; Jason, Riker, Wesley, John near 415,107,-1037. Chests at 433,107,-1037, 419,107,-1037, 433,107,-1023, 447,107,-1037. Crafting tables at 419,107,-1033 and 433,107,-1033. Potato field 462-465,107,-1068 to -1073 (ripe at 466-469). Do not go west of x=370. Cows at 339,104,-979 not yet safe.
+Places: my bed 429,107,-1022. Beds in the row: Kimberly 415,107,-1036; Worf 415,107,-1036 (route blocked); Tommy 443,107,-1037; Wesley 415,107,-1050; Zack 429,107,-1050. Potato field 466-469,107,-1069 to -1072 (ripe). Do not go west of x=370. Cows at 339,104,-979 not yet safe.
 
-People: Worf is blocked on his route to 415,107,-1036; holds near 418,107,-1049 with a sword. Tommy holds at his bed with spare wooden swords, health 13 at last count. Picard holds at his bed with a sword. Troi was health 8 and ate 2 potatoes from me. Zack and Kimberly sleep at their beds in sight.
+People: Tommy health 15, hunger 16, holds at his bed with 2 potatoes. Riker hunger 16, holds at 415,107,-1036 area. Kimberly at her bed. Worf's route still blocked by oak planks to the west.
 
-Rules: Walks only in daylight, named aloud first, with an armed escort. Sleep only at night, in a bed (stand beside it, then sleep). Bed use fails at dusk.
+Rules: walk only in daylight, named aloud first, with an armed escort. Sleep only at night in a bed (goto the bed, then sleep). Sleep fails if it is not yet night.
 
-Next at first light: feed anyone at hunger 6 or below, weakest first (check Troi). Ask Worf and Tommy for a route to 415,107,-1036 and name the walk only when it is clear.
+Next at first light: feed anyone at hunger 6 or below, weakest first. Ask Worf and Tommy whether the planks have cleared, and name a walk only when a route is verified.
