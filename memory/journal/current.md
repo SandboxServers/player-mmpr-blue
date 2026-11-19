@@ -99,3 +99,4 @@
 - 06:50 act: {"say":"Riker, you already hold 7 potatoes, so I keep mine for Wesley and whoever is hungriest. Say when you are in reach."}
 - 06:52 act: {"say":"Billy at the row, 427,107,-1035. Everyone heard is fed (hunger 19 to 20), so the potatoes stay in my pack for Wesley when found. Thunder now; I stay at the row, in sight, until dusk."}
 - 06:53 act: {"say":"Wesley, daylight walk named: come to the row at 427,107,-1035 with Worf, sword in hand, in the afternoon. I'll hold 21 potatoes here for you. Say when you are in sight.","intent":{"goal":"hold
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1036}}],"say":"Billy at the row, dusk 556, health 20, hunger 20. Sleeping beside bed 429,107,-1036 in the group's sight. At first light I will n
