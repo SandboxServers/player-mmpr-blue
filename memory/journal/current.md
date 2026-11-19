@@ -76,3 +76,14 @@
 - 06:26 act: {"say":"Wesley, it is dark, so no walk tonight. I'm going to the bed at 429,107,-1035 with Jason in sight. At first light I'll name a daylight walk and give you potatoes.","actions":[{"do":"goto","tar
 - 06:26 act: {"say":"Billy at the row bed 429,107,-1035, awake. Wesley and Lewis, hungriest first: step into my sight here and I'll give potatoes. Others, hold still.","actions":[]}
 - 06:29 say: {"text":"Wesley, I hear you. I am at the row bed, 429,107,-1035. Sleeping here for the night, in sight of the group."}
+- 06:29 say: {"text":"Billy here, at the bed. I hold 27 potatoes. At dawn I will give some to Lewis and Wesley first."}
+- 06:32 say: {"text":"Billy, morning, at the row bed with 27 potatoes. Wesley and Lewis, step into my sight and I give them potatoes now. Nobody walks alone."}
+- 06:35 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":6},{"do":"note","text":"Gave Lewis 6 potatoes at the row, morning 555. 21 left for Wesley and the hungry."}],"say":"Lewis, 6 potatoe
+- 06:36 say: {"text":"Trini, I have no sword yet, sorry. Wesley is still not in my sight; I hold 21 potatoes for him. Everyone else, hold at the row."}
+- 06:37 act: {"intent":{"goal":"potatoes_to_wesley","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1049}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 06:39 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1035}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 06:39 say: {"text":"Billy back at the row with 21 potatoes. Wesley, come to the row with Worf, into my sight, and I hand them over."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1046}}],"say":"Billy walking to Wesley at the crafting table 418,107,-1047, with Worf armed there. Everyone else holds at the row. Wesley, stay 
+- 06:41 act: {"intent":{"goal":"return_to_row_safe","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1035}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 06:42 act: {"actions":[{"do":"note","text":"Back at the row bed 430,107,-1035 at dusk. Zack and Lewis in reach. Wesley and Worf not in sight. Holding 21 potatoes for Wesley."}],"say":"Zack, Lewis: Wesley is not 
+- 06:42 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
