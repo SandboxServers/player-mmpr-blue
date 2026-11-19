@@ -48,3 +48,11 @@
 - 10:45 act: {"actions":[{"do":"sleep"}]}
 - 10:50 act: {"actions":[{"do":"note","text":"Morning 568: woke at the row bed 429,107,-1037, health 20. Group in sight. Zack reports a bow drawn to the south-west; holding everyone at the row. No one at hunger 6 
 - 10:51 act: {"actions":[{"do":"note","text":"Day 568 morning: group holding at the row and at beds. Zack and Leonardo hold, waiting for a named walk. No wood yet; next search only with an armed escort."}],"say":"
+- 10:52 act: {"say":"Morning 567. Billy at the row. No oak logs found yet east, north-east or south-east. Hold at the row. Riker and Deanna, you are at 17 hunger; say when you need a potato.","intent":{"goal":"hol
+- 10:52 act: {"say":"Leonardo, Tommy: heard. No sword yet; no oak logs found east, north-east or south-east. I will name the next search when I have a plan."}
+- 10:52 act: {"say":"Deanna, you hold 13 potatoes. Please give Riker 2 at his bed 430,107,-1023 so his health holds. Riker, eat when you have them. I have no food."}
+- 10:56 act: {"say":"Jason and Picard: please search north of the row for oak logs, staying within about 20 blocks of the row bed and in daylight. Report back at the row. Everyone else holds."}
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 568. Billy going to the row bed 429,107,-1036 in the group's sight. Potatoes: Wesley and Clark hold, Deanna 
+- 11:02 act: {"say":"Morning 568. Billy calls an oak search to the south of the row, not west of x=370. Picard, Jason, MacDonald: come with swords, within 20 blocks of the row bed. Others hold in sight.","actions"
+- 11:03 act: {"say":"Billy: south of the row is blocked too, no oak logs. Jason and Picard, come back to the row bed and hold. Does anyone know where trees or wood are? Say the place, and we walk there in daylight
+- 11:04 act: {"actions":[{"do":"note","text":"Day 568 day: Zack knows no trees, only the row. No one has named a wood place. Holding the group at the row; no walk until someone knows of trees or a new direction."}
