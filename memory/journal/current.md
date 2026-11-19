@@ -21,3 +21,7 @@
 - 19:23 act: {"actions":[{"do":"note","text":"Day 593 night: bed 429,107,-1037 and 429,107,-1036 both refused use ('that block is a bed'), twice. Standing at 430,107,-1036 in the row, in sight, holding. Potato kep
 - 19:23 act: {"say":"Goodnight, row. Billy at my bed 429,107,-1036, in sight. Health 20, hunger 20, no walk.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
 - 19:24 act: {"actions":[{"do":"note","text":"Night 593. Use on bed 429,107,-1036 refused again (it is a bed). Going to sleep here in sight of the row, health 20 hunger 20."}]}
+- 19:24 act: {"say":"Day 594 morning: woke at 430,107,-1036, health 20, hunger 20. Picard and Leonardo holding at beds. No west route; said so aloud, no walk. Anyone who knows the way to Worf's bed, s
+- 19:25 act: {"say":"Troi, I hear you at 13.9, hunger 16. Still holding. Call me at hunger 10 and my potato is yours. Everyone else, hold at your beds.","reasoning":"Troi is above the feeding threshold of 10. Hold
+- 19:27 act: {"say":"Thank you, Laforge and Jason. Everyone holds, health 20. Still no verified route west, so no walk. Stay at your beds in sight.","reasoning":"Two more holding in the row. Still no route. Hold."
+- 19:28 act: {"say":"Thank you, William and Tommy. Tommy at 15 and hunger 16, still above 10. Everyone holds. No walk until a west route is named.","reasoning":"Tommy and William holding. Hunger above the feeding 
