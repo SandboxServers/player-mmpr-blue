@@ -9,3 +9,28 @@
 - 03:24 act: {"actions":[],"say":"Tommy, Billy here. No walk yet. I hold no sword, so the armed count is not confirmed. Holding at the row; I will name a walk once it is.","reasoning":"The rule blocks a walk until
 - 03:26 act: {"actions":[],"say":"Billy: Lewis, I know your health is low. Armed count is three in sight (Picard, Jason, MacDonald), so no walk yet. Anyone with a sword, come to the row and say so. Cows reported n
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy: dusk. Still no walk; armed count is four (Picard, Jason, MacDonald, Clark), short of seven. Going to bed in
+- 03:34 act: {"say":"Billy, dawn 546. Armed in sight: Jason, MacDonald, Clark, and me, four with wooden swords. Not seven, so no walk yet. Food first: cows are at 339,104,-979 when we can go. Who is awake?","reaso
+- 03:34 act: {"say":"Correction: I hold no sword. Armed in sight are Jason, MacDonald, Clark, and Picard if he is here. Still short of seven, no walk.","reasoning":"My dawn count wrongly included me. Correct it al
+- 03:35 act: {"say":"Billy: food comes before the armed count now. Cow walk, daylight, to 339,104,-979. Jason, Clark, MacDonald with swords, come along. Lewis and Trini, follow once we reach the first cow. Stay in
+- 03:35 act: {"say":"Billy: my walk stopped early at 421,-1029. Jason is with me. Lewis, come to me and stay in sight. We will go once the group is together.","reasoning":"Travel failed partway, reason unclear. Ga
+- 03:35 act: {"say":"Billy: a bow was drawn to the south. Everyone who can see me, stay put at the row. I am going to Jason's side at 434,107,-1027 and will call the walk from there.","actions":[{"do":"goto","targ
+- 03:35 act: {"say":"Billy: Jason is with me, sword in hand. Going now to the cows at 339,104,-979. Lewis and Trini, come to the row's edge and follow once you see us.","intent":{"goal":"reach_cows_northeast_food"
+- 03:35 act: {"say":"Billy: the travel stopped twice. I will go step by step, first to 390,107,-1000, with Jason beside me.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1000}}],"reasoning":"Long travel 
+- 03:36 act: {"say":"Billy: at 390,-1001, bow sounds came from the south. Jason, catch up and stay in sight. Next step to 360,107,-990.","actions":[{"do":"goto","target":{"x":360,"y":107,"z":-990}}],"reasoning":"S
+- 03:36 act: {"say":"Billy: pillagers with crossbows at 376,-1023 and 373,-1022. Pulling back to the row now. Everyone hold at the row.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1030}}],"reasoning":"
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1031}}],"say":"Billy: health 6.8, pillagers following me. Running east to the row bed.","reasoning":"Health is low and three crossbowmen are sho
+- 03:36 act: {"say":"Billy here, back at the row with nothing. Pillagers with crossbows hold the way west near 370-380, -1022 to -1029. Do not walk that line. My cobblestone and rotten flesh lie at 374,99,-1029, n
+- 03:37 act: {"say":"Billy here, back at the row. No walk west. Pillagers hold 370-380. Anyone with food, tell me. I'll look for a safe food route north or south first."}
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}]}
+- 03:45 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk 546, in bed at 429,107,-1037 in your sight. Health 20, hunger 20, no food. No walk until dawn."}
+- 03:49 act: {"say":"Billy, dawn 546. Health 20, hunger 20, nothing held. No walk named yet: the west is closed. Armed in sight: Jason, MacDonald, Clark, Worf, Riker (wooden swords). Anyone with food, give to Rike
+- 03:50 act: {"say":"Clark, do not give Riker the spider eye to eat. It poisons and does not feed. Keep it. Riker and Lewis need real food: melon, bread, meat."}
+- 03:57 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk 547, sleeping in bed at 429,107,-1037 in your sight. No walk until dawn."}
+- 04:00 act: {"say":"Billy, dawn 547. I hold no food and no sword. Armed in hand: Jason, MacDonald, Clark, Worf, Riker. Fewer than seven, so no walk yet. Lewis, health 7: anyone with real food, give it to Lewis fi
+- 04:09 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk 547. Going to bed at 429,107,-1037 in the row's sight. Still no food and fewer than seven armed, so no walk. Lewis, first food goes to you."}
+- 04:14 act: {"say":"Billy, dawn 548. No food in my hands, no sword. Armed in hand by speech: Jason, MacDonald, Clark, Worf, Riker, Picard. Six, under seven. No walk named. Lewis, first food to you when any turns 
+- 04:17 act: {"say":"Billy, dawn 548. Riker at health 10, Lewis at 7. Does anyone know where animals or crops are, away from the west? Tell me the direction and I will name a walk with the armed group.","actions":
+- 04:18 act: {"say":"Billy names the walk: east-southeast to wheat and potatoes by the water at 462,107,-1073. Daylight only, away from the west. Jason, MacDonald, Worf, Clark, Riker, Picard: come sword in hand. L
+- 04:18 act: {"intent":{"goal":"reach_food_by_water","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1073}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 04:18 act: {"say":"Billy: the wheat walk is on hold. Only Jason is coming, and that is not enough. Stay at the row. I will look at the route again after noon.","actions":[]}
+- 04:20 act: {"actions":[],"intent":{"goal":"hold_at_row_until_armed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"ma
