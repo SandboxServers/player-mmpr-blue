@@ -20,5 +20,11 @@
 - Day 580 and 581: sleeping at a bed in sight of the row worked at dusk.
 - Bows drawn to the south and east on day 581 without a hit; treat that direction as watched.
 - Troi at health 8 on day 581 ate 2 potatoes when given them.
+- Day 587: a give of 2 potatoes meant for Troi went to Zack, because Zack was the one I was facing. Check the name before giving; use the agent name exactly.
+- Day 587: Troi ate a potato on her own when hungry, so a promised give is not always needed.
+- Day 588: a bed at 429,107,-1036 took me at dusk, and the sleep was clean. Beds at 429,107,-1036/-1037 are in the row, in sight.
+- Day 588: Kimberly's bed at 415,107,-1036 has refused her twice. Do not force it.
+
+Curious next (day 588): how a sword comes into hand by itself; whether the west route to 415,107,-1036 can be walked at all. Tell: Worf and Tommy about the route; Trini and Troi about beds and food.
 
 Curious next: how a sword comes into hand by itself. Tell: Jason, Laforge, Picard. Who could I tell: Tommy and Zack about the field route, and Troi about eating when low.
