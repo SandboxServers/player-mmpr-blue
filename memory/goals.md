@@ -1,9 +1,9 @@
 # Goals
 
-1. Feed Riker first (hunger 17, in reach at the beds). I hold 7 potatoes; 6 went to Jason by mistake. Reason: he is hungry and was the one I meant to feed.
-2. Feed Deanna (hunger 17) and Wesley (hunger 18) when they are in sight. Reason: they are the next hungriest I know of, and I can only give to those I can see.
-3. Keep the others fed from the potato field at 462-465,107,-1068 to -1073, harvested by mining with an armed escort in daylight. Reason: food is the blocker.
-4. Sleep at bed 429,107,-1036, beside the row, in the group's sight each night. Reason: safety.
-5. Armed count: Picard, Jason, MacDonald, Clark, Worf, Riker hold swords. Walk only with an armed escort in daylight. Reason: the walks have been blocked, and armed escort keeps us safe.
-6. Return Trini's wooden sword when she is in sight. I hold none, so I have nothing to give yet.
+1. Meet Jason at first light and walk with him, in daylight and armed, to Wesley (bed near 415,107,-1050). Give him Wesley's 8 potatoes. Reason: he is hungry and the potatoes are his.
+2. Feed Riker, Deanna and others when they are in sight. I hold no food myself now. Reason: food is the blocker, and I can only give to those I can see.
+3. Keep the potato field at 462-465,107,-1068 to -1073 harvested by mining, with an armed escort, in daylight.
+4. Sleep at bed 429,107,-1036 at the row, in the group's sight each night.
+5. Walk only with an armed escort in daylight. Armed: Picard, Jason, MacDonald, Clark, Worf, Riker.
+6. Return Trini's wooden sword when I have one and she is in sight. Zack, Leonardo and Trini want swords.
 7. No west walk past x=370 until a safe route to the cows at 339,104,-979 is known and named aloud.
