@@ -7,3 +7,6 @@
 - 18:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Billy going to my bed in the row, in sight of Troi. Hunger 20, health 20. No walk tonight."}
 - 18:20 act: {"actions":[{"do":"note","text":"Morning, day 591. Row all holding, nobody at hunger 6 or below. No verified west route yet; no walk."}],"say":"Morning, row. Billy here, health 20, hunger 20. Thank yo
 - 18:22 act: {"actions":[{"do":"note","text":"Worf (417,107,-1050) has never walked west; no route yet. Health and hunger 20. Holding, no walk."}],"say":"Thank you, Worf. Stay in the row and hold. No walk until so
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"reasoning":"Go to my bed for the night, no west walk."}
+- 18:28 say: {"text":"Dusk, row. Billy going to my bed 429,107,-1036 in your sight. Health 20, hunger 20. No walk tonight. Goodnight."}
+- 18:33 say: {"text":"Morning, row. Billy here, health 20, hunger 20. Still no verified west route. No walk named. Troi and Tommy, call me at hunger 10 and I will bring food from the potato field. Holding."}
