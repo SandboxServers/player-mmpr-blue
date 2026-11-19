@@ -26,3 +26,4 @@
 - 17:16 act: {"actions":[{"do":"note","text":"Day 587: at 430,107,-1049. Give of 2 potatoes went to Zack instead of Troi; I hold 1 potato now. Troi hunger 16, not urgent."}],"say":"Zack, the potatoes went to you b
 - 17:18 act: {"actions":[{"do":"note","text":"Day 587 day: Troi has 8 potatoes, hunger 16, fed enough. No one at 6 or below. West route still unverified; goal says no west past x=370, so no scouting now."}],"say":
 - 17:20 act: {"actions":[{"do":"note","text":"Kimberly reports bed 415,107,-1036 refused use twice. Holding her in place; no walk until the route is verified."}],"say":"Kimberly, stay where you are and do not forc
+- 17:25 say: {"text":"Night, row. Billy in bed at 429,107,-1037, no walk. Hunger 20, health 20."}
