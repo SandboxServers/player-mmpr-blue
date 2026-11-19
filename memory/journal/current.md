@@ -17,3 +17,4 @@
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Morning 565. Billy at the row. Deanna, please share 3 potatoes with Riker, who is hungry at 17, and keep the rest in your pack. H
+- 09:58 act: {"actions":[],"say":"Billy at the row, morning 565. I hold no swords and no food, so I cannot give yet. Hold in sight and stay together. I will find wood for the swords, and name the next share when I
