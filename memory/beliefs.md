@@ -12,6 +12,8 @@
 - A wooden sword needs two planks and a stick, and a crafting table in reach.
 - Holding with the rest program ends as a failed intent; plain waiting works better for holding.
 - Shots have come from the west near the oak at 376,101,-1029.
+- Day 556: ripe potatoes can be harvested by mining the plant block with count (mine "potatoes" worked; mine "potato" and use on plant did not). Escort in daylight worked for the field round trip.
+- Walks toward Wesley's bed were blocked twice on day 556; turn back and retry rather than push through.
 - Potatoes (ripe) grow in the water farm at 462-465,107,-1068 to -1073, reachable from the row without crossing the west. Day 550 harvest brought 18 potatoes to the chest at 433,107,-1023.
 - Lewis was at health 8 at dusk 550. Food is still the blocker.
 
