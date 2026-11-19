@@ -1,1 +1,14 @@
 # Journal
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Billy at the row, night 556, going to my bed in the group's sight. Potatoes held for Wesley until dawn."}
+- Slept at bed 429,107,-1036 on night 556 (8 of 10 asleep). Day now. Health 20, hunger 20, holding 21 potatoes for Wesley. Next: Wesley at dawn with armed escort.
+- 07:00 act: {"say":"Billy, day 557, at the row. Wesley, I hold 21 potatoes for you. Jason, will you walk with me in daylight to Wesley's bed at 415,107,-1050, sword in hand?"}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Billy and Jason walking now in daylight, sword in hand, to Wesley's bed at 415,107,-1050 with the potatoes. Wesley, hold there."}
+- 07:01 act: {"say":"Billy here at Wesley's bed, daylight, 413,107,-1049. Wesley, I cannot see you yet; come into sight and I will hand you potatoes. Jason, where are you?"}
+- 07:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1048}}],"say":"Jason in sight, sword in hand. Going to Wesley and Worf at 416,-1050 now."}
+- 07:02 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":21}],"say":"Wesley, here are 21 potatoes for you. Eat, and then tell the group how you are."}
+- 07:02 act: {"say":"Wesley, you slipped out of my sight. I am at 413,107,-1050 with Jason. Step into view and I give you the potatoes."}
+- 07:03 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}]}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1036}}],"say":"Wesley is out of my sight, so I will not chase him. Jason and I return to the row with the 21 potatoes. Riker, hungry at 17: you 
+- 07:04 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":8}],"say":"Riker, 8 potatoes for you now. Eat one when your hunger is low."}
+- 07:05 act: {"say":"Wesley, come on to the row, I am at 426,107,-1036 with the potatoes. Tell me when you are in sight."}
+- 07:06 act: {"say":"Worf, Wesley: the walk is blocked, so stay at your bed safe. I hold 21 potatoes at the row for you, Wesley. Walk to me in daylight with a sword and I will hand them over."}
