@@ -86,3 +86,6 @@
 - 12:50 act: {"actions":[{"do":"note","text":"Woke at the row, 444,107,-1037, health 20, hunger 20. Kimberly and Picard hold in sight. Still no word on the oak. No walk named yet."}],"say":"Morning, Kimberly and P
 - 12:59 act: {"actions":[{"do":"note","text":"Day 574, dim, at the row. Troi at health 8 and hunger 17; Clark has 5 potatoes ready for her. I hold 23 potatoes. Still no walk named."}],"say":"Troi, Clark has potato
 - 13:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"note","text":"Dusk 574. Going to my bed at 429,107,-1036 with Lewis and the row in sight. Holding 23 potatoes; no walk named; Troi
+- 13:04 act: {"say":"Billy at the row, health 20, hunger 20. Holding. Tommy, the wooden sword is for you when you are in sight. No walk named yet."}
+- 13:04 act: {"say":"Picard, no word yet on the oak at 414,104,-1126. Tree walk stays unnamed until I have checked the route. Everyone holding at the row."}
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 575. Billy to the bed at 429,107,-1036, row in sight. Everyone fed; no walk named. Sleeping."}
