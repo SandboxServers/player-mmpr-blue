@@ -1,1 +1,37 @@
 # Journal
+- 05:10 act: {"say":"Billy here, health 20, hunger 20, no sword. Morning all. Plan: the potato field at 462-465,107,-1068 is ripe, and we walk it with the armed group in daylight. Lewis gets food first.","reasonin
+- 05:11 act: {"say":"Worf, thank you. Armed walk to the potatoes: Jason, Worf, MacDonald with swords, Lewis fed first. Unarmed hold at the row until we return. Jason, do you confirm?","reasoning":"Name the armed e
+- 05:11 act: {"say":"Jason and MacDonald confirmed. Walking now to the potato field with Jason and MacDonald in sight. Worf joins as he is able. Everyone else holds at the row.","intent":{"goal":"walk_to_potato_fi
+- 05:12 act: {"say":"My walk to the field stopped halfway at 449,107,-1059. No escort in sight now. I am holding here in the open until Jason and MacDonald come to me.","reasoning":"The travel intent failed partwa
+- 05:12 act: {"say":"Nobody has come to me here. I am going back to the row, to the bed at 429,107,-1036, and the armed walk will leave from there together.","intent":{"goal":"return_to_row","program":"travel","ar
+- 05:12 act: {"say":"Back at the row, Tommy. Welcome. We hold here together until the armed walk to the potatoes goes in daylight.","reasoning":"Regrouped at the row; greet the new arrival Tommy and hold."}
+- 05:15 act: {"say":"Potato walk now, named: Jason, Worf, MacDonald and Picard with swords, Lewis fed first. Unarmed hold at the row. Walking together to 460,107,-1070.","intent":{"goal":"potato_walk_group","progr
+- 05:15 act: {"say":"The walk failed again at 437,107,-1038 and no escort is in my sight. I am stopping here and not walking alone. Jason, please come into my sight and we go together.","reasoning":"Second failed 
+- 05:15 act: {"say":"Jason, I am at 437,107,-1038, just east of the bed row. Walking back to the bed at 429,107,-1035 where you can see me.","intent":{"goal":"return_to_row_bed","program":"travel","arguments":{"ta
+- 05:16 act: {"say":"Jason, I see you at the bed row. Dusk is near, so no walk tonight. At dawn: Jason, Worf and MacDonald with swords, Lewis fed first. Everyone else holds. I sleep here at the bed.","reasoning":"
+- 05:17 act: {"say":"Understood, Jason. I hold here by the bed until dawn, then the named walk with you, Worf and MacDonald.","reasoning":"Jason confirmed no walk tonight; hold and wait for night."}
+- 05:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"reasoning":"Dusk came; get into the bed in the group's sight.","say":"Billy going to bed at the row in everyone's sight. Dawn walk as named.
+- 05:17 act: {"say":"Potato walk named now, morning 551. Armed escort: Jason, Worf, MacDonald, Riker, Picard. Unarmed hold at the row. Lewis first on return. Walking to 459,107,-1070 in your sight.","reasoning":"S
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":463,"y":107,"z":-1070}},{"do":"mine","block":"potato","count":6}],"reasoning":"At the potato field with the escort. Take ripe potatoes for Lewis first.","say":"A
+- 05:17 act: {"actions":[{"do":"use","at":{"x":464,"y":107,"z":-1069}}],"reasoning":"Mining failed for potato; try right-click harvest on a ripe potato plant."}
+- 05:17 act: {"actions":[{"do":"mine","block":"potatoes","count":6}],"reasoning":"Changing the name of the block to the plural; one try."}
+- 05:18 act: {"intent":{"goal":"return_to_row_with_potatoes","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1034}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 05:18 act: {"actions":[{"do":"note","text":"Back at row with 19 potatoes. Lewis and Riker not in my sight yet."}],"say":"Back at the row with 19 potatoes. Lewis, Riker, come into my sight and I hand them over no
+- 05:18 act: {"say":"Lewis, Billy here with 19 potatoes. Please step into my sight at the row and I hand them to you first.","reasoning":"Lewis is not in sight; call him directly."}
+- 05:20 act: {"actions":[{"do":"note","text":"Dusk 551 at the row with 19 potatoes. Lewis and Riker still out of sight. Holding here for them."}],"say":"Billy at the row with 19 potatoes. Lewis, Riker: step into m
+- 05:24 act: {"actions":[{"do":"note","text":"Night 551. Lewis is eating his own potato. Riker, hunger 17, asked for his share from my bed row. Asking him to come into sight."}],"say":"Riker, Billy here at the row
+- 05:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 05:24 act: {"actions":[{"do":"note","text":"Bed use refused (it is a bed, use failed). Day came back before sleep. Holding 19 potatoes for Riker and Lewis."}],"say":"Clark, thanks. Billy still holds 19 potatoes 
+- 05:25 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":6}],"say":"Lewis, I give you 6 potatoes now. Riker, come in sight next."}
+- 05:25 act: {"actions":[{"do":"note","text":"Give to Lewis failed: not in sight. Waiting for Lewis or Riker to step into sight."}],"say":"Lewis, I cannot see you from here. Please walk to the bed beside the craft
+- 05:25 act: {"actions":[{"do":"note","text":"Riker says he is at bed 402,107,-1037 with Chapman and comes when called. Calling him to the row."}],"say":"Riker, come to the row now, beside Jason. I hand you potato
+- 05:27 act: {"actions":[{"do":"note","text":"Morning 551. Potatoes still held (19). Riker and Lewis not yet in sight; Trini at the beds, Picard and Laforge at the row."}],"say":"Trini, Billy here. Your wooden swo
+- 05:28 act: {"actions":[{"do":"note","text":"Trini asked for her wooden sword. I do not hold it now; my pack has only potatoes and an oak fence. Told her so."}],"say":"Trini, I do not hold your wooden sword now. 
+- 05:30 act: {"actions":[{"do":"note","text":"Riker walking toward the row at 404,107,-1033. I stand at 430,107,-1033 by the crafting table, holding 19 potatoes."}],"say":"Riker, I stand at the crafting table, 430
+- 05:31 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":10}],"say":"Riker, here are 10 potatoes. Eat them, then tell me if Lewis still needs more."}
+- 05:31 act: {"actions":[{"do":"note","text":"Gave 10 potatoes to Riker, worked. 9 left in pack, kept for Lewis when he is in sight."}],"say":"Riker has 10 potatoes from me. I keep 9 for Lewis, who needs them too.
+- 05:32 act: {"actions":[],"say":"Riker, 10 potatoes are yours. Eat, then tell me if Lewis still needs food."}
+- 05:32 act: {"actions":[{"do":"note","text":"Clark and Data at the row. Clark holds his 6 potatoes for Lewis or the hungriest. I keep 9 for Lewis. Data unarmed, hunger 19, fed later if needed."}],"say":"Clark, ho
+- 05:32 act: {"actions":[{"do":"note","text":"Holding at the row 429,107,-1033 with 9 potatoes for Lewis. No word from Lewis yet. Waiting."}]}
+- 05:34 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":4},{"do":"note","text":"Lewis at the table, hunger 17, holds 6 potatoes. Gave him 4 more so he can eat well. I keep 5."}],"say":"Lew
+- 05:38 act: {"actions":[{"do":"note","text":"Night 552. Going to sleep at the bed row, in sight of the group. Holding 9 potatoes for Lewis at dawn."}],"say":"Billy, night 552. Sleeping at the row in the group's s
