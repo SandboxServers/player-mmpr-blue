@@ -32,3 +32,12 @@
 - 04:59 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1023}},{"do":"deposit","at":{"x":433,"y":107,"z":-1023},"item":"potato","count":18}],"say":"Lewis, Billy. Potatoes are in the chest at 433,107,-
 - 04:59 act: {"actions":[],"say":"Lewis, Billy: potatoes are in the chest at 433,107,-1023, on the east side. I will not go west of 430. Come east to the chest and take them."}
 - 04:59 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1022}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1023},"item":"potato","count":18}],"say":"The worker brought 18 potatoes from the water farm.
+- 05:00 act: {"say":"Lewis, I hold 18 potatoes. Come toward me at the beds and I will hand you some now.","intent":{"goal":"hand_potatoes_to_lewis","program":"rest","arguments":{},"wake_on":["directly_addressed","
+- 05:00 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"potato","count":12}],"say":"Clark, these 12 potatoes are for Lewis, who is hungry at his bed in the row, then Riker. Bows are drawn to the south, so
+- 05:01 act: {"say":"Data, yes. Walk to the chest at 433,107,-1023 and take 6 potatoes there. Shelter near the row, and stay out of the south.","actions":[]}
+- 05:06 act: {"actions":[{"do":"give","to":"ag_data_01","item":"potato","count":6}],"say":"Data, here are the last 6 potatoes. Eat when your hunger drops, and go back to the row."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to the bed at 429,107,-1037 in the row's sight. Potatoes are still with me; Data, come back when you c
+- 05:06 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":6}],"say":"Jason, these 6 potatoes are for Lewis first, then Riker. I am at the bed now and waiting for night."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Jason is out of sight, so I keep the potatoes for now. I will sleep at the bed."}
+- 05:06 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":6}],"say":"Jason, here are the 6 potatoes. Lewis first, then Riker."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
