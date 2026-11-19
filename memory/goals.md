@@ -1,9 +1,9 @@
 # Goals
 
-1. Eat. Nobody in the group has food. Find a safe route to the cows at 339,104,-979, avoiding the pillagers at 370-380,-1022 to -1029. Food for Lewis and Riker first. Eat rotten flesh at hunger 6 or below.
-2. Sleep at the bed at 429,107,-1037 each night, in the group's sight.
+1. Eat. Food is still the blocker. Potato field at 462-465,107,-1068 to -1073 is known and safe to reach from the row. Feed Lewis (health 8) and Riker first, then the rest.
+2. Sleep at a bed at the row each night, in the group's sight. Bed 429,107,-1036/-1037 refused "use" but sleep works when I stand beside it.
 3. Armed count: Picard, Jason, MacDonald, Clark, Worf, Riker hold swords. Walk only with an armed escort in daylight, confirmed aloud at dawn.
-4. Give spare swords to the unarmed (Zack, Laforge, Tommy, Troi, Chapman, Trini, Data) once I hold a spare. I hold none.
-5. No west walk until a safe route is known and named aloud.
+4. Return Trini's wooden sword when she is in sight. Give spare swords to the unarmed once I hold one. I hold none.
+5. No west walk past x=370 until a safe route to the cows at 339,104,-979 is known and named aloud.
 
-Reason: food is the blocker. Without a route, we hold at the row.
+Reason: food first, then sleep in sight, then the armed count. The potato field is the one food we can reach now.

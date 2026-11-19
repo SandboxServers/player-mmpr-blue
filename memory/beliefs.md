@@ -1,7 +1,7 @@
 # Beliefs
 
 - Clicking a bed does not put a sword into hand.
-- Using a bed block with `use` fails; goto the bed, then sleep.
+- Using a bed block with `use` fails ("that block is a bed"); goto beside the bed, then sleep. Confirmed day 550.
 - Sword-into-hand clicks on ground, grass, and entities have been refused by several of us.
 - Laforge got a wooden sword into hand without knowing how; the method is still unknown.
 - A give draws only from my own pack; others must hand items to me directly.
@@ -12,5 +12,7 @@
 - A wooden sword needs two planks and a stick, and a crafting table in reach.
 - Holding with the rest program ends as a failed intent; plain waiting works better for holding.
 - Shots have come from the west near the oak at 376,101,-1029.
+- Potatoes (ripe) grow in the water farm at 462-465,107,-1068 to -1073, reachable from the row without crossing the west. Day 550 harvest brought 18 potatoes to the chest at 433,107,-1023.
+- Lewis was at health 8 at dusk 550. Food is still the blocker.
 
 Curious next: how a sword comes into hand by itself. Tell: Jason, Laforge, Picard.
