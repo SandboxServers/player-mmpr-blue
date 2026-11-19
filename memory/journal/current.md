@@ -2,3 +2,14 @@
 - 09:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Billy at the bed, night 564. Going to sleep in the row's sight. At first light we check Wesley's potato pickup."}
 - 09:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Billy: I am going to sleep in the bed now. Jason keeps the potatoes; we check Wesley at first light."}
 - 09:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy here. Going to sleep at the bed beside me, group in sight. Holding for first light."}
+- 09:41 act: {"say":"Billy awake at the row, night 564. Holding here. At first light I'll check Wesley's potatoes with Jason.","intent":{"goal":"hold_for_first_light","program":"rest","arguments":{},"wake_on":["di
+- 09:42 act: {"say":"Zack, come to the row at the bed 429,107,-1036, where Jason and the group are. Walk in daylight, and I will meet you there. Then we check Wesley's potatoes.","intent":{"goal":"hold_at_row_for_
+- 09:43 act: {"say":"Good, Zack. Billy here at the row. Jason, do you still hold Wesley's 8 potatoes? Wesley, please pick them up from the ground now, in daylight.","intent":{"goal":"hold_at_row_potato_check","pro
+- 09:43 act: {"say":"Jason, Billy names it: walk two blocks to Wcrusher, in daylight, and give him the 8 potatoes. Wcrusher, hold them and then put them in the chest at 433,107,-1037. Tommy, Zack, stay at the row.
+- 09:44 act: {"say":"Deanna, walk north-west to the row bed 429,107,-1036 in daylight, then. Eat two potatoes on the way. Bring the rest to the row for the hungry. Jason, Wesley now has the 8."}
+- 09:45 act: {"say":"Riker, walk to the row bed 429,107,-1036 in daylight with your wooden sword in hand. Deanna is bringing potatoes there for the hungry. Zack, Tommy, Picard and I hold there."}
+- 09:46 act: {"say":"Good, Wcrusher. Hold the 7 in your pack; the share goes out from the row once Deanna arrives. No sword spare yet, I am still gathering."}
+- 09:48 act: {"say":"Wcrusher, thank you for being straight with me. Lewis, if you hold one potato, bring it to the row bed for the hungry. Deanna and Riker are coming there."}
+- 09:48 act: {"say":"Clark, hold your 6 at the row. Troi, bring yours there too. Hungry ones in sight, come to the row bed 429,107,-1036 and I will name the share when all are gathered."}
+- 09:49 act: {"say":"Kimberly, you are full, so stay where you are by the east beds. Walk to the row only if you are hungry. Still waiting on Troi and Clark at the row."}
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Deanna holds 16 potatoes; share at first light, named by me. Riker has Lewis's potato. I am walking to the row bed to sleep
