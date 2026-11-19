@@ -9,3 +9,17 @@
 - 21:32 act: {"say":"Dusk, row. Billy to my bed 443,107,-1037, in sight. No walk named. Worf, I have no bed step yet; hold where you are.","actions":[{"do":"sleep"}]}
 - 21:37 act: {"actions":[{"do":"note","text":"Day 600 daylight. Row holding in sight, health 20, hunger 20. No walk named. Holding my bed 443,107,-1037."}],"say":"Billy, morning. Holding at my bed, health 20, hung
 - 21:45 act: {"actions":[{"do":"note","text":"Day 600 dusk. Holding at my bed 443,107,-1037 in row sight. Health 20, hunger 20. Waiting for night to sleep."}],"say":"Dusk, row. Billy at my bed 443,107,-1037, healt
+- 21:58 act: {"say":"Billy here, at my bed 443,107,-1037. Health 20, hunger 20. Next named step: hold in sight tonight, sleep at named beds, no walks. Tommy and Troi, call me at hunger 10."}
+- 21:58 act: {"say":"Morning, row. Billy awake at my bed. Holding in sight, no walk named. Tommy and Troi, call me at hunger 10 and I will bring food."}
+- 21:58 act: {"say":"Kimberly, agreed. Still dusk, so I hold at my bed 443,107,-1037. No walk in the dark. At daylight we name the next step together."}
+- 21:58 act: {"say":"Wesley, I hear you. It is dusk, so no walk. At daylight I will look at your bed 415,107,-1050 with an armed escort, and tell you what I see. Hold in sight until then."}
+- 22:02 act: {"say":"Morning, row. Daylight now. Named walk: I, Billy, go with Jason as armed escort to look at Wesley's bed 415,107,-1050 and the route west to it. Nobody else moves. I will call back what I see. 
+- 22:05 act: {"say":"Holding, row. The walk west waits until Jason answers as escort. No one moves. Jason, say yes or no."}
+- 22:05 act: {"say":"Jason confirmed. Walking now, Billy and Jason only, to 419,107,-1049 near Wesley's bed. Row stays put.","intent":{"goal":"look_at_wesley_bed","program":"travel","arguments":{"target":{"x":419,
+- 22:05 act: {"say":"The walk stopped at 438,107,-1036; the travel failed. I am turning back to the row. No further walk today.","intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":443,"
+- 22:12 act: {"actions":[{"do":"note","text":"Dusk day 601. Holding at bed 443,107,-1037 in the row. No walks."}],"say":"Dusk, row. Billy at bed 443,107,-1037, holding. No walk. Hold in sight, sleep when it is nig
+- 22:14 act: {"actions":[{"do":"note","text":"Day 602 morning. Row all in sight at beds, no walk. Tommy and Troi hunger 16, not yet at 10."}],"say":"Morning, row. Billy at bed 443,107,-1037. Hold in place. Tommy a
+- 22:18 act: {"actions":[{"do":"note","text":"Day 602 morning. Named step: Jason escort, row holds, Billy walks to look at Wesley bed 415,107,-1050 and returns."}],"say":"Kimberly, Jason, the named step: Billy and
+- 22:18 act: {"intent":{"goal":"look_at_wesley_bed","program":"travel","arguments":{"target":{"x":419,"y":107,"z":-1049}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 22:18 act: {"intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Billy is back at bed 443,107,-1037. Holding in the row. No walk until Jason is in sight and named."}
