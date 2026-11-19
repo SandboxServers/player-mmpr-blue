@@ -1,14 +1,1 @@
 # Journal
-- 00:13 act: {"say":"Billy, dawn 536. Data, give the wooden sword to MacDonald now. MacDonald is at the row by bed 401,107,-1036, in my sight. Data, come to him and hand it over. Then I count armed: Billy, Picard,
-- 00:13 act: {"say":"Worf, your bed is 415,107,-1037, in the row. Take it and sleep there. Holding for dawn.","reasoning":"Worf asked for his bed. Naming one keeps him in the row's sight."}
-- 00:13 act: {"say":"Count holds at dawn 536: armed are Billy, Picard, Worf, Jason. MacDonald is not yet armed; Data, the sword is still with you. Once MacDonald has it in hand, I call it four armed and then five.
-- 00:14 act: {"actions":[{"do":"note","text":"Dawn 536: named the sword handover Data to MacDonald at the row. Data is in reach with the sword. Armed count: Billy, Picard, Worf, Jason. Waiting for MacDonald to tak
-- 00:18 act: {"say":"Data, MacDonald is at 402,107,-1035, right beside the row. Walk the few blocks over and hand him the wooden sword. MacDonald, stay where you are. It is day now.","reasoning":"Both are near the
-- 00:19 act: {"say":"Chapman, you hold the wooden sword now. Give it to MacDonald when he is within reach, at 402,107,-1034 by the row, in my sight. Data, you did what you could. Holding.","reasoning":"Sword went 
-- 00:19 act: {"say":"Riker, if you hold the wooden sword, give it to MacDonald now if he is in reach at the row. MacDonald, say when it is in your hand. Chapman, if you still have a sword, hold it for now. One hol
-- 00:24 act: {"actions":[{"do":"note","text":"Day 536 daylight: MacDonald armed with the wooden sword from Chapman. Five armed in hand: Billy, Picard, Worf, Jason, MacDonald. Goal 3 met. Still no food in the group
-- 00:24 act: {"say":"Count at day 536: five armed in hand, Billy, Picard, Worf, Jason, MacDonald. Thank you all. Still no food in the group, so we hold. Riker, your sword next if it goes into hand. No walk yet.","
-- 00:27 act: {"actions":[{"do":"note","text":"Night 536: Worf's bed 415,107,-1037 blocked. Offered 429,107,-1036 (next to mine) and 401,107,-1036 as options. Laforge at 430,107,-1023 in sight, no walk."}],"say":"W
-- 00:28 act: {"actions":[{"do":"note","text":"Night 536: Riker says he holds the wooden sword, but I hold one in my pack and MacDonald has the other. Asked Riker to confirm what he holds. Data assigned bed 401,107
-- 00:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, night 536: holding at the row in sight. Hunger 17, so no rotten flesh yet. No walk. Going to bed.","reasoni
-- 00:28 act: {"actions":[{"do":"sleep"}]}
