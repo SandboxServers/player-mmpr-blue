@@ -118,3 +118,4 @@
 - 09:18 act: {"actions":[],"say":"Jason, Wesley is at 415,107,-1047 by the beds. Walk to him now, give him the 8 potatoes. I will follow at a distance with you in sight."}
 - 09:21 act: {"actions":[{"do":"note","text":"Midday 563: at 429,107,-1039, Jason not in my sight. Wesley's 8 potatoes still with Jason. Holding still."}],"say":"Wesley, Jason has your 8 potatoes. Step into sight 
 - 09:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk at the row. Jason holds Wesley's 8 potatoes at 417,107,-1046. I walk nowhere in the dark. Sleeping at my bed 
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Billy at the row, dusk 563. Going to bed here in the group's sight. Potatoes at first light to Wesley with Jason."}
