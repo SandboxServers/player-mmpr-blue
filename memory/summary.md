@@ -8,13 +8,15 @@ Places:
 - Crafting tables: 391,107,-1019; 405,107,-1061; 419,107,-1033; 433,107,-1033.
 - West oak (376,101,-1029): shot at from the west. No walk named yet.
 
-Group: Picard, Chapman, Lewis, Tommy, Leonardo, Clark, Trini, Jason, Data, Worf, MacDonald, Zack, Wesley, Troi, Kimberly, Laforge, Riker, Beverly. Armed in hand: Billy, Jason, Picard, Worf, MacDonald. Riker's and Clark's swords have not gone into hand. Nobody has food.
+Group: Picard, Chapman, Lewis, Tommy, Leonardo, Clark, Trini, Jason, Data, Worf, MacDonald, Zack, Wesley, Troi, Kimberly, Laforge, Riker, Beverly. Armed in hand: Billy, Jason, Picard, Worf, MacDonald, Riker. Clark's sword has not gone into hand. Nobody has food.
 
 Lessons:
 - A give draws only from my own pack. Others must hand items to me directly and be in reach.
 - Promised food often does not arrive; ask by name, and eat the moment it lands.
 - Sleep can be refused in daylight ("not night"). Wait for night, then retry.
 - `use` on a bed fails; `goto` the bed, then `sleep`.
-- Walk only with five armed in hand, in daylight.
+- Walk only with six armed in hand, in daylight.
+- Riker's sword trick: act use, item wooden_sword, no target.
+- The `rest` program is not valid for an intent; use wait actions instead.
 
 Next: confirm the armed count aloud at dawn; eat a rotten flesh at hunger 6; find food; name the first west walk only if the armed hold is clear.
