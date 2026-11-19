@@ -87,3 +87,7 @@
 - 06:41 act: {"intent":{"goal":"return_to_row_safe","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1035}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
 - 06:42 act: {"actions":[{"do":"note","text":"Back at the row bed 430,107,-1035 at dusk. Zack and Lewis in reach. Wesley and Worf not in sight. Holding 21 potatoes for Wesley."}],"say":"Zack, Lewis: Wesley is not 
 - 06:42 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 06:42 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":6},{"do":"give","to":"ag_zack_01","item":"potato","count":4}],"say":"Billy here. Lewis, Zack: I am giving you potatoes now. Wesley i
+- 06:43 act: {"actions":[{"do":"sleep"}],"say":"Billy here at the row bed, in everyone's sight. My potato gives did not go through, so I still hold 21 for Wesley and Lewis at first light."}
+- 06:45 act: {"actions":[],"say":"Billy here, awake at the row bed. Wesley, I hear you. I hold 21 potatoes for you. At first light, stay with Worf and step into my sight at the table and I give them to you first."
+- 06:45 act: {"actions":[],"say":"Billy awake at dawn at the row, holding 21 potatoes. Awake so far: Kimberly, Zack, Picard, Clark, Jason. Wesley first: step into my sight and I give you potatoes. Then Lewis, Zack
