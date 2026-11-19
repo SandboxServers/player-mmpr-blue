@@ -76,3 +76,8 @@
 - 11:13 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1024}}]}
 - 11:13 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}]}
 - 11:13 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}},{"do":"note","text":"Zack not in sight twice at dusk 568. Sword kept for him; will give at first light when in sight."}],"say":"Zack, I c
+- 11:14 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"Zack","item":"wooden_sword","count":1}],"say":"Zack, coming to you now with the wooden sword."}
+- 11:14 act: {"actions":[{"do":"note","text":"Zack not in sight at night 569. Holding wooden sword for him at the row; give when he is in sight."}],"say":"Zack, I cannot see you. Step into my sight at the row and 
+- 11:14 act: {"actions":[{"do":"note","text":"Night 569. Zack said he is at 420,107,-1030 heading to bed 443,-1022. Not walking at night; asked him to come to the row bed 429,-1036 where I wait."}],"say":"Zack, it
+- 11:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy sleeping at the row bed 429,107,-1036. Zack, the sword is yours at first light."}
+- 11:14 act: {"actions":[{"do":"note","text":"Morning 569. Sleep failed (not night); still awake at row bed 429,107,-1036. Holding wooden sword for Zack; he is not yet in sight."}],"say":"Morning. Billy at the row
