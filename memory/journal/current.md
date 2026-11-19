@@ -18,3 +18,33 @@
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 09:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Morning 565. Billy at the row. Deanna, please share 3 potatoes with Riker, who is hungry at 17, and keep the rest in your pack. H
 - 09:58 act: {"actions":[],"say":"Billy at the row, morning 565. I hold no swords and no food, so I cannot give yet. Hold in sight and stay together. I will find wood for the swords, and name the next share when I
+- 10:02 act: {"actions":[],"say":"Picard, thank you. Please walk armed in daylight, staying within sight of the row, and look for trees or wood within about 20 blocks, not west of x=370. Report back what you find,
+- 10:08 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy sleeping at the row bed 429,107,-1036 in the group's sight. Wood search at first light, daylight only, withi
+- 10:08 act: {"actions":[],"say":"Morning. Picard, go now on the wood search: daylight, within sight of the row, not west of x=370. Report what you find. Jason, Wesley, hold where you are. I stay at the row bed."}
+- 10:11 act: {"actions":[],"say":"Thank you Picard. Come back to the row. Next try is east of the row, x 440 to 460, same daylight rule and in sight. Report what you find, and note the grave sign at 403 for the re
+- 10:12 act: {"actions":[],"say":"Picard, named now: go east of the row to x 440 to 460, daylight, in sight of the row. Report the first oak log you see."}
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1036}},{"do":"open","at":{"x":433,"y":107,"z":-1037}}],"say":"Picard, thank you, hold at the row. I am checking the row chest for any wood or pl
+- 10:17 act: {"actions":[{"do":"withdraw","at":{"x":433,"y":107,"z":-1037},"item":"oak_planks","count":8}],"say":"Picard, Riker, Zack, Troi, Leonardo, hold at the row. I am trying the row chest for planks."}
+- 10:18 act: {"actions":[{"do":"note","text":"Day 566 day: withdrew oak_planks from row chest 433,107,-1037; nothing came into my pack, so no planks there. No wood yet."}],"say":"Billy here. The row chest gave no 
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy here, dusk 566. Sleeping at the row bed 429,107,-1036 in the group's sight. Wood search resumes at first lig
+- 10:25 act: {"actions":[{"do":"note","text":"Morning 567: no wood found yet; Picard named to search south of the row, z -1015 to -1025, daylight, in sight of the row."}],"say":"Morning 567. Picard, named now: wal
+- 10:27 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Picard, come back to the row bed now, the light is going. Keep your sword out and walk in sight of the others. Thank you for the search."}
+- 10:27 act: {"actions":[{"do":"note","text":"Day 566 dim. At row bed 429,107,-1035. Picard not in sight; goto to him failed. Zack and Riker hold potatoes nearby. Holding for dusk and wood search at first light."}
+- 10:30 act: {"actions":[{"do":"note","text":"Day 566. Picard back at the row with wooden sword, no oak found south. Wesley holds 7 potatoes at 417,107,-1051, hunger 18, not named. Still holding at the row bed unt
+- 10:32 act: {"actions":[{"do":"note","text":"Day 566 dusk. Zack, Kimberly, Picard, Troi, Riker all holding at the row, hunger full, no one named. Waiting for full night to sleep at the row bed 429,107,-1036."}],"
+- 10:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 567. Billy in the row bed 429,107,-1036. Riker, walk back to the row now, in sight. Holding for first light.
+- 10:34 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1023}},{"do":"open","at":{"x":419,"y":107,"z":-1023}}],"say":"Morning 567. Billy at the chest 419,107,-1023, checking for oak planks or logs. Pi
+- 10:35 act: {"actions":[{"do":"withdraw","at":{"x":419,"y":107,"z":-1023},"item":"oak_planks","count":8}],"say":"Billy at chest 419,107,-1023, night 567. Trying for oak planks here. Holding in sight until first l
+- 10:35 act: {"actions":[{"do":"note","text":"Night 567: chest 419,107,-1023 has no oak planks either. Waiting for first light, then wood search in sight of the row, not west of x=370."}],"say":"Chest 419,107,-102
+- 10:39 act: {"actions":[{"do":"note","text":"Day 567 daylight. Named search: Picard, with the armed members, look for oak logs east of the row, x 440-460, z -1030 to -1045. Not west of x=370. Holding here at 418,
+- 10:39 act: {"actions":[{"do":"note","text":"Day 567 daylight: named east oak search (x 440-460, z -1030 to -1045) to Picard. Picard is at the row, waiting to go. Holding at 418,107,-1023 for his report."}],"say"
+- 10:43 act: {"actions":[{"do":"note","text":"Day 567: Jason offers to go east with Picard. Named him too. Still holding at 418,107,-1023 for their report."}],"say":"Jason, yes, go east with Picard. Same search: x
+- 10:43 act: {"actions":[{"do":"note","text":"Day 567: east search x 440-460 found no oak logs (Picard). Next named: Jason, north-east of the row, x 440 to 455, z -1050 to -1060."}],"say":"East had no logs, only p
+- 10:44 act: {"actions":[{"do":"note","text":"Day 567: north-east search blocked (Jason stopped at 418,107,-1051). Next named: Jason south-east, x 440 to 455, z -1010 to -1020."}],"say":"North-east is blocked, Jas
+- 10:44 act: {"actions":[{"do":"note","text":"Day 567: Jason back at row; named south-east search x 440-455, z -1010 to -1020. Holding at 418,107,-1023."}],"say":"Jason, you are named now: south-east, x 440 to 455
+- 10:45 act: {"actions":[{"do":"note","text":"Day 567: south-east also blocked, no logs (Jason). Wood searches east, north-east, south-east all empty. Holding the group at the row. No more wood searches until a ne
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Going to the row bed to rest for the night. Clark, stay near the row."}
+- 10:45 act: {"actions":[{"do":"note","text":"Day 567 dusk: at the row bed 429,107,-1036. Holding in the group's sight until it is full night, then sleep. No errand running."}]}
+- 10:45 act: {"actions":[{"do":"sleep"}]}
+- 10:50 act: {"actions":[{"do":"note","text":"Morning 568: woke at the row bed 429,107,-1037, health 20. Group in sight. Zack reports a bow drawn to the south-west; holding everyone at the row. No one at hunger 6 
+- 10:51 act: {"actions":[{"do":"note","text":"Day 568 morning: group holding at the row and at beds. Zack and Leonardo hold, waiting for a named walk. No wood yet; next search only with an armed escort."}],"say":"
