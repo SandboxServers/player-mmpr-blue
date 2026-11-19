@@ -45,3 +45,33 @@
 - 05:43 gave 5 potatoes to Lewis, worked. 4 left in my pack, kept for whoever is hungriest. Lewis was in reach at the crafting table.
 - 05:43 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":5}],"say":"Lewis, here are 5 potatoes. Eat, then tell me your hunger.","reasoning":"Lewis is in reach, health 8 earlier. Food to him
 - 05:43 say: {"text":"Lewis has 5 of my potatoes. I keep 4 for the hungriest. Riker and Clark, tell me if you need them."}
+- 05:47 act: {"say":"Billy at the row, midday 552. I hold 4 potatoes. Jason, MacDonald, Worf: will you walk with me to the potato field now? Confirm aloud and I go.","reasoning":"Daylight, armed escort needed for 
+- 05:47 act: {"intent":{"goal":"reach_potato_field","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1068}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"]
+- 05:47 act: {"say":"Jason, I am at 432,107,-1031 by the crafting table. The walk did not start, so I am still here. Come into my sight, then we name the walk together.","reasoning":"Walk failed before moving. Hol
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk 552. No walk at night. Billy going to the bed at the row, in sight of Lewis, Tommy and Clark. Potato walk at 
+- 05:51 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside bed, group in sight. Sleep."}
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":459,"y":107,"z":-1070}}],"say":"Dawn 553. Potato walk named: Jason, MacDonald, Worf armed, escort me to 459,107,-1070. Everyone else holds at the row. Wesley, yo
+- 05:52 act: {"actions":[{"do":"use","at":{"x":464,"y":107,"z":-1070}},{"do":"use","at":{"x":464,"y":107,"z":-1071}},{"do":"use","at":{"x":464,"y":107,"z":-1072}}],"reasoning":"Harvest ripe potatoes by right-click
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1071}},{"do":"mine","block":"potatoes","count":6}],"reasoning":"Use failed on plant; move beside the field and mine the ripe potatoes, as it wor
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1033}}],"say":"Got 27 potatoes from the field. Returning to the row by the crafting table. Wesley, Lewis, Riker, Clark: come into my sight and I
+- 05:52 act: {"say":"Back at the row with 27 potatoes. Hungry ones, step into my sight: Wesley (18), Lewis, Riker, Clark. Jason, you are with me. Nobody walks alone.","reasoning":"Potatoes are here; hand out to hu
+- 05:55 act: {"actions":[{"do":"note","text":"Holding 27 potatoes at the row. Lewis says he is coming to the table; Data and Chapman hold at the row, unarmed. Giving to whoever is in reach first."}],"say":"Jason, 
+- 05:55 act: {"actions":[],"say":"Riker, you hold 7 potatoes already, so keep yours. Wesley and Lewis, step into my sight and I will hand you potatoes."}
+- 05:56 act: {"actions":[{"do":"give","to":"wcrusher","item":"potato","count":6}],"say":"Wesley, you are first: 6 potatoes coming to your hand. Lewis and Clark hold their own. Nobody walks alone."}
+- 05:56 act: {"actions":[],"say":"Wesley, I cannot see you yet. Step where I can see you and I will give you 6 potatoes at once."}
+- 05:58 act: {"actions":[],"say":"Night is coming. Wesley, stay where you are with Worf until dawn; I hold 27 potatoes for you and Lewis at first light. I will sleep by the row bed."}
+- 06:05 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":6}],"say":"Lewis, 6 potatoes for you now, the hungriest in sight. Wesley gets the next batch at first light."}
+- 06:05 act: {"actions":[{"do":"give","to":"lewis","item":"potato","count":6}]}
+- 06:05 act: {"actions":[],"say":"Lewis, I cannot see you from the table. Step into my sight and say so; I will hand you potatoes then."}
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1032}}],"say":"Lewis, I am stepping one block toward you. Hold still."}
+- 06:14 act: {"actions":[{"do":"note","text":"Dusk 554. Wesley says he is at his bed in Worf's sight, hunger 18. Not in my sight, so no give yet."}],"say":"Wesley, I can't see you from the row. Step to the craftin
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Going to the row bed for the night. Jason, you are in sight; the others can find me there."}
+- 06:15 act: {"actions":[{"do":"sleep"}]}
+- 06:18 act: {"actions":[{"do":"note","text":"Dawn 555 at the row. Wesley is coming to the table, hunger 18. Potatoes ready for him once he is in sight."}],"say":"Morning. Wesley, I see you are not in my sight yet
+- 06:19 act: {"actions":[],"say":"Clark, hold your potatoes for Wesley if he comes first. Wesley, step into my sight at the table and I'll give you potatoes now."}
+- 06:21 act: {"actions":[],"say":"Named walk: I go to Wesley's bed at 415,107,-1050 with Jason's sword as escort, in daylight, to hand potatoes to the hungry. Jason, confirm aloud and I go. Wesley, stay at your be
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Walking to Wesley's bed now, Jason escorting."}
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1035}}],"say":"Walk stopped, the way was blocked and Jason is out of my sight. I'm turning back to the row now. Wesley, I'll come to you once yo
+- 06:22 act: {"actions":[],"say":"Jason, I'm back at the row at 427,107,-1035, not on the road. Wesley, come here to me with Jason and I'll give potatoes at the table."}
+- 06:26 act: {"say":"Wesley, it is dark, so no walk tonight. I'm going to the bed at 429,107,-1035 with Jason in sight. At first light I'll name a daylight walk and give you potatoes.","actions":[{"do":"goto","tar
+- 06:26 act: {"say":"Billy at the row bed 429,107,-1035, awake. Wesley and Lewis, hungriest first: step into my sight here and I'll give potatoes. Others, hold still.","actions":[]}
