@@ -15,3 +15,7 @@
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Worf, no verified route yet, so no walk. Dusk, Billy going to bed 429,107,-1037 in your sight. Goodnight, row."}
 - 19:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Billy going to bed 429,107,-1037 at dusk. No verified west route yet, so no walk. Goodnight, row."}
 - 19:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Billy getting into bed 429,107,-1037. Goodnight, row."}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}}],"say":"Dusk at the row. Hunger is full. Going to my bed; I still hold a potato for whoever
+- 19:23 act: {"actions":[],"reasoning":"Use on my bed was refused at dusk. Wait for night, then try again. Journal the failure."}
+- 19:23 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night at the row. Billy trying bed 429,107,-1037 now. Holding my potato for Troi or Tommy if hunger drops to 10."}
+- 19:23 act: {"actions":[{"do":"note","text":"Day 593 night: bed 429,107,-1037 and 429,107,-1036 both refused use ('that block is a bed'), twice. Standing at 430,107,-1036 in the row, in sight, holding. Potato kep
