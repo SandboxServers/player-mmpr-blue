@@ -20,3 +20,7 @@
 - 17:06 act: {"actions":[],"say":"Troi, I hear you. I will stay here at 430,107,-1023. Please walk to me, and I will give you the two potatoes as soon as you are in sight."}
 - 17:10 act: {"actions":[{"do":"note","text":"Day 587 dusk. Leonardo: west route blocked by 6-block drop. Troi out of sight at her bed, potatoes not given. Wrote handoff, going to bed."},{"do":"goto","target":{"x"
 - 17:10 act: {"actions":[{"do":"note","text":"Day 587 night. Slept beside my bed. Troi ate a potato herself (hunger 18), so the potato give is no longer needed. No walks; the row holds until a route is verified."}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, all. Billy going to my bed 429,107,-1022 in the row's sight. No walk until morning, when I will check Troi 
+- 17:11 act: {"actions":[{"do":"note","text":"Night 586. At bed 429,107,-1022, sleeping. Troi holds at 430,107,-1051. Walk only at daylight."}],"say":"Troi, Billy here. It is still night, so I stay in my bed. At f
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}},{"do":"give","to":"ag_troi_01","item":"potato","count":2}],"say":"Morning. Billy walking to Troi at 430,107,-1049, in daylight, to give 2
+- 17:16 act: {"actions":[{"do":"note","text":"Day 587: at 430,107,-1049. Give of 2 potatoes went to Zack instead of Troi; I hold 1 potato now. Troi hunger 16, not urgent."}],"say":"Zack, the potatoes went to you b
