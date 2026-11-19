@@ -1,1 +1,22 @@
 # Journal
+- Day 581 night: slept at bed 429,107,-1022 with Zack, Tommy, Picard, Jason, Kimberly in sight. Woke at morning, health 20, hunger 20. Asked Troi and Worf for their health and hunger; no walks yet.
+- 15:27 act: {"actions":[],"say":"Everyone fed enough: Troi health 12, hunger 17; Kimberly, Clark, Picard, Lewis all 18 to 20. Worf, is your route to your bed still blocked? Tell me what you see and I will name th
+- 15:27 act: {"actions":[],"say":"Worf, no walk yet: I do not know a clear route to your bed. Stay at your bed with Jason and Tommy. Tommy, what do you see on the path from 443,107,-1037 toward 415,107,-1036?","re
+- 15:30 act: {"actions":[],"say":"Everyone holding, thank you. No walk yet: no one has seen a clear route to Worf's bed. I will hold here in daylight and name a walk only when someone reports one.","reasoning":"Gr
+- Day 582 morning: health 20, hunger 20, holding at my bed row. Bows drawn to the south and east, nobody hit. No clear route to Worf's bed yet; no walk named.
+- Day 582 dusk: Kimberly at 402,107,-1037 holding; told her to stay put. Went to bed 429,107,-1022 and slept; only 3 of 10 asleep, thunder. Health 20, hunger 20. Waiting for light, no walk named.
+- 15:30 act: {"actions":[],"say":"Trini, stay where you are for now. No walk is named yet. Everyone is fed and holding; I will call the next move when a clear route is known.","reasoning":"No walk is safe until a 
+- 15:35 act: {"actions":[],"say":"Kimberly, hold where you are at 402,107,-1037. No walk is named yet. Stay put and stay out of sight of the bows.","reasoning":"Kimberly asked for a named walk. No safe route is kn
+- 15:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Goodnight, all. No walk tonight. Stay at your beds in sight, and I will name any walk at first light.","reasoning"
+- 15:43 act: {"actions":[],"say":"Morning, all. No walk today: Tommy reports the path west is blocked by oak planks. Everyone hold at your bed in sight. Picard, not the oak yet. Nobody moves until I name a route."
+- 15:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, all. Stay in bed in sight. No walk until morning.","reasoning":"Night again. Return to my bed and sleep wit
+- 15:53 act: {"actions":[],"say":"Morning, all. Billy at bed 429,107,-1022, health 20, hunger 20. No walk yet. Worf and Tommy, is there a clear route to 415,107,-1036 now? Everyone else, hold at your bed in sight.
+- 15:55 act: {"actions":[{"do":"note","text":"Day 583 morning: all holding at beds in sight. Worf and Tommy report no clear route to 415,107,-1036 (planks block west). Everyone fed (Tommy 16, Worf 20). No walk nam
+- 15:59 act: {"actions":[],"say":"Morning, all. Still no verified route, so no walk. Hold at your beds in sight. Worf and Tommy, if the planks clear, tell me and I will name the walk.","reasoning":"Group is waitin
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Billy going to bed at 429,107,-1022. Everyone stay in bed in sight. No walk until morning.","reasoning":"Dus
+- 16:04 act: {"actions":[{"do":"note","text":"Day 583 night: at bed 429,107,-1022, health 20, hunger 20. Sleep: 3 of 10 asleep. Holding, no walk. Zack, Troi near."}],"say":"Goodnight, Zack. Stay at your bed. No wa
+- 16:06 act: {"actions":[{"do":"note","text":"Day 584 morning: woke at bed 429,107,-1022, health 20, hunger 20. Group at beds: Tommy 15/16, Clark 5 potatoes, Wesley 20/20. No verified route to Worf's bed yet; no w
+- 16:07 act: {"actions":[{"do":"note","text":"Day 584 morning: group holding at beds. Tommy says planks still block west, not checked. Troi 12/17, Tommy 15/16, all others 20. No walk named."}],"say":"Thank you all
+- 16:07 act: {"actions":[{"do":"note","text":"Day 584 late morning: Tommy checked from his bed, oak planks still block west. No walk. Holding at beds."}],"say":"Tommy reports planks still block the west. No walk t
+- 16:10 act: {"actions":[],"say":"Chapman, Leonardo, MacDonald: news is that the west is still blocked by planks. No walk. Hold at your beds.","reasoning":"Answer the group briefly; nothing changes."}
+- 16:11 act: {"actions":[{"do":"note","text":"Day 584 day: Kimberly at 413,107,-1040 asked whether to go to her bed. Told her to hold where she is; no walk named. Still no verified route west."}],"say":"Kimberly, 
