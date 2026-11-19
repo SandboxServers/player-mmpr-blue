@@ -24,3 +24,17 @@
 - 22:18 act: {"intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
 - 22:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Billy is back at bed 443,107,-1037. Holding in the row. No walk until Jason is in sight and named."}
 - 22:27 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Billy at my bed 443,107,-1037, health 20, hunger 20. No walk until light."}
+- 22:28 say: {"text":"Billy here, bed 443,107,-1037. Still holding. Tommy and Troi: call me at hunger 10 and I will come to you. No walk named yet."}
+- Day 602 day. Woke at bed, health 20, hunger 20. Said holding, no walk. Waiting for hunger 10 calls (Tommy 16, Troi 16) or a named step from Jason.
+- 22:31 say: {"text":"Kimberly, thank you. Still holding at my bed; no walk yet. Stay with Riker in sight."}
+- 22:36 say: {"text":"MacDonald, heard. Thank you for the sword news. Still holding; no walk until I name it."}
+- 22:40 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night, row. Billy going to bed at 443,107,-1037, in sight. No walk until light. Tommy and Troi, call at hunger 10."}
+- Day 603 day. Bed use failed at night; did not sleep. Health 20, hunger 20, holding at 443,107,-1035 in sight. Tommy and Troi at hunger 16, not yet 10. No walk named.
+- Day 603 night. Used the other bed half 443,107,-1036 with goto then sleep: "Your sleep worked: the night was skipped." Health 20, hunger 20. Holding. Trini in reach.
+- 22:44 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Holding in sight, no walk named. Tommy and Troi, call me at hunger 10 and I will bring my potato.","intent":{"goal":"hold_row_until_hunger_
+- 22:53 act: {"say":"Night, row. Billy going to bed at 443,107,-1036, in sight. No walk until light. Tommy and Troi, call at hunger 10.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}
+- 22:57 act: {"say":"Morning, row. Billy awake, health 20, hunger 20. Heard a bow drawn to the southwest; stay close to your beds. Still no walk named. Tommy and Troi, call at hunger 10.","intent":{"goal":"hold_ro
+- 23:03 act: {"say":"Dusk, row. Billy holding, health 20, hunger 20. No walk. William, hold at your bed in sight; I will not walk at night. I am going to bed now.","actions":[{"do":"goto","target":{"x":443,"y":107
+- 23:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"intent":{"goal":"hold_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
+- 23:07 act: {"say":"Morning, row. Billy at my bed 443,107,-1036, health 20, hunger 20. Holding in sight, no walk named. Tommy and Worf, hold; I will call at daylight. Tommy, call me at hunger 10 and I bring my po
+- 23:09 act: {"say":"Billy here, bed 443,107,-1036, health 20, hunger 20. Troi, health 13.9 and hunger 16 is not yet my line; I hold my potato for hunger 10. Call me then. No walk named."}
