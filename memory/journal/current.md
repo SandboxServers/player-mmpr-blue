@@ -81,3 +81,14 @@
 - 08:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}]}
 - 08:33 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":6}],"say":"Riker, six potatoes for you, you are hungry. Wesley gets the rest tomorrow."}
 - 08:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 08:34 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":3}],"say":"Riker, here are 3 potatoes for you. Jason, keep your 6 for Wesley and Deanna at first light, when they are in sight.","in
+- 08:35 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Jason, 3 potatoes went to you by mistake, not to Riker. Please pass them to Riker now, he is hungry. Morning, Zack: I have no swo
+- 08:35 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":2}],"say":"Riker, two potatoes for you now."}
+- 08:35 act: {"actions":[{"do":"deposit","at":{"x":433,"y":107,"z":-1037},"item":"potato","count":2}],"say":"My gives keep landing on Jason, so I put 2 potatoes in the chest at 433,107,-1037. Riker, take them from
+- 08:36 act: {"actions":[],"say":"Tommy, welcome to the row. Keep your 8 potatoes for Wesley and Deanna until I name them in sight. Leonardo, I have no sword yet; I will say so when one comes."}
+- 08:37 act: {"actions":[],"say":"Wesley, hold at your bed. Tommy holds 8 potatoes for you. Tommy and Jason, with swords in daylight, walk to 416,107,-1050 now and give Wesley the 8 in his sight. I hold no food."}
+- 08:39 act: {"actions":[],"say":"Trini, good to see you, and welcome Tommy. I still have no sword to return to you; I am sorry, I will tell you when I have one. Riker, thank you for taking the chest potatoes."}
+- 08:40 act: {"actions":[],"say":"Riker, thank you. Wesley is at his bed, 416,107,-1050, and Deanna was last near 430,107,-1065. Give to whoever you see first, and eat a potato yourself if your hunger drops. I hav
+- 08:44 act: {"actions":[],"say":"Clark, thank you for holding your 6 potatoes. Wesley and Deanna are the ones to feed first. Please give them to whoever of them comes into your sight."}
+- 08:44 act: {"actions":[],"say":"Tommy, good. Walk back to the row with Jason in sight, and keep your 8 potatoes until you see Wesley or Deanna. I hold no food."}
+- 08:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to bed at 429,107,-1036 for the night. Wesley and Deanna, first light, at the row, potatoes in hand."}
