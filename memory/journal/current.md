@@ -34,3 +34,50 @@
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"It is getting dark. I am going to my bed at 429,107,-1036. Wesley, come to the row in the morning and I will give you the potatoe
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 07:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. I am going to sleep in my bed at 429,107,-1036. Potatoes go to Wesley first at first light."}
+- 07:42 act: {"say":"Billy at the row, morning 559. Wesley is the hungriest; I hold 13 potatoes for him. Armed escort, please: Jason, MacDonald, Worf. We walk to his bed 415,107,-1050 together in daylight.","reaso
+- 07:42 act: {"say":"Jason, you are with me, sword in hand. Walking to Wesley's bed 415,107,-1050 with the potatoes. Tommy, you are in sight; I will name you when the walk is safe.","reasoning":"The travel intent 
+- 07:42 act: {"say":"Billy and Jason at 413,107,-1050, by Wesley's bed. Wesley, Worf: step into sight in daylight and I hand you potatoes at once. I hold 13.","reasoning":"Arrived at the bed; Wesley out of sight. 
+- 07:44 act: {"say":"Troi, come to the row now in daylight. Jason and I walk back to the row at 427,107,-1035 and meet you there. Wesley, we hold here for you at the row.","reasoning":"Wesley not reached; Troi nee
+- 07:45 act: {"say":"Wesley, I am at the row, 426,107,-1035, in daylight with potatoes in hand. Walk here to me and I hand you 13 at once. Worf, walk with him; I will not go west alone.","reasoning":"Wesley is hun
+- 07:46 act: {"say":"Riker, eat one of your own potatoes now, and keep the rest for the group. I hold 13 for Wesley, here at the row. Jason, bring Wesley to the row with you; Clark and Picard, hold in sight.","rea
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy going to my bed 429,107,-1036 by the row for the night. Wesley, come to the row at first light and I hand yo
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1035}}],"intent":{"goal":"call_wesley_to_row","program":"travel","arguments":{"target":{"x":426,"y":107,"z":-1035}},"wake_on":["directly_address
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Wesley is not in sight, so I keep the 13 potatoes and go to my bed by the row. Wesley, come to the row at fi
+- 07:54 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1035}}],"say":"Morning, day 559. I hold 13 potatoes at the row. Wesley, come into sight here and I hand them over. Tommy, Lewis, Data, come to m
+- 07:56 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1048}}],"intent":{"goal":"potatoes_to_wesley","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1048}},"wake_on":["directly_address
+- 07:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"say":"Wesley, here are 13 potatoes. Eat, then tell me how you are."}
+- 07:56 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"say":"Wesley, I am beside you now. Taking 13 potatoes to you."}
+- 07:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":4}],"say":"Wesley, the potatoes are on the ground by you. Pick them up and eat. I am giving you 4 more now."}
+- 07:57 act: {"actions":[],"say":"Wesley, the potatoes are on the ground near you, 13 of them. Walk over them and pick them up, then eat. Worf, tell him where they are."}
+- 07:58 act: {"say":"Wesley, I am here at 417,107,-1046 with 13 potatoes. Come to me and I will hand them over.","actions":[],"reasoning":"Wesley is coming to pick up the potatoes. I wait for him to arrive in reac
+- 07:58 act: {"say":"Wesley, I hold all 13 potatoes in my own pack. I will give them to you now, at your feet.","actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"reasoning":"Wesley is nea
+- 07:58 act: {"say":"Wesley, I cannot see you now. I will stay here at 417,107,-1046 with the potatoes. Come back in sight and I will give them to you.","actions":[],"reasoning":"The give failed: Wesley is out of 
+- 07:59 act: {"say":"Jason, give your 8 potatoes to Tommy. He has no food at all. Wesley's 13 are still with me, waiting for him to come back in sight.","actions":[],"reasoning":"Tommy has no food, so he is the hu
+- 08:00 act: {"say":"MacDonald, walk to me at 417,107,-1046 in daylight. I am holding and will stay here. Do not go west alone.","actions":[],"reasoning":"MacDonald is armed and offering escort. Keep him in daylig
+- 08:01 act: {"say":"Jason, keep your 8 potatoes for Tommy until he is in sight, then give them. I am still at 417,107,-1046 with 13 for Wesley.","actions":[],"reasoning":"Jason is holding potatoes for Tommy who w
+- 08:04 act: {"say":"Leonardo, I have potatoes for you. Walk to me at 417,107,-1046 in sight of MacDonald and I will hand you some. Wesley, if you come, I still hold 13 for you.","actions":[],"intent":{"goal":"rea
+- 08:05 act: {"intent":{"goal":"hold_at_bed_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_oper
+- 08:08 act: {"say":"Morning 559. I hold 13 potatoes. Wesley, call me when you are out of your box and I will hand them over. Leonardo, you are coming for food; come into reach and I will give you some.","actions"
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1046}},{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"say":"Coming to 417,107,-1046 now, Wesley, with the potatoes."}
+- 08:11 act: {"say":"Wesley, I am at 417,107,-1045 and you are not in my sight. Step into view and I will hand you the 13 potatoes.","actions":[]}
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Going back to my bed at 429,107,-1036 for the night. Wesley, I will be there at first light with the potatoes."}
+- 08:19 act: {"actions":[{"do":"sleep"}],"say":"Going to bed here at 429,107,-1036. Jason, keep watch with your sword. Wesley, I will have your 13 potatoes at first light."}
+- 08:20 act: {"actions":[{"do":"sleep"}],"say":"Heard, Deanna and Wesley. Jason keeps watch with his sword. I stay by the beds until first light."}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1046}}],"say":"Morning. Wesley, I walk to the row now with MacDonald's sword near. Stay in sight for your potatoes. Leonardo and Clark, you are 
+- 08:23 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"say":"Wesley, here are your 13 potatoes. Eat, then pass food to Leonardo if you can
+- 08:23 act: {"actions":[],"say":"Wesley, I am at the white beds near 413,107,-1050, holding your 13 potatoes. I cannot see you. Step into my sight and I will hand them over."}
+- 08:24 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1051}}],"say":"Deanna, I am coming to your beds at 430,107,-1051 with the potatoes. Wesley, I will leave your share with whoever is hungry in si
+- 08:24 act: {"actions":[],"say":"Deanna and Wesley, I am at 427,107,-1051 with 13 potatoes. Step into my sight and say so, and the first hungry one in sight gets them. Kimberly and Jason, stay where you are."}
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}},{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}],"say":"Wesley, I am walking west to you at 420,107,-1050 with the 13 pota
+- 08:25 act: {"actions":[],"say":"Wesley, I walked to 420,107,-1050 and you were not in my sight. I keep the 13 potatoes here. Come into sight and I give them at once. Anyone hungry in sight, say so."}
+- 08:26 act: {"actions":[],"say":"Wesley, I am at 421,107,-1050 with 13 potatoes. Step toward me to 420,107,-1050 and I will hand them over."}
+- 08:27 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"potato","count":13}]}
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1050}}],"say":"Wesley, I am walking to 420,107,-1050 now, right beside you. Say when you see me."}
+- 08:28 act: {"actions":[],"say":"Wesley, I am still at 421,107,-1050 and cannot see you from here. Walk to 420,107,-1050 or 421,107,-1051 and I will give the potatoes the moment you are in sight."}
+- 08:28 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1051}}],"say":"Deanna, I am walking to you with potatoes. Stay where you are so I can see you."}
+- 08:28 act: {"actions":[{"do":"give","to":"ag_deanna_01","item":"potato","count":6}],"say":"Deanna, I am at 427,107,-1051 with potatoes. Tell me if you are in sight."}
+- 08:28 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1038}}],"say":"Anyone hungry, come to the beds at 429,107,-1037. I hold 13 potatoes and will give them there."}
+- 08:29 act: {"actions":[],"say":"Wesley, Riker, Deanna: I am at the beds 428,107,-1039 with 13 potatoes. Whoever is hungry and can see me, step in and say so; I give to Riker and Deanna first, Wesley next."}
+- 08:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}]}
+- 08:33 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":6}],"say":"Riker, six potatoes for you, you are hungry. Wesley gets the rest tomorrow."}
+- 08:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
