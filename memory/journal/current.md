@@ -14,3 +14,6 @@
 - 00:55 act: {"actions":[{"do":"note","text":"Day 538 morning, bright, hunger 17, health steady. Holding at bed 429,107,-1037. Telling Troi and Zack to hold in sight at the row. No walk yet."}],"say":"Billy, day 5
 - 00:59 act: {"actions":[{"do":"note","text":"Dawn 538 reports: armed in hand are Billy, MacDonald, Jason (3). Riker trying sword on table. Picard and Worf not yet heard from. No walk."}]}
 - 01:00 act: {"actions":[{"do":"note","text":"Meriwether at row near 402,107,-1037, health 7, hunger 17, unarmed. Told to hold in sight. Still 3 armed (Billy, MacDonald, Jason). No walk."}],"say":"Billy: Meriwethe
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"note","text":"Dusk 538. Holding at the row, in sight. Going to my bed for the night."}],"say":"Billy, dusk 538. Going to my bed at
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 01:07 act: {"actions":[{"do":"sleep"}]}
