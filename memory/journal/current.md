@@ -19,3 +19,5 @@
 - 19:23 act: {"actions":[],"reasoning":"Use on my bed was refused at dusk. Wait for night, then try again. Journal the failure."}
 - 19:23 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night at the row. Billy trying bed 429,107,-1037 now. Holding my potato for Troi or Tommy if hunger drops to 10."}
 - 19:23 act: {"actions":[{"do":"note","text":"Day 593 night: bed 429,107,-1037 and 429,107,-1036 both refused use ('that block is a bed'), twice. Standing at 430,107,-1036 in the row, in sight, holding. Potato kep
+- 19:23 act: {"say":"Goodnight, row. Billy at my bed 429,107,-1036, in sight. Health 20, hunger 20, no walk.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 19:24 act: {"actions":[{"do":"note","text":"Night 593. Use on bed 429,107,-1036 refused again (it is a bed). Going to sleep here in sight of the row, health 20 hunger 20."}]}
