@@ -1,1 +1,11 @@
 # Journal
+- 20:53 act: {"say":"Billy here, at my bed. Holding in sight. Row, no walk tonight; I will sleep here.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"reasoning":"It is dark and I am beside my own bed 
+- 20:55 act: {"say":"Morning, row. Billy, health 20, hunger 20, holding at my bed in sight. No walk. Trini, stay beside me; we sleep at night.","actions":[],"reasoning":"Daytime now, no one needs food yet, no walk
+- 21:08 act: {"say":"Night, row. Billy in my bed 443,107,-1037, health 20, hunger 20. No walk. Sleeping in sight.","actions":[{"do":"sleep"}]}
+- 21:08 act: {"say":"Morning, row. Billy awake, health 20, hunger 20. Trini, hold where you are; I will not name a walk to your bed until I have a new way to try. Everyone hold in sight.","actions":[]}
+- 21:17 act: {"say":"Billy holding at my bed, health 20, hunger 20. Holding in sight, no walk named. Troi and Tommy, call out at hunger 10 and I'll bring my potato.","intent":{"goal":"hold_row_in_sight","program":
+- 21:20 act: {"say":"Dusk, row. Billy to bed 443,107,-1037, in sight. No walk. Kimberly, hold at your bed; I have no new bed step.","actions":[{"do":"sleep"}]}
+- 21:24 act: {"say":"Morning, row. Billy awake at my bed, health 20, hunger 20. Holding in sight, no walk named. Troi and Tommy, call at hunger 10 and I'll bring my potato."}
+- 21:32 act: {"say":"Dusk, row. Billy to my bed 443,107,-1037, in sight. No walk named. Worf, I have no bed step yet; hold where you are.","actions":[{"do":"sleep"}]}
+- 21:37 act: {"actions":[{"do":"note","text":"Day 600 daylight. Row holding in sight, health 20, hunger 20. No walk named. Holding my bed 443,107,-1037."}],"say":"Billy, morning. Holding at my bed, health 20, hung
+- 21:45 act: {"actions":[{"do":"note","text":"Day 600 dusk. Holding at my bed 443,107,-1037 in row sight. Health 20, hunger 20. Waiting for night to sleep."}],"say":"Dusk, row. Billy at my bed 443,107,-1037, healt

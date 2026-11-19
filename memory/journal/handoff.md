@@ -1,8 +1,8 @@
-# Handoff, day 598 dusk
+# Handoff, day 599 night
 
-Billy beside bed 443,107,-1037, health 20, hunger 20, going to sleep. Row in sight, holding, no walk named.
-Trini: holding beside her bed 429,107,-1037 (at 430,107,-1037), armed; beds take sleep only at night, she lies down there tonight.
-Jason: holding at 418,107,-1047 in sight. Kimberly: holding at 416,107,-1036.
-Troi (hunger 16, 8 potatoes) and Tommy (hunger 16, 2 potatoes): call at 10. My 1 potato is for them.
-Worf and Wesley bed refusals still unresolved. No verified west route; do not go west past x=370.
-Wandering trader near my bed; no trouble so far.
+Billy asleep at bed 443,107,-1037 (3 of 10 asleep at last check). Health 20, hunger 20, in sight of the row.
+Row holding, no walks named. Kimberly, Lewis, Zack, Tommy, Troi all holding in sight.
+Tommy (hunger 16) and Troi (hunger 16) call at 10; my 1 potato is for them.
+Trini bed 429,107,-1037: still refused by daytime walks; no new approach yet.
+Worf/Wesley bed refusals unresolved. No verified west route; do not go west past x=370.
+Next at first light: hold, feed Troi/Tommy when they call, then ask for a route.
