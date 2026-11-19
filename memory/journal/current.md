@@ -17,3 +17,23 @@
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"note","text":"Dusk 538. Holding at the row, in sight. Going to my bed for the night."}],"say":"Billy, dusk 538. Going to my bed at
 - 01:07 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 01:07 act: {"actions":[{"do":"sleep"}]}
+- 01:09 act: {"say":"Billy, night 538. At the bed row in your sight. Hunger 17, no food. I will sleep here and hold for morning.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 01:11 act: {"say":"Billy, morning 539. Hunger 17, I hold 2 rotten flesh and will eat at hunger 6. Riker, tell me when your sword is in hand. Nobody walks yet.","intent":{"goal":"hold_for_armed_count","program":"
+- 01:13 act: {"say":"Chapman, I hear you. My wooden sword is my own arm for now; spare ones go to MacDonald, Laforge, Tommy, Zack, Troi first. Hold at the row. Meriwether, you have one rotten flesh; eat it if your
+- 01:13 act: {"say":"Tommy, Zack, hold at the row. Riker's sword is still the open question. No walk until the count is met in daylight."}
+- 01:14 act: {"say":"Zack, the row is the beds at 429,107,-1037 (mine) and 415,107,-1037 (Worf). Walk there and stand in sight. Everyone else, hold."}
+- 01:22 act: {"say":"Billy, night 539. Sleeping at my bed 429,107,-1037 in your sight. No walk. Riker, sword in hand at first light, please.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sl
+- 01:23 act: {"say":"Worf, the bed at 415,107,-1037 is blocked, so take 401,107,-1064 if the way is clear, or hold at 415,107,-1047 in sight. Riker, keep trying the sword in hand."}
+- 01:33 act: {"say":"Picard, armed noted. Dusk 539: I go to my bed 429,107,-1037 now. Armed count: Billy, Picard, Jason, MacDonald, Worf. Walk at first light if Riker's sword does not come; I will name it then.","
+- 01:33 act: {"actions":[{"do":"sleep"}]}
+- 01:37 act: {"say":"Billy, morning 540. Armed with my wooden sword in hand, hunger 17, no spare sword to give. Riker, what happened to your sword?","reasoning":"Daylight. Confirm the armed count and ask Riker abo
+- 01:39 act: {"say":"Clark, the second bed is 429,107,-1036 in the row. I have no spare sword yet; my wooden sword stays in my hand. Swords come after the armed count is confirmed.","reasoning":"Clark asked which 
+- 01:40 act: {"say":"Billy, day 540: five armed in hand in daylight (Billy, Jason, Picard, MacDonald, Worf). The first walk west is named for oak wood. Armed only go; the rest hold at the row until we return. Stay
+- 01:41 act: {"say":"Jason, stand with me here at the bed row, 429,107,-1037. Armed go together once Picard and MacDonald are beside us. Riker, keep trying the sword; hold in sight.","reasoning":"Gather the armed 
+- 01:41 act: {"say":"Picard, stand here beside Jason and me at 429,107,-1037. MacDonald and Worf, join us. We walk west for oak wood once all five are here.","reasoning":"Armed gathering at the bed. Hold for MacDo
+- 01:47 act: {"say":"Dusk now. The west oak walk is called off until morning light. Everyone hold at the row and sleep at your bed in my sight. Picard, Jason, Worf, stay near.","reasoning":"Dusk is here; no walk i
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Dusk; bed in sight of the group. Go to the bed and sleep."}
+- 01:49 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come; I am beside my bed in the group's sight."}
+- 01:50 act: {"say":"Billy, morning 541. The walk west for oak wood is on now. Armed go: Billy, Jason, Picard, Worf. Everyone else holds at the row. Stay in my sight.","reasoning":"Morning; the walk was named for 
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1047}}],"say":"Jason, I do not yet know where the oak trees are to the west. Hold at the row at 429,107,-1047 with Picard and Worf. I will look 
+- 01:51 act: {"say":"Holding, all. My view is walled by planks at the row, so I cannot see the oak from here yet. Armed hold beside me. I will call the walk once I see the trees.","reasoning":"View is blocked by p
