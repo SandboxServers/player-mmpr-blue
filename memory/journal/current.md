@@ -23,3 +23,4 @@
 - 22:18 act: {"intent":{"goal":"look_at_wesley_bed","program":"travel","arguments":{"target":{"x":419,"y":107,"z":-1049}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 22:18 act: {"intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
 - 22:19 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Billy is back at bed 443,107,-1037. Holding in the row. No walk until Jason is in sight and named."}
+- 22:27 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Billy at my bed 443,107,-1037, health 20, hunger 20. No walk until light."}
