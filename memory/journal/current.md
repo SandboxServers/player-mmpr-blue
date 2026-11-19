@@ -12,3 +12,25 @@
 - 07:04 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"potato","count":8}],"say":"Riker, 8 potatoes for you now. Eat one when your hunger is low."}
 - 07:05 act: {"say":"Wesley, come on to the row, I am at 426,107,-1036 with the potatoes. Tell me when you are in sight."}
 - 07:06 act: {"say":"Worf, Wesley: the walk is blocked, so stay at your bed safe. I hold 21 potatoes at the row for you, Wesley. Walk to me in daylight with a sword and I will hand them over."}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk at the row. Going to my bed beside the group to sleep."}
+- 07:13 act: {"say":"Morning 557. Jason, walk with me to Wesley's bed at 415,107,-1050, sword in hand. I carry 21 potatoes for Wesley and Worf."}
+- 07:14 act: {"say":"Daylight 557. Jason, come into my sight, sword in hand. We walk to Wesley's bed 415,107,-1050 now with 21 potatoes. Wesley, hold still."}
+- 07:23 act: {"say":"Billy at the row, day 557, holding 21 potatoes. Wesley: when you are in sight with a sword, I hand them over. Jason, come into sight and we walk."}
+- 07:24 act: {"say":"Jason, I am at 430,107,-1037, just east of you. Come to me; then we walk together to Wesley's bed."}
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk again, and the walk to Wesley is not safe in the dark. I keep the 21 potatoes at the row. Wesley, Worf: stay 
+- 07:29 act: {"say":"Jason, I name the walk now: we go together, sword in hand, to Wesley's bed at 415,107,-1050. I carry the 21 potatoes. Wesley first.","intent":{"goal":"walk_potatoes_to_wesley","program":"trave
+- 07:30 act: {"say":"Walking now to Wesley's bed with Jason beside me. Potatoes for Wesley first.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}]}
+- 07:30 act: {"say":"Billy at 413,107,-1049 with 21 potatoes, Jason in sight. Wesley, step where I can see you; Worf, keep him in view. Walking to you now.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1
+- 07:30 act: {"say":"Wesley, where are you? I am at 413,107,-1048 and cannot see you. I am coming to you.","actions":[{"do":"goto","target":"ag_wcrusher_01"}]}
+- 07:30 act: {"say":"Billy at 413,107,-1048, I still cannot see Wesley. Wesley or Worf, walk to me here, or tell me a spot where I can see you."}
+- 07:31 act: {"say":"Jason and I hold at 413,107,-1048. Wesley, Worf: come into my sight here and I give you potatoes at once. I will not walk further west."}
+- 07:32 act: {"say":"Billy at 413,107,-1048 with Jason beside me. Wesley, Worf: come here if you are in daylight. If it is dark, go to your bed and we meet at first light."}
+- 07:32 act: {"say":"Wesley, I come to your bed now with Jason, potatoes in hand.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1047}}]}
+- 07:32 act: {"say":"Jason, I give you 8 potatoes. Carry them to Wesley at his bed, give him all of them first, and tell me when done.","actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":8}]}
+- 07:34 act: {"actions":[{"do":"give","to":"ag_wesley_01","item":"potato","count":8}],"say":"Wesley, I have potatoes for you. Step into my sight and I will hand them over."}
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1047}}],"say":"Going to 415,107,-1047 to find Wesley and Worf. Jason, stay with me."}
+- 07:35 act: {"actions":[],"say":"Wesley, Worf: the way to your bed is blocked. I am at 413,107,-1047 in the open, with Jason. Please walk out here to me and I will give the potatoes."}
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1035}}],"say":"Jason, we go back to the row at 427,107,-1035. Wesley, come there and I will hand you the potatoes in the open."}
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"It is getting dark. I am going to my bed at 429,107,-1036. Wesley, come to the row in the morning and I will give you the potatoe
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. I am going to sleep in my bed at 429,107,-1036. Potatoes go to Wesley first at first light."}
