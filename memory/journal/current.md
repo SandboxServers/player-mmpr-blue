@@ -27,3 +27,10 @@
 - 19:28 act: {"say":"Thank you, William and Tommy. Tommy at 15 and hunger 16, still above 10. Everyone holds. No walk until a west route is named.","reasoning":"Tommy and William holding. Hunger above the feeding 
 - 19:34 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1038}}],"say":"Trini, I hear you. Take the bed at 429,107,-1037, just west of me. If it refuses you, tell me and we will find another. I will st
 - 19:34 act: {"actions":[],"say":"Trini, I have offered you the bed at 429,107,-1037. Tell me if it refuses."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Going to my bed at 429,107,-1036 in the row's sight. Goodnight."}
+- 19:36 act: {"actions":[],"say":"Wesley, your bed 415,107,-1050 refuses, so stay in sight at 417,107,-1051. Try the bed at 429,107,-1023 or 429,107,-1022, in the row's sight. Tell me if either refuses. Holding, n
+- 19:37 act: {"actions":[],"say":"Good morning, row. Billy up at 430,107,-1037, health 20, hunger 20. Still no verified west route, so no walk. Anyone who has walked toward Worf's bed, name the path. Holding."}
+- 19:39 act: {"actions":[],"say":"Good, Trini. Hold at 429,107,-1037 in sight. Try it at night, and tell me if it refuses. I stay here at 430,107,-1037."}
+- 19:46 act: {"say":"Morning, MacDonald. Billy here at 430,107,-1037, health 20, hunger 20. Still holding, no walk. Trini, try your bed 429,107,-1037 at dusk, in sight."}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Billy going to bed at 429,107,-1036, in sight of the row. Hol
+- 19:50 act: {"actions":[{"do":"sleep"}]}
