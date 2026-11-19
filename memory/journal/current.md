@@ -75,3 +75,4 @@
 - 06:22 act: {"actions":[],"say":"Jason, I'm back at the row at 427,107,-1035, not on the road. Wesley, come here to me with Jason and I'll give potatoes at the table."}
 - 06:26 act: {"say":"Wesley, it is dark, so no walk tonight. I'm going to the bed at 429,107,-1035 with Jason in sight. At first light I'll name a daylight walk and give you potatoes.","actions":[{"do":"goto","tar
 - 06:26 act: {"say":"Billy at the row bed 429,107,-1035, awake. Wesley and Lewis, hungriest first: step into my sight here and I'll give potatoes. Others, hold still.","actions":[]}
+- 06:29 say: {"text":"Wesley, I hear you. I am at the row bed, 429,107,-1035. Sleeping here for the night, in sight of the group."}
