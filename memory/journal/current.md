@@ -43,3 +43,22 @@
 - 12:06 act: {"say":"Dusk. I am at the row, near the bed at 429,107,-1036. I will sleep when night comes, with the group in sight.","intent":{"goal":"rest_at_bed_night","program":"rest","arguments":{"bed":{"x":429
 - 12:06 act: {"intent":{"goal":"rest_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":1
 - 12:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 12:09 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1026}},{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Troi, I am coming to you with my spare wooden sword. Stay where y
+- 12:09 act: {"say":"Troi, my wooden sword was given to you just now; hold it in your hand. Come to me at 430,107,-1027 now, to the row, with Tommy and Trini in sight. Tommy, Trini, strike the phantom if it comes 
+- 12:09 act: {"say":"Troi is beside me at 430,107,-1027, with my spare sword. Everyone holds at the row. Strike only what comes within reach.","actions":[]}
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi has the sword. I am going to my bed to sleep with the row in sight."}
+- 12:11 act: {"actions":[{"do":"goto","target":"Troi"}],"say":"Morning. Troi, yes, walk to the row with your sword. Lewis is at hunger 18: Troi, please give him potatoes from your stock. Wesley keeps his five for 
+- 12:11 act: {"actions":[{"do":"note","text":"Day 571 morning: Troi not in sight. Naming the potato walk now."}],"say":"Walk named: the potato field at 462-465,107,-1068, daylight only, Billy going. Escort: Tommy,
+- 12:11 act: {"intent":{"goal":"walk_to_potato_field","program":"travel","arguments":{"position":{"x":462,"y":107,"z":-1068}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1068}}],"say":"Going to the potato field now, in daylight, with the escort in sight. Riker, Tommy, Laforge, Trini, Zack, keep up.","reasoning":"
+- 12:12 act: {"actions":[{"do":"mine","block":"potatoes","count":10}],"say":"At the potato field, daylight. Harvesting ripe potatoes here, then they go to whoever is hungry at the row.","reasoning":"At the field w
+- 12:13 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1040}}],"say":"Got 35 potatoes from the field. Walking back to the row now, in daylight. Lewis and Troi, come to me if you are hungry.","reasoni
+- 12:13 act: {"actions":[{"do":"note","text":"Day 571 midday: harvested 35 potatoes at the field (no harm). Back at the row at 431,107,-1041. Holding potatoes for the hungry: Lewis, Troi, anyone at hunger 6 or bel
+- 12:14 act: {"actions":[{"do":"note","text":"Day 571 midday: at the row with 35 potatoes; no one hungry yet. Holding for the hungry."}],"reasoning":"Nobody hungry yet. Hold the potatoes and wait for a request."}
+- 12:14 act: {"actions":[{"do":"note","text":"Day 572 midday: at the row, hunger 20, 35 potatoes in hand. Waiting for anyone hungry (Lewis, Troi) to call."}],"say":"Billy here at the row with 35 potatoes. Hunger i
+- 12:14 act: {"actions":[{"do":"note","text":"Day 572 midday: Beverly (bcrusher) at her bed, hunger 20, empty pack; no food owed now. Still holding 35 potatoes at the row."}],"say":"Beverly, I hear you. Hunger 20 
+- 12:15 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"potato","count":10},{"do":"note","text":"Day 572 midday: gave Troi 10 potatoes (hunger 17, no food left). Holding 25 for the rest."}],"say":"Troi, he
+- 12:19 act: {"actions":[{"do":"note","text":"Day 572 afternoon: Troi thanked me for 10 potatoes; she goes to Riker. Worf at the row, fed, asked about sheep; I have seen none. Holding 25 potatoes."}],"say":"Worf, 
+- 12:19 act: {"actions":[{"do":"note","text":"Day 572 late afternoon: sun low. Troi says her gives to Riker and Lewis fail (no such agent in sight). Holding 25 potatoes. Will go to bed at 429,107,-1036 at night in
+- 12:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"note","text":"Day 572 night: Riker at hunger 16 in sight at the row, not yet eating. Going to my bed 429,107,-1036 with the group 
+- 12:24 act: {"actions":[{"do":"note","text":"Day 572 night: slept at bed 429,107,-1036 with the row in sight. Woke to morning. Holding 25 potatoes. Riker (hunger 16) and Lewis still need food; Troi has none left.
