@@ -1,4 +1,5 @@
-Handoff, day 568 midday. At the row bed 429,107,-1037. Health 20, hunger 20, holding an oak fence, no sword, no food, no errand running.
-Wood: searches east, north-east, south-east, north and south all found no oak logs (several blocked). Zack knows no trees beyond the row. No wood place is known yet.
-Group: holding in sight at the row. Riker fed (Deanna gave 2 potatoes). Wesley holds 5 potatoes, Clark 6, Deanna 13 (some given to Riker).
-Open: find a new wood place, daylight only, armed escort, not west of x=370. Then craft wooden swords for Zack, Leonardo and Trini.
+Handoff, day 568 night. Near row bed 430,107,-1034. Health 20, hunger 20.
+Have: 1 wooden sword (for Zack), 3 jungle_log, 3 stick, oak_fence.
+Zack (ag_zack_01) waits at 444,107,-1023 by Picard's bed; out of sight at give time, twice. Give at first light when both in sight.
+Riker's 2 potatoes still with Deanna/Troi; Troi holds 13 potatoes at 431,107,-1025.
+Next: give sword to Zack at first light; craft more swords from logs at 411,98-106,-1115; harvest potatoes with escort in daylight.

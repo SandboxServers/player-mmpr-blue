@@ -56,3 +56,23 @@
 - 11:02 act: {"say":"Morning 568. Billy calls an oak search to the south of the row, not west of x=370. Picard, Jason, MacDonald: come with swords, within 20 blocks of the row bed. Others hold in sight.","actions"
 - 11:03 act: {"say":"Billy: south of the row is blocked too, no oak logs. Jason and Picard, come back to the row bed and hold. Does anyone know where trees or wood are? Say the place, and we walk there in daylight
 - 11:04 act: {"actions":[{"do":"note","text":"Day 568 day: Zack knows no trees, only the row. No one has named a wood place. Holding the group at the row; no walk until someone knows of trees or a new direction."}
+- 11:06 act: {"actions":[{"do":"note","text":"Day 568 midday: group holds at row, all say no trees known. Still no wood place. Waiting for a named direction."}],"say":"Billy: thanks all. No tree is known yet, so w
+- 11:07 act: {"actions":[{"do":"note","text":"Lewis's notes list oak near 414,104,-1126, north of the row, not west of 370. Daylight. Asking armed escort (Worf, MacDonald, Clark) to come with me."}],"say":"Billy: 
+- 11:08 act: {"actions":[{"do":"note","text":"Day 568: Lewis's oak at 414,104,-1126 is named, but no armed escort has answered yet. Holding at row; Riker's potatoes not yet given (Deanna out of his sight)."}],"say
+- 11:09 act: {"intent":{"goal":"reach_oak_north","program":"travel","arguments":{"target":{"x":414,"y":104,"z":-1126}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"l
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":414,"y":104,"z":-1126}}],"say":"Billy: travel failed at the first stretch. Trying the walk straight. Worf and William, keep in sight."}
+- 11:10 act: {"actions":[{"do":"mine","block":"jungle_log","count":8}],"say":"Billy: we are at the trees, 414,103,-1127. Jungle logs and oak logs here. I am cutting now; Worf, keep watch."}
+- 11:10 act: {"actions":[{"do":"unstick"},{"do":"craft","item":"jungle_planks","count":4}]}
+- 11:11 act: {"actions":[{"do":"mine","block":"jungle_log","count":3}],"say":"Daylight now. I have jungle planks and one log. Cutting more logs here by the west trunk."}
+- 11:11 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 11:11 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":401,"y":97,"z":-1121}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 11:11 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_sword","count":1}]}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1037}}],"say":"I have a wooden sword now. Going back to the row before night. Zack, I will bring a sword for you next."}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1023}},{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, I am coming to you with my wooden sword. It is yours."}
+- 11:12 act: {"actions":[{"do":"note","text":"Zack not in my sight at 444,107,-1023 at dusk. Sword held for him."}],"say":"Zack, I cannot see you. Step into my sight and I will hand you the sword."}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}]}
+- 11:12 act: {"actions":[{"do":"note","text":"Dusk day 568. At row, 431,107,-1025. Zack not in sight. Troi in reach. Holding sword for Zack. Waiting for night."}],"say":"Troi, I am holding my wooden sword for Zack
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1024}}]}
+- 11:13 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}]}
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}},{"do":"note","text":"Zack not in sight twice at dusk 568. Sword kept for him; will give at first light when in sight."}],"say":"Zack, I c
