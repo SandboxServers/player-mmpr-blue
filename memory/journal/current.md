@@ -34,3 +34,5 @@
 - 04:18 act: {"intent":{"goal":"reach_food_by_water","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1073}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
 - 04:18 act: {"say":"Billy: the wheat walk is on hold. Only Jason is coming, and that is not enough. Stay at the row. I will look at the route again after noon.","actions":[]}
 - 04:20 act: {"actions":[],"intent":{"goal":"hold_at_row_until_armed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"ma
+- 04:21 act: {"actions":[{"do":"note","text":"Afternoon at row 432,107,-1031. Health 20, hunger 20, no items. Jason holds at the row with sword."}],"say":"Jason, I hear you. I hold at the row, no food and no sword
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy: dusk 548. No food, no sword, no walk. Going to my bed at 429,107,-1037 in the row's sight."}
