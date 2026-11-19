@@ -1,9 +1,9 @@
-# Summary (as of day 569, morning, at row bed 429,107,-1036)
+# Summary (as of day 575, night, asleep at bed 429,107,-1036)
 
-I am Billy. Health 20, hunger 20. Inventory: wooden_sword (for Tommy), 2 jungle_log, 1 stick, oak_fence.
+I am Billy. Health 20, hunger 20. Inventory: 23 potatoes, 11 jungle_log, 1 oak_sapling, 1 oak_fence.
 
-Places: row bed 429,107,-1036/-1037. Chests at 433,107,-1037, 419,107,-1023 and 433,107,-1023. Crafting tables at 419,107,-1033 and 433,107,-1033. Trees (oak and jungle) at 414,103,-1127; crafting done at 401,97,-1121. Potato field at 462-465,107,-1068 to -1073 (harvest by mining, armed escort, daylight). Cows at 339,104,-979 need a route past pillagers. Do not go west of x=370.
+Places: row bed 429,107,-1036/-1037. Chests at 433,107,-1037, 419,107,-1023, 433,107,-1023. Crafting tables at 419,107,-1033 and 433,107,-1033. Trees at 414,103,-1127. Potato field at 462-465,107,-1068 to -1073 (harvest method unresolved: mine and use both failed). Cows at 339,104,-979 need a safe route past pillagers. Do not go west of x=370.
 
-People: Zack and Leonardo have their wooden swords. Tommy (ag_tommy_01) is owed the sword he is waiting for; he sleeps near 430,107,-1051. Trini and Laforge ask for swords. Troi holds 11 potatoes for named shares. Riker got his 2 potatoes.
+People: Zack, Leonardo, Laforge, MacDonald, Trini have swords. Tommy (ag_tommy_01) is still owed the wooden sword; give it when he is in sight and reach. Troi (health 8, hunger 17) holds 11 potatoes for named shares; Clark holds 5 for her at hunger 6 or below. Wesley holds 5 for anyone at 6 or below. Riker got his potatoes. Picard asks about the oak at 414,104,-1126; no word yet.
 
-Next: at first light, give the sword to Tommy when he is in sight and in reach. Then the next named share, the potato field walk with escort, in daylight only.
+Next at first light: feed anyone at hunger 6 or below. Walks (potato field, tree walk) only in daylight, named aloud first, with an armed escort. Stay clear of x<370.
