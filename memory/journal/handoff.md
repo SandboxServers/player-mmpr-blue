@@ -1,1 +1,5 @@
-Handoff, day 548 midday. At 432,107,-1031 by the row. Health 20, hunger 20, no items. The east walk to wheat at 462,107,-1073 failed (no reason given) and is on hold; Jason came back to the row. No food has come to the row. Armed in hand: five (Jason, MacDonald, Clark, Worf, Riker). Rule stands: no walk until seven are armed, except to get food for Lewis (health 7) and Riker. West route stays closed (pillagers at 370-380,-1022 to -1029). Next: confirm the armed count aloud at dusk and dawn, then re-send the wheat walk only with an armed escort in sight.
+Handoff, day 549 morning. At 430,107,-1020 by the row. Health 20, hunger 20, no items, no sword.
+Armed count at dawn: three (Jason, Clark, MacDonald, wooden swords). Seven not met.
+Food walk sent at dawn failed: worker turned back after bows heard to the south. No food reached Lewis (health 7, hunger 17).
+Route note: the cows at 339,104,-979 lie west of x=370, which I set as a limit by mistake. Pillagers at 370-380,-1022 to -1029.
+Next: hold at the row. Re-check the route to 339,104,-979 with the full armed group before any walk. Lewis first for food.

@@ -4,3 +4,31 @@
 - 04:39 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1036}},{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 04:39 act: {"actions":[{"do":"sleep"}],"say":"Billy, night 549, at the bed beside the row, in sight. Trying to sleep now. Holding for dawn and the armed count."}
 - 04:39 act: {"actions":[{"do":"sleep"}],"say":"Billy: heard a bow drawn to the southeast. Stay at the row, in sight. Sleeping again."}
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, night 549. Going to my bed at 429,107,-1037, in the group's sight. Food route still closed; we hold at the 
+- 04:40 act: {"actions":[{"do":"note","text":"Night 549. Bed use failed twice at 429,107,-1037 area; bows heard SE and SW. Holding at the row until dawn, health 20, hunger 20."}],"say":"Billy, night 549. Holding a
+- 04:43 act: {"actions":[],"say":"Billy, dawn 549. Armed count: three. Jason, Clark, MacDonald, wooden swords. Seven are not met, so this walk is only for food for Lewis. Worker goes with the armed three in sight,
+- 04:43 say: {"text":"Billy, dawn 549, moving out now. Route south of the pillagers, toward the cows. Jason, Clark, MacDonald: follow in my sight, swords out."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-990}}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1020}}],"say":"Billy: heard bows drawn to the south, so I am turning back to the row. Escorts stay put. Cow walk is on hold."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1020}}]}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1020}}]}
+- 04:44 act: {"actions":[{"do":"note","text":"Dawn 549 food walk failed: no food, turned back on bows heard south. Cows at 339 lie past the x=370 limit I set. Holding at row."}],"say":"Billy, day 549. The food wal
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, dusk 549. Tommy, I have no spare sword; I hold none. Going to bed at 429,107,-1037 in the row's sight. No w
+- 04:56 act: {"actions":[],"say":"Billy, dawn 550. Armed count: Jason, MacDonald, Clark, Worf, Riker, five with swords. Still short of seven, so this walk is for food only, for Lewis first. We go east to the water
+- 04:57 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1073}}],"intent":{"goal":"reach_wheat_water_east","program":"travel","arguments":{"target":{"x":462,"y":107,"z":-1073}},"wake_on":["goal_complet
+- 04:57 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1073}}]}
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1073}},{"do":"use","at":{"x":463,"y":107,"z":-1073}}]}
+- 04:58 act: {"actions":[{"do":"use","at":{"x":463,"y":107,"z":-1073}},{"do":"mine","block":"potato","count":1}]}
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1071}},{"do":"use","at":{"x":463,"y":107,"z":-1071}}]}
+- 04:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":462,"y":107,"z":-1070}}]}
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":462,"y":106,"z":-1070}}]}
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1071}},{"do":"mine","block":"oak_fence","count":1}]}
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1070}},{"do":"mine","block":"potato","count":3}]}
+- 04:59 act: {"actions":[{"do":"mine","block":"potatoes","count":1}]}
+- 04:59 act: {"actions":[{"do":"mine","block":"potatoes","count":4}]}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1024}}],"intent":{"goal":"return_food_to_row","program":"travel","arguments":{"target":{"x":432,"y":107,"z":-1024}},"wake_on":["goal_completed",
+- 04:59 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":18}],"say":"Billy here. Lewis, 18 ripe potatoes from the water farm at 463,107,-1070. Eat one now."}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1024}},{"do":"give","to":"ag_lewis_01","item":"potato","count":18}],"say":"Lewis, Billy here with potatoes. Where are you? Stand up and I will h
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1023}},{"do":"deposit","at":{"x":433,"y":107,"z":-1023},"item":"potato","count":18}],"say":"Lewis, Billy. Potatoes are in the chest at 433,107,-
+- 04:59 act: {"actions":[],"say":"Lewis, Billy: potatoes are in the chest at 433,107,-1023, on the east side. I will not go west of 430. Come east to the chest and take them."}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1022}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1023},"item":"potato","count":18}],"say":"The worker brought 18 potatoes from the water farm.
