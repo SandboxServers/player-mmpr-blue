@@ -10,3 +10,5 @@
 - 00:24 act: {"say":"Count at day 536: five armed in hand, Billy, Picard, Worf, Jason, MacDonald. Thank you all. Still no food in the group, so we hold. Riker, your sword next if it goes into hand. No walk yet.","
 - 00:27 act: {"actions":[{"do":"note","text":"Night 536: Worf's bed 415,107,-1037 blocked. Offered 429,107,-1036 (next to mine) and 401,107,-1036 as options. Laforge at 430,107,-1023 in sight, no walk."}],"say":"W
 - 00:28 act: {"actions":[{"do":"note","text":"Night 536: Riker says he holds the wooden sword, but I hold one in my pack and MacDonald has the other. Asked Riker to confirm what he holds. Data assigned bed 401,107
+- 00:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, night 536: holding at the row in sight. Hunger 17, so no rotten flesh yet. No walk. Going to bed.","reasoni
+- 00:28 act: {"actions":[{"do":"sleep"}]}
