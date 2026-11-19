@@ -2,3 +2,10 @@
 - night 544: at bed 429,107,-1037, sleep worked. Hunger 17, health 18.8. Holding 2 rotten flesh; eat only at hunger 6.
 - dawn 545: said armed count aloud. Heard in sight: Picard, Jason, Worf, Riker, MacDonald hold wooden swords. I hold none. Clark said he holds one (not seen). No walk named. Zack asks for a spare sword.
 - dusk 545: still at bed, hunger 17. Going to sleep at the bed, in sight of the group.
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Armed count stands: Picard and Jason here with wooden swords. Going to my bed to sleep.","reasoning":"Dusk, 
+- 03:21 act: {"actions":[],"say":"Billy, dawn 545. Awake at my bed, hunger 17, health 19, 2 rotten flesh (eat at hunger 6). No walk named yet. Picard is here with his sword. Holding until the armed count is confirmed. Heard Clark, Data, Worf await my call; no food or cows seen. No walk yet; I hold no sword.
+- dawn 545 (wait): still at bed, hunger 17, no walk. Next: name armed count, decide walk when Clark and group confirm.
+- Holding until the armed count is confir
+- 03:24 act: {"actions":[],"say":"Tommy, Billy here. No walk yet. I hold no sword, so the armed count is not confirmed. Holding at the row; I will name a walk once it is.","reasoning":"The rule blocks a walk until
+- 03:26 act: {"actions":[],"say":"Billy: Lewis, I know your health is low. Armed count is three in sight (Picard, Jason, MacDonald), so no walk yet. Anyone with a sword, come to the row and say so. Cows reported n
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy: dusk. Still no walk; armed count is four (Picard, Jason, MacDonald, Clark), short of seven. Going to bed in
