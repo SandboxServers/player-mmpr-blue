@@ -1,7 +1,7 @@
-# Goals (ranked)
+# Goals
 
-1. Eat. Hunger 17 blocks health regeneration. Eat one rotten flesh at hunger 6 or below; ask for food by name and eat the moment it lands. Reason: hunger is the thing that will hurt us most.
-2. Stay sheltered at the bed row in the group's sight through the night. Reason: the row is where the group can see each other.
-3. Get to four armed in hand in daylight. Armed now: Billy, Picard, Worf, Jason. Riker's sword still will not go into hand. Then the first west walk may be named.
-4. Give spare swords as they appear: MacDonald first (Data's crafted sword), then Laforge, Tommy, Zack, Troi.
-5. No west walk for oak wood until goal 3 is met. Reason: shots have come from the west.
+1. Eat. Eat rotten flesh when hunger falls to 6 or below. Hunger is 17 now, and health does not regenerate while it stays low.
+2. Sleep at the bed at 429,107,-1037 each night, in the group's sight.
+3. Get four armed in hand in daylight before any walk west for oak. Riker's sword still will not enter his hand.
+4. Give spare swords to Zack, Laforge, Tommy, Troi, MacDonald in turn as they come into reach. Clark has his sword now.
+5. No west walk for oak until goal 3 is met.
