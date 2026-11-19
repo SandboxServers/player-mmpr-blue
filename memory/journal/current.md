@@ -47,3 +47,4 @@
 - 20:08 act: {"say":"Morning all. Billy at 444,107,-1037, health 20, hunger 20. Still no walk named. Holding in sight. Troi, keep your potato until your hunger is 10."}
 - 20:16 act: {"say":"Morning, row. Billy at 444,107,-1037, health 20, hunger 20. Still no walk named. Hold in sight. Troi, potato stays with you until hunger 10."}
 - 20:36 say: {"text":"Morning, Troi. Holding at my bed, no walk named yet. Feed at 10 or below, and you are first."}
+- 20:42 act: {"actions":[{"do":"note","text":"Night 597. Woke at bed area 444,107,-1037, health 20, hunger 20. Row sleeping in sight; no walk named. Going to sleep in my bed."}],"say":"Night, row. Billy at 443,107
