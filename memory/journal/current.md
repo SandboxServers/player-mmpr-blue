@@ -92,3 +92,29 @@
 - 08:44 act: {"actions":[],"say":"Clark, thank you for holding your 6 potatoes. Wesley and Deanna are the ones to feed first. Please give them to whoever of them comes into your sight."}
 - 08:44 act: {"actions":[],"say":"Tommy, good. Walk back to the row with Jason in sight, and keep your 8 potatoes until you see Wesley or Deanna. I hold no food."}
 - 08:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to bed at 429,107,-1036 for the night. Wesley and Deanna, first light, at the row, potatoes in hand."}
+- 08:46 act: {"say":"Billy at the row, dusk 561. Health and hunger full. I hold no food, only an oak fence. Riker, you hold potatoes for Wesley and Deanna; I will walk with the armed group at first light.","action
+- 08:46 act: {"say":"Troi, Deanna: I will not walk in the dark either. At first light Jason, Riker and I go to you with the armed escort. Hold on, Deanna. Sleeping at the row now.","actions":[{"do":"sleep"}]}
+- 08:49 act: {"say":"Morning 562. Wesley is at 416,107,-1050 with Worf, hunger 18. Jason and Riker, with your potatoes, come with me to his bed in daylight, armed escort first. Tommy, follow to Deanna after."}
+- 08:49 act: {"say":"Jason, Riker, Tommy: we walk now to Wesley's bed at 416,107,-1050 with Jason's sword in front. Stay close.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}]}
+- 08:50 act: {"say":"Heard all. Jason gives Wesley the 8 potatoes. Riker, you hold 10: when Deanna is in your sight, give her what she needs. I hold no food and stay here by the beds in daylight."}
+- 08:50 act: {"say":"Jason, keep the 8 potatoes until Wesley is in reach. Wesley, step to your bed at 416,107,-1050 where Jason and Worf can see you. Jason, I will walk the last steps with you.","actions":[{"do":"
+- 08:52 act: {"say":"Trini, I hold no sword to give, only an oak fence, so keep to the row until one is free. Riker, keep your 10 for Deanna. Jason, give Wesley the 8 when he is in reach."}
+- 08:57 act: {"actions":[{"do":"note","text":"Jason is in reach with a sword and is stepping to Wesley, who is in sight at 416,107,-1050. Billy holds no food and no sword, so I stay put and let Jason give."}],"say
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1048}}],"say":"Morning. Jason, with your sword, let us walk to Wesley together now in daylight, and give the potatoes at his bed."}
+- 09:01 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Wesley, I am walking to you now with Riker and Worf in sight. Stand still and I will come into reach."}
+- 09:01 act: {"actions":[],"say":"Jason, you hold the potatoes and you are armed, so walk to Wesley's bed at 416,107,-1050 and give them there. I am holding here at 413,107,-1050 and will not walk on alone."}
+- 09:05 act: {"actions":[],"say":"Named walk, in daylight: Riker, go to Deanna at 430,107,-1065 and give her your 10 potatoes. Worf, walk with them with your sword. Jason, keep the 8 for Wesley at his bed."}
+- 09:06 act: {"actions":[],"say":"Jason, Wesley is two blocks off and coming to you. Give him the 8 potatoes as soon as he is in reach. Wesley, stand still."}
+- 09:10 act: {"actions":[],"say":"Zack, I have no sword to give. Wesley, Jason holds 8 potatoes for you; step into Jason's sight now. Everyone else, hold at the row until first light."}
+- 09:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"It is dark. I am walking to my bed at 429,107,-1036 with Jason beside me. Jason, keep the 8 potatoes for Wesley."}
+- 09:14 act: {"actions":[{"do":"sleep"}]}
+- 09:14 act: {"actions":[],"say":"Billy awake at the row, bed 429,107,-1036. Jason, Worf: at first light I walk to Wesley with the 8 potatoes, with you beside me."}
+- 09:15 act: {"actions":[],"say":"Jason, I am at the bed 430,107,-1037, in daylight. Walk north to me; I will not walk until you are in my sight. Then we go to Wesley together."}
+- 09:15 act: {"actions":[],"say":"Jason, I am on the cobblestone at 430,107,-1037, just south of you, beside the bed. Walk two blocks north and you will see me. Deanna, Riker, Laforge: Billy is walking to Wesley w
+- 09:17 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I am walking to you now, in daylight, to reach you and go with you to Wesley."}
+- 09:17 act: {"actions":[{"do":"note","text":"Day 563 morning: Billy at bed 430,107,-1037. Jason (8 potatoes for Wesley) not in my sight. Tommy gave Deanna 8. Holding still; no walking alone."}],"say":"Jason, I ca
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1039}}],"say":"Jason, I am walking to 430,107,-1039 beside you, in daylight."}
+- 09:17 act: {"actions":[],"say":"Jason, I am beside you in reach at 429,107,-1039. Now we walk to Wesley's bed at 415,107,-1051 together in daylight. You lead with your sword; I follow."}
+- 09:18 act: {"actions":[],"say":"Jason, Wesley is at 415,107,-1047 by the beds. Walk to him now, give him the 8 potatoes. I will follow at a distance with you in sight."}
+- 09:21 act: {"actions":[{"do":"note","text":"Midday 563: at 429,107,-1039, Jason not in my sight. Wesley's 8 potatoes still with Jason. Holding still."}],"say":"Wesley, Jason has your 8 potatoes. Step into sight 
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk at the row. Jason holds Wesley's 8 potatoes at 417,107,-1046. I walk nowhere in the dark. Sleeping at my bed 
