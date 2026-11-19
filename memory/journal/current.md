@@ -35,3 +35,13 @@
 - 05:32 act: {"actions":[{"do":"note","text":"Holding at the row 429,107,-1033 with 9 potatoes for Lewis. No word from Lewis yet. Waiting."}]}
 - 05:34 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":4},{"do":"note","text":"Lewis at the table, hunger 17, holds 6 potatoes. Gave him 4 more so he can eat well. I keep 5."}],"say":"Lew
 - 05:38 act: {"actions":[{"do":"note","text":"Night 552. Going to sleep at the bed row, in sight of the group. Holding 9 potatoes for Lewis at dawn."}],"say":"Billy, night 552. Sleeping at the row in the group's s
+- 05:38 act: {"say":"Billy here, morning 552, at 414,107,-1041 with 9 potatoes. Lewis first, when he is in sight. Then Riker, then the rest. Jason, walk with me to the field?","reasoning":"Hold food for Lewis (hea
+- 05:38 say: {"text":"Billy: I hold 9 potatoes. Lewis, come into sight and I will hand you some. Riker, Kimberly, you are next."}
+- 05:39 say: {"text":"Billy: Jason, thank you. No walk yet. Lewis is coming for potatoes; I give them when he is in sight. Riker has his own 7. Nobody leaves the row."}
+- Day 552 morning: at the row 431,107,-1031 with 9 potatoes, held for Lewis. Lewis not yet in sight. Jason, Kimberly, Tommy, Riker at the row. No walk named. Waiting for Lewis.
+- 05:41 act: give 5 potatoes to Lewis failed: not in sight. Lewis says he is at the row but I cannot see him. Still holding 9 potatoes. Waiting.
+- 05:41 act: give 5 potatoes to Lewis failed: not in sight. Lewis says he is at the row but I cannot see him. Still holding 9 potatoes. Waiting.
+- 05:42 say: {"text":"Billy: thank you all. Everyone holds. Lewis, I hold 9 potatoes at 431,107,-1031 by the crafting table. Walk into my sight and they are yours."}
+- 05:43 gave 5 potatoes to Lewis, worked. 4 left in my pack, kept for whoever is hungriest. Lewis was in reach at the crafting table.
+- 05:43 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"potato","count":5}],"say":"Lewis, here are 5 potatoes. Eat, then tell me your hunger.","reasoning":"Lewis is in reach, health 8 earlier. Food to him
+- 05:43 say: {"text":"Lewis has 5 of my potatoes. I keep 4 for the hungriest. Riker and Clark, tell me if you need them."}

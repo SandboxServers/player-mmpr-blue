@@ -1,5 +1,5 @@
-Handoff, day 549 morning. At 430,107,-1020 by the row. Health 20, hunger 20, no items, no sword.
-Armed count at dawn: three (Jason, Clark, MacDonald, wooden swords). Seven not met.
-Food walk sent at dawn failed: worker turned back after bows heard to the south. No food reached Lewis (health 7, hunger 17).
-Route note: the cows at 339,104,-979 lie west of x=370, which I set as a limit by mistake. Pillagers at 370-380,-1022 to -1029.
-Next: hold at the row. Re-check the route to 339,104,-979 with the full armed group before any walk. Lewis first for food.
+Handoff, day 552 midday. At 432,107,-1031 by the crafting table at the row, in sight of the group. Health 20, hunger 20. Holding 4 potatoes for the hungriest.
+Lewis fed (5 potatoes given, hunger 18, holds 7). Riker has his own 7. Clark holds 6.
+Armed: Jason, MacDonald, Worf (swords). Unarmed at the row: Kimberly, Tommy, Troi, Zack, Chapman, Clark, Data, Riker, Lewis.
+No walk named. The potato field walk is still not done; route is past the bed row, needs armed escort in daylight, confirmed aloud.
+Next: wait at the row; name the potato walk with Jason, MacDonald and Worf when the group confirms. Return Trini's wooden sword if I get one (I hold none).
