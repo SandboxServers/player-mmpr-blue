@@ -4,3 +4,14 @@
 - 18:47 act: {"actions":[{"do":"note","text":"Kimberly at 416,107,-1036 has no west route either. Still no verified route to Worf. Holding in the row."}],"say":"Thank you, Kimberly. Still no one has walked west pa
 - 18:49 act: {"actions":[{"do":"note","text":"Tommy (hunger 16) and Picard (20) holding. No route west from anyone. Holding in the row."}],"say":"Thank you, Tommy and Picard. Still no west route, so we all hold. N
 - 18:57 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Night, row. Billy going to my bed 429,107,-1036. No walk. Goodnight."}
+- Day 592 morning: woke at bed 429,107,-1036, health 20, hunger 20. Row all holding at 20; Leonardo, MacDonald, William at beds. No west route named. Said so aloud; holding in the row, no walk.
+- 18:58 act: {"say":"Morning, row. Billy awake at bed 429,107,-1036, health 20, hunger 20. Still no verified west route. Anyone who has walked toward Worf's bed, please name the path. No walk from me yet.","intent
+- 18:59 act: {"say":"Thank you, row. Everyone holds, nobody has a west route past x=370, so no walk today. Data is at hunger 19 and Zack too; tell me if either drops to 10. Billy holding at bed 429,107,-1036.","in
+- 18:59 act: {"say":"William, Leonardo, thank you. The word is not yet: no one has a verified route west, so we hold. Everyone stay at your beds in sight. If anyone gets hungry, say so."}
+- 19:00 act: {"say":"Troi, understood. Call me at hunger 10 and I will bring my potato to you, or we walk to the field together once a route is named. Holding.","intent":{"goal":"hold_row_until_route","program":"r
+- 19:09 act: {"actions":[{"do":"note","text":"Day 592 night: holding in the row at bed 429,107,-1036. No west route named. Troi hunger 16, will call at 10; potato kept for her."}],"say":"Billy in bed 429,107,-1036
+- 19:10 act: {"actions":[],"say":"Wesley, stay where you are in the dark, no walk. Laforge, thank you, holding. Billy in bed 429,107,-1036."}
+- 19:14 act: {"actions":[{"do":"note","text":"Day 592 morning, Billy at bed 429,107,-1037. Row holding. No verified west route. No walk."}],"say":"Good morning, row. Billy here, health 20, hunger 20. Still no veri
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Worf, no verified route yet, so no walk. Dusk, Billy going to bed 429,107,-1037 in your sight. Goodnight, row."}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Billy going to bed 429,107,-1037 at dusk. No verified west route yet, so no walk. Goodnight, row."}
+- 19:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Billy getting into bed 429,107,-1037. Goodnight, row."}
