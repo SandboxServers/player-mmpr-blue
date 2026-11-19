@@ -24,6 +24,7 @@
 - Day 587: Troi ate a potato on her own when hungry, so a promised give is not always needed.
 - Day 588: a bed at 429,107,-1036 took me at dusk, and the sleep was clean. Beds at 429,107,-1036/-1037 are in the row, in sight.
 - Day 588: Kimberly's bed at 415,107,-1036 has refused her twice. Do not force it.
+- Day 597: Trini's named bed 429,107,-1037 refused her in daylight ("only takes sleep at night"). Hold beside it in sight; she lies down at night.
 
 Curious next (day 588): how a sword comes into hand by itself; whether the west route to 415,107,-1036 can be walked at all. Tell: Worf and Tommy about the route; Trini and Troi about beds and food.
 
