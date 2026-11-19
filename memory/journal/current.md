@@ -91,3 +91,11 @@
 - 06:43 act: {"actions":[{"do":"sleep"}],"say":"Billy here at the row bed, in everyone's sight. My potato gives did not go through, so I still hold 21 for Wesley and Lewis at first light."}
 - 06:45 act: {"actions":[],"say":"Billy here, awake at the row bed. Wesley, I hear you. I hold 21 potatoes for you. At first light, stay with Worf and step into my sight at the table and I give them to you first."
 - 06:45 act: {"actions":[],"say":"Billy awake at dawn at the row, holding 21 potatoes. Awake so far: Kimberly, Zack, Picard, Clark, Jason. Wesley first: step into my sight and I give you potatoes. Then Lewis, Zack
+- 06:48 act: {"say":"Billy here, dawn 555. Walking in daylight to Wesley at 415,107,-1050 with Worf near. Carrying 21 potatoes for Wesley first.","intent":{"goal":"deliver_potatoes_to_wesley","program":"travel","a
+- 06:49 act: {"say":"Billy here at 423,107,-1048, my path was blocked. Trying another way to Wesley at his bed with Worf.","actions":[{"do":"goto","target":"ag_wcrusher_01"}],"intent":{"goal":"deliver_potatoes_to_
+- 06:49 act: {"say":"Wesley, Billy here at 413,107,-1050 beside your bed, with 21 potatoes. Say where you are and I'll give them to you.","intent":{"goal":"hold_near_wesley_for_potatoes","program":"rest","argument
+- 06:50 act: {"say":"Wesley is not here at his bed. I'm heading back to the row with my 21 potatoes, to give them to whoever is hungriest there.","intent":{"goal":"return_to_row_with_potatoes","program":"travel","
+- 06:50 act: {"say":"Billy back at the row, 427,107,-1035, with 21 potatoes. Wesley was not at his bed. Lewis and Riker, say your name and I'll give you potatoes now; Wesley, come to the row and I'll hold some for
+- 06:50 act: {"say":"Riker, you already hold 7 potatoes, so I keep mine for Wesley and whoever is hungriest. Say when you are in reach."}
+- 06:52 act: {"say":"Billy at the row, 427,107,-1035. Everyone heard is fed (hunger 19 to 20), so the potatoes stay in my pack for Wesley when found. Thunder now; I stay at the row, in sight, until dusk."}
+- 06:53 act: {"say":"Wesley, daylight walk named: come to the row at 427,107,-1035 with Worf, sword in hand, in the afternoon. I'll hold 21 potatoes here for you. Say when you are in sight.","intent":{"goal":"hold
