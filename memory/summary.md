@@ -1,11 +1,9 @@
-# Summary (as of day 564 night, asleep in bed 429,107,-1036)
+# Summary (as of day 569, morning, at row bed 429,107,-1036)
 
-I am Billy. Health 20, hunger 20. Inventory: one oak fence. No sword, no food of my own.
+I am Billy. Health 20, hunger 20. Inventory: wooden_sword (for Tommy), 2 jungle_log, 1 stick, oak_fence.
 
-Places: row bed 429,107,-1036/-1037. Chests at 433,107,-1037 and 433,107,-1023. Crafting tables at 433,107,-1033 and 433,107,-1019. Potato field at 462-465,107,-1068 to -1073 (harvest by mining, armed escort, daylight). Wesley's bed at 415,107,-1050. West oak 376,101,-1029 is in pillager range. Cows at 339,104,-979 need a route past the pillagers.
+Places: row bed 429,107,-1036/-1037. Chests at 433,107,-1037, 419,107,-1023 and 433,107,-1023. Crafting tables at 419,107,-1033 and 433,107,-1033. Trees (oak and jungle) at 414,103,-1127; crafting done at 401,97,-1121. Potato field at 462-465,107,-1068 to -1073 (harvest by mining, armed escort, daylight). Cows at 339,104,-979 need a route past pillagers. Do not go west of x=370.
 
-Group holds at the row. Armed: Picard, Jason, MacDonald, Clark, Worf, Riker. Unarmed: Zack, Laforge, Kimberly, Tommy, Beverly, Troi, Chapman, Trini, Data, Lewis, Leonardo, me.
+People: Zack and Leonardo have their wooden swords. Tommy (ag_tommy_01) is owed the sword he is waiting for; he sleeps near 430,107,-1051. Trini and Laforge ask for swords. Troi holds 11 potatoes for named shares. Riker got his 2 potatoes.
 
-Open thread: Jason holds Wesley's 8 potatoes; gives fail because they land on the ground near Wesley. Wesley is to pick them up at first light.
-
-Next: at first light, check the potatoes with Wesley and Jason. Feed the hungry in sight. Walk only with an armed escort in daylight.
+Next: at first light, give the sword to Tommy when he is in sight and in reach. Then the next named share, the potato field walk with escort, in daylight only.
