@@ -1,1 +1,45 @@
 # Journal
+- 11:25 act: {"say":"Billy here, at the row bed. Tommy, I hold your wooden sword. I will give it when you are in sight at first light.","intent":{"goal":"hold_for_first_light","program":"rest","arguments":{},"wake
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Morning. Tommy, I am walking toward your bed to hand you the sword."}
+- 11:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wooden_sword","count":1}],"say":"Tommy, here is your wooden sword."}
+- 11:29 act: {"say":"Tommy has his wooden sword. Next: swords for Trini and Laforge, from the north trees at 414,103,-1127, in daylight with an armed escort. Who will walk with me?"}
+- 11:30 act: {"say":"Wood trip now, daylight, north to the trees at 414,103,-1127. Armed escort please: Zack and Tommy, come to me at 430,107,-1048. Others hold at the row. Swords for Trini and Laforge after."}
+- 11:30 act: {"say":"Zack and Tommy, thank you. We walk north together now to the trees at 411,98,-1115. Stay close.","intent":{"goal":"walk_to_north_trees","program":"travel","arguments":{"target":{"x":411,"y":10
+- 11:31 act: {"say":"Tommy, I am at 427,107,-1051 by the beds, in your sight now if you come to 430,107,-1048. I wait here for you and Zack.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}]}
+- 11:31 act: {"say":"Zack and Tommy are with me. Walking north now to the trees at 411,100,-1115. Stay in sight.","intent":{"goal":"walk_to_north_trees","program":"travel","arguments":{"target":{"x":411,"y":100,"z
+- 11:31 act: {"say":"We are at the trees, 411,100,-1115. I mine the jungle logs now. Keep close, Zack and Tommy.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":1
+- 11:33 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Logs in hand, 14 jungle logs. It is getting dark, so we go back to the row and sleep in the beds with the group.","intent":{"goal":"
+- 11:34 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":2}],"say":"Two wooden swords crafted at the row table. One for Trini and one for Laforge, when they come
+- 11:34 act: {"say":"Trini and Laforge, I have your wooden swords. Come to me at 430,107,-1048 and I will give them.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}]}
+- 11:35 act: {"say":"Trini, come to the table at 430,107,-1048 now, in sight. Your sword waits. Walk slow and stay close."}
+- 11:36 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Trini, here is your wooden sword. Use it well."}
+- 11:37 act: {"say":"Tommy, the sword went to you by mistake. Please pass that wooden sword to Trini, she is right here. Thank you."}
+- 11:37 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"wooden_sword","count":1}],"say":"Laforge, here is your wooden sword. Tommy still holds the one meant for Trini; Tommy, please pass it to her."}
+- 11:37 act: {"actions":[{"do":"note","text":"Morning 570: my give to Laforge went to Tommy instead. Tommy now holds the sword meant for Trini. I have no sword left, 12 jungle logs in pack."}],"say":"Tommy, the wo
+- 11:37 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Tommy, thank you, Trini has her sword. Laforge, I am crafting your second sword no
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Dusk now. I hold a spare wooden sword for Laforge. Laforge and anyone near, come to 430,107,-1048 and I will hand it over, then w
+- 11:38 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"wooden_sword","count":1}],"say":"Laforge, this wooden sword is yours. Zack has passed one to Trini, so everyone should be armed now."}
+- 11:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Laforge went out of sight before the give. I still hold his wooden sword and will give it at first light."}
+- 11:38 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"wooden_sword","count":1}],"say":"Laforge, your wooden sword. Here it comes."}
+- 11:38 act: {"actions":[{"do":"note","text":"Dusk 570: the give to Laforge went to Zack. Zack now holds the sword meant for Laforge."}],"say":"Zack, the sword you just got is for Laforge, please pass it to him. T
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night 570. Billy in bed at 429,107,-1050 in the row's sight. The spare sword is with Zack and MacDonald now; Lafor
+- 11:43 act: {"say":"Morning. Zack, if you hold the wooden sword, please pass it to Laforge now, and tell me if he is in reach.","actions":[]}
+- 11:43 act: {"say":"Trini, keep the spare for now. Zack holds Laforge's sword until Laforge is in reach, and we will pass it then. Laforge, come into sight and I will name the handover.","actions":[]}
+- 11:44 act: {"say":"Troi, bring Deanna to the row, to me at 430,107,-1050, in daylight. Deanna should eat a potato there. Riker too, if he is near.","actions":[]}
+- 11:44 act: {"say":"Thank you, MacDonald. Hold your sword for now and do not walk. When Laforge is in sight, I will name the handover.","actions":[]}
+- 11:45 act: {"say":"Picard, Beverly: hold at the row, no walk yet. I have no word on the lead; I hold only an oak fence. Laforge, Troi and Deanna: come into my sight and I will name the next walk.","actions":[]}
+- 11:46 act: {"say":"Zack, pass the wooden sword to Laforge now. Laforge is in reach at my side. Riker and William, hungry, you may eat when I name it; first the sword.","actions":[]}
+- 11:47 act: {"say":"Kimberly, you hold the wooden sword that Zack passed. Please give it to Laforge now; he is in reach at my side. Zack, thank you; no need to retry.","actions":[]}
+- 11:47 act: {"say":"Deanna, welcome. Eat one potato now, then hand out potatoes to the hungry: Riker first, then William, in reach. Troi and Deanna, keep the rest for the next hungry.","actions":[]}
+- 11:48 act: {"say":"Troi, walk to Riker at 430,107,-1023 in daylight and give him his 2 potatoes. Deanna, stay here with me at the row. Riker, eat when they reach you.","actions":[]}
+- 11:49 act: {"say":"William, eat one of your potatoes now. Everyone else, hold here; Troi is walking Riker's potatoes to him. Then we will go to the potato field in daylight with escort.","actions":[]}
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1046}},{"do":"craft","item":"jungle_planks","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Morning 571. I'm crafting one more
+- 11:56 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is a wooden sword for you. The spare one stays in my pack."}
+- 11:56 act: {"actions":[{"do":"note","text":"Morning 571: gave one wooden sword to Zack at the table 433,107,-1047. One spare sword kept in my pack. Holding at the row."}]}
+- 11:57 act: {"actions":[],"say":"Deanna, you hold 12 potatoes and your hunger is 17. Please eat one now. Thank you, Troi. Zack has his sword."}
+- 12:00 act: {"actions":[],"say":"Lewis, hunger 18, is at the row. Deanna holds 12 potatoes. Deanna, please give Lewis one potato if he is in your reach. Holding; no walks named."}
+- 12:00 act: {"actions":[],"say":"Morning 571. Everyone holding at the row, fed where possible. Next: potato field at 462-465,107,-1068 with the armed group as escort. I will name the walk before we move."}
+- 12:01 act: {"actions":[{"do":"note","text":"Morning 571: Troi fed Riker (2 potatoes) and holds 11. Deanna holds 12. Lewis still hungry at 18. Holding at the row."}]}
+- 12:06 act: {"say":"Dusk. I am at the row, near the bed at 429,107,-1036. I will sleep when night comes, with the group in sight.","intent":{"goal":"rest_at_bed_night","program":"rest","arguments":{"bed":{"x":429
+- 12:06 act: {"intent":{"goal":"rest_at_bed_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":1
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}]}
