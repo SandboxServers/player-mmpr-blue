@@ -25,3 +25,5 @@
 - 19:25 act: {"say":"Troi, I hear you at 13.9, hunger 16. Still holding. Call me at hunger 10 and my potato is yours. Everyone else, hold at your beds.","reasoning":"Troi is above the feeding threshold of 10. Hold
 - 19:27 act: {"say":"Thank you, Laforge and Jason. Everyone holds, health 20. Still no verified route west, so no walk. Stay at your beds in sight.","reasoning":"Two more holding in the row. Still no route. Hold."
 - 19:28 act: {"say":"Thank you, William and Tommy. Tommy at 15 and hunger 16, still above 10. Everyone holds. No walk until a west route is named.","reasoning":"Tommy and William holding. Hunger above the feeding 
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1038}}],"say":"Trini, I hear you. Take the bed at 429,107,-1037, just west of me. If it refuses you, tell me and we will find another. I will st
+- 19:34 act: {"actions":[],"say":"Trini, I have offered you the bed at 429,107,-1037. Tell me if it refuses."}
