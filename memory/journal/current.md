@@ -6,3 +6,4 @@
 - 13:39 say: {"text":"Row, Billy here. No walk yet: we have no verified west route, and I will not send anyone west of x=370. Hold at your beds. Tommy, eat a potato if hunger drops to 10. Anyone hungry, say so."}
 - 13:40 say: {"text":"MacDonald, Billy here. You have five potatoes and health 7, so eat one now, then rest at your bed in sight. Nobody else is at hunger 10 or below. Holding."}
 - 13:46 say: {"text":"Dusk, row. Bows heard to the southwest, close. Everyone stay at your beds, in sight, and do not walk. Picard, thank you for watching. I will sleep here at night."}
+- 13:49 say: {"text":"Good night, row. Billy asleep at my bed, in sight. No walk until a route is verified."}
