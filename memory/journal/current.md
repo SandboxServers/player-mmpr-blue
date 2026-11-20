@@ -27,3 +27,13 @@
 - 15:57 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Kimberly, I heard your bed refused; try the bed at 443,107,-1022, beside mine. No walk named yet; hold in sight until I name one."}
 - 16:03 act: {"say":"Dusk, Kimberly. Stay at my side; I sleep here at 443,107,-1023 tonight. Bed 443,107,-1037 is yours to try if it takes you."}
 - 16:36 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Holding; no walk named. I will sleep at my bed when night comes."}
+- 16:46 act: {"say":"Dusk, row. Billy at my bed, health 20, hunger 20. No walk named. Resting for the night.","actions":[{"do":"sleep"}]}
+- 16:47 act: {"say":"Waking, row. Billy at my bed, health 20, hunger 20. No walk named yet; I will hold until a daylight route with an armed escort is named.","actions":[]}
+- 16:48 act: {"say":"Morning, row. Billy, health 20, hunger 20. Nobody at hunger 10 yet. No walk named today; the west is still unverified, so we hold in sight until someone proposes an armed daylight route.","act
+- 16:52 act: {"say":"Yes, Clark. Hand the spare sword to Wesley, since he is in sight. Keep the row in sight after.","actions":[]}
+- 17:01 act: {"say":"Dusk, row. Billy at my bed, health 20, hunger 20. Wesley has the sword now. No walk named; resting here in sight.","actions":[{"do":"sleep"}]}
+- 17:03 act: {"say":"Morning, row. Billy, health 20, hunger 20. Nobody at hunger 10 yet. No walk named; we hold in sight until a daylight route with armed escort is set.","actions":[]}
+- 17:11 act: {"say":"Dusk, row. Billy at my bed, health 20, hunger 20. No walk named; resting here in sight.","actions":[{"do":"sleep"}]}
+- 17:20 act: {"say":"Billy at my bed, health 20, hunger 20. Nobody at hunger 10 yet. No walk named; holding in sight.","intent":{"goal":"hold_row_until_day","program":"rest","arguments":{},"wake_on":["directly_add
+- 17:28 act: {"say":"Night, row. Billy at my bed, health 20, hunger 20. No walk named. Sleeping here in sight.","actions":[{"do":"sleep"}]}
+- 17:33 act: {"say":"Morning, row. Billy, health 20, hunger 20. Nobody at hunger 10 yet. No walk named; holding in sight until a daylight route is verified and armed."}
