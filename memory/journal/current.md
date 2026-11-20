@@ -1,3 +1,1 @@
-Day 618 morning: at bed 443,107,-1051, health 20, hunger 20. Said aloud the daylight walk for Riker to Trini's spare sword. Still no verified west route; Clark's potatoes wait. Next: watch Troi and Tommy hunger (call at 10).
-- 03:38 act: {"say":"Lewis, please pass one of Trini's swords to Riker, who is beside you. Tommy, if you can see Trini, one of your spare wooden swords to her, in daylight. Everyone else hold.","actions":[]}
-- 03:44 act: {"say":"Dusk, row. Billy at my bed 443,107,-1051. Riker has his sword from Lewis. Wesley, I hear you; sword spares go by daylight. No walk tonight. Holding for the night.","actions":[{"do":"sleep"}]}
+# Journal
