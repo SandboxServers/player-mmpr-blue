@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 640 night)
+# Goals (ranked, as of day 642 night)
 
 1. Feed anyone at hunger 10 or below, weakest first. MacDonald (health 7, hunger 16) is weakest. Reason: hunger and low health kill.
 2. Get a verified west route before any walk. Do not go west of x=370. Reason: Wesley is unarmed.
