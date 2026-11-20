@@ -37,3 +37,8 @@
 - 17:20 act: {"say":"Billy at my bed, health 20, hunger 20. Nobody at hunger 10 yet. No walk named; holding in sight.","intent":{"goal":"hold_row_until_day","program":"rest","arguments":{},"wake_on":["directly_add
 - 17:28 act: {"say":"Night, row. Billy at my bed, health 20, hunger 20. No walk named. Sleeping here in sight.","actions":[{"do":"sleep"}]}
 - 17:33 act: {"say":"Morning, row. Billy, health 20, hunger 20. Nobody at hunger 10 yet. No walk named; holding in sight until a daylight route is verified and armed."}
+- 17:34 act: {"say":"Morning. Billy here, health 20, hunger 20. No walk named yet. Kimberly, the potato is yours when you are at ten or below.","reasoning":"Morning in the row. Nobody is at hunger 10 or below, no 
+- 17:34 act: {"say":"Named walk, daylight, short: west from the row to x=380 at z=-1023 and straight back, not past 370. Armed: Billy (wooden sword), Picard (sword in hand), Clark (wooden sword for Wesley). Others
+- Day 660 day. West walk to x=380 still not started: only Kimberly is in sight; Picard and Clark not yet. Bcrusher and MacDonald hold unarmed at beds. Everyone hungers 16-20, none at 10. Holding at my bed.
+- 17:38 act: {"say":"Clark, I can see you in my view? I do not yet. Picard, I cannot see you from the bed either; come to the row middle chest at 447,107,-1037 so all three of us can see each other. Then we walk t
+- 17:39 act: {"say":"Dusk, row. No west walk today: Picard and Clark did not reach my view. Billy at my bed, health 20, hunger 20. Holding in sight, resting here. Walk again at daylight, named.","reasoning":"Dusk,
