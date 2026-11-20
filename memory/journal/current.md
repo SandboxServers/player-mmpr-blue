@@ -30,3 +30,14 @@
 - 19:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Billy going to bed at 443,107,-1022. No walk is named; hold where you are and say if anyone drops to h
 - 19:50 act: {"actions":[{"do":"sleep"}]}
 - 19:54 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy asleep at 443,107,-1022. No walk named. Hold in sight; say if anyone drops to hunger 10."}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1036}}],"say":"Morning. Billy here. Zack and Clark, I'm going to the middle chest at 447,107,-1037 to name the escort. Walk is in daylight only,
+- 19:55 act: {"actions":[{"do":"note","text":"At chest 447,107,-1037. Heard a bow drawn to the southwest. Only Clark is armed in sight, so no west walk yet."}],"say":"I'm at the middle chest. No walk today yet: on
+- 19:55 act: {"actions":[{"do":"note","text":"Picard reports a sword in hand at his bed. Armed now: Clark and Picard. Holding the walk until the bow sound to the southwest is gone."}],"say":"Picard, thank you. Cla
+- 19:58 act: {"actions":[{"do":"note","text":"Zack is coming to the chest with a wooden sword. MacDonald health 11 hunger 16, Troi 14 and 16. Escort plan waits for the group at the chest."}],"say":"Thank you, Zack
+- 19:59 act: {"actions":[{"do":"note","text":"Zack is at the chest with a wooden sword. Clark and Picard are not in my sight here, so no walk. Waiting for the escort to be together at the chest."}],"say":"Zack, th
+- 19:59 act: {"actions":[{"do":"note","text":"Named walk: to the oak at 414,104,-1126, staying east of x=370. Escorts Zack, Picard, Riker, all armed, in sight at the chest."}],"say":"Named walk, in daylight: to th
+- 20:00 act: {"actions":[{"do":"note","text":"The walk failed partway; I am at 436,107,-1042 and no escorts are in my sight. Stopping here. A sign by the row reads: Tommy, day 314, slain. No one walks alone."}],"s
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1036}},{"do":"note","text":"Walking back to the middle chest to regroup with the escorts. No walk until they are in sight."}],"say":"Going back 
+- 20:00 act: {"actions":[{"do":"note","text":"At the chest. Picard holds a wooden sword. Zack and Riker have no sword in hand, so only one armed escort is confirmed. No walk today; I stay at the chest in sight of 
+- 20:01 act: {"actions":[{"do":"note","text":"Midday at the chest. Zack confirms he stays and his sword is in his pack, so no walk. Waiting for Zack to hold his sword, then re-check for armed escorts."}],"say":"Go
+- 20:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Night is here. I am going to my bed at 443,107,-1022 in the row. No walks tonight."}
