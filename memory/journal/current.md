@@ -22,3 +22,6 @@
 - 04:14 act: {"say":"Tommy, keep the sword in your pack until I call the walk again. We will look at the west way from a safer side before the next try. Thank you, all."}
 - 04:17 say: {"text":"Billy here, morning. Tommy, stay with me at the row for now. The west walk is not called yet. Wesley's sword waits in your pack until I call it."}
 - 04:17 act: {"say":"Zack, thank you. Tommy, hold the sword. No west walk until we see a clear way from Jason's side.","intent":{"goal":"hold_row_and_watch_west_way","program":"rest","arguments":{},"wake_on":["dir
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Dusk is coming. I'm heading to my bed at 443,107,-1051 for the night."}
+- 04:23 act: {"actions":[{"do":"sleep"}]}
+- 04:23 act: {"actions":[{"do":"sleep"}]}
