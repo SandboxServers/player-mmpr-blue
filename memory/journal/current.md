@@ -8,3 +8,15 @@
 - 14:39 say: {"text":"Billy here, at my bed. Health and hunger full. Still holding for a named walk with an escort. Anyone hungry, say so."}
 - 14:45 Waking 1110, day 651. Health 20, hunger 20, at bed 443,107,-1023. Tommy answered: at bed, hunger 16, no food needed. No walk named. Holding; waiting for a verified west route.
 - 14:55 Row reports: all holding at beds in my sight, nobody at hunger 10 or below (Tommy 16, MacDonald 16 at health 11, Troi health 13.9). No walk named. Still no verified west route; I did not move.
+- 14:56 act: {"say":"Billy, dusk, at my bed 443,107,-1023. Health 20, hunger 20. Holding in the row. Lewis, Tommy, MacDonald reported in. No walk tonight."}
+- Dusk, day 652. At bed 443,107,-1023, health 20, hunger 20. Row reports in (Lewis 19, Tommy 16, MacDonald 16 at health 11). Nobody at hunger 10 or below. Holding; will sleep at night in my bed.
+- Slept at bed 443,107,-1023 on night of day 652 (sleep worked). Woke to morning: health 20, hunger 20. Row all holding in sight, nobody at hunger 10 or below. No walk; no verified west route.
+- Day 653 morning. Kimberly asked for the potato; I could not see her, so I kept it and told her to step into sight. She will say at hunger 10. Still holding at bed, no walk.
+- 15:00 act: {"say":"Billy, at my bed 443,107,-1023, health 20, hunger 20. Row: no walk yet. We still have no verified west route, so nobody goes west of x=370. Hold at beds in sight; anyone at hunger 10 or below,
+- 15:09 act: {"actions":[{"do":"sleep"}]}
+- 15:13 act: {"say":"Morning, row. Billy awake at my bed 443,107,-1023, health 20, hunger 20. Kimberly, you are at 17 and Tommy at 16; say the word and I will share the potato. No walk yet, still no verified west 
+- 15:13 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"potato","count":1}],"say":"Kimberly, giving you my potato now. Tell me if you cannot see it."}
+- 15:14 act: {"say":"Kimberly, I cannot see you from my bed, so the potato is still in my pack. Step into my sight and say so, and I will hand it over. Hunger 17 is not yet at the line, so no rush."}
+- 15:17 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Still no walk: we have no verified west route, and the bows to the southwest mean we stay put. Tommy, Wesley's sword and MacDonald's potato
+- Day 653 night. Row sleeping in my sight (Clark, MacDonald 11/16, John). Nobody at hunger 10 or below. No walk. I went to sleep at bed 443,107,-1023.
+- 15:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy at my bed 443,107,-1023, health 20, hunger 20. No walk. Sleeping in sight."}
