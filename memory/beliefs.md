@@ -35,5 +35,7 @@
 
 - Day 660: a named daylight walk needs every armed walker in my view at the chest before we set out; dusk came first and it did not start. Name the walk only when all are in sight.
 
+- Day 662: a named walk with one armed escort (Clark) was held back; two armed are the minimum. A give to Lewis (ag_lewis_01) worked once he was in reach; the short name "Lewis" was not found.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
