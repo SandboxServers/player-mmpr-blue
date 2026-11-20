@@ -22,6 +22,9 @@
 - Day 597: Trini's named bed 429,107,-1037 refused her in daylight. Hold beside it in sight; she lies down at night.
 - Day 620 and 621: the west way toward Wesley (416,107,-1050) was blocked on the morning walks. Not verified clear.
 - Day 621: a goto to my bed followed by sleep at night worked and skipped the night.
+- Day 623: a bed at dusk refused sleep; sleep worked after the world turned to night again. Sleep at the bed beside me (443,107,-1022) worked.
+- Day 623: bows heard to the southwest several times with no hit; the west walk stayed held.
+- An intent with max_block_operations 0 is rejected; use wait or a real limit of at least 1.
 
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
