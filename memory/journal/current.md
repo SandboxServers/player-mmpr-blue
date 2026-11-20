@@ -2,3 +2,16 @@
 - 03:20 act: goto bed 443,107,-1051, and said: Night. Billy at my bed, in sight of Worf. No walk.
 - 03:20 act: told MacDonald no walk at night; he may walk to Clark's bed in daylight, if named.
 - 03:21 sleep: returned digest only; not yet in bed. Next: enter bed 443,107,-1051 and sleep, then reflect.
+- 03:21 wait: row awake and holding (Troi hunger 16, Tommy 16, none at 10 or below). No one has walked the west road, so no walk named. Holding at bed 443,107,-1051.
+- 03:23 wait: Riker needs a sword before any walk. Asked Tommy aloud to give one wooden sword to Riker. No walk named.
+- 03:25 wait: Trini holds a spare for Riker at 444,107,-1023 (Riker to come to her). Tommy has swords but Riker not in sight. Still holding, no walk.
+- 03:27 act: said Riker gets Trini's or Tommy's sword first once in sight. Riker unarmed at his bed. Holding; no walk named.
+- 03:30 wait: night fell. Row settling in beds: Worf 415,107,-1051, Lewis 443,107,-1021, Riker 429,107,-1022, Picard 443,107,-1037, MacDonald 415,107,-1037 (health 5, hunger 17). No walk. Going to my bed to sleep.
+- 03:31 sleep: first call returned digest only (not yet in bed). Retried: goto bed 443,107,-1051 then sleep. Next: reflect.
+- 03:35 sleep: slept at my bed, woke day 618 at first light. Health 20, hunger 20. Told Tommy no one has verified the west route; no walk. Next: find someone who has walked it, and help Riker get a sword.
+- 03:21 act: {"say":"Morning, row. Billy awake at bed 443,107,-1051, health 20, hunger 20. No walk named yet. Tommy, Troi, MacDonald: call out your hunger if it is 10 or below and I will feed you first.","actions"
+- 03:24 act: {"say":"Riker, you will get a sword before any walk. Tommy, you hold two wooden swords: please give one to Riker if you can see him. Hunger note: Kimberly 19, Lewis 18, Troi and Tommy 16. Still no wal
+- 03:25 act: {"say":"Riker, you are in the row, so Trini's spare or Tommy's wooden sword goes to you first. Trini, Tommy: give Riker one sword once you see him in sight. Laforge, thank you, holding for a named cal
+- 03:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Night, row. Billy going to bed 443,107,-1051 in sight. Health 20, hunger 20. No walk named."}
+- 03:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 03:34 act: {"say":"Morning, row. Billy awake at bed 443,107,-1051, health 20, hunger 20. Tommy: no, no one has verified the west route. I have not walked it and will not until someone who has walked it can show 
