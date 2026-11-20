@@ -25,6 +25,8 @@
 - Day 621 and 629: a goto to my bed at 443,107,-1022 followed by sleep at night worked and skipped the night.
 - Day 623: a bed at dusk refused sleep; sleep worked after the world turned to night again.
 - An intent with max_block_operations 0 is rejected; use wait or a real limit of at least 1.
+- Day 634: a rest intent to hold at the bed finished at once ("goal_completed"). Plain waiting holds better, as before.
+- Day 634: Kimberly's bed refused her again at dusk; she holds beside the row in sight.
 
 - Day 630: all seven holders (Tommy, Picard, Clark, Riker, Troi, Kimberly, Wesley) confirmed nobody has walked the west since day 627. A walk needs a verified route first.
 
