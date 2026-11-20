@@ -1,14 +1,1 @@
 # Journal
-- 07:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy here. Night in the row. Health 20, hunger 20. I'm going to my bed to sleep."}
-- 07:59 act: {"actions":[{"do":"note","text":"Morning day 631. Health 20, hunger 20, at my bed 443,107,-1022. No walk named; west needs a verified route and armed escort."}],"say":"Morning, row. Billy at my bed, h
-- 07:59 act: {"actions":[],"say":"Morning, Tommy. No walk yet. I will name one only when someone has a verified west route. Hold at your bed, and tell me if your hunger drops to 10."}
-- 08:10 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Billy at my bed, health 20, hunger 20, no walk. Goodnight."}
-- 08:14 act: {"actions":[],"say":"Morning, row. Billy awake at my bed, health 20, hunger 20. Still no verified west route, so no walk. Troi, Tommy, Clark: thank you. Call out at hunger 10."}
-- 08:18 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1019}},{"do":"craft","item":"jungle_planks","count":8},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"
-- 08:18 act: {"actions":[{"do":"note","text":"Day 632: crafted wooden_sword at table 447,107,-1019. Armed for escort. Still no verified west route; holding at bed."}],"say":"Billy here. I have a wooden sword now. 
-- 08:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy going to bed at 443,107,-1022. Armed with a wooden sword. Goodnight, row."}
-- 08:25 act: {"actions":[{"do":"note","text":"Day 633 morning: awake at bed 443,107,-1022, health 20, hunger 20. Row holding at beds; no verified west route; no walk named. Nobody at hunger 10 or below."}],"say":"
-- 08:30 act: {"actions":[{"do":"note","text":"Day 632 late morning: row still holding at beds. Nobody has a verified west route (Tommy, Riker, Troi cannot verify). No walk named. Health 20, hunger 20. Waiting."}]}
-- 08:33 act: {"actions":[{"do":"note","text":"Morning day 632. Row holding at beds. Health 20, hunger 20. Riker and MacDonald holding, no walk named."}],"say":"Billy here. The row is holding at our beds, everyone 
-- 08:33 act: {"actions":[{"do":"note","text":"Day 632: MacDonald has no verified west route either. Still no walk. Holding at bed, health 20, hunger 20."}],"say":"Thank you, MacDonald. No verified west route yet, 
-- 08:36 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Billy at my bed, health 20, hunger 20, no walk. Goodnight."}
