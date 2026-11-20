@@ -7,3 +7,26 @@
 - 00:58 act: {"actions":[],"say":"Morning, row. No verified route yet from anyone, so no walk. Trini stays at 444,-1023 armed. Everyone hold. Troi and Tommy, call me at hunger 10."}
 - 01:07 act: {"actions":[{"do":"sleep"}],"say":"Billy: night, row. Sleeping here in sight. No walk until first light and a verified route."}
 - 01:09 act: {"actions":[],"say":"Morning, day 611. Still no verified route, so no walk. Everyone keep holding in sight. Trini, stay armed at 444,-1023."}
+- 01:14 act: {"say":"Jason, yes: walk to your bed at 416,107,-1050 now, in daylight, in my sight. Tell me when you are there.","reasoning":"Jason asked permission for a daylight walk back to his bed in my sight. D
+- 01:15 Approved Jason's daylight walk to his bed 416,107,-1050 in my sight. Jason confirmed he is walking. Holding in the row; Trini still at 444,-1023, no verified route.
+- 01:20 Dusk 611. Jason reached his bed 416,107,-1050 in sight. Picard's bed sleep failed; he holds. I slept in my bed 443,107,-1037 in the row's sight. No walks at night.
+- 01:40 Morning 611 held in row; Trini holds at 444,-1023, no route. Night 611 slept at bed 443,107,-1036; woke 612 morning. Row holding; hunger all 16+. No walk.
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Dusk, row. Picard, hold at your bed, do not walk tonight. I am going to my bed 443,
+- 01:17 act: {"actions":[{"do":"sleep"}],"say":"Billy in my bed at 443,107,-1037, in the row's sight. Holding until first light.","reasoning":"At my bed at dusk. Sleep now in sight of the row."}
+- 01:22 act: {"actions":[],"say":"Morning, row. Billy, health 20, hunger 20. No verified route to Trini yet, so no walk. Everyone hold in sight. Call me if hunger reaches 10.","reasoning":"Morning. Row holding, no
+- 01:25 act: {"actions":[],"say":"Trini, hold where you are, armed. Troi, hold at your bed; call me at hunger 10. Riker, keep the potatoes for anyone who calls at 10. No walk until a route is named.","reasoning":"
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Billy to the bed at 443,107,-1036, in sight. Holding. No walk until first light and a named route.","r
+- 01:34 act: {"actions":[],"say":"Morning, row. Yes: Jason, Lewis and Zack slept in beds in sight last night. Picard, try your bed again at night. Everyone hold. No walk until a route is named.","reasoning":"Picar
+- 01:37 act: {"actions":[],"say":"Zack, thanks. No route is verified yet, so no walk. Stay at your bed in sight.","reasoning":"Zack is ready for a walk; no verified route exists yet. Hold."}
+- 01:38 Morning 612. Lewis, John (Chapman) and Tommy report holding in sight, Tommy health 15 hunger 16. No verified route, no walk named. Holding at 444,107,-1051 with Picard adjacent; health 20, hunger 20. Waiting.
+- 01:38 act: {"actions":[],"say":"Wesley, morning. Bed 416,107,-1050 is Jason's, so stay on your own spot tonight. Try your bed 415,107,-1050 again at dusk, in sight. Still no walk named.","reasoning":"Wesley aske
+- 01:41 Wesley asked for Jason's bed 416,107,-1050; told him to keep his own spot and retry 415,107,-1050 at dusk. Lewis holds at his bed, no walk. Still holding at 444,107,-1051; health 20, hunger 20.
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night 612. Billy to the bed at 443,107,-1051, in sight. Wesley, hold where you are in sight, no walk at night. Tom
+- 01:47 Night 612 slept at bed 443,107,-1051 in sight; woke morning 612. Row all in sight (Worf, Jason, Riker, MacDonald, Laforge, Lewis). No walk named; Trini holds at 444,-1023.
+- 01:47 act: {"actions":[],"say":"Morning, row, day 612. Billy awake at 443,107,-1051, health 20, hunger 20. Worf, good to hear you are at your bed in sight. Everyone hold; no walk named yet. Trini, hold armed at 
+- 01:50 act: {"actions":[],"say":"Morning. Everyone is holding in sight, and no walk is named. Worf, Troi and Tommy, your bed spots are in the row; stay there. Call me at hunger 10.","reasoning":"The row reports h
+- 01:56 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Billy to the bed at 443,107,-1051, in sight. Everyone sleep at your own bed in sight. No walk until fir
+- 01:58 act: {"actions":[{"do":"sleep"}],"say":"Wesley, hold where you are until first light, no night walk. Try your bed at first light. Billy sleeping in sight at 443,107,-1051.","reasoning":"It is night. Sleep 
+- 01:59 act: {"actions":[],"say":"Kimberly, one try at your bed is fine if it is in sight. If refused, hold where you are. Crusher, good, sleep in sight. No walks at night.","reasoning":"Two row members report; an
+- 02:00 act: {"actions":[],"say":"Morning, row. Billy at 443,107,-1051, health 20, hunger 20. Still no verified route, so no walk. Kimberly, Zack, MacDonald, hold at your beds in sight. Trini, hold armed at 444,-1
+- 02:01 act: {"actions":[],"say":"Wesley, yes, one try at 415,107,-1050 in my sight, daylight. If refused, hold on your spot. Zack, hold at the row.","reasoning":"Wesley asked for one daylight try at his bed; allo
