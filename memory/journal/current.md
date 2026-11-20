@@ -30,3 +30,5 @@
 - 01:59 act: {"actions":[],"say":"Kimberly, one try at your bed is fine if it is in sight. If refused, hold where you are. Crusher, good, sleep in sight. No walks at night.","reasoning":"Two row members report; an
 - 02:00 act: {"actions":[],"say":"Morning, row. Billy at 443,107,-1051, health 20, hunger 20. Still no verified route, so no walk. Kimberly, Zack, MacDonald, hold at your beds in sight. Trini, hold armed at 444,-1
 - 02:01 act: {"actions":[],"say":"Wesley, yes, one try at 415,107,-1050 in my sight, daylight. If refused, hold on your spot. Zack, hold at the row.","reasoning":"Wesley asked for one daylight try at his bed; allo
+- 02:11 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Dusk 613. Standing in the row at 444,-1051, health 20, hunger 20. Bed next to me at 443,-1051; my named bed is 14 blocks 
+- 02:11 act: {"actions":[{"do":"sleep"}]}
