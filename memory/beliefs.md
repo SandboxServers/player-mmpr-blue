@@ -13,19 +13,15 @@
 - Holding with the rest program ends as a failed intent; plain waiting works better for holding.
 - Shots have come from the west near the oak at 376,101,-1029.
 - Ripe potatoes can be harvested by mining the plant block with count (mine "potatoes" worked).
-- Walks toward a bed can be blocked by others standing in the path; turn back and retry rather than push through. Worf's route to 415,107,-1036 was blocked on days 579, 580 and 581.
+- Walks toward a bed can be blocked by others standing in the path; turn back and retry rather than push through. Worf's route to 415,107,-1036 was blocked on days 579, 580, 581.
 - Potatoes (ripe) grow at 462-465,107,-1068 to -1073, reachable from the row without crossing the west.
-- Tommy eats potatoes fast when fed; two feedings took him from health 3 to 8.
-- Tommy holds two spare wooden swords (day 580); Worf is owed one first, Picard after.
-- Day 580 and 581: sleeping at a bed in sight of the row worked at dusk.
+- Tommy eats potatoes fast when fed.
 - Bows drawn to the south and east on day 581 without a hit; treat that direction as watched.
-- Troi at health 8 on day 581 ate 2 potatoes when given them.
-- Day 587: a give of 2 potatoes meant for Troi went to Zack, because Zack was the one I was facing. Check the name before giving; use the agent name exactly.
-- Day 587: Troi ate a potato on her own when hungry, so a promised give is not always needed.
-- Day 588: a bed at 429,107,-1036 took me at dusk, and the sleep was clean. Beds at 429,107,-1036/-1037 are in the row, in sight.
-- Day 588: Kimberly's bed at 415,107,-1036 has refused her twice. Do not force it.
-- Day 597: Trini's named bed 429,107,-1037 refused her in daylight ("only takes sleep at night"). Hold beside it in sight; she lies down at night.
+- A give can go to whoever I am facing; check the name before giving.
+- Kimberly's bed at 415,107,-1036 has refused her twice. Do not force it.
+- Day 597: Trini's named bed 429,107,-1037 refused her in daylight. Hold beside it in sight; she lies down at night.
+- Day 620 and 621: the west way toward Wesley (416,107,-1050) was blocked on the morning walks. Not verified clear.
+- Day 621: a goto to my bed followed by sleep at night worked and skipped the night.
 
-Curious next (day 588): how a sword comes into hand by itself; whether the west route to 415,107,-1036 can be walked at all. Tell: Worf and Tommy about the route; Trini and Troi about beds and food.
-
-Curious next: how a sword comes into hand by itself. Tell: Jason, Laforge, Picard. Who could I tell: Tommy and Zack about the field route, and Troi about eating when low.
+Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
+Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
