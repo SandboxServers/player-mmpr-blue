@@ -25,3 +25,7 @@
 - 04:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Dusk is coming. I'm heading to my bed at 443,107,-1051 for the night."}
 - 04:23 act: {"actions":[{"do":"sleep"}]}
 - 04:23 act: {"actions":[{"do":"sleep"}]}
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, I am going to bed at 443,107,-1051. Tommy, Picard and the row, sleep well."}
+- 04:27 act: {"actions":[],"say":"Billy's daylight call: Tommy, bring the spare sword to Wesley at 416,107,-1050. Picard escorts, Jason beside Worf. Stop if blocked."}
+- 04:28 act: {"actions":[],"say":"Tommy, stop here. Walk back to your bed with the sword, Picard with you. Path blocked again; we try a different way later."}
+- 04:29 act: {"actions":[],"say":"Worf, I have not seen sheep yet, so I cannot say. Row holds. Next west try waits for a clear route."}
