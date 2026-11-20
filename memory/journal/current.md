@@ -17,3 +17,13 @@
 - 15:43 act: {"say":"Back at the row chest. East route checked to x=460, nothing seen. Light is dimming: everyone to your named beds now, in sight of each other. Kimberly, keep the potato. Next walk when the route
 - 15:44 act: {"say":"Billy here, health 20, hunger 20. Holding at the row chest with Kimberly, Lewis and Troi in reach. No walk until light.","intent":{"goal":"hold_row_until_day","program":"rest","arguments":{},"
 - 15:44 act: {"say":"Billy going to my bed at 443,107,-1023 in the row now. Good night, row.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}]}
+- Day 654 day. Back at my bed 443,107,-1023 with Kimberly and Picard in sight; set a hold intent. Waiting for the group before any walk.
+- 15:45 act: {"say":"Billy here, at my bed with you both. Health 20, hunger 20. No walk until the group is named and in sight.","intent":{"goal":"hold_at_bed_until_group_walk","program":"rest","arguments":{},"wake
+- Day 654 thunder. Row holding at named beds, all reported health 11-20, hunger 16-20. Heard a bow far to the southwest. No walk named. Still at my bed.
+- 15:49 act: {"say":"Billy: dusk now. No walk tonight. Everyone stay at named beds in sight. Tommy and Deanna at hunger 16; the potato goes to whoever hits 10 first."}
+- Day 655 morning. Kimberly's bed 443,107,-1036 refused; she stands at my side (443,107,-1021) holding the potato. Holding; no walk named.
+- Day 655 dusk/day. Told Kimberly to stay at my side. Row all holding in sight, health 15-20, hunger 16-20. Still no walk named. Lewis holds 10 potatoes.
+- Day 656 dusk. Sleep attempt failed: it is not night yet. Correction: I did not sleep. At my bed 443,107,-1023, health 20, hunger 20, days_since_sleep 2. Kimberly 2.1 blocks away holding the potato. No walk named. Waiting for true night, then sleep.
+- 15:57 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Kimberly, I heard your bed refused; try the bed at 443,107,-1022, beside mine. No walk named yet; hold in sight until I name one."}
+- 16:03 act: {"say":"Dusk, Kimberly. Stay at my side; I sleep here at 443,107,-1023 tonight. Bed 443,107,-1037 is yours to try if it takes you."}
+- 16:36 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Holding; no walk named. I will sleep at my bed when night comes."}
