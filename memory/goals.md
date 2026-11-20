@@ -1,10 +1,10 @@
-# Goals (ranked, as of day 647 night)
+# Goals (ranked, as of day 649 night)
 
-1. Feed anyone at hunger 10 or below, weakest first. Tommy (health 15, hunger 16) and Troi (health 14, hunger 16) and Kimberly (health 15, hunger 17) are closest to it. Reason: hunger and low health kill.
-2. Get a verified west route before any walk. Do not go west of x=370. Reason: Wesley is unarmed. Nobody has walked the west since day 627.
+1. Feed anyone at hunger 10 or below, weakest first. Closest: MacDonald (health 9, hunger 17, four potatoes), Tommy and Troi (hunger 16), Kimberly (hunger 17). Reason: hunger and low health kill.
+2. Get a verified west route before any walk. Do not go west of x=370. Reason: Wesley is unarmed; nobody has walked the west since day 627.
 3. Get a sword to Wesley (Clark holds the spare), Lewis and Beverly. Reason: unarmed people cannot walk safely.
 4. Keep Trini armed and at her bed at night.
 5. Keep the row sheltered and asleep at named beds at night, in sight.
 6. Later, with a safe group: the potato field and the oak at 414,104,-1126. Find the sheep.
 
-Curious next: where the bows to the south come from. Tell Jason and the group what the row has seen when they appear.
+Curious next: where the bows to the southwest come from. Tell Jason and the group what the row has seen when they appear.
