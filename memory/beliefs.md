@@ -26,5 +26,7 @@
 - Day 623: a bed at dusk refused sleep; sleep worked after the world turned to night again.
 - An intent with max_block_operations 0 is rejected; use wait or a real limit of at least 1.
 
+- Day 630: all seven holders (Tommy, Picard, Clark, Riker, Troi, Kimberly, Wesley) confirmed nobody has walked the west since day 627. A walk needs a verified route first.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
