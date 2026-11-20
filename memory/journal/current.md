@@ -1,1 +1,19 @@
 # Journal
+- 15:39 act: {"say":"Morning, Kimberly. Billy at my bed, health 20, hunger 20. Staying in the row for now, no walk until it is light and we name it together.","intent":{"goal":"hold_row_until_day","program":"rest"
+- Night, at my bed 443,107,-1023, health 20, hunger 20. Greeted Kimberly, set rest intent until day. No walk; nobody at hunger 10 or below.
+- Day 654. Proposed a short daylight east-side walk with armed escort. Potato give to Kimberly failed: not in sight. Holding at bed, waiting for someone to come into sight.
+- Day 654. Named the east-side daylight walk: Billy, Picard, Deanna, Kimberly armed; Lewis with spare sword; Tommy holds. Waiting for all to come into my view before we go.
+- 15:39 act: {"say":"Morning, all. Billy here, health 20, hunger 20, wooden sword in hand. Kimberly, I still have the potato for you. Proposal: a short daylight walk east-side only, to check the route, with an arm
+- 15:39 act: {"say":"Named walk: east-side check from the row, daylight, short loop, back before dark. Armed: Billy, Picard, Deanna, Kimberly. Lewis, come with Picard's sword spare. Tommy, hold in sight. Everyone 
+- Day 654 dim. Walked to the row's middle chest 447,107,-1037. Lewis in reach. Kimberly and Picard not yet in sight; still holding for the named walk.
+- Day 654 dim. Kimberly came to the chest in sight; gave her the potato. Lewis in reach. Picard and Deanna still to come into sight before the walk.
+- Day 654 bright. Potato given to Kimberly (worked). Named east route to x=460 at z=-1037 and back; Billy and Deanna armed. Travelling now.
+- Day 654 midday. Reached x=460 on the east route, no hostiles seen. Sign nearby reads "Here lies ag_lewis_01, Day 467, shot" (old; Lewis is alive in the row). Turning back to the row chest.
+- Day 654 dim. Back at the row chest, safe. East check to x=460 done, nothing seen. Told everyone to go to named beds; set rest intent. Potato is with Kimberly for whoever hits hunger 10 first.
+- 15:41 act: {"say":"Kimberly, Picard: meet me at the chest at 447,107,-1037, in the middle of the row. I am walking there now.","actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1037}}]}
+- 15:42 act: {"say":"Kimberly, here is the potato. Picard, are you in sight? Lewis and Kimberly, stay close. We walk once Picard and Deanna are with us.","actions":[{"do":"give","to":"ag_kimberly_01","item":"potat
+- 15:43 act: {"say":"Route: east from the row to x=460, same z, about 15 blocks, then straight back. Turn back when we reach x=460 or when light dims. Armed: Billy, Deanna (wooden sword). Kimberly and Lewis stay w
+- 15:43 act: {"say":"At x=460, no hostile seen on the east route. Turning back to the row chest now. Kimberly, keep the potato for Tommy or whoever hits 10 first.","intent":{"goal":"return_to_row_chest","program":
+- 15:43 act: {"say":"Back at the row chest. East route checked to x=460, nothing seen. Light is dimming: everyone to your named beds now, in sight of each other. Kimberly, keep the potato. Next walk when the route
+- 15:44 act: {"say":"Billy here, health 20, hunger 20. Holding at the row chest with Kimberly, Lewis and Troi in reach. No walk until light.","intent":{"goal":"hold_row_until_day","program":"rest","arguments":{},"
+- 15:44 act: {"say":"Billy going to my bed at 443,107,-1023 in the row now. Good night, row.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}]}
