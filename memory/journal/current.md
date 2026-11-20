@@ -3,3 +3,10 @@
 - 03:57 act: {- Dusk 619: walked to bed 443,107,-1051, said greeting, set rest intent to wait for night. Troi and MacDonald fed; Tommy holds sword for Wesley, daylight call.
 - 03:57 act: {"intent":{"goal":"rest_at_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy at bed 443,107,-1051, health 20, hunger 20. No walk. Worf and the row, rest well."}
+- 04:00 act: {"say":"Morning, row. Billy at bed 443,107,-1051, health 20, hunger 20. Nobody is at hunger 10 or below. Tommy, hold the wooden sword for Wesley; I will call the walk in daylight with an armed escort,
+- 04:01 act: {"say":"Wesley, named call for the walk: Billy and Tommy go west to you at 416,107,-1050 in daylight, Picard as armed escort. Tommy brings the spare wooden sword. Walking now.","actions":[]}
+- 04:04 act: {"say":"Thank you, Picard. Going to Tommy first to take the spare sword, then west to Wesley together.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1063}}]}
+- 04:04 act: {"say":"Tommy, I am beside you. Please give me one wooden sword for Wesley. Picard is holding at 443,107,-1037 as escort; I will call him when we go west.","actions":[]}
+- 04:05 act: {"say":"Tommy, thank you. Going west now to Wesley at 416,107,-1050, daylight, with Picard as escort.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
+- 04:05 act: {"say":"Wesley, Billy here at 416,107,-1053. My way to you was blocked. Tommy, do you see Wesley? Wesley, step into sight so Tommy can hand over the sword.","actions":[]}
+- 04:09 act: {"say":"Jason, good to hear you, and thank you. Wesley is out of sight and the way was blocked, so I am heading back east to the row before dusk. Tommy, bring the sword back and we will try again tomo
