@@ -37,5 +37,8 @@
 
 - Day 662: a named walk with one armed escort (Clark) was held back; two armed are the minimum. A give to Lewis (ag_lewis_01) worked once he was in reach; the short name "Lewis" was not found.
 
+- Day 673: Tommy Oliver came to the row at dusk-to-day and was welcomed by Trini, Zack, Kimberly and Deanna. He has not yet spoken to me directly.
+- Day 673: no one in the row needed feeding; hunger stayed above 10 all day.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
