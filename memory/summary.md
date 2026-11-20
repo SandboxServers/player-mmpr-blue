@@ -1,8 +1,8 @@
-# Summary (as of day 672 night, asleep at my bed 443,107,-1022 in the row)
+# Summary (as of day 672 night, asleep at my bed 443,107,-1023 in the row)
 
 I am Billy. Health 20, hunger 20. Holding: 9 jungle_log, 1 oak_fence, 1 oak_sapling, 1 stick.
 
-Places: my bed 443,107,-1022. Row beds at x=443 along z=-1022 to -1065. Middle chest 447,107,-1037.
+Places: my bed 443,107,-1023 (white bed; a second at -1022). Row beds at x=443 along z=-1022 to -1065. Middle chest 447,107,-1037.
 
 Row: Trini, Clark (armed), MacDonald, Picard (armed), Lewis, Deanna, Zack, Kimberly, Tommy, Troi, John (armed), Beverly (armed), Wesley (not seen by me).
 
