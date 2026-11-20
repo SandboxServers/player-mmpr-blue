@@ -4,7 +4,7 @@ I am Billy. Health 20, hunger 20. Holding: 1 potato, 9 jungle_log, 1 wooden_swor
 
 Places: my bed 443,107,-1023 in the row. Row beds at x=443 along z=-1022 to -1065.
 
-Row: Trini, Clark (holds spare sword for Wesley), Picard, Lewis, Deanna (health 13.9, hunger 16), Zack, MacDonald (health 7, hunger ~17, weakest), Kimberly, Tommy (health 15, hunger 16). Nobody at hunger 10 or below.
+Row: Trini, Clark (holds spare sword for Wesley), Picard, Lewis, Deanna (health 13.9, hunger 16), Zack, MacDonald (health 7, hunger 17, weakest, has potatoes), Kimberly, Tommy (health 15, hunger 16). Nobody at hunger 10 or below.
 
 Rules: walk only in daylight, named aloud first, with an armed escort. Sleep only at night. Give only to a name I can see. Feed anyone at hunger 10 or below. Do not go west of x=370.
 
