@@ -10,3 +10,13 @@
 - 04:05 act: {"say":"Tommy, thank you. Going west now to Wesley at 416,107,-1050, daylight, with Picard as escort.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}]}
 - 04:05 act: {"say":"Wesley, Billy here at 416,107,-1053. My way to you was blocked. Tommy, do you see Wesley? Wesley, step into sight so Tommy can hand over the sword.","actions":[]}
 - 04:09 act: {"say":"Jason, good to hear you, and thank you. Wesley is out of sight and the way was blocked, so I am heading back east to the row before dusk. Tommy, bring the sword back and we will try again tomo
+- 04:10 act: {"say":"Billy here, at my bed 443,107,-1051. Health 20, hunger 20. Tommy, Jason: I hear you. Walk to Wesley waits for morning daylight and my named call.","intent":{"goal":"rest_at_bed_tonight","progr
+- 04:10 act: {"intent":{"goal":"rest_at_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,
+- Day 620 morning: slept at bed 443,107,-1051 (partial sleep, then woke in day). Named walk to Wesley called. Tommy walking west himself with the spare sword, Picard escort; I stay back near 444,107,-1062 and watch the way.
+- Day 620: west way blocked again; Tommy stopped at 416,107,-1053 and came back with the sword. Sword stays in Tommy's pack until my next named call. Jason holds at Worf's 415,107,-1051. No west walk until the way is checked.
+- 04:12 Dusk at bed 443,107,-1051, health 20, hunger 20. Sleep failed earlier (not night). Set rest intent to wait for night. Tommy and Jason hold; Wesley's sword waits for daylight call.
+- 04:10 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 04:13 act: {"say":"Morning, row. Billy calling the walk now: Tommy, Picard as armed escort, to Wesley at 416,107,-1050 with the spare wooden sword. Wesley, stay in sight of Jason and Worf.","actions":[{"do":"got
+- 04:13 act: {"say":"Tommy, Billy beside you. Please give me one wooden sword for Wesley now. Picard, escort me west after."}
+- 04:14 act: {"say":"Tommy, good work stopping. The way is blocked again, so do not go on alone. Come back east to me at 444,107,-1062 with the sword. Wesley, if you can see Tommy, step toward him; Jason, stay by 
+- 04:14 act: {"say":"Tommy, keep the sword in your pack until I call the walk again. We will look at the west way from a safer side before the next try. Thank you, all."}
