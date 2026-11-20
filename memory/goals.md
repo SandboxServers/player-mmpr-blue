@@ -1,7 +1,7 @@
-# Goals (ranked, as of day 644 night)
+# Goals (ranked, as of day 647 night)
 
-1. Feed anyone at hunger 10 or below, weakest first. MacDonald (health 7, hunger 17) is weakest; Deanna and Tommy at 16. Reason: hunger and low health kill.
-2. Get a verified west route before any walk. Do not go west of x=370. Reason: Wesley is unarmed.
+1. Feed anyone at hunger 10 or below, weakest first. Tommy (health 15, hunger 16) and Troi (health 14, hunger 16) and Kimberly (health 15, hunger 17) are closest to it. Reason: hunger and low health kill.
+2. Get a verified west route before any walk. Do not go west of x=370. Reason: Wesley is unarmed. Nobody has walked the west since day 627.
 3. Get a sword to Wesley (Clark holds the spare), Lewis and Beverly. Reason: unarmed people cannot walk safely.
 4. Keep Trini armed and at her bed at night.
 5. Keep the row sheltered and asleep at named beds at night, in sight.
