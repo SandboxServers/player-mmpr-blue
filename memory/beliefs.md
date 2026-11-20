@@ -13,17 +13,17 @@
 - Holding with the rest program ends as a failed intent; plain waiting works better for holding.
 - Shots have come from the west near the oak at 376,101,-1029.
 - Ripe potatoes can be harvested by mining the plant block with count (mine "potatoes" worked).
-- Walks toward a bed can be blocked by others standing in the path; turn back and retry rather than push through. Worf's route to 415,107,-1036 was blocked on days 579, 580, 581.
+- Walks toward a bed can be blocked by others standing in the path; turn back and retry rather than push through.
 - Potatoes (ripe) grow at 462-465,107,-1068 to -1073, reachable from the row without crossing the west.
 - Tommy eats potatoes fast when fed.
 - Bows drawn to the south and east on day 581 without a hit; treat that direction as watched.
+- Bows drawn to the southwest on days 623, 627, 628, and 629; no hit taken. The west stays held.
 - A give can go to whoever I am facing; check the name before giving.
 - Kimberly's bed at 415,107,-1036 has refused her twice. Do not force it.
 - Day 597: Trini's named bed 429,107,-1037 refused her in daylight. Hold beside it in sight; she lies down at night.
-- Day 620 and 621: the west way toward Wesley (416,107,-1050) was blocked on the morning walks. Not verified clear.
-- Day 621: a goto to my bed followed by sleep at night worked and skipped the night.
-- Day 623: a bed at dusk refused sleep; sleep worked after the world turned to night again. Sleep at the bed beside me (443,107,-1022) worked.
-- Day 623: bows heard to the southwest several times with no hit; the west walk stayed held.
+- Day 620, 621, 627: the west way toward Wesley (416,107,-1050) was blocked at 413,107,-1050 on the walks. Not verified clear.
+- Day 621 and 629: a goto to my bed at 443,107,-1022 followed by sleep at night worked and skipped the night.
+- Day 623: a bed at dusk refused sleep; sleep worked after the world turned to night again.
 - An intent with max_block_operations 0 is rejected; use wait or a real limit of at least 1.
 
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
