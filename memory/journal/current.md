@@ -37,3 +37,6 @@
 - 02:14 act: {"say":"Good morning, Jason. Billy here, health 20, hunger 20. Still no verified route to Trini, so no walk. Everyone hold in sight; call me at hunger 10.","reasoning":"Morning, row holding. No route 
 - 02:18 act: {"say":"Morning, Troi. Hold at your bed in sight. Tommy and Troi, call me the moment hunger reaches 10 and I will feed you the potato. No walk yet.","reasoning":"Troi holds at hunger 16. Keep her in p
 - 02:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Billy to bed 443,107,-1051, in sight. No walks until first light and a named route. Call me at hunger 
+- 02:33 act: {"say":"Morning, row. Billy here at my bed 443,107,-1051. Holding. No walk yet. Trini, stay armed where you are and hold for a named route. Troi and Tommy, call me at hunger 10.","reasoning":"Daytime,
+- 02:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk, row. Billy to my bed 443,107,-1051, in sight. No walks until f
+- 02:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed on bed; try sleep directly at my bed, which I am standing next to."}
