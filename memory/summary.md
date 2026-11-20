@@ -8,4 +8,4 @@ Row: Trini, Clark (spare sword), Picard, Lewis, Deanna, Zack, MacDonald, Kimberl
 
 Rules: walk only in daylight, named aloud first, with an armed escort all in sight of each other at the chest before we set out. Sleep only at night. Give only to a name I can see. Feed anyone at hunger 10 or below. Do not go west of x=370.
 
-Open: no verified west route. No walk named on day 661; the row waited at beds all day and I kept them there. No sheep seen. Wesley not seen by me. Bows heard to the southwest.
+Open: no verified west route. No sheep seen. Wesley not seen by me. Bows heard to the southwest.
