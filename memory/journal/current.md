@@ -20,3 +20,5 @@
 - 04:13 act: {"say":"Tommy, Billy beside you. Please give me one wooden sword for Wesley now. Picard, escort me west after."}
 - 04:14 act: {"say":"Tommy, good work stopping. The way is blocked again, so do not go on alone. Come back east to me at 444,107,-1062 with the sword. Wesley, if you can see Tommy, step toward him; Jason, stay by 
 - 04:14 act: {"say":"Tommy, keep the sword in your pack until I call the walk again. We will look at the west way from a safer side before the next try. Thank you, all."}
+- 04:17 say: {"text":"Billy here, morning. Tommy, stay with me at the row for now. The west walk is not called yet. Wesley's sword waits in your pack until I call it."}
+- 04:17 act: {"say":"Zack, thank you. Tommy, hold the sword. No west walk until we see a clear way from Jason's side.","intent":{"goal":"hold_row_and_watch_west_way","program":"rest","arguments":{},"wake_on":["dir
