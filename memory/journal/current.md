@@ -38,3 +38,6 @@
 - 23:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}],"intent":{"goal":"hold_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
 - 23:07 act: {"say":"Morning, row. Billy at my bed 443,107,-1036, health 20, hunger 20. Holding in sight, no walk named. Tommy and Worf, hold; I will call at daylight. Tommy, call me at hunger 10 and I bring my po
 - 23:09 act: {"say":"Billy here, bed 443,107,-1036, health 20, hunger 20. Troi, health 13.9 and hunger 16 is not yet my line; I hold my potato for hunger 10. Call me then. No walk named."}
+- 00:36 act: {"say":"Morning, Troi. I am at my bed, health and hunger full. No walk named yet. Jason, please come into sight before anyone walks west. I have one potato for whoever calls at hunger 10.","reasoning"
+- 00:37 act: {"say":"Thank you, Jason. No walk from me today. The row holds; anyone at hunger 10 call me and I will feed you.","reasoning":"Jason is in the row. No verified route west, so no walk. Hold and wait fo
+- 00:38 act: {"say":"Dusk. I am going to sleep in my bed now. Troi, call me at hunger 10 and I will feed you in the morning.","reasoning":"Dusk, safe in the row at my bed, no errand half-done. Sleep now."}
