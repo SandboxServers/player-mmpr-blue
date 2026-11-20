@@ -1,6 +1,6 @@
-# Goals (ranked, as of day 661 night)
+# Goals (ranked, as of day 662 night)
 
-1. Feed anyone at hunger 10 or below, weakest first. Closest: Tommy, Troi, Deanna (hunger 16), MacDonald (health 11, hunger 16). Kimberly holds a potato; Tommy has 2. Reason: hunger and low health kill.
+1. Feed anyone at hunger 10 or below, weakest first. Watch MacDonald (health 11, hunger 16) and Troi (health 14, hunger 16). Reason: hunger and low health kill.
 2. Get a verified west route before any walk. Do not go west of x=370. Name the escort aloud at the middle chest 447,107,-1037 first. Reason: nobody has walked the west since day 627.
 3. Get a sword to Wesley (Clark holds the spare), Lewis and Beverly. Reason: unarmed people cannot walk safely.
 4. Keep Trini armed and at her bed at night.
