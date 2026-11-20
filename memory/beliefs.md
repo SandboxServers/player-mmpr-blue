@@ -33,5 +33,7 @@
 - Day 649: MacDonald at health 9 with four potatoes holds steady at his bed; he eats at hunger 10.
 - Day 630: all seven holders (Tommy, Picard, Clark, Riker, Troi, Kimberly, Wesley) confirmed nobody has walked the west since day 627. A walk needs a verified route first.
 
+- Day 660: a named daylight walk needs every armed walker in my view at the chest before we set out; dusk came first and it did not start. Name the walk only when all are in sight.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.

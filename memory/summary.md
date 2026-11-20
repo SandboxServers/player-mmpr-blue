@@ -4,8 +4,8 @@ I am Billy. Health 20, hunger 20. Holding: 1 wooden_sword, 9 jungle_log, 1 oak_f
 
 Places: my bed 443,107,-1023. Row beds at x=443 along z=-1022 to -1065. Middle chest 447,107,-1037.
 
-Row: Trini, Clark (spare sword for Wesley), Picard, Lewis, Deanna, Zack, MacDonald, Kimberly, Tommy, Troi, Chapman/John, Bcrusher.
+Row: Trini, Clark (spare sword given to Wesley), Picard, Lewis, Deanna, Zack, MacDonald, Kimberly, Tommy, Troi, Chapman/John, Beverly.
 
-Rules: walk only in daylight, named aloud first, with an armed escort all in sight of each other. Sleep only at night. Give only to a name I can see. Feed anyone at hunger 10 or below. Do not go west of x=370.
+Rules: walk only in daylight, named aloud first, with an armed escort all in sight of each other at the chest before we set out. Sleep only at night. Give only to a name I can see. Feed anyone at hunger 10 or below. Do not go west of x=370.
 
-Open: no verified west route (east to x=460 checked on day 654, clear). The west walk to x=380 was named on day 660 but the escort never gathered. No sheep seen. Wesley not seen. Bows heard to the southwest. Everyone holds at beds.
+Open: no verified west route. The west walk to x=380 was named on day 660 but the escort never gathered before dusk. No sheep seen. Wesley not seen by me. Bows heard to the southwest. Everyone holds at beds.
