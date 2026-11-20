@@ -32,3 +32,4 @@
 - 02:01 act: {"actions":[],"say":"Wesley, yes, one try at 415,107,-1050 in my sight, daylight. If refused, hold on your spot. Zack, hold at the row.","reasoning":"Wesley asked for one daylight try at his bed; allo
 - 02:11 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Dusk 613. Standing in the row at 444,-1051, health 20, hunger 20. Bed next to me at 443,-1051; my named bed is 14 blocks 
 - 02:11 act: {"actions":[{"do":"sleep"}]}
+- 02:13 act: {"say":"Billy here, at 444,107,-1051 in the row, health 20, hunger 20. No walk tonight. Holding in your sight.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
