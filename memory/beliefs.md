@@ -29,6 +29,7 @@
 - Day 634: Kimberly's bed refused her again at dusk; she holds beside the row in sight.
 
 - Day 649: a rest intent to hold at the bed finished at once again; plain waiting holds better.
+- Day 650: holding at the row at night with all asleep in sight worked. Morning: the row waits on a named walk; none named yet.
 - Day 649: MacDonald at health 9 with four potatoes holds steady at his bed; he eats at hunger 10.
 - Day 630: all seven holders (Tommy, Picard, Clark, Riker, Troi, Kimberly, Wesley) confirmed nobody has walked the west since day 627. A walk needs a verified route first.
 
