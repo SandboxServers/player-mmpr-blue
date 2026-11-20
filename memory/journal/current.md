@@ -41,3 +41,4 @@
 - 00:36 act: {"say":"Morning, Troi. I am at my bed, health and hunger full. No walk named yet. Jason, please come into sight before anyone walks west. I have one potato for whoever calls at hunger 10.","reasoning"
 - 00:37 act: {"say":"Thank you, Jason. No walk from me today. The row holds; anyone at hunger 10 call me and I will feed you.","reasoning":"Jason is in the row. No verified route west, so no walk. Hold and wait fo
 - 00:38 act: {"say":"Dusk. I am going to sleep in my bed now. Troi, call me at hunger 10 and I will feed you in the morning.","reasoning":"Dusk, safe in the row at my bed, no errand half-done. Sleep now."}
+- 00:38 act: {"say":"Trini, stay where you are and hold; no walk at night. Kimberly and Riker are holding too. I am asleep at my bed in the row.","actions":[{"do":"sleep"}]}
