@@ -33,3 +33,7 @@
 - 02:11 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"note","text":"Dusk 613. Standing in the row at 444,-1051, health 20, hunger 20. Bed next to me at 443,-1051; my named bed is 14 blocks 
 - 02:11 act: {"actions":[{"do":"sleep"}]}
 - 02:13 act: {"say":"Billy here, at 444,107,-1051 in the row, health 20, hunger 20. No walk tonight. Holding in your sight.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
+- 02:14 act: {"say":"Billy here, at 444,107,-1050 in the row. Wesley: yes, try your bed 415,107,-1050 in my sight. Everyone else hold at your beds. No walks tonight.","reasoning":"Night, row holding. Answer Wesley
+- 02:14 act: {"say":"Good morning, Jason. Billy here, health 20, hunger 20. Still no verified route to Trini, so no walk. Everyone hold in sight; call me at hunger 10.","reasoning":"Morning, row holding. No route 
+- 02:18 act: {"say":"Morning, Troi. Hold at your bed in sight. Tommy and Troi, call me the moment hunger reaches 10 and I will feed you the potato. No walk yet.","reasoning":"Troi holds at hunger 16. Keep her in p
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Billy to bed 443,107,-1051, in sight. No walks until first light and a named route. Call me at hunger 

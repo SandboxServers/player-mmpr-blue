@@ -1,6 +1,7 @@
-# Handoff, day 610 (midday)
+# Handoff, day 614 night
 
-Billy at 444,107,-1051 in the row, health 20, hunger 20. No errand half-done.
-Whole row holding in sight. Troi (16) and Tommy (16) call at hunger 10.
-Trini holds at 444,-1023 in the open, armed, health 20. No verified route from the open to the row; Kimberly's last west walk blocked at 438,107,-1036 (day 601). No walk named.
-Next: keep holding; walk to Trini only when a route is verified and named aloud, with Picard as escort, in daylight.
+Billy asleep at bed 443,107,-1051 in the row, health 20, hunger 20. Nothing half-done.
+Row holding in sight: Jason, Zack, Laforge, Wesley, Worf, Riker, Lewis, Picard, Tommy, Troi, MacDonald, Kimberly.
+Trini holds armed at 444,107,-1023 in the open. No verified route to her; no walk named.
+Troi and Tommy at hunger 16 (call at 10). Feed them first (potato in pack).
+Next: at first light, greet row, check hunger, keep holding. Walk only with a verified, named route.
