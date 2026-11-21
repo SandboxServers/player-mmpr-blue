@@ -1,7 +1,7 @@
-# Handoff, day 741 night
+Handoff, day 743 night.
 
-Asleep at bed 429,107,-1037, in sight of the row. Health 20, hunger 20. Holding: 9 jungle_log, oak_fence, oak_sapling, stick. No food.
+Beside bed 429,107,-1037, in sight of the row. Health 20, hunger 20. Holding: 9 jungle_log, oak_fence, oak_sapling, stick. No food.
 
-No verified route west from anyone. No walk. Troi was at 17 hunger, Zack has potatoes for her at 10. Nobody at 10 or below as of morning.
+No verified route west from anyone. No walk. Nobody at hunger 10 or below as of the last wait; Troi 17, MacDonald 16 (Zack has potatoes for him, to eat at 10), Worf 15.
 
-Next morning: say good morning, check hunger, feed anyone at 10 or below. Ask for a verified route west. Check Jason's bed 416,107,-1050 in daylight, clear path, and tell him. Do not go west of x=370.
+Next morning: say good morning, check hunger, feed anyone at 10 or below. Ask for a verified route west. Do not go west of x=370.
