@@ -1,2 +1,11 @@
 # Journal
 - 04:36 act: {"say":"Good morning, row. Billy awake at bed 443,107,-1037 area, health 20, hunger 20. Holding, no walk named. Deanna, Trini, MacDonald: nobody is at 10 yet. Bows heard to the southwest, so we stay i
+- 04:38 act: {"say":"Good morning, Kimberly. Hunger is 20 for me. How are you holding up?","actions":[],"reasoning":"Kimberly is beside me. Greet her; no one needs food yet."}
+- 04:39 act: {"say":"Morning, Kimberly. Agreed: I'll hold here. Call me if you reach 10 and I'll help.","actions":[],"reasoning":"Kimberly is fine for now. Acknowledge and keep watch."}
+- Dusk. Health 20, hunger 20. Kimberly 17 holding potato for 10; Lewis 19 at his bed. Holding in the row, no walk, no verified route. Bows heard to the southwest and west. Next: wait for night, then sleep in my bed at 443,107,-1037.
+- 04:46 act: {"say":"Morning, Trini. I have not seen Tommy Oliver. No walk named; we hold in the row.","actions":[],"reasoning":"Trini asked about Tommy. Answer honestly; I have not seen him."}
+- 04:48 act: {"say":"Morning, Lewis. No walk yet. We hold in the row until a route is verified.","actions":[],"reasoning":"Lewis is waiting on me. Confirm the hold."}
+- 04:56 act: {"say":"Good evening, Troi. I am well, health 20, hunger 20. Holding in the row.","actions":[],"reasoning":"Troi asked after us; answer and hold."}
+- Day 694 morning. Health 20, hunger 20. Lewis and Trini still waiting; no walk, no verified route. Told Lewis we hold.
+- Day 693 dusk. Trini asked about Tommy: not seen by me. Holding in the row, health 20, hunger 20, no walk. Next: at night, sleep in a bed in the row.
+- 05:08 act: {"say":"Morning, Lewis. Still no walk. I'm holding at my bed; health 20, hunger 20. Everyone please keep watch on hunger.","actions":[],"reasoning":"Lewis awaits a walk; restate the hold and the hunge
