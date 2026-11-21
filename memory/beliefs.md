@@ -53,5 +53,7 @@
 
 - Day 731: morning greeting got replies from all; no one at hunger 10. Potatoes held by Lewis and Clark. Sleep at dusk at bed 429,107,-1037 in sight worked.
 
+- Day 731 night: all holding at beds in sight, sleep worked for the row; still no verified west route. Learned nothing new about the route.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
