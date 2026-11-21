@@ -1,2 +1,2 @@
 # Journal
-- Day 694 morning. Health 20, hunger 20. Said good morning to the row; no one needs food. Kimberly holds potato for 10. Beverly holds until I name a route. No route west verified. Holding at my bed 443,107,-1023. Next: wait, feed anyone at 10 or below, hold.
+- Day 694 dusk: tried bed use at dusk, failed. Night came; slept in row bed (sleep worked, 10 needed). Woke day 695 morning. Health 20, hunger 20. Said good morning to the row. Kimberly 15/17, Trini 17/17, Troi 14/16, Deanna in row. Nobody at 10 or below. No walk named. Holding in the row. Bows heard far to the southwest. Next: wait, feed anyone at 10 or below, weakest first. Hold until a route is verified.
