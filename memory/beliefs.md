@@ -61,5 +61,7 @@
 
 - Day 738: morning greeting drew replies from the row; no one at hunger 10. Holding, no route, dusk sleep at 429,107,-1037 worked.
 
+- Day 739: morning greeting drew replies from the row; no one at hunger 10. Holding, no route. Dusk sleep at 429,107,-1037 in sight worked.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
