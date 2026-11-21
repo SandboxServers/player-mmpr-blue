@@ -42,5 +42,8 @@
 
 - Day 680: holding at the beds all day with no named walk, and sleeping at night in sight, kept the row safe and fed. Nobody needed food yet at hunger 10.
 
+- Day 681: holding at the beds all day again with no walk named; Kimberly, Trini, Troi, Beverly, Lewis and Deanna all reported in sight. Hunger stayed at 16 or above. Sleep at dusk in my bed worked.
+- Day 681: the world clock flickers between day and dusk within a few waits; do not trust one reading of the light.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
