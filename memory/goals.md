@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 731 night)
+# Goals (ranked, as of day 732 night)
 
 1. Feed anyone at hunger 10 or below, weakest first. I hold no food; Lewis and Clark hold potatoes. Reason: hunger and low health kill.
 2. Walk only with a verified route and two armed escorts in sight, named aloud first, in daylight. Do not go west of x=370. Reason: no verified route yet.
