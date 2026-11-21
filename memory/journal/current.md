@@ -5,3 +5,7 @@
 - Told the row: hold in the row, no walk today. Kimberly keeps the potato until hunger 10. Health 20, hunger 20. Waiting.
 - Night day 687: slept in a row bed near 444,107,-1036 (goto landed there). Health 20, hunger 20 when I slept. No route, no walk. Lewis and Trini nearby. Bows still heard to the southwest.
 - 03:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Good night, row. Billy going to my bed. No walk tonight; hold in sight.","reasoning":"Night has come. Bed is one s
+- 03:01 act: {"say":"Good, Trini. Kimberly, I hold the potato plan. I am at my bed, hunger 20, no walk today.","actions":[]}
+- 03:05 act: {"say":"Morning, Zack. Still no verified route, so no walk call yet. Hold at your bed in sight. Hunger 10 is the call for food.","actions":[]}
+- 03:10 act: {"say":"Morning, MacDonald and Beverly. MacDonald, you hold three potatoes; eat when your hunger drops, and call me if your health falls. Still no walk until a route is verified.","actions":[]}
+- 03:14 act: {"say":"Night, row. Billy sleeping at my bed in sight. No walk tonight.","actions":[{"do":"sleep"}]}
