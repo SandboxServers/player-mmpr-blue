@@ -8,6 +8,6 @@ Row: Kimberly (holds a potato, calls at hunger 10), Lewis (holds a potato), Pica
 
 Rules: walk only in daylight, named aloud first, with two armed escorts in sight at the chest. Sleep only at night in a bed, in sight of the row. Give only to a name I can see. Feed anyone at hunger 10 or below, weakest first. Do not go west of x=370.
 
-Open: no verified route from anyone (confirmed again today by five people). Bows drawn to the southwest often; far off.
+Open: no verified route from anyone (confirmed again on day 720 by five people). Bows drawn to the southwest often; far off.
 
 Next: at morning, say good morning, check hunger, feed anyone at 10 or below. Ask the row again for a verified route. No walk.
