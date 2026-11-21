@@ -8,3 +8,4 @@
 - 10:44 act: {"say":"Morning, Kimberly. Good to have you near. Hunger 20 here. No walk until a route is verified.","actions":[]}
 - Night 711: slept at my bed (sleep worked, 6 of 10 asleep, then woke at morning). Health 20, hunger 20. Bcrusher, Trini, Troi reported in. No walk.
 - 10:52 act: {"say":"Night is here. Good night, row. Kimberly is near with the potato. Health 20, hunger 20. Going to sleep.","actions":[{"do":"sleep"}]}
+- 10:56 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Still no verified route, so no walk. Bcrusher, Troi, Trini, I hear you.","actions":[]}
