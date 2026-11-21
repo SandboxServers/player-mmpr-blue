@@ -1,9 +1,10 @@
-# Goals (ranked, as of day 736 dusk)
+# Goals (ranked, as of day 737 night)
 
-1. Feed anyone at hunger 10 or below, weakest first. I hold no food; Lewis, Clark and Kimberly hold potatoes. Reason: hunger and low health kill.
+1. Feed anyone at hunger 10 or below, weakest first. I hold no food; Lewis, Clark, Kimberly and Zack hold potatoes. Reason: hunger and low health kill. Trini and Troi are the ones who asked to be called.
 2. Walk only with a verified route and two armed escorts in sight, named aloud first, in daylight. Do not go west of x=370. Reason: no verified route yet.
 3. Ask the row each morning for a verified route west. Reason: nobody has seen one.
 4. Keep the row sheltered and asleep at named beds at night, in sight.
-5. Keep Wesley, Troi and Beverly in sight at their beds; Wesley has bed 415,107,-1023.
-6. Welcome Tommy Oliver patiently if he appears.
-7. Later, with a safe group: the potato field and the oak at 414,104,-1126. Find the sheep.
+5. Answer Jason about his failed sleep at his bed, and check that his bed is sound.
+6. Keep Wesley, Troi and Beverly in sight at their beds.
+7. Welcome Tommy Oliver patiently if he appears.
+8. Later, with a safe group: the potato field and the oak at 414,104,-1126. Find the sheep.

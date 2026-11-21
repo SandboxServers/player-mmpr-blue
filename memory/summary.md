@@ -10,6 +10,6 @@ Row: at the beds, in sight. Nobody has a verified route west. No walk named. Tom
 
 Rules: walk only in daylight, named aloud first, with two armed escorts in sight. Sleep at night in a bed, in sight of the row. Feed anyone at hunger 10 or below, weakest first. Do not go west of x=370.
 
-Open: no verified route west. No sheep or cows seen nearby.
+Open: no verified route west. No sheep or cows seen nearby. Jason's sleep failed at his bed; I owe him an answer. Trini wants a walk to repay Leonardo an oak plank.
 
-Next: at first light, say good morning, check hunger, feed anyone at 10 or below, ask the row for a verified route.
+Next: at first light, say good morning, check hunger, feed anyone at 10 or below, ask the row for a verified route, answer Jason.
