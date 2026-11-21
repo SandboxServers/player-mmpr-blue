@@ -7,3 +7,5 @@
 - 01:49 say: {"text":"Trini, I hold no food either, only logs and a fence. The chest at 447,107,-1023 is in the row; I do not know what is in it. Stay at your bed until hunger is 10, then tell me and we will find 
 - 01:58 act: {"say":"Good morning. Billy here, health 20, hunger 20. No walk today; holding in the row until a route is verified. Kimberly, I see your potato.","intent":{"goal":"hold_in_row","program":"rest","argu
 - 02:07 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 02:12 act: {"say":"Good morning. Billy here, health 20, hunger 20, at my bed in the row. No walk named. Nobody at hunger 10 or below that I can see. Holding until a route is verified."}
+- Day 685 morning. Woke at bed 443,107,-1023, health 20, hunger 20. Beverly and Trini greeted; Trini at 17. Said good morning, no walk, holding in the row. Kimberly holds potato for when she hits 10.
