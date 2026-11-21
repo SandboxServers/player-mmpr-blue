@@ -5,3 +5,6 @@
 - 18:10 act: {"say":"Good morning, row. Billy awake, health 20, hunger 20. Nobody is at hunger 10. Still no verified route west past x=370. No walk."}
 - Day 734 morning: slept at bed 429,107,-1037 with the row in sight, woke health 20, hunger 20. No route, no walk. Holding; feed anyone at hunger 10.
 - 18:13 act: {"say":"Morning, Troi, Billy here. I am well, health 20, hunger 20. Holding at the bed in your sight. Still no walk until a route is named."}
+- 18:16 act: {"say":"Good morning, row. Billy here, health 20, hunger 20. Has anyone seen a verified route west past x=370? No walk until one is named. Anyone at hunger 10 or below, say so now.","reasoning":"Morni
+- Day 733 dusk: Zack hunger 19, Troi hunger 17 health 13.9, Lewis 19, Worf 16, Beverly 20. Nobody at 10. Still no verified route west. No walk. Going to bed at 429,107,-1037 in the row's sight.
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Goodnight, row. Billy in bed at 429,107,-1037, health 20, hunger 20. No walk. Troi, eat when you reach 10.","reaso
