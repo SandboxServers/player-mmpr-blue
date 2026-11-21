@@ -47,5 +47,7 @@
 
 - Day 705: holding at beds all day with no walk named, sleeping at dusk in my bed, kept the row safe. Hunger stayed above 10. Bows southwest again, no hit.
 
+- Day 707: holding at beds all day with no walk named, sleeping at dusk beside my bed in sight of the row worked. Hunger stayed above 10. Bows southwest again, no hit.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
