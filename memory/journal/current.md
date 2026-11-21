@@ -8,3 +8,4 @@
 - Day 710 morning: said good morning. Health 20, hunger 20. Kimberly holds potato, nobody at 10. Asked for a verified route; no walk named. Holding at my bed.
 - Night 710: slept in my bed 443,107,-1023 with the row near. Heard: Deanna hunger 16 health 13.9, Trini 17, Kimberly 17 (potato held, calls at 10). Bcrusher's bed still refuses sleep and use. No walk, no verified route. Reflect: keep holding, feed at 10, still need a route from the row.
 
+- 10:26 act: {"actions":[{"do":"sleep"}],"say":"Good night. Kimberly, I am in my bed, health 20, hunger 20. Holding for morning."}
