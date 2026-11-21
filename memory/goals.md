@@ -1,6 +1,6 @@
-# Goals (ranked, as of day 737 night)
+# Goals (ranked, as of day 738 night)
 
-1. Feed anyone at hunger 10 or below, weakest first. I hold no food; Lewis, Clark, Kimberly and Zack hold potatoes. Reason: hunger and low health kill. Trini and Troi are the ones who asked to be called.
+1. Feed anyone at hunger 10 or below, weakest first. I hold no food; Lewis, Clark, Kimberly and Zack hold potatoes. Reason: hunger and low health kill.
 2. Walk only with a verified route and two armed escorts in sight, named aloud first, in daylight. Do not go west of x=370. Reason: no verified route yet.
 3. Ask the row each morning for a verified route west. Reason: nobody has seen one.
 4. Keep the row sheltered and asleep at named beds at night, in sight.
