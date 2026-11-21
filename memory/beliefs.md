@@ -65,5 +65,7 @@
 
 - Day 742: morning greeting drew replies; no one at hunger 10; no route. Jason is at his bed 416,107,-1050, in sight. Sleep at 429,107,-1037 is reached by standing beside it; goto put me beside it and sleep worked at night.
 
+- Day 743: holding at beds in sight with no walk named, dusk sleep at 429,107,-1037 worked. MacDonald at 16 went to Zack's sight and ate a potato; pointing a hungry one to a holder in sight works.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
