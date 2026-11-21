@@ -5,3 +5,8 @@
 - Bcrusher and Beverly also have no route past x=370. Still no one has seen one. Bows keep drawing to the southwest. Staying put and waiting.
 - 12:56 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"Dusk, row. Billy going to my bed at 443,107,-1023 for the night. Health 20, hunger 20."}
 - Night 717: goto did not move me onto the bed. Sleep call did not sleep me. Pillager seen SE near 454,107,-1002. Wrote handoff. Staying by the row, not walking.
+- 13:00 act: {"say":"Morning, row. Billy here, health 20, hunger 20. Still no verified route; holding at my bed, no walk. Anyone at hunger 10 or below, call me.
+- Day 718: sleep worked overnight (8 of 10 asleep). Morning: health 20, hunger 20. Lewis holding at his bed, hunger 19. No walk. Waiting.
+- Night 718: slept at my bed (sleep worked). Morning day 718: health 20, hunger 20. Troi 16, Trini 17 steady, no walk named. Still waiting."}
+- 13:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Billy going to sleep by my bed at 443,107,-1023. Health 20, hunger 20. No walk."}
+- 13:21 act: {"actions":[{"do":"sleep"}]}
