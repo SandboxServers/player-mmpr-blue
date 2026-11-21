@@ -1,1 +1,4 @@
 # Journal
+- Night 741 -> morning: slept at bed 429,107,-1037 (sleep worked). Woke health 20, hunger 20. Said good morning to the row, told Worf to use bed 429,107,-1036. Row reports: Troi hunger 17 (Zack has potatoes for her), nobody at 10 or below, no verified route west from anyone. No walk. Next: ask for route, check Jason's bed 416,107,-1050 in daylight.
+- 20:49 act: {"actions":[],"say":"Zack, I hear you. Holding here at 430,107,-1036, no walk. Anyone at hunger 10 or below, call it out and I will send you to Zack for potatoes."}
+- 20:50 act: {"actions":[],"say":"Good morning, Troi. Billy here, holding at my bed, health 20, hunger 20. No walk yet; I have no sword and no verified route. Clark, MacDonald, thank you. Day 741: Jason at his bed 416,107,-1050, holding, no walk named. I have no sword; Jason's bed check waits for escorts and a named walk. Still waiting on anyone's
