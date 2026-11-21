@@ -40,5 +40,7 @@
 - Day 673: Tommy Oliver came to the row at dusk-to-day and was welcomed by Trini, Zack, Kimberly and Deanna. He has not yet spoken to me directly.
 - Day 673: no one in the row needed feeding; hunger stayed above 10 all day.
 
+- Day 680: holding at the beds all day with no named walk, and sleeping at night in sight, kept the row safe and fed. Nobody needed food yet at hunger 10.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
