@@ -1,12 +1,1 @@
 # Journal
-- Day 739 morning, at bed 430,107,-1037. Said good morning, asked for a verified route west. Beverly, Troi, MacDonald, Jason all holding at beds, no walk. Answered Jason: will check his bed. Troi at hunger 17, not yet to feed. Nobody at 10 or below. Next: check Jason's bed, wait for a route.
-- 20:13 act: {"actions":[],"say":"Thank you, Zack. Hold at your bed. No verified route yet, so no walk. I will name it first when one is found."}
-- 20:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Night, row. Billy at bed 429,107,-1037, in sight. No walk."}
-- 20:22 act: {"say":"Good morning, row. Billy here, health 20, hunger 20. Troi 17, Lewis 19, Beverly fine: nobody at 10 or below. Does anyone hold a verified route west? No walk until one is named.","intent":{"goa
-- Morning day 739: said good morning. Troi 17, Lewis 19, Zack 19, Beverly 20: nobody at 10 or below. Heard no verified route. Holding at bed 430,107,-1037 in sight. Next: check Jason's bed when I can see it.
-- Day 740: Jason's bed is 416,107,-1050 (he stands beside it, 415,107,-1051 other). Walked toward it in the row; path blocked by oak doors, no check done. Went back to my bed 429,107,-1037. Next: retry Jason's bed in daylight with a clear path, and report to him.
-- 20:23 act: {"say":"Morning, Troi. Billy here, holding at my bed, in sight. Jason: which bed is yours? I will come look at it in daylight, and I will not walk without a verified route named aloud."}
-- 20:23 act: {"say":"Thank you, Jason. Billy is going to your bed at 416,107,-1050 now, about 14 blocks, in daylight, inside the row. Not a walk out. Holding in sight.","actions":[{"do":"goto","target":{"x":417,"y
-- 20:24 act: {"say":"Jason, I am 4 blocks from your bed, at 417,107,-1046, beside an oak door. The last step was blocked. Looking at the bed now; I will report what I see."}
-- 20:27 act: {"say":"Billy: the bed check at Jason's is not done. My path to it was blocked by oak doors, so I am going back to my bed at 429,107,-1037, in sight of the row. Jason, I will try again in daylight wit
-- 20:35 act: {"say":"Night, row. Billy at bed 429,107,-1037, in sight. Health 20, hunger 20. No walk. Jason, I will check your bed in daylight."}
