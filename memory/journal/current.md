@@ -4,3 +4,4 @@
 - 10:00 say: {"text":"Good morning, row. Billy here. Health 20, hunger 20. Nobody at hunger 10 yet; Kimberly keeps the potato. No walk named. Who has seen a verified route?"}
 - 10:00 act: {"reasoning":"Daytime, row holding, no walk named. Greet, check hunger, ask for route. Bcrusher's bed issue remains; I will tell him I have no answer yet.","say":"Bcrusher, I do not yet know why your 
 - 10:10 act: {"reasoning":"Night. Sleep in my bed at 443,107,-1023 in sight of the row. Trini also named that bed; I'll check on arrival.","say":"Night, row. Billy going to my bed at 443,107,-1023. Holding, no wal
+- 10:12 say: {"text":"Good night. Hunger 20, health 20. Kimberly holds the potato; I will feed anyone at 10."}
