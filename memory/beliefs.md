@@ -67,5 +67,8 @@
 
 - Day 743: holding at beds in sight with no walk named, dusk sleep at 429,107,-1037 worked. MacDonald at 16 went to Zack's sight and ate a potato; pointing a hungry one to a holder in sight works.
 
+- Day 744: Jason's bed 416,107,-1050 blocked his sleep twice at night (way blocked, Worf beside him). Suggested 415,107,-1023 beside William instead; outcome not yet seen.
+- Day 744: no verified route west from anyone; holding all day, dusk sleep at 429,107,-1037 worked.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
