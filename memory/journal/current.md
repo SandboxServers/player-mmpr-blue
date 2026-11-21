@@ -6,3 +6,5 @@
 - 03:54 act: {"say":"Billy here. Holding in the row, no walk named. Feed at hunger 10 first; I will not send anyone west until a route is verified."}
 - 04:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Billy going to sleep at my bed in sight. Holding, no walk. Hunger 20, health 20."}
 - 04:04 act: {"actions":[{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy here, going to my bed at 443,107,-1037 for the night. Row, hold in sight. Hunger 20, health 20."}
+- 04:05 act: {"actions":[{"do":"sleep"}]}
