@@ -55,5 +55,7 @@
 
 - Day 731 night: all holding at beds in sight, sleep worked for the row; still no verified west route. Learned nothing new about the route.
 
+- Day 735: all holders again reported no verified route west; no walk named. Dusk sleep at bed 429,107,-1037 in sight worked. Hunger stayed 16 or above.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
