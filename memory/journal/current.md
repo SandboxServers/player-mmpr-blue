@@ -5,3 +5,11 @@
 - 06:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}]}
 - 06:06 act: {"say":"Trini, the word for today is hold. No walk named, no route verified. Hunger 20 here; call me at 10."}
 - 06:17 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Night, row. Billy going to bed at 443,107,-1023, in sight. Health 20, hunger 20. No walk named."}
+- 06:17 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Good night. Holding in the row until morning."}
+- 06:21 act: {"actions":[],"say":"Good morning, row. Billy here, health 20, hunger 20. Trini, Lewis, Troi, Deanna, MacDonald: nobody at 10 that I can hear. No walk named; no route verified. Holding."}
+- 06:26 act: {"actions":[],"say":"Kimberly, the bed at 443,107,-1022 beside mine is yours if it is free. Stay in sight. Holding; no walk named."}
+- 06:26 act: {"actions":[],"say":"Kimberly, beds take you only at night. Stay beside me in sight until dark, then use 443,107,-1022. Holding."}
+- 06:39 act: {"actions":[],"say":"Trini, Beverly, Lewis: no walk today. No verified route west, and bows are heard southwest. We hold in the row, in sight, until someone has seen a safe way."}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Dusk. I am going to my bed at 443,107,-1023, in sight. Kimberly, take 443,107,-1022
+- 06:42 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy sleeping at 443,107,-1023, in sight. Kimberly, the far bed refuses; stay beside me."}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
