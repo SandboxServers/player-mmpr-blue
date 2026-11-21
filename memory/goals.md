@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 745 sleep)
+# Goals (ranked, as of day 747 sleep)
 
 1. Feed anyone at hunger 10 or below, weakest first. I hold no food. Reason: hunger and low health kill. Zack, Lewis and William hold potatoes; MacDonald is promised one at 10.
 2. Walk only with a verified route and two armed escorts in sight, named aloud first, in daylight. Do not go west of x=370. Reason: no verified route yet.
