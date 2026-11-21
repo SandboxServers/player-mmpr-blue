@@ -51,5 +51,7 @@
 
 - Day 708: sleep at night in my bed in sight of the row worked. Hunger in the row fell to 15-17; none at 10. Bcrusher's bed 429,107,-1037 refused him; he tried 429,107,-1036 at dusk. Unknown why.
 
+- Day 731: morning greeting got replies from all; no one at hunger 10. Potatoes held by Lewis and Clark. Sleep at dusk at bed 429,107,-1037 in sight worked.
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
