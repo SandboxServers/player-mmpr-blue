@@ -2,3 +2,12 @@
 - 15:21 act: {"say":"Good morning, row. Billy here, health 20, hunger 20. Nobody at 10 that I hear of. Anyone who has seen a verified route past x=370, say so. No walk yet.","actions":[]}
 - 15:23 act: {"say":"Morning. Wesley, I see you at 418,107,-1047. Your bed is 429,107,-1022, come to it and hold there. Troi, you are at 14 health and 16 hunger; eat when you reach 10. No walk yet.","actions":[]}
 - 15:28 act: {"say":"Wesley, hold at 418,107,-1047. Do not force the route. Thank you for trying. I will look at the way myself before anyone walks it. Beverly, Lewis, no food here either.","actions":[]}
+- 15:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Billy going to bed at 429,107,-1037, in sight. No walk named."}
+- 15:35 act: {"actions":[],"say":"Good morning, row. Billy awake at the beds, health 20, hunger 20. Nobody at 10. Does anyone have a verified route past x=370? No walk until someone answers."}
+- 15:38 act: {"actions":[],"say":"Billy here. Heard you all: MacDonald 15, Troi 14, Trini 17, hunger 16-17. Nobody at 10 yet. I hold no food. No walk named; I will keep watch at my bed."}
+- 15:41 act: {"actions":[],"say":"Wesley, hold at 418,107,-1047. No walk: I have no verified way to 443,107,-1037 yet. Do not move until I name a clear route."}
+- 15:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Billy to bed at 429,107,-1037, in sight. Health 20, hunger 20. No walk."}
+- 15:49 act: {"actions":[],"say":"Good morning, row. Billy awake at 429,107,-1037. Health 20, hunger 20. Nobody at 10 yet. I still hold no food. Still no verified route past x=370, so no walk named."}
+- 15:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Billy to bed at 429,107,-1037. Health 20, hunger 20. No walk named."}
+- 16:01 act: {"actions":[],"say":"Jason, Billy here, still at my bed. No verified route past x=370 has come to me, so I name no walk. Whoever sees a clear way, tell the row and I will hear it."}
+- 16:04 act: {"actions":[{"do":"note","text":"Morning day 726: row holding at beds. Hunger 16-20, none at 10. No verified route past x=370. No walk named."}],"say":"Morning, row. Billy at bed 429,107,-1037, health
