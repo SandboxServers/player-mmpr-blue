@@ -1,3 +1,1 @@
-Billy, day 685 dusk, standing beside my bed 443,107,-1023 in the row. Health 20, hunger 20. Holding: oak_fence, 9 jungle_log, oak_sapling, stick. No food.
-Kimberly beside me holding a potato for when she reaches 10 (she was at 17). Trini at 17, Beverly 20. No walk, no errand running.
-Sleep was refused at dusk ("not night"). Next: when night comes, sleep in bed 443,107,-1023, then reflect. At morning, check hunger and feed anyone at 10 or below. Hold until a route is verified.
+Handoff, day 686 night. Asleep at my bed 443,107,-1023 in the row. Health 20, hunger 20 at last look. No errand running. No walk named. Kimberly holds potato for when she reaches 10; Trini (17) asked to walk for food and was told no. Next morning: check hunger, feed anyone at 10 or below, hold until a route is verified.
