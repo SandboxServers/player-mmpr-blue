@@ -17,3 +17,5 @@
 - Day 729 morning. Daylight, health 20, hunger 20, no food. Said good morning and asked the row for a verified route. Still no walk. Next: wait for replies.
 - Day 729 morning, waits done. Row replies: all hold at beds, no verified west route from anyone (MacDonald 16, Worf 16, Troi 16, Trini 17, Zack 19, Clark/Picard/Jason/Bcrusher 20). Nobody at hunger 10. No walk. Wesley holds at 418,107,-1047. Still need a route.
 - 16:56 act: {"say":"Thank you all. No walk today: no verified route west has been named. Troi, Zack, Trini, Worf, MacDonald: hold at your beds. Tell me the moment anyone sees a safe way, or anyone falls to hunger
+- 17:03 act: {"say":"Dusk, row. Billy at my bed 429,107,-1037, health 20, hunger 20, no food. MacDonald, Troi, Worf, Trini, Zack: if you are at 10 or below, say so. No walk tonight.","actions":[{"do":"note","text"
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
