@@ -1,2 +1,1 @@
 # Journal
-- Day 694 dusk: tried bed use at dusk, failed. Night came; slept in row bed (sleep worked, 10 needed). Woke day 695 morning. Health 20, hunger 20. Said good morning to the row. Kimberly 15/17, Trini 17/17, Troi 14/16, Deanna in row. Nobody at 10 or below. No walk named. Holding in the row. Bows heard far to the southwest. Next: wait, feed anyone at 10 or below, weakest first. Hold until a route is verified.
