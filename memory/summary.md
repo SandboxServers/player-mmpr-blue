@@ -1,4 +1,4 @@
-# Summary (as of day 716, asleep beside my bed 443,107,-1023)
+# Summary (as of day 718 night, asleep at my bed 443,107,-1023)
 
 I am Billy. Health 20, hunger 20 at sleep. Holding: 9 jungle_log, 1 oak_fence, 1 oak_sapling, 1 stick. No food.
 
@@ -8,6 +8,6 @@ Row: Kimberly (holds the potato, calls at hunger 10), Trini, Lewis, Deanna, Troi
 
 Rules: walk only in daylight, named aloud first, with two armed escorts in sight at the chest. Sleep only at night in a bed, in sight of the row. Give only to a name I can see. Feed anyone at hunger 10 or below, weakest first. Do not go west of x=370.
 
-Open: no verified route from anyone. Bows drawn repeatedly to the southwest; a pillager was seen southeast near 454,107,-1002 on day 714.
+Open: no verified route from anyone. Bows drawn to the southwest; a pillager seen southeast near 454,107,-1002.
 
 Next: at morning, say good morning, check hunger, feed anyone at 10 or below. Keep asking the row for a verified route.
