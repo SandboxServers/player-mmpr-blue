@@ -8,3 +8,5 @@
 - 04:04 act: {"actions":[{"do":"sleep"}]}
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy here, going to my bed at 443,107,-1037 for the night. Row, hold in sight. Hunger 20, health 20."}
 - 04:05 act: {"actions":[{"do":"sleep"}]}
+- 04:07 act: {"say":"Morning, row. Billy here, health 20, hunger 20. No walk named. Holding in the row. Has anyone seen a verified route west?"}
+- 04:07 act: {"say":"Thank you, Laforge, Beverly, MacDonald. Still holding, no walk. MacDonald, call me when hunger reaches 10 and I will feed you."}
