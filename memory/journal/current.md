@@ -8,3 +8,8 @@
 - 16:15 act: {"say":"Thank you, Clark. Troi is lowest at about 14 and Trini 17, Kimberly 17, MacDonald 15. Please give the potatoes to Troi first, if you can see her. Still no walk until a route is named."}
 - 16:27 act: {"say":"Good morning, day 728. Billy at bed 429,107,-1037, health 20, hunger 20. Still holding; no verified route named yet. Anyone who has seen a safe way, please say the coordinates."}
 - 16:36 act: {"say":"Wesley, Billy here. Hold where you are at 418,107,-1047; I have no verified route to a bed for you yet. Do not walk. Sleep in place only if it is night and you are sheltered."}
+- 16:40 act: {"actions":[{"do":"note","text":"Morning day 728 after reflect. Billy at bed 429,107,-1037, health 20, hunger 20. Holding; no verified west route."}],"say":"Good morning, Bcrusher. Billy here, holding
+- 16:41 act: {"actions":[{"do":"note","text":"Day 728 morning: Clark holds (hunger 20), MacDonald holds (hunger 16, no food). Still no verified route; no walk."}],"say":"Thank you, MacDonald, and Clark. Everyone h
+- 16:42 act: {"actions":[{"do":"note","text":"Zack holds at 416,107,-1037 with 3 potatoes, hunger 19. MacDonald hunger 16, no food; Zack offers one if MacDonald comes into sight."}],"say":"Thank you, Zack. MacDona
+- 16:50 act: {"actions":[{"do":"sleep"}]}
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"sleep"}]}
