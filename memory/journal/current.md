@@ -1,21 +1,2 @@
 # Journal
-- Morning day 727. Said good morning. Reports: Trini 17 (wheat seeds only), Kimberly 17 (one potato), Beverly 20, Jason at bed, Troi 13.9, MacDonald 15. No verified route anywhere. No walk. Waiting for hunger 10 call.
-- Clark has 5 potatoes, Zack 3. Asked Clark to give Troi first. Troi holds 1 potato for hunger 10. Still no verified route. I hold no food; no walk.
-- Dusk. Zack and Troi agreed Troi gets a potato first. I stay at my bed 429,107,-1037, no walk.
-- Day 728 morning. Picard and Beverly: no safe route past x=370 seen, no coordinates. MacDonald 15, no potatoes. Still holding; no walk until a route is named.
-- Wcrusher's old note: cows at 434,106,-1113 (east of x=370, possible later with escorts) and 339,104,-979 (west of 370, forbidden). Worf asks for sheep; none known yet.
-- 16:14 act: {"say":"Good morning, all. Billy here at bed 429,107,-1037, health 20, hunger 20, no food. Troi, MacDonald, Worf, Kimberly, Trini: who has food? Please say your hunger. No walk until a verified route 
-- 16:15 act: {"say":"Thank you, Clark. Troi is lowest at about 14 and Trini 17, Kimberly 17, MacDonald 15. Please give the potatoes to Troi first, if you can see her. Still no walk until a route is named."}
-- 16:27 act: {"say":"Good morning, day 728. Billy at bed 429,107,-1037, health 20, hunger 20. Still holding; no verified route named yet. Anyone who has seen a safe way, please say the coordinates."}
-- 16:36 act: {"say":"Wesley, Billy here. Hold where you are at 418,107,-1047; I have no verified route to a bed for you yet. Do not walk. Sleep in place only if it is night and you are sheltered."}
-- 16:40 act: {"actions":[{"do":"note","text":"Morning day 728 after reflect. Billy at bed 429,107,-1037, health 20, hunger 20. Holding; no verified west route."}],"say":"Good morning, Bcrusher. Billy here, holding
-- 16:41 act: {"actions":[{"do":"note","text":"Day 728 morning: Clark holds (hunger 20), MacDonald holds (hunger 16, no food). Still no verified route; no walk."}],"say":"Thank you, MacDonald, and Clark. Everyone h
-- 16:42 act: {"actions":[{"do":"note","text":"Zack holds at 416,107,-1037 with 3 potatoes, hunger 19. MacDonald hunger 16, no food; Zack offers one if MacDonald comes into sight."}],"say":"Thank you, Zack. MacDona
-- 16:50 act: {"actions":[{"do":"sleep"}]}
-- 16:52 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"sleep"}]}
-- 16:53 act: {"say":"Good morning, row. Billy here, health 20, hunger 20. No walk yet. Has anyone seen a verified route west past x=370? Please name it, and tell me your hunger if it is 10 or below.","reasoning":"
-- Day 729 morning. Daylight, health 20, hunger 20, no food. Said good morning and asked the row for a verified route. Still no walk. Next: wait for replies.
-- Day 729 morning, waits done. Row replies: all hold at beds, no verified west route from anyone (MacDonald 16, Worf 16, Troi 16, Trini 17, Zack 19, Clark/Picard/Jason/Bcrusher 20). Nobody at hunger 10. No walk. Wesley holds at 418,107,-1047. Still need a route.
-- 16:56 act: {"say":"Thank you all. No walk today: no verified route west has been named. Troi, Zack, Trini, Worf, MacDonald: hold at your beds. Tell me the moment anyone sees a safe way, or anyone falls to hunger
-- 17:03 act: {"say":"Dusk, row. Billy at my bed 429,107,-1037, health 20, hunger 20, no food. MacDonald, Troi, Worf, Trini, Zack: if you are at 10 or below, say so. No walk tonight.","actions":[{"do":"note","text"
-- 17:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- Day 730 morning, bright. Health 20, hunger 20, no food. Said good morning, asked for a verified west route. Zack holds 3 potatoes for Troi or MacDonald (both 16); Trini 17 holding. No route named, no walk. Waiting for replies.
