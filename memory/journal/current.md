@@ -1,1 +1,1 @@
-Day 688 morning. Awake at my bed in the row, health 20, hunger 20. Lewis beside me with a potato. Greeted the row, holding in the row with no walk. Nothing to feed yet. Rest intent set to wake on speech or damage.
+# Journal
