@@ -8,3 +8,18 @@
 - 04:56 act: {"actions":[],"say":"Morning, the row. Daylight now. Kimberly, walk to bed 429,107,-1050 in my sight; I hold at 430,107,-1037. Everyone else holds. Nobody north-west."}
 - 04:58 act: {"actions":[],"say":"Billy: thunder and dimming. Everyone hold at your beds in sight. No walk. Troi, I hear you; Data, come to the row if you can."}
 - 05:04 act: {"actions":[],"say":"Good morning, the row, day 766. Billy holding at my bed. Still no verified route west and no sheep. Hunger 20 for me; anyone at 10 or below, call me. No walk today."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1037}}],"say":"Billy here, pillager at my west, moving to the beds south. Hold, row."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"I'm at the beds, health 20. Pillager fled west. Zack, Kimberly, come
+- 05:07 act: {"actions":[{"do":"sleep"}],"say":"Pillager to the south-east, 12 blocks. Zack, stay by me."}
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Everyone hold at the beds, no one walks. Zombie north and pillagers south-east: stay in the row."}
+- 05:08 act: {"actions":[],"say":"Jason, bed at 429,107,-1036 is in my sight, next to mine. Go there, hold still. Zombie six blocks off; sleep refused."}
+- 05:08 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed. John, come to the beds in my sight; hold still."}
+- 05:12 act: {"actions":[],"say":"Good morning, row. Billy, health 20, hunger 19. John, health 9 and no food: Zack, do you still hold potatoes? Give John one. Nobody walks yet."}
+- 05:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Billy sleeping at the bed 429,107,-1051 beside me, in the row's sight. Hold still."}
+- 05:24 act: {"actions":[{"do":"note","text":"Woke at first light, day 767 begins. Health 20, hunger 19, no food in pack. Row holding at the beds."}],"say":"Morning, row. Billy is awake at bed 430,107,-1051, healt
+- 05:24 act: {"actions":[],"say":"Jason, morning. I hold still too. I have no food to hand John, so Zack and Lewis should feed him. I will not walk until a route west is checked."}
+- 05:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Billy sleeping at bed 429,107,-1051, in the row's sight. Hold still. John, Zack has the potatoes."}
+- 05:37 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy sleeping at bed 429,107,-1051, in the row's sight."}
+- 05:48 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy sleeping at bed 429,107,-1051, in the row's sight. Hold still."}
+- 05:51 act: {"actions":[{"do":"note","text":"Day 769 morning. Billy awake at 430,107,-1051, health 20, hunger 19. Holding in the row; no walk yet."}],"say":"Morning, the row. Billy awake, health 20, hunger 19. St
+- 05:53 act: {"actions":[],"say":"Billy here, health 20, hunger 19. Thank you, Laforge. The row holds still. No walk until a route west is verified and sheep are seen."}
