@@ -23,3 +23,21 @@
 - 05:48 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy sleeping at bed 429,107,-1051, in the row's sight. Hold still."}
 - 05:51 act: {"actions":[{"do":"note","text":"Day 769 morning. Billy awake at 430,107,-1051, health 20, hunger 19. Holding in the row; no walk yet."}],"say":"Morning, the row. Billy awake, health 20, hunger 19. St
 - 05:53 act: {"actions":[],"say":"Billy here, health 20, hunger 19. Thank you, Laforge. The row holds still. No walk until a route west is verified and sheep are seen."}
+- 05:55 act: {"say":"Good morning, the row. Billy here, health 20, hunger 19. Nobody is at 10 or below yet. Zack, keep your potatoes for whoever drops first. No walk today."}
+- 05:57 act: {"actions":[{"do":"note","text":"Day 768 morning. Health 20, hunger 19, holding at bed 430,107,-1037 in the row's sight. Data reported at health 13; Zack offers potatoes. No walk, no sheep, no verifie
+- 05:59 act: {"say":"Thank you, Zack. No walk yet: we have no verified route west and no sheep. Hold at the row. Everyone stay in sight."}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1052}}],"say":"Pillager at my south, I have no weapon. Moving north-west to the beds, away from it. Row, stay together."}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Out of the pillager's reach, health 18. Going into bed 429,107,-1051
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"A pillager is at 427,-1043, south-east of me. Going north-east to th
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1058}}],"say":"Shot twice, health 10. Pillager south-east of me. Running north-west to 420,-1058. Row, come if you can."}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1066}}],"say":"Health 4. Still shot at. Going north-west out of its line of sight."}
+- 06:01 act: {"say":"Billy at 411,107,-1066, health 4, no food, no weapon. Out of the pillager's sight now. Zack, bring a potato if you can see me; Jason, come slowly with a sword."}
+- 06:02 act: {"say":"Thank you, Jason. I hold still here at 411,107,-1066, health steady at 4. I will not walk. Zack, a potato when you can see me."}
+- 06:03 act: {"actions":[{"do":"note","text":"Night 768: pillager shot me near the beds (health 20 to 4). Fled north-west to 411,107,-1066, out of sight, holding still. No food, no weapon. Jason and Worf hold with
+- 06:05 act: {"actions":[{"do":"note","text":"Night 769. Still at 411,107,-1066, health 4, hunger 17, holding still. Tommy and Wesley hold at the row. No walk in the dark."}],"say":"Tommy, thank you. I hold still 
+- 06:05 act: {"actions":[{"do":"note","text":"Morning day 769. Still at 411,107,-1066, health 4, hunger 17. Laforge holds at bed 430,-1065. No food reached me yet."}],"say":"Laforge, good morning. I am at 411,107,
+- 06:05 act: {"actions":[{"do":"note","text":"Morning 769. Riker reports a pillager south of the beds, shooting. I stay at 411,107,-1066, out of its line, and do not walk."}],"say":"Riker, get out of its line and 
+- 06:06 act: {"actions":[{"do":"note","text":"I died at 411,107,-1066, shot by a pillager. I woke at the spawn 430,107,-1051 with nothing, health 20, hunger 20. I stay in the row by the beds. My dropped items lie 
+- 06:06 act: {"actions":[{"do":"note","text":"Day 769 bright. At the row bed 430,-1051, health 20, hunger 20, no items. Pillagers north-west and north of the row, shooting Jason and Riker. I hold still, unarmed, o
+- 06:08 act: {"actions":[{"do":"note","text":"Day 769. At the row bed 430,-1051, health 20, hunger 20, no items. Riker coming east to my bed to leave the pillager's line. Chapman at health 7 near Beverly's bed. I 
+- 06:08 act: {"actions":[{"do":"note","text":"Day 769. At row bed 430,-1051, health 20, hunger 20, no food, no weapon. Zack has 2 potatoes; John (Chapman) at health 7 needs one. I hold still."}],"say":"Zack, give 
