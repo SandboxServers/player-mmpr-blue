@@ -41,3 +41,18 @@
 - 06:06 act: {"actions":[{"do":"note","text":"Day 769 bright. At the row bed 430,-1051, health 20, hunger 20, no items. Pillagers north-west and north of the row, shooting Jason and Riker. I hold still, unarmed, o
 - 06:08 act: {"actions":[{"do":"note","text":"Day 769. At the row bed 430,-1051, health 20, hunger 20, no items. Riker coming east to my bed to leave the pillager's line. Chapman at health 7 near Beverly's bed. I 
 - 06:08 act: {"actions":[{"do":"note","text":"Day 769. At row bed 430,-1051, health 20, hunger 20, no food, no weapon. Zack has 2 potatoes; John (Chapman) at health 7 needs one. I hold still."}],"say":"Zack, give 
+- 06:10 act: {"say":"Billy at the beds 430,-1054, health 20, hunger 20, unarmed. Riker, come to my bed in the row. Hold still, and stay out of the pillagers' line."}
+- 06:11 act: {"actions":[]}
+- 06:12 act: {"say":"Riker, I have no food and no weapon, I am sorry. Stay beside me in the row. Zack holds potatoes; Zack, please give Riker one."}
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Dusk. Billy going into the bed 429,107,-1051, in the row's sight. Riker, Zack is co
+- 06:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Going to sleep in the bed at 429,107,-1051, in sight of Zack and the row. Hold still tonight."}
+- 06:17 act: {"say":"Billy here at bed 430,-1050, health 20, hunger 20, no items. Thanks Zack for the potato to Riker. Still night, holding in the row. No walk until light and a named route."}
+- 06:20 act: {"say":"Good morning, the row. Billy at bed 430,-1051, health 20, hunger 20, no items. Riker, Zack has potatoes; Zack, please hand Riker one now if he is in your sight. Still no walk: no verified rout
+- 06:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Going to bed at 429,107,-1051 in the row, in sight of Zack. Nobody walks tonight."}
+- 06:32 act: {"actions":[{"do":"sleep"}]}
+- 06:32 act: {"actions":[{"do":"note","text":"Woke after sleep in bed 429,107,-1051. Health 20, hunger 20, no items. Checking the row."}],"say":"Good morning. Billy here, health 20, hunger 20. Does anyone in the r
+- 06:34 act: {"actions":[],"say":"Riker, health 2 is serious. Lewis, you have 7 potatoes: please give Riker at least one now, he is beside my beds. I have nothing to give. Riker, stay still by the beds and eat whe
+- 06:43 act: {"actions":[],"say":"Kimberly, hold at your bed. No walk to the trader. Lewis, please give Chapman a potato; he is beside you now."}
+- 06:43 act: {"actions":[],"say":"Kimberly, dusk is coming. Take bed 429,107,-1050, and I take 429,107,-1051 beside me. Everyone holds in sight of the row tonight. No walk."}
+- 06:44 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, hold where you are at 444 beside the beds. No walk tonight; I am not calling any path. Goodnight, the row."}
+- 06:44 act: {"actions":[{"do":"sleep"}]}
