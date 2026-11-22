@@ -4,7 +4,7 @@ I am Billy. Health 20, hunger 20 at sleep. Holding nothing.
 My dropped things lie near 411,107,-1056 where pillagers killed me (day 768).
 
 Beds: 429,107,-1037 (my bed), 429,107,-1064, 429,107,-1065, 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065, 429,107,-1050.
-To sleep: goto beside the bed, then sleep.
+To sleep: goto beside the bed, then sleep. Sleep is a verb.
 
 Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald. Holding at the beds, in sight.
 Lewis holds one potato for Chapman if hunger falls to 10.
