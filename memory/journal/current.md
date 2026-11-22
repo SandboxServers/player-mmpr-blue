@@ -26,3 +26,33 @@
 - 22:13 act: {"say":"Billy: Worf, come into my sight at 430,107,-1037 and I hand you your potatoes. Trini, no walk yet, hold at your bed. I am holding here with Zack and Troi."}
 - 22:17 act: {"say":"Billy: Beverly has MacDonald's potato, so I keep mine. Worf, I hold 2 for you; come into my sight and I hand them over."}
 - 22:20 act: {"say":"Billy: Worf, goodnight at your bed; first light I hand you your 2 potatoes. Zack and Troi, hold here with me for the night."}
+- 22:21 act: {"say":"Goodnight, Chapman. Holding at the row. Zack and Troi are here with me.","actions":[{"do":"sleep"}]}
+- 22:21 act: {"say":"Leonardo, come to the row at the beds. I hold here with 3 potatoes. Zack and Troi are with me.","actions":[{"do":"note","text":"Night 817. Slept at bed row beside 430,107,-1037; sleep worked. 
+- 22:21 act: {"say":"Good morning, row. Jason, I hear you with Worf at 416,107,-1050. Is the bow quiet on your side? Zack and Troi, if you are with me, name yourselves as escorts. I walk to Worf with 2 potatoes on
+- 22:22 act: {"say":"Beverly, Billy walks to you now with Troi and Lewis as escorts, in daylight, bow quiet. Hold where you are, potato coming.","intent":{"goal":"reach_beverly_with_potato","program":"travel","arg
+- 22:22 act: {"say":"Troi, thank you, you are my escort. Lewis, come as second escort if you can. Walking toward Beverly now.","intent":{"goal":"reach_beverly_with_potato_leg2","program":"travel","arguments":{"tar
+- 22:22 act: {"say":"Beverly, I am at 430,107,-1044 with Troi in sight. Step toward me and I hand you a potato.","actions":[{"do":"note","text":"Day 817 morning. Walked toward Beverly with Troi as escort; now at 4
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"say":"Beverly, I am coming closer to your bed, 430,107,-1049. Show yourself and I hand you the potato."}
+- 22:22 act: {"say":"Billy here at the beds. Troi and MacDonald are with me. Beverly, Worf, if you are near, step into sight and I will hand over potatoes.","actions":[{"do":"note","text":"Day 817, at 430,107,-104
+- 22:24 act: {"say":"Billy: Beverly, Billy gives you a potato now, health 3.3. Worf, Zack and I will bring yours next.","actions":[{"do":"give","to":"Beverly","item":"potato","count":1},{"do":"note","text":"Day 81
+- 22:24 act: {"say":"Billy holds at the beds with Zack, Troi and MacDonald. Beverly, come into sight at 430,107,-1051 and I hand you a potato.","actions":[{"do":"note","text":"Day 817. Give to Beverly failed: not 
+- 22:25 act: {"say":"Billy walks to Worf at 418,107,-1047 now. Escorts named: Zack and MacDonald, sword in hand. Worf, I bring your 2 potatoes.","intent":{"goal":"reach_worf_with_potatoes","program":"travel","argu
+- 22:25 act: {"say":"Billy at 417,107,-1046. Worf, step into sight and I give you your 2 potatoes. Leonardo, I hold 1 potato for you at the beds.","actions":[{"do":"note","text":"Day 818 morning, bright. Reached 4
+- 22:26 act: {"actions":[{"do":"note","text":"Day 818, bright, at 417,107,-1046 with Zack in reach. Health 20, hunger 20, holding 3 potatoes. Worf and Beverly not in sight yet."}],"say":"Billy here at 417,107,-104
+- 22:27 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":2}],"say":"Worf, here are your 2 potatoes. Leonardo, I still hold 1 for you."}
+- 22:27 act: {"actions":[{"do":"note","text":"Worf not in sight for the give (no such agent in sight). Holding 3 potatoes: 2 for Worf, 1 for Leonardo. Trini waits at 416,107,-1023 for a named walk; not naming it y
+- 22:28 act: {"actions":[{"do":"note","text":"Troi gave Leonardo a potato, so my spare is kept in reserve. Still holding 2 for Worf, who is not in my sight. Waiting."}],"say":"Troi, thank you. Leonardo, I still ho
+- 22:29 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is your potato. Eat it now."}
+- 22:29 act: {"actions":[{"do":"note","text":"Give to Leonardo failed: not in sight. Worf and Leonardo both say they are walking to me but are not in my view. Holding 3 potatoes. Waiting in place."}],"say":"Leonar
+- 22:30 act: {"actions":[{"do":"note","text":"Day 818, bright, 417,107,-1046. Zack in reach holding 2 potatoes, offers to hand one to anyone weak. No Worf, Leonardo or Beverly in sight. Holding 3 potatoes. Health 
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1045}},{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, I am coming to you with a potato now. Health 4, eat it fi
+- 22:30 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1}],"say":"Leonardo, here is a potato. Eat it now."}
+- 22:31 act: {"actions":[{"do":"note","text":"Gives to Leonardo keep landing on Zack (two potatoes went to Zack, not Leonardo). Holding 1 potato. Asked Zack to hand Leonardo food directly. Leonardo health 4, stand
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"note","text":"Dusk day 818. Leonardo fed by Zack. I hold 2 potatoes, Troi and Zack hold spares. Walking to the bed at 413,107,-104
+- 22:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 22:31 act: {"actions":[{"do":"note","text":"Day 819 morning, slept at 413,107,-1040. Beverly at bed 430,107,-1051, health 3.3, is the first to feed. Escorts Troi and Zack named. Walking to her now with 2 potatoe
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1050}},{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1}],"say":"Beverly, I am coming to your bed with a potato now. Step into my si
+- 22:32 act: {"actions":[{"do":"note","text":"Walked to 427,107,-1050 by Beverly's bed. Give to ag_bcrusher_01 failed, not in sight. Holding my 2 potatoes and calling her to step into view."}],"say":"Beverly, Bill
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1049}}],"say":"Worf, Billy is coming to you at 419,107,-1049 with a potato. Step into my sight."}
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"do":"note","text":"Night on day 818. Could not find Beverly or Worf in sight; both out of view. Holding 2 potatoes for the first weak o
+- 22:33 act: {"actions":[{"do":"note","text":"Night, day 818. Beside my bed at 413,107,-1040. Enderman 20 blocks southwest. Beverly and Worf out of sight, unfed. Two potatoes still held."}]}
