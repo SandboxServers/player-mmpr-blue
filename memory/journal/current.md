@@ -5,3 +5,14 @@
 - 08:47 say: {"text":"Good morning, row. Billy here, health 20, hunger 20. Worf is at 14, so watch him. Has anyone seen a verified route west, sheep, or the pillagers?"}
 - 08:48 say: {"text":"Thank you, Worf. Billy: I have no food and no sheep or route seen either. Zack at 19, Worf at 14. Lewis, keep your potato for Chapman. Holding at the bed."}
 - 08:50 say: {"text":"Morning, Jason. Billy: still holding at the bed, health 20, hunger 20. No walk named today. Shout if anyone's hunger drops to 10."}
+- 08:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight, all. Holding at the beds. Health 20, hunger 20."}
+- Night 777: at bed 430,107,-1065, health 20, hunger 20. Sleeping (4 of 10 asleep). Lewis heard going to his bed in sight. No errand, no walk.
+- 09:03 act: {"actions":[],"say":"Good morning, row. Billy here at my bed, health 20, hunger 20. Worf at 14, Lewis, keep the potato for Chapman. Has anyone seen a verified route west, sheep, or the pillagers? No w
+- 09:05 act: {"actions":[],"say":"Thank you, Jason. Billy: still at my bed, health 20, hunger 20. No walk named today; I stay in the row until a verified route and two escorts are set."}
+- 09:14 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night at the row. Billy at my bed beside Lewis, holding, health 20, hunger 20."}
+- Day 778 night: slept at bed 430,107,-1065; the night was skipped. Health 20, hunger 20. Holding at the row. No route, sheep or pillager news yet. Laforge sleeping in sight.
+- 09:14 act: {"actions":[],"say":"Morning, row. Billy: Riker, your health is 6.3, so rest at your bed and eat if anyone has food. I have nothing to give. No walk called today; Zack, I have no route yet."}
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night at the row. Billy at my bed, holding, health 20, hunger 20. Worf, ask at 10."}
+- Day 779 morning: slept at bed 430,107,-1065 through the night. Health 20, hunger 20. Row all holding; Riker at 6.3 health, Worf hunger 14, no one has food. No walk named, no route, sheep or pillager news.
+- Riker (health 6, hunger 17) and Lewis spoke; I told Riker to rest at his bed and Lewis to keep the potato for Chapman. Holding at bed 430,107,-1065. Quiet since.
+- 09:31 act: {"actions":[],"say":"Billy here at my bed, health 20, hunger 20. Riker, rest at your bed; I have no food to give. Lewis, keep the potato for Chapman. No walk named today."}
