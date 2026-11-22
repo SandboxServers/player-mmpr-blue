@@ -10,3 +10,6 @@
 - 14:26 act: {"say":"Night has come. Billy here at my bed, holding nothing, health 20, hunger 20. Going to sleep."}
 - 14:26 act: {"say":"Good morning, row. Billy here, health 20, hunger 20, no items. No walk named yet. Anyone who has seen food, sheep, or a safe route west, tell me. Troi, eat your potato only below 10."}
 - 14:31 act: {"say":"Morning, row. Billy: no verified route yet, so no walk today. Hold at your beds. Eat only at 10 or below. Anyone who sees food or sheep, call it out."}
+- 14:44 act: {"say":"Good morning, row. Billy here at my bed, health 20, hunger 20. Still no food, route or sheep seen. No walk named. Stay in sight; anyone at hunger 10 or below, call out."}
+- Day 794 morning. Row holding at beds: MacDonald health 15 hunger 16, no food. Said good morning, no walk named. Next: wait for food or route reports.
+- 14:45 act: {"say":"Billy, morning of day 795. Health 20, hunger 20. No walk named: still no verified route and no food seen. Hold at your beds in my sight. Anyone who sees food, sheep or a clear route, call it o
