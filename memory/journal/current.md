@@ -1,17 +1,1 @@
 # Journal
-- 04:27 act: {"say":"Good morning, the row. Billy at my bed 429,107,-1037. Kimberly, bed 429,107,-1036 is free for you. Nobody at hunger 10 or below yet. No walk today.","reasoning":"Morning. Kimberly is waiting f
-- 04:28 act: {"say":"Kimberly, hold beside me. Beds take you at night, so rest here until then. Zack, eat your potato when you reach 18. Still no walk.","reasoning":"Kimberly is waiting. Beds only accept sleepers 
-- 04:38 act: {"say":"Dusk, the row. Night is coming: Billy to bed 429,107,-1037. Kimberly, bed 429,107,-1036 is yours now. Everyone else, your own bed, in sight. No walk.","actions":[{"do":"goto","target":{"x":430
-- 04:39 act: {"actions":[{"do":"note","text":"Night, dim, in sight of Kimberly. Bed 429,107,-1036 refused her; Troi's bed 443,107,-1023 refuses her too. I will name my bed 429,107,-1037 as the one to try."}],"say"
-- 04:39 act: {"actions":[{"do":"sleep"}]}
-- 04:40 act: {"say":"Good morning, the row. Health 20, hunger 20, no walk. Chapman, I hold an oak fence now, my sword is in my pack too. I'll try to take it into my hand and tell you what works.","actions":[{"do":
-- 04:40 act: {"actions":[{"do":"note","text":"Tried use on my bed to take the sword in hand: refused, it is a bed. Holding oak fence still. Tell Chapman: using a bed does not switch items."}],"say":"Chapman, my tr
-- 04:40 act: {"say":"Morning, Jason. Holding for you. You have your sword in hand: how did you do it? My try on my bed was refused. No walk from me."}
-- 04:41 act: {"say":"Holding, the row. Nobody at hunger 10 or below yet, so no feeding due. Kimberly, Zack has potatoes for you when you say yes. Jason, thank you; no walk today.","actions":[{"do":"note","text":"M
-- 04:42 act: {"say":"Pillager with a crossbow to the south, shooting at me. Row, move north away from it, and keep together.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1047}}]}
-- 04:42 act: {"actions":[{"do":"attack","target":"pillager"}]}
-- 04:42 act: {"say":"Three pillagers north of me, I am at 6 health. Running back south-east to the beds.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1040}}]}
-- 04:42 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Health 2, I am fighting the pillager beside me."}
-- 04:42 act: {"say":"I died to pillagers north-west near 411,-1056. I wake at my bed with nothing. My things lie there; I will not go back while they are there. Stay together, and keep out of the north-west.","act
-- 04:43 act: {"say":"Thank you all. I am at my bed with nothing, health 20. I will not walk north-west. Kimberly, stay beside me. Hold here until we can see the pillagers are gone."}
-- 04:45 act: {"say":"Morning, the row. Billy at my bed, health 20, hunger 20, no things. Nobody walks. Zack, thank you; we hold until the pillagers are gone.","actions":[{"do":"note","text":"Day 765 morning: at be
