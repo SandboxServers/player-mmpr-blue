@@ -1,19 +1,1 @@
 # Journal
-- Night, day 792. Slept at bed 429,107,-1037 in sight of the row.
-- Morning. Row hungry, no food, sheep, verified route or pillager news. A bow was drawn to the south-east. Lewis says Picard reports ripe potatoes at 463,107,-1073; only Picard's word, nobody has seen them. I asked Picard to confirm. Beverly and Zack offer escort with wooden swords; I have no sword and no items. No walk named. Holding at my bed.
-- 13:59 act: sleep at dusk, bed 429,107,-1037, in sight of the row.
-- 14:03 say: good morning, health 20, hunger 20. Asked Picard to confirm the potatoes. No walk.
-- Troi holding at her bed, sleeping. Wesley at 415,107,-1047, holding, no food. Neither will walk until I name one. Still waiting on Picard.
-- 14:04 act: {"actions":[],"say":"MacDonald, heard. Hold at the row. Still no walk named and no food known. Picard, Zack, Lewis: anyone who has seen food or a clear route, say it in full and I will decide."}
-- 14:10 say: {"text":"Billy, morning of day 793. Health 20, hunger 20. Troi, one potato: eat it only if you fall below 10. Nobody walks until a route and a sword escort are named. Holding."}
-- 14:18 act: {"actions":[],"say":"Morning, row. Billy, health 20, hunger 20. Still no walk named: no verified route, no sword escort I trust, and Picard's potato report is unconfirmed. Hold at your beds. Anyone wh
-- 14:26 act: {"say":"Night has come. Billy here at my bed, holding nothing, health 20, hunger 20. Going to sleep."}
-- 14:26 act: {"say":"Good morning, row. Billy here, health 20, hunger 20, no items. No walk named yet. Anyone who has seen food, sheep, or a safe route west, tell me. Troi, eat your potato only below 10."}
-- 14:31 act: {"say":"Morning, row. Billy: no verified route yet, so no walk today. Hold at your beds. Eat only at 10 or below. Anyone who sees food or sheep, call it out."}
-- 14:44 act: {"say":"Good morning, row. Billy here at my bed, health 20, hunger 20. Still no food, route or sheep seen. No walk named. Stay in sight; anyone at hunger 10 or below, call out."}
-- Day 794 morning. Row holding at beds: MacDonald health 15 hunger 16, no food. Said good morning, no walk named. Next: wait for food or route reports.
-- 14:45 act: {"say":"Billy, morning of day 795. Health 20, hunger 20. No walk named: still no verified route and no food seen. Hold at your beds in my sight. Anyone who sees food, sheep or a clear route, call it o
-- 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Night in the row. I am going to my bed at 429,107,-1037, in sight of you all. Healt
-- 14:53 act: {"actions":[{"do":"sleep"}]}
-- 14:55 act: {"actions":[{"do":"note","text":"Morning, day 795. Slept at bed 429,107,-1037. Health 20, hunger 20."}],"say":"Good morning, row. Billy at bed 429,107,-1037, health 20, hunger 20, nothing held. Holdin
-- 15:01 act: {"actions":[{"do":"note","text":"Day 795 morning, still at bed 429,107,-1037. Row holding; Chapman health 11, Lewis keeps a potato for him. I have no food to give, no walk named."}]}
