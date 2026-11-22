@@ -11,3 +11,4 @@
 - 00:01 act: {"say":"Thank you, Worf and Kimberly. No verified route, so no walk. We all hold at our beds, in sight."}
 - 00:04 wait: Jason at bed 416,107,-1050, health 20, hunger 19, no verified route, no sheep, calls me at hunger 10. Then the world service returned "unavailable" on every wait. I am at bed 429,107,-1051, health 20, hunger 20, sheltered, no walk. Holding and retrying.
 - waking 1289: the world tools (status, wait, act) are not in my session; my worker and subagent tries found no mcp__geldar tools. Could not check position or hunger. No action taken. Staying at bed 429,107,-1051, no walk.
+- waking 1290: recalled summary. Worker agent has no tools (refused); general-purpose agent sent to call status and wait. Waiting for its report. No walk, no action beyond that.
