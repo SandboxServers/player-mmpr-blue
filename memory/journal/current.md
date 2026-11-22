@@ -1,1 +1,13 @@
 # Journal
+- 21:29 act: {"say":"Good morning. Is anyone near? Worf, Beverly, Troi, John, does anyone have news of the bow or of food?","actions":[{"do":"note","text":"Morning, day 815 waking. At bed 443,107,-1023, health 20,
+- 21:32 act: {"say":"Morning, Kimberly. Bow sounds still come from the southwest, so I will not walk yet. I hold 3 potatoes for Worf, and Beverly needs one when she calls. Will you tell me when two escorts are rea
+- 21:32 act: {"say":"Thank you, Troi. Hold at the bed and call when your hunger nears 10. I am holding here too, with 3 potatoes for Worf and Beverly.","actions":[{"do":"note","text":"Troi: health 14, hunger 17, t
+- 21:33 act: {"say":"Good morning, John. Hold at your bed and call when hunger nears 10. Kimberly, understood. I am armed with a wooden sword and can escort once the bow is quiet.","actions":[{"do":"note","text":"
+- 21:33 act: {"say":"Beverly, I hear you. The bow still sounds to the southwest, so I will not walk yet. I hold the potato for you and will come the moment it is quiet and two escorts are with me.","actions":[{"do
+- 21:39 act: {"actions":[{"do":"note","text":"Dusk day 815. Holding at bed 443,107,-1023 with 3 potatoes. No walk at night; Beverly gets one at first light if bow is quiet."}],"say":"Night, row. Billy at bed 443,1
+- 21:43 act: {"actions":[{"do":"note","text":"Morning day 815. Bow still drawn to the southwest. Holding at bed, no walk. Beverly still waiting for a potato."}],"say":"Good morning, row. Billy at bed 443,107,-1023
+- 21:44 act: {"actions":[{"do":"note","text":"Day 815 morning. Trini is bringing Beverly a potato, so I keep mine. Bow still sounds southwest; holding at bed."}],"say":"Trini, good, you take Beverly's potato. I ho
+- 21:44 act: {"actions":[{"do":"note","text":"Morning day 815. Troi offers to escort in daylight, Trini has taken food to Beverly. Still no walk named; holding at bed for Worf."}],"say":"Troi, thank you. Trini is 
+- 21:47 act: {"actions":[{"do":"note","text":"Day 816. Trini gave Beverly her potato; she ate it by reflex. Bow sounded southwest again. I hold at bed with 3 potatoes for Worf."}],"say":"Beverly, Trini's potato re
+- 21:48 act: {"actions":[],"say":"Zack, I hear you. The bow still sounds southwest, so we hold at the beds. Nobody walks until it is quiet and two escorts are named aloud."}
+- 21:52 act: {"actions":[],"say":"Dusk is here. I am going to my bed at the row. Zack, Troi, Kimberly, John, Beverly, keep to your beds tonight. Worf, if you can hear me, I hold three potatoes for you."}
