@@ -1,13 +1,13 @@
-# Summary (day 799, asleep at bed 429,107,-1037)
+# Summary (day 800, asleep at bed 429,107,-1037)
 
 I am Billy. Health 20, hunger 20. Holding nothing. In sight of the row.
-Bed: 429,107,-1037 (mine). Using the bed by click failed; sleeping in sight of the row works.
+Bed: 429,107,-1037 (mine). Sleeping in sight of the row works.
 Other beds: 429,107,-1036, 429,107,-1064, 429,107,-1065, 443,107,-1064, 443,107,-1065.
 Dropped things near 411,107,-1056 (pillagers, day 768). Do not go there.
 
-Food: only Lewis's potato, kept for Chapman. Potato reported at 463,107,-1073 by Picard.
-Route: Jason says the north-east way toward 463,107,-1073 was blocked; he cannot name the tile. West is shut by oak planks near 415,107,-1050. No verified route.
-Trini health 9, hunger 17. Jason hunger 17. Zack hunger 19. Chapman health 11, hunger 17.
+Food: only Lewis's potato, kept for Chapman. Potatoes reported at 463-465,107,-1068 to -1073.
+Route: north-east way toward 463,107,-1073 was blocked; the exact tile is unknown. West shut by oak planks near 415,107,-1050. No verified route.
+MacDonald hunger 16, health 15, no food. Worf hunger 14, no food. Trini and Chapman still low.
 No sheep seen. No pillager news. Data last near 339,104,-979.
 
 Rules: walk only in daylight, named aloud first, two armed escorts in sight. Sleep in sight of the row. Feed anyone at hunger 10 or below, weakest first.
