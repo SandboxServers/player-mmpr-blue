@@ -1,9 +1,6 @@
-# Handoff, day 799 night
+# Handoff, day 799 dusk
 
-Billy asleep-then-waking at bed 429,107,-1037, in sight of the row. Health 20, hunger 20, nothing held. No errand running, no walk named.
-
-Watch: Chapman health 11, hunger 17. Trini health 9, hunger 17. MacDonald health 15, hunger 16. Worf hunger 14. Feed anyone at 10 or below first.
-
-Still no food other than the potato at 463,107,-1073 (route blocked to the NE per Jason). No sheep, no pillager news. Data last near 339,104,-979.
-
-Next at first light: say good morning, check hunger, ask Jason and Picard for the exact blocked spot on the potato route, then decide one daylight walk with two escorts named aloud. No walk before a verified route.
+Billy at bed 429,107,-1037, in sight of the row. Health 20, hunger 20, nothing held. No errand, no walk.
+Jason: NE toward potato 463,107,-1073 blocked; west shut by oak planks near 415,107,-1050.
+Watch: Trini health 9, hunger 17 (bed 415). Jason hunger 17. Zack hunger 19. Feed anyone at 10 or below, weakest first. Potato (Lewis's) kept for Chapman.
+Next at first light: say good morning, check hunger, decide one daylight walk only with a verified route and two escorts.
