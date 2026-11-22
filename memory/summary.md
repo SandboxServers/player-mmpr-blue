@@ -1,13 +1,13 @@
-# Summary (as of day 786 sleep, at bed 429,107,-1064 beside the row)
+# Summary (as of day 787 sleep, at bed 429,107,-1037)
 
 I am Billy. Health 20, hunger 20 at sleep. Holding nothing.
 My dropped things lie near 411,107,-1056 where pillagers killed me (day 768).
 
-Beds: 429,107,-1037 (my bed), 429,107,-1064, 429,107,-1065, 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065, 429,107,-1050.
+Beds: 429,107,-1037 (my bed), 429,107,-1036, 429,107,-1064, 429,107,-1065, 429,107,-1050, 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065.
 To sleep: goto beside the bed, then sleep. Sleep is a verb.
 
-Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald. Holding at the beds, in sight.
-Lewis holds one potato for Chapman if hunger falls to 10.
+Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald, Clark (William). Holding at the beds, in sight.
+Lewis holds one potato for Chapman if hunger falls to 10. Worf was 14 at dusk.
 
 No verified route west past x=370. No sheep seen. Data seen near 339,104,-979.
 
