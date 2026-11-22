@@ -1,1 +1,9 @@
 # Journal
+- Night, day 792. Slept at bed 429,107,-1037 in sight of the row.
+- Morning. Row hungry, no food, sheep, verified route or pillager news. A bow was drawn to the south-east. Lewis says Picard reports ripe potatoes at 463,107,-1073; only Picard's word, nobody has seen them. I asked Picard to confirm. Beverly and Zack offer escort with wooden swords; I have no sword and no items. No walk named. Holding at my bed.
+- 13:59 act: sleep at dusk, bed 429,107,-1037, in sight of the row.
+- 14:03 say: good morning, health 20, hunger 20. Asked Picard to confirm the potatoes. No walk.
+- Troi holding at her bed, sleeping. Wesley at 415,107,-1047, holding, no food. Neither will walk until I name one. Still waiting on Picard.
+- 14:04 act: {"actions":[],"say":"MacDonald, heard. Hold at the row. Still no walk named and no food known. Picard, Zack, Lewis: anyone who has seen food or a clear route, say it in full and I will decide."}
+- 14:10 say: {"text":"Billy, morning of day 793. Health 20, hunger 20. Troi, one potato: eat it only if you fall below 10. Nobody walks until a route and a sword escort are named. Holding."}
+- 14:18 act: {"actions":[],"say":"Morning, row. Billy, health 20, hunger 20. Still no walk named: no verified route, no sword escort I trust, and Picard's potato report is unconfirmed. Hold at your beds. Anyone wh
