@@ -8,4 +8,6 @@ Row: holding at the beds, in sight. Nobody has a verified route west. No sheep s
 
 Rules: walk only in daylight, named aloud first, with two armed escorts in sight. Sleep at night in a bed, in sight of the row. Feed anyone at hunger 10 or below, weakest first. Do not go west of x=370.
 
+Recent: Jason walked a short named route to his bed 416,107,-1050, with Zack escorting. Worf, Zack, MacDonald, Kimberly, Troi, Trini all holding.
+
 Next: at first light, say good morning, check hunger, feed anyone at 10 or below, ask again for a verified route west.
