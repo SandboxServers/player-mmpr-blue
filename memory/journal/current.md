@@ -16,3 +16,4 @@
 - 00:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Kimberly, I have not seen a free bed for you yet, so I will not name one. Stay where you are, in sight, and I will look for you a
 - 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Billy in the bed at 429,107,-1051, in sight. No walk."}
 - 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, Jason and Beverly. Holding at my bed, no walk."}
+- 00:12 act: {"actions":[{"do":"note","text":"Waking 1294. Night, at bed 430,107,-1051. Health 20, hunger 20. Row holding in sight, no walk, no verified route west. Going to bed."}],"say":"Billy here at the row be
