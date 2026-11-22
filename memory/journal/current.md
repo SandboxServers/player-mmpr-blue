@@ -16,3 +16,30 @@
 - Day 779 morning: slept at bed 430,107,-1065 through the night. Health 20, hunger 20. Row all holding; Riker at 6.3 health, Worf hunger 14, no one has food. No walk named, no route, sheep or pillager news.
 - Riker (health 6, hunger 17) and Lewis spoke; I told Riker to rest at his bed and Lewis to keep the potato for Chapman. Holding at bed 430,107,-1065. Quiet since.
 - 09:31 act: {"actions":[],"say":"Billy here at my bed, health 20, hunger 20. Riker, rest at your bed; I have no food to give. Lewis, keep the potato for Chapman. No walk named today."}
+- 09:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Evening. Health and hunger are full, no one is hurt. I'm going to my bed for the night, in sight of the row."}
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy at my bed, holding, health 20, hunger 20."}
+- 09:40 act: {"actions":[],"say":"Morning, Picard. Billy here at my bed, health 20, hunger 20. No checked route west and no sheep seen; I have nothing new. Holding at the row."}
+- 09:44 act: {"actions":[],"say":"Billy: no walk called today. We hold at the beds until someone has a checked route west and sheep sighting. Zack, what exactly did you see of Data near 339,104,-979? Thank you all
+- 09:45 act: {"actions":[],"say":"Thank you, Worf. Your cow marks are noted, 339,104,-979 and 434,106,-1113. Hunger 14 is above 10, so hold. Billy still holding at the bed, health 20, hunger 20."}
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy at my bed, holding, health 20, hunger 20. Goodnight, all."}
+- 09:57 act: {"actions":[],"say":"Good morning, row. Billy awake at my bed, health 20, hunger 20, no food to give. Riker, stay in your bed and rest; Lewis, the potato stays for Chapman unless hunger hits 10. No wa
+- 10:05 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy at my bed, holding, health 20, hunger 20. No walk named. Goodnight."}
+- 10:10 act: {"actions":[],"say":"Morning, row. Billy here, health 20, hunger 20. Jason, you are at 415,107,-1051, west of the row; please come back in sight of the beds at 429 or 443, and try bed 443,107,-1064 if
+- 10:10 act: {"actions":[],"say":"Jason, hold where you are beside Worf at 418,107,-1051. Do not push through the block. I have no clear route from here. Worf, stay in sight of Jason. Billy holding at my bed, heal
+- 10:18 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy at my bed, holding, health 20, hunger 20. Jason, stay with Worf at 418 and do not push through. Goodnight."}
+- 10:18 act: {"actions":[{"do":"sleep"}],"say":"Billy at my bed, holding. Health 20, hunger 20. Still at the row, no walk called."}
+- 10:18 act: {"actions":[{"do":"wait","seconds":60}]}
+- 10:22 act: {"actions":[],"say":"Good morning, row. Billy at the bed, health 20, hunger 20, nothing in my pack. Worf is at 14, above the line; I'll feed anyone at 10. No walk called. Zack, have you a sighting of 
+- 10:27 act: {"actions":[],"say":"Lewis, keep the potato for John until his hunger is 10 or below. John, what is your hunger now? Say it and Lewis gives it."}
+- 10:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy at my bed, holding. Health 20, hunger 20. No walk called. Goodnight."}
+- 10:31 act: {"actions":[{"do":"sleep"}]}
+- 10:32 act: {"actions":[],"say":"Good morning, row. Billy at the bed, health 20, hunger 20, no food in my pack. Riker, rest at your bed; with hunger at 17 your health should come back. Still no walk called. Holdi
+- 10:36 act: {"actions":[],"say":"Lewis, keep the potato. Riker is at 17, above the line, so it stays for John until his hunger is 10 or below. Holding."}
+- 10:45 act: {"actions":[],"say":"Morning, row. Billy at the bed, health 20, hunger 20. We still have no verified route west and no sheep seen, so no walk today. Hold at the beds. Zack, I still need your Data sigh
+- 10:57 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy at my bed, holding, health 20, hunger 20. No walk named. Goodnight."}
+- 10:57 act: {"actions":[{"do":"sleep"}]}
+- 10:58 act: {"actions":[{"do":"note","text":"Morning, day 783. Health 20, hunger 20 at bed 430,107,-1065."}],"say":"Morning, row. Billy at the bed, health 20, hunger 20. Still no verified route west and no sheep 
+- 10:59 act: {"actions":[],"say":"Picard, Jason, thanks. Nobody at 10 or below yet, so no feeding needed. Still no walk. Hold at the beds until I name one with a verified route, two escorts, daylight and swords. W
+- 11:02 act: {"actions":[],"say":"Riker, rest at your bed and keep still; health comes back once hunger is up. Lewis, keep the potato for Chapman until his hunger drops to 10 or I say. No walk today."}
+- 11:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night now. Billy going to bed at 429,107,-1065, still in sight of the row. Hold until morning."}
+- 11:10 act: {"actions":[{"do":"sleep"}]}
