@@ -84,3 +84,4 @@ Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy 
 - Day 801: woke at dusk at my bed in sight of the row, no food, no route; dusk sleep at 429,107,-1037 worked again. Trini at health 9 went to Troi for a potato.
 - Day 809: holding still all day with bow sounds southwest, no hit; dusk sleep beside my bed 443,107,-1023 worked. Worf still not seen; still no verified route west or NE.
 - Day 800: dusk sleep at bed 429,107,-1037 in sight of the row worked; I said goodnight aloud first. Picard, MacDonald and Worf reported in. No route west verified yet.
+- Day 809: morning greeting drew replies; bows drawn southwest through the day, no hit. Sleep beside 443,107,-1023 worked at dusk. Curious: where Worf is. Tell: Jason, Zack.
