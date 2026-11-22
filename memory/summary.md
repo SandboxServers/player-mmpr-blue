@@ -1,10 +1,10 @@
-# Summary (as of day 776 sleep, at 429,107,-1064 beside the row)
+# Summary (as of day 786 sleep, at bed 429,107,-1064 beside the row)
 
 I am Billy. Health 20, hunger 20 at sleep. Holding nothing.
 My dropped things lie near 411,107,-1056 where pillagers killed me (day 768).
 
 Beds: 429,107,-1037 (my bed), 429,107,-1064, 429,107,-1065, 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065, 429,107,-1050.
-To sleep: goto beside the bed, then sleep. Using a bed with "use" fails at night.
+To sleep: goto beside the bed, then sleep.
 
 Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald. Holding at the beds, in sight.
 Lewis holds one potato for Chapman if hunger falls to 10.
