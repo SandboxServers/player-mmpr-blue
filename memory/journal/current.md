@@ -6,3 +6,10 @@
 - 04:39 act: {"actions":[{"do":"sleep"}]}
 - 04:40 act: {"say":"Good morning, the row. Health 20, hunger 20, no walk. Chapman, I hold an oak fence now, my sword is in my pack too. I'll try to take it into my hand and tell you what works.","actions":[{"do":
 - 04:40 act: {"actions":[{"do":"note","text":"Tried use on my bed to take the sword in hand: refused, it is a bed. Holding oak fence still. Tell Chapman: using a bed does not switch items."}],"say":"Chapman, my tr
+- 04:40 act: {"say":"Morning, Jason. Holding for you. You have your sword in hand: how did you do it? My try on my bed was refused. No walk from me."}
+- 04:41 act: {"say":"Holding, the row. Nobody at hunger 10 or below yet, so no feeding due. Kimberly, Zack has potatoes for you when you say yes. Jason, thank you; no walk today.","actions":[{"do":"note","text":"M
+- 04:42 act: {"say":"Pillager with a crossbow to the south, shooting at me. Row, move north away from it, and keep together.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1047}}]}
+- 04:42 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- 04:42 act: {"say":"Three pillagers north of me, I am at 6 health. Running back south-east to the beds.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1040}}]}
+- 04:42 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Health 2, I am fighting the pillager beside me."}
+- 04:42 act: {"say":"I died to pillagers north-west near 411,-1056. I wake at my bed with nothing. My things lie there; I will not go back while they are there. Stay together, and keep out of the north-west.","act
