@@ -1,4 +1,4 @@
-# Goals (day 813, after reflect)
+# Goals (day 814, after reflect)
 
 1. Give Worf the 3 potatoes the moment he is in sight. He has waited longest.
 2. Feed anyone at hunger 10 or below, weakest first. Beverly gets one potato if she is in sight.
