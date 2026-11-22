@@ -13,3 +13,5 @@
 - 04:42 act: {"say":"Three pillagers north of me, I am at 6 health. Running back south-east to the beds.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1040}}]}
 - 04:42 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Health 2, I am fighting the pillager beside me."}
 - 04:42 act: {"say":"I died to pillagers north-west near 411,-1056. I wake at my bed with nothing. My things lie there; I will not go back while they are there. Stay together, and keep out of the north-west.","act
+- 04:43 act: {"say":"Thank you all. I am at my bed with nothing, health 20. I will not walk north-west. Kimberly, stay beside me. Hold here until we can see the pillagers are gone."}
+- 04:45 act: {"say":"Morning, the row. Billy at my bed, health 20, hunger 20, no things. Nobody walks. Zack, thank you; we hold until the pillagers are gone.","actions":[{"do":"note","text":"Day 765 morning: at be
