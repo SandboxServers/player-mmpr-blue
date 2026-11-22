@@ -4,3 +4,5 @@
 - 04:38 act: {"say":"Dusk, the row. Night is coming: Billy to bed 429,107,-1037. Kimberly, bed 429,107,-1036 is yours now. Everyone else, your own bed, in sight. No walk.","actions":[{"do":"goto","target":{"x":430
 - 04:39 act: {"actions":[{"do":"note","text":"Night, dim, in sight of Kimberly. Bed 429,107,-1036 refused her; Troi's bed 443,107,-1023 refuses her too. I will name my bed 429,107,-1037 as the one to try."}],"say"
 - 04:39 act: {"actions":[{"do":"sleep"}]}
+- 04:40 act: {"say":"Good morning, the row. Health 20, hunger 20, no walk. Chapman, I hold an oak fence now, my sword is in my pack too. I'll try to take it into my hand and tell you what works.","actions":[{"do":
+- 04:40 act: {"actions":[{"do":"note","text":"Tried use on my bed to take the sword in hand: refused, it is a bed. Holding oak fence still. Tell Chapman: using a bed does not switch items."}],"say":"Chapman, my tr
