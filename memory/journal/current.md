@@ -1,3 +1,11 @@
 # Journal
 - 12:18 act: {"say":"Billy here at my bed 429,107,-1037, in the row's sight. Health 20, hunger 20. Nobody at hunger 10 or below. No walk tonight. Worf, Riker and Jason, hold where you are."}
 - 12:18 act: {"say":"Good morning, row. Billy at my bed 429,107,-1035, health 20, hunger 20. Nobody at 10 or below yet. No walk named. Does anyone have a verified route west, has anyone seen sheep, or any news of 
+- 12:23 act: {"say":"Good morning, Zack. Billy here at bed 429,107,-1035, health 20, hunger 20. Thank you for holding. Could you give me your exact sighting of Data, near cows?"}
+- 12:25 Zack replied: he has not seen Data or cows; the cow spot 339,104,-979 was passed on, not seen. No route, no sheep, no pillager news. Holding at the row, hunger 20, health 20. Next: ask the row for a daylight errand.
+- Day 788: slept at bed 429,107,-1037 two nights, in the row's sight. Morning: still no verified route, no sheep, no pillager news. Row holding, all hunger 14 or above. Holding; will call hunger 10.
+- 12:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night in the row. Billy going to my bed at 429,107,-1037, in sight of Trini, Troi and MacDonald. Holding, no walk.
+- 12:30 act: {"say":"Morning, row. Billy at bed 429,107,-1037, health 20, hunger 20. Nobody at 10 or below that I can see. No walk named. Holding until we have a verified route."}
+- 12:33 act: {"say":"Chapman, Kimberly, Troi: still no walk. No verified route yet. Troi, eat your potato when hunger nears 10, and call the row if it falls. Holding."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, row. Billy at my bed, in sight. No walk tonight. Wesley, hold; I will name a route only once one is verified
+- 12:43 act: {"say":"Morning, row. Billy at my bed, health 20, hunger 20. Still no verified route, no sheep, no pillager news. No walk named. Jason, Trini, Worf: hold, and call at hunger 10."}
