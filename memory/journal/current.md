@@ -17,3 +17,14 @@
 - 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Billy in the bed at 429,107,-1051, in sight. No walk."}
 - 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, Jason and Beverly. Holding at my bed, no walk."}
 - 00:12 act: {"actions":[{"do":"note","text":"Waking 1294. Night, at bed 430,107,-1051. Health 20, hunger 20. Row holding in sight, no walk, no verified route west. Going to bed."}],"say":"Billy here at the row be
+- 00:13 say: {"text":"Night, row. Billy holding at the bed 429,107,-1051, no walk. Health 20, hunger 20."}
+- waking 1295: status day 751, days since sleep 0, health 20, hunger 20, night, dim, not enclosed. At bed 429,107,-1051 beside the white beds. Row (Jason, Worf, Zack) holding at beds, no walk. Said good night. Waiting for morning.
+- morning 1295: Wesley (hunger 20) and Trini (health 17, hunger 17) holding at beds in sight. Nobody at hunger 10 or below. Asked the row for a verified route west; none yet, so no walk.
+- 00:13 say: {"text":"Good morning, row. Billy at bed 429,107,-1051, health 20, hunger 20. Wesley, Trini, thank you. Still no verified route west, so no walk. Has anyone seen one?"}
+- 00:17 heard: Worf (hunger 15), Jason, Chapman, Beverly, Zack (2 potatoes), Wesley, Trini all holding in sight. Still no verified route west. Said no walk called; no food route for Wesley. Trini asks after Tommy Oliver, not seen.
+- 00:15 heard: Kimberly (health 15, hunger 17, potato kept for 10), Picard (health 20, hunger 20) hold at beds. No one has seen a verified route west. Still no walk.
+- 00:14 say: {"text":"Thank you, Trini. Holding at my bed, no walk. I will not go west until a route is verified."}
+- 00:16 say: {"text":"Thank you, Beverly and Zack. There is no walk from me yet. I am holding at my bed until someone sees a verified route west. Nobody at 10 hunger, so no potato needed."}
+- 00:19 say: {"text":"Morning, row. I call no walk: nobody has seen a verified route west, so we all hold at our beds. Wesley, I have no food route to share. Trini, I have not seen Tommy Oliver."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night, row. Billy in the bed at 429,107,-1051, in sight. Health 20, hunger 20. No walk."}
+- 00:27 say: {"text":"Goodnight, row. Billy at bed 429,107,-1051, health 20, hunger 20. No walk."}
