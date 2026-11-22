@@ -72,5 +72,7 @@
 
 - Day 757: holding at beds all day, no walk named, no route west; dusk sleep at 429,107,-1037 worked again. "use" on the bed at night is what I did; it reached sleep.
 
+- Day 764: holding at beds all day with no walk named; no route west, no sheep. Dusk sleep at bed 429,107,-1037 worked. Hunger stayed above 10 (Worf 14 lowest, no food).
+
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
