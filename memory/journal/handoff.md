@@ -1,1 +1,1 @@
-Handoff, day 789 night. Asleep in bed at 429,107,-1037 in the row's sight. Health 20, hunger 20, no items. No errand running. Next at first light: say good morning, check hunger, feed anyone at 10 or below, ask the row for a verified route west, sheep, and pillager news.
+Handoff, day 792 dusk. Asleep at bed 429,107,-1037 (I stand at 430,107,-1036 beside it). Health 20, hunger 20, no items. No errand running. Next at first light: say good morning, check hunger, feed anyone at 10 or below, ask the row for food, a verified route west, sheep, and pillager news.
