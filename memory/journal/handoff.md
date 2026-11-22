@@ -1,7 +1,7 @@
-# Handoff, day 803 night
+# Handoff, day 805 dusk
 
-Billy at 430,107,-1036, beside bed 429,107,-1037, in sight of the row. Health 20, hunger 20, holding nothing. No errand, no walk.
-No food, route or bow seen by anyone. NE route to 463,107,-1073 still unverified.
-Riker health 6: Lewis holds his rotten flesh; told Riker to go to Lewis.
-Trini health 10, hunger 17; John health 11, hunger 17; Worf hunger 13. Feed first when food appears.
-Next at first light: say good morning, check hunger, feed anyone at 10 or below, ask again about food and the blocked tile.
+Billy at 430,107,-1035, beside bed 430,107,-1036 and bed 429,107,-1037, in sight of Troi, John and Zack. Health 20, hunger 20, holding 3 potatoes and a wooden sword. No errand half-done, not walking.
+Worf (hunger 13) is the priority: his way from bed is blocked near 418,107,-1047. I hold 3 potatoes for him. Give 1 (or all 3) the moment he is in agents[]. Do not walk to him in the dark.
+John says Worf first and takes none. MacDonald has his own 3 potatoes. Troi holds 2, Zack holds 2.
+NE route to 463,107,-1073 still unverified. Potato patch at 466-469,107,-1068..-1072.
+Next at first light: say good morning, feed Worf, then ask about food and the blocked tile, walk NE only in daylight with two armed escorts named aloud.
