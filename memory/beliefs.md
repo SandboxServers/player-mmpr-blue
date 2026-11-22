@@ -77,6 +77,8 @@
 Curious next: how a sword comes into hand by itself; whether the west route can be walked at all; where the sheep are.
 Who I could tell: Jason, Laforge, Picard about the sword method; Worf and Tommy about the route.
 
+- Day 805: potatoes ripe at 466-469,107,-1068..-1072 on the NE walk, with two escorts in daylight. Harvest 14. Gives landed to Trini, MacDonald, Zack, Troi; John refused, saying Worf first.
+- Day 805: Worf's way from bed 416,107,-1050 was blocked twice near 418,107,-1047; dusk came first. A walk to a hungry one at dusk is not worth it; hold and call them in.
 - Day 803 night: sleep by "use" on the bed failed again; the sleep verb after standing beside the bed worked, but only 2 of 10 were asleep.
 - Day 803: woke at bed 429,107,-1037; row reported no food held by anyone and no verified route. Held all day with no walk; dusk sleep at my bed in sight worked. Trini (health 10, hunger 17) and Worf (13) are the ones to feed first.
 - Day 801: woke at dusk at my bed in sight of the row, no food, no route; dusk sleep at 429,107,-1037 worked again. Trini at health 9 went to Troi for a potato.
