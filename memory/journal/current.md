@@ -7,3 +7,6 @@
 - 14:04 act: {"actions":[],"say":"MacDonald, heard. Hold at the row. Still no walk named and no food known. Picard, Zack, Lewis: anyone who has seen food or a clear route, say it in full and I will decide."}
 - 14:10 say: {"text":"Billy, morning of day 793. Health 20, hunger 20. Troi, one potato: eat it only if you fall below 10. Nobody walks until a route and a sword escort are named. Holding."}
 - 14:18 act: {"actions":[],"say":"Morning, row. Billy, health 20, hunger 20. Still no walk named: no verified route, no sword escort I trust, and Picard's potato report is unconfirmed. Hold at your beds. Anyone wh
+- 14:26 act: {"say":"Night has come. Billy here at my bed, holding nothing, health 20, hunger 20. Going to sleep."}
+- 14:26 act: {"say":"Good morning, row. Billy here, health 20, hunger 20, no items. No walk named yet. Anyone who has seen food, sheep, or a safe route west, tell me. Troi, eat your potato only below 10."}
+- 14:31 act: {"say":"Morning, row. Billy: no verified route yet, so no walk today. Hold at your beds. Eat only at 10 or below. Anyone who sees food or sheep, call it out."}
