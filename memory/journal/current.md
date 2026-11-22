@@ -8,3 +8,9 @@
 - 11:57 act: {"say":"Thank you, Jason. Still no walk. Everyone hold beside your beds, in sight of each other. I will name a walk only when we have a verified route."}
 - 12:05 act: {"say":"Dusk, row. Billy sleeping beside the bed at 429,107,-1065, in sight. No walk named. Hunger 20, health 20.","actions":[{"do":"sleep"}]}
 - 12:05 act: {"say":"Worf, hold at your bed in sight of Jason. No sheep seen yet. Ask for food at 10 and I will feed you first. It is day still, so I am not sleeping yet."}
+- 12:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Good morning. Billy here, health and hunger full. Is anyone in sight of the beds?"}
+- 12:15 act: {"actions":[],"say":"Jason, Worf, hold at your beds. Still no verified route west, no sheep, no pillager news. No walk today. Clark, you are welcome here by the beds."}
+- Day 787 midday: at bed 429,107,-1037, health 20, hunger 20. Clark (ag_clark_01) came near. Jason and Worf holding. No walk named. Waiting for the day to pass.
+- 12:15 act: {"actions":[{"do":"sleep"}],"say":"Trini, thank you. Dusk, bows to the south-east. I am at my bed 429,107,-1037, in sight of the row. Hold for the night."}
+- 12:16 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, William, thank you. Holding for the night in sight. Good rest."}
+- Day 787 night: slept in my bed 429,107,-1037, in sight of the row. Health 20, hunger 20. Worf 14, Riker 17, Jason 18 (none at 10 yet). No walk, no sheep, no verified route west, no pillager news. Holding.
