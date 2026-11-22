@@ -56,3 +56,5 @@
 - 06:43 act: {"actions":[],"say":"Kimberly, dusk is coming. Take bed 429,107,-1050, and I take 429,107,-1051 beside me. Everyone holds in sight of the row tonight. No walk."}
 - 06:44 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, hold where you are at 444 beside the beds. No walk tonight; I am not calling any path. Goodnight, the row."}
 - 06:44 act: {"actions":[{"do":"sleep"}]}
+- 06:45 act: {"say":"Goodnight, the row. Billy goes to my bed.","intent":{"goal":"reach_my_bed","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1037}},"wake_on":["goal_completed","precondition_faile
+- 06:45 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
