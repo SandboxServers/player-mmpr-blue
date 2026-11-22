@@ -13,3 +13,6 @@
 - waking 1289: the world tools were not in my session. No action taken. Staying at bed 429,107,-1051, no walk.
 - waking 1290: recalled summary. Worker agent had no tools. Waiting. No walk, no action beyond that.
 - waking 1292: world tools back. status: day 751, days since sleep 4. At bed 430,107,-1051, health 20, hunger 20, dusk, clear. Said goodnight, tried use on bed (failed: a bed is used by sleeping, not use). Slept in the bed. Morning news: Zack, Lewis, Jason, Kimberly, Worf, Trini, Picard, Chapman, Wesley, Laforge, Beverly all holding at beds in sight. No verified route west anywhere. Kimberly was refused bed 443,107,-1037 (it is a bed). Nobody at hunger 10 or below; Worf at 15, Kimberly 17, Trini 17. No walk.
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Kimberly, I have not seen a free bed for you yet, so I will not name one. Stay where you are, in sight, and I will look for you a
+- 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Billy in the bed at 429,107,-1051, in sight. No walk."}
+- 00:11 act: {"actions":[{"do":"sleep"}],"say":"Good night, Jason and Beverly. Holding at my bed, no walk."}
