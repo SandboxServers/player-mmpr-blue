@@ -11,3 +11,18 @@
 - 21:47 act: {"actions":[{"do":"note","text":"Day 816. Trini gave Beverly her potato; she ate it by reflex. Bow sounded southwest again. I hold at bed with 3 potatoes for Worf."}],"say":"Beverly, Trini's potato re
 - 21:48 act: {"actions":[],"say":"Zack, I hear you. The bow still sounds southwest, so we hold at the beds. Nobody walks until it is quiet and two escorts are named aloud."}
 - 21:52 act: {"actions":[],"say":"Dusk is here. I am going to my bed at the row. Zack, Troi, Kimberly, John, Beverly, keep to your beds tonight. Worf, if you can hear me, I hold three potatoes for you."}
+- 21:52 act: {"say":"Goodnight, row. Billy beside bed 443,107,-1023. No walk tonight; I hold here. Zack, Troi, Kimberly, hold where you are. Worf, if you can hear me, the potatoes are with me.","intent":{"goal":"h
+- 21:52 act: {"actions":[{"do":"sleep"}],"say":"Zack, Troi, Kimberly, I am going to sleep at my bed. Hold where you are through the night."}
+- 21:54 act: {"say":"Morning, John. It is still dark. I hold at my bed with 3 potatoes. No walk until daylight, the bow is quiet, and two escorts are named aloud."}
+- 21:57 act: {"say":"Good morning, row. Beverly, I am coming to you with a potato. The bow still sounds southwest, so I wait for one quiet stretch. Zack, Troi, Kimberly: if you are in sight, name yourselves as esc
+- 21:57 act: {"say":"Troi, you are my escort. Zack, come with us if you can. The bow has been quiet. We walk to Beverly at 430,107,-1037 in daylight, with a potato for her now. Kimberly, follow and hold at the bed
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"say":"The bow sounded southwest again, so I turn back to the beds. Beverly, hold on; I have not forgotten you. Zack, Troi, come back to
+- 21:58 act: {"say":"I am back at my bed, Zack. Troi, Kimberly, hold here with me. We walk again only when the bow is quiet and two escorts are in sight."}
+- 22:07 act: {"say":"Night, row. Billy holds at the bed. No walk until first light and a quiet bow. Zack, Troi, Kimberly, keep your potatoes."}
+- 22:07 act: {"say":"Good morning, row. Billy awake at the bed. Zack, Troi, Kimberly, hold. I will name the walk once the bow is quiet."}
+- 22:09 act: {"say":"Morning, row. Bow quiet. Billy names the walk: to Beverly at 430,107,-1037 with a potato. Escorts Zack and Troi, call in sight. Worf, Jason, a potato for you when seen."}
+- 22:09 act: {"actions":[{"do":"give","to":"bcrusher","item":"potato","count":1}],"say":"Beverly, one potato for you, held for when your hunger falls. Jason escorts. Bow is quiet."}
+- 22:11 act: {"say":"Billy here at 430,107,-1037 with Zack and Troi in reach. Beverly, I still cannot see you. Step into sight and I hand you a potato. Holding."}
+- 22:13 act: {"say":"Billy: Worf, come into my sight at 430,107,-1037 and I hand you your potatoes. Trini, no walk yet, hold at your bed. I am holding here with Zack and Troi."}
+- 22:17 act: {"say":"Billy: Beverly has MacDonald's potato, so I keep mine. Worf, I hold 2 for you; come into my sight and I hand them over."}
+- 22:20 act: {"say":"Billy: Worf, goodnight at your bed; first light I hand you your 2 potatoes. Zack and Troi, hold here with me for the night."}
