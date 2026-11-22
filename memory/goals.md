@@ -1,4 +1,4 @@
-# Goals (updated day 753 sleep)
+# Goals (updated day 756 sleep)
 
 1. Feed anyone at hunger 10 or below, weakest first. Potatoes: Zack, Lewis, Kimberly, William. Reason: hunger and low health kill.
 2. Walk only with a verified route and two armed escorts in sight, named aloud first, in daylight. Do not go west of x=370.
