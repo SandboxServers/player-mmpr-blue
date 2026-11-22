@@ -1,2 +1,3 @@
 # Journal
 - 00:54 act: {"say":"Night, row. Billy at bed 429,107,-1051, in sight of the row. Health 20, hunger 20. No walk, no route west. Going to sleep.","actions":[{"do":"sleep"}]}
+- 00:55 act: {"say":"Good morning. I am at bed 429,107,-1051, health and hunger full. Has anyone seen a verified route west? I will not walk until one is named."}
