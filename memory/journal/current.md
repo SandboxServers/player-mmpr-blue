@@ -1,1 +1,3 @@
 # Journal
+- 00:28 act: {"say":"Good morning, row. Billy here at bed 429,107,-1051, health 20, hunger 20. Nobody is at hunger 10 yet. Has anyone seen a verified route west? I will not walk without one."}
+- Morning 752: at bed 429,107,-1051, health 20, hunger 20. Row reports (Lewis 20/19, Trini 17/17, Chapman 20/20) all holding, no walk. Asked row for a verified route west. No walk. Laforge, Worf (hunger 15), Jason (19) all holding; nobody has a verified route. Holding at bed. Picard and Wesley also holding, hunger 20; no verified route anywhere in the row. Beverly 20/20 holding. Kimberly health 15, hunger 17, potato kept for 10, no walk.
