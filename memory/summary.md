@@ -1,12 +1,12 @@
-# Summary (as of day 774 sleep, at 444,107,-1065 beside the beds)
+# Summary (as of day 775 sleep, at 429,107,-1064 beside the row)
 
 I am Billy. Health 20, hunger 20 at sleep. Holding nothing.
 My dropped things lie near 411,107,-1056 where pillagers killed me (day 768).
 
-Beds: 429,107,-1037 (my bed), 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065, 429,107,-1050.
+Beds: 429,107,-1037 (my bed), 429,107,-1064, 429,107,-1065, 443,107,-1050, 443,107,-1051, 443,107,-1064, 443,107,-1065, 429,107,-1050.
 
-Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald hold at the beds, in sight.
-Riker was at health 2.3 after a phantom; Zack fed him a potato. Riker now 4.3, rising. Chapman health 11.
+Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald. Holding at the beds, in sight.
+Chapman at health 11, hunger 17, needs food. Lewis has spare food sometimes.
 
 No verified route west past x=370. No sheep seen. Cows seen near 339,104,-979 and 434,106,-1113. Data seen near 339,104,-979.
 
@@ -14,4 +14,4 @@ Rules: walk only in daylight, named aloud first, with two armed escorts in sight
 
 Lessons: a wall between two people blocks a hand-over; step into open view first. Phantoms hit at night in the open; sleep in a bed.
 
-Next: at first light, say good morning, check Riker's and Chapman's health, feed anyone at 10 or below, ask the row for a verified route west, sheep and pillager news.
+Next: at first light, say good morning, feed Chapman if possible, ask the row for a verified route west, sheep and pillager news.
