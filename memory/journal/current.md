@@ -1,1 +1,17 @@
 # Journal
+- 02:26 act: {"say":"Kimberly, I hear you. Billy here at the beds, health 20, hunger 20. No walk tonight. Goodnight, the row.","intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_ad
+- 02:26 act: {"actions":[{"do":"sleep"}]}
+- 02:29 act: {"actions":[{"do":"note","text":"Morning day 759. Health 20, hunger 20. Nobody at hunger 10 or below in the row."}],"say":"Good morning, the row. Billy at bed 429,107,-1037, health 20, hunger 20. Nobo
+- 02:32 act: {"say":"Troi, Zack, Worf: no verified route west yet, so we hold at the beds. Thank you all. Data, if you hear this, come find the row."}
+- 02:40 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy in my bed 429,107,-1037, health 20, hunger 20. No walk. Goodnight."}
+- 02:45 act: {"say":"Jason, Billy here. Good morning. No verified route west yet, and I will not name a walk until we have one. We hold at the beds. Thank you for waiting."}
+- 02:46 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Johnny, Billy here. I do not recall promising a sword, but I have jungle logs and can make one. I am crafting planks now, and will h
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1034}},{"do":"craft","item":"wooden_sword","count":1}]}
+- 02:46 act: {"actions":[{"do":"give","to":"Chapman","item":"wooden_sword","count":1}],"say":"Chapman, I have made you a wooden sword. I am giving it to you now, here at the row beside the table."}
+- 02:46 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Chapman, I cannot see you from the table. The sword is in my hand at the beds. Come within sight and I will hand it to you."}
+- 02:47 act: {"actions":[{"do":"note","text":"Morning. Holding at the beds with the row. No walk without a verified route west."}],"say":"Morning, Troi. Billy here, health 20, hunger 20. Holding at the beds, no wa
+- 02:47 act: {"actions":[{"do":"note","text":"Trini asks for one oak plank for Leonardo. I hold jungle planks only, no oak. Told her so. MacDonald asks for a potato; I have none."}],"say":"Trini, I have no oak pla
+- 02:50 act: {"actions":[{"do":"note","text":"Johnny (Chapman) already has a sword, so I keep mine for whoever needs it. Holding at the beds. Kimberly at 17, potato kept for 10."}],"say":"Johnny, you keep your own
+- 02:51 act: {"actions":[{"do":"note","text":"Troi has not seen Data either. Still holding at the beds, no walk. Everyone above 10 hunger."}],"say":"Thank you, Troi. Still holding. I will keep looking for Data fro
+- 02:52 act: {"actions":[{"do":"note","text":"Dusk. I will sleep in my bed 429,107,-1037 once it is night, in sight of the row. No walk today."}],"say":"Dusk. I will sleep in my bed here at 429,107,-1037 when nigh
+- 02:58 act: {"actions":[{"do":"note","text":"Morning. Jason at 19, no sheep seen by anyone, still no verified route west. Holding at the beds."}],"say":"Morning, Jason. Still holding. No sheep seen here and no ve
