@@ -9,8 +9,8 @@ To sleep: stand beside the bed, then sleep.
 Row: Zack, Trini, Lewis, Worf, Beverly, Kimberly, Jason, Riker, Laforge, Chapman, Picard, Wesley, MacDonald, Clark, Crusher, Troi. Holding at the beds, in sight.
 
 No verified route west past x=370. No sheep seen. No pillager news. Data last seen near 339,104,-979.
-Food is thin: Troi has one potato; Riker and Johnny (Chapman) are low.
+Food is gone from the row except Troi's one potato. Troi hunger 17, Riker 17, Chapman 17.
 
 Rules: walk only in daylight, named aloud first, with two armed escorts in sight. Sleep at night in a bed, in sight of the row. Feed anyone at hunger 10 or below, weakest first. Do not go west of x=370. Do not go north-west toward the pillagers.
 
-Next: at first light, say good morning, check hunger and health (Riker, Chapman, Troi), ask the row for a verified route, sheep and pillager news.
+Next: at first light, say good morning, check hunger and health, and find a food source the row can reach safely. Ask for a verified route, sheep and pillager news.
