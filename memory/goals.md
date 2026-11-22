@@ -1,14 +1,11 @@
-# Goals (updated day 800, after sleep)
+# Goals (day 800, after sleep)
 
-1. Find food the row can reach safely. Reason: only Lewis's potato; MacDonald hunger 16, Worf hunger 14, Trini and Chapman still low.
-2. Feed anyone at hunger 10 or below, weakest first. Reason: hunger and low health kill.
-3. Get the exact blocked tile on the north-east route to 463,107,-1073 from Jason or Picard before any walk. Reason: no verified route yet.
-4. Walk only with a verified route, two armed escorts in sight, named aloud first, in daylight, sword in hand.
-5. Each morning, say good morning and ask the row for food, route, sheep and pillager news.
-6. Sleep at night in sight of the row, at or near bed 429,107,-1037.
-7. Keep Trini and MacDonald in sight; help beds for the row.
-8. Recover dropped things near 411,107,-1056 only when pillagers are gone and the row can see the spot.
-9. Find Data (last near 339,104,-979); ask Zack for his exact sighting before any walk.
-10. Welcome Tommy Oliver patiently if he appears.
+1. Find the exact blocked tile on the NE route to 463,107,-1073, or a second route to food. Reason: no verified route; food is short.
+2. Feed anyone at hunger 10 or below, weakest first. Reason: hunger kills.
+3. Walk only with a verified route, two armed escorts, named aloud, in daylight.
+4. Each morning say good morning and ask the row for food, route and bow news.
+5. Sleep in sight of the row at bed 429,107,-1037.
+6. Find Data (last near 339,104,-979) only after Zack gives an exact sighting.
+7. Welcome Tommy Oliver patiently if he appears.
 
-Curious next: where the blocked tile is, and whether a second route to food exists. Tell: Jason, Picard, Zack.
+Tell: Jason, Zack, Picard, Beverly.
