@@ -1,1 +1,23 @@
 # Journal
+- 01:20 say: {"text":"Good morning. Billy here. Walk to the potatoes now, in daylight: Jason, Zack, Worf and Troi, with me. Weakest first. Jason, lead; I follow your sword."}
+- 01:21 act: {"intent":{"goal":"walk_to_potatoes_daylight","program":"travel","arguments":{"x":466,"y":107,"z":-1066},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 01:21 act: {"intent":{"goal":"walk_to_potatoes_daylight","program":"travel","arguments":{"position":{"x":466,"y":107,"z":-1066}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":466,"y":107,"z":-1066}}]}
+- 01:21 act: {"intent":{"goal":"gather_ripe_potatoes","program":"gather","arguments":{"block":"potatoes","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks"
+- 01:22 say: {"text":"I have 22 ripe potatoes at the patch, 467,106,-1072. Weakest first: Troi, Leonardo, Wesley. Come close and say so; I will hand them over."}
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1038}}]}
+- 01:24 say: {"text":"Billy at 418,-1039 with 22 potatoes. Pillager with a crossbow near the row's edge: hold back, do not walk south alone. Chapman, come north to me if you can."}
+- 01:24 say: {"text":"Leonardo, Troi, Wesley, Chapman: come north to me at 418,-1039, in daylight, and I will hand out potatoes here. Weakest first."}
+- 01:25 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1052}}]}
+- 01:25 say: {"text":"Chapman, I am coming to you now at 412,-1052, in daylight. Hold still. I bring potatoes."}
+- 01:25 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"potato","count":8}]}
+- 01:25 say: {"text":"Chapman, I have potatoes on the ground by your feet. Pick them up and eat one now."}
+- 01:26 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"potato","count":4}]}
+- 01:27 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":4}]}
+- 01:27 say: {"text":"Jason, I am at 412,-1053 with potatoes. Coming to you now, then we can walk the row together."}
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 01:27 say: {"text":"I am at 413,107,-1050 with 22 potatoes. Jason, Chapman, Troi, Zack: come to me and say so, and I will hand them out now."}
+- 01:28 say: {"text":"Zack, yes: give your potato to MacDonald, he is weakest. I am at 413,-1050 with 22 potatoes. Jason, I see no one yet; step where I can see you and I hand you some."}
+- 01:28 say: {"text":"Riker, you are weakest now. I am at 413,107,-1050, in the open by the grass. Walk to me in daylight, I will give you potatoes as soon as you are in sight."}
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]}
+- 01:29 say: {"text":"Going to the bed at 413,-1041 for the night. I hold 22 potatoes. Riker, walk to me at first light and I give them out."}
