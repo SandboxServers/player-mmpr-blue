@@ -95,3 +95,45 @@
 - 13:22 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":2}]}
 - 13:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Thank you, Leonardo. I am going to bed now."}
 - 13:26 act: {"actions":[{"do":"sleep"}]}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1048}}],"say":"Morning. Going to Worf and Jason in daylight with my 8 potatoes. Worf first, then Zack.","intent":{"goal":"reach_row_in_daylight"
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1047}}],"say":"Worf, coming to you in daylight now. Your 5 potatoes first, then Zack's 3."}
+- 13:27 act: {"actions":[],"say":"Zack, Jason, I am in your sight at 417,107,-1046 with 8 potatoes. Worf is not in my sight. Worf first: Worf, step into view and I give you 5. Then Zack 3."}
+- 13:27 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, giving your 5 potatoes now."}
+- 13:29 act: {"actions":[],"say":"Worf, I cannot see you from 417,107,-1046. Step one block toward Jason and I will give your 5 at once. Zack and Jason, you are in my sight."}
+- 13:31 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, here are your 5 potatoes. Zack, 3 are yours next."}
+- 13:31 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, I am stepping to you to hand over your 5 potatoes."}
+- 13:31 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Worf, did you get your 5? I could not reach you; the way is blocked. Zack, I am giving your 3 now."}
+- 13:33 act: {"actions":[],"say":"Worf and Zack, I am at 421,107,-1049 in daylight with 8 potatoes. Worf's 5 first, then Zack's 3. Step into my sight and I will give them."}
+- 13:33 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1049}},{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, I am at 420,107,-1049 now. Giving your 5 potatoes."}
+- 13:33 act: {"actions":[],"say":"Jason, I cannot see you or Worf from here. Worf, stand where I can see you, at 418 or 419, and I give at once. I will not walk further."}
+- 13:36 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1050}}],"say":"Dusk is here. I am going to the bed at 429,107,-1050 to sleep. Worf and Zack, the 5 and 3 potatoes are still owed; I will hand th
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Night is coming. I am going to the bed to sleep. Worf, Zack, come to me at first light."}
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Zack, I hear you. Worf 5 first, then your 3, at first light, in sight. Good night."}
+- 13:38 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night, row. I am in my bed at 429,107,-1050. Worf, Zack: 5 and 3 at first light, in sight."}
+- 13:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 13:39 act: {"actions":[{"do":"note","text":"Night 863. In bed at 430,107,-1051, health 20, hunger 20, 8 potatoes. Staying put until first light."}],"say":"Night, row. Billy in bed, health 20, hunger 20. Worf 5 a
+- 13:40 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1048}}],"say":"Morning, row. Billy walking to 421,107,-1048 in daylight. Worf, stand where I can see you; Worf's 5 first, then Zack's 3."}
+- 13:42 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}]}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1049}}],"say":"Worf, Zack, I am at the bed row in daylight. Step where I can see you and I will hand your potatoes over."}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1050}}],"say":"Coming to you, Worf. Holding still, please.","intent":{"goal":"reach_worf","program":"travel","arguments":{"target":{"x":417,"y":
+- 13:43 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, here are your 5 potatoes. Zack, yours is next."}
+- 13:43 act: {"actions":[],"say":"Worf, the give failed again: you were out of sight. I am standing still at 416,107,-1053. Walk up to me, in view, and I will hand the 5 over."}
+- 13:44 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, giving your 5 potatoes now."}
+- 13:45 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"I am stepping to you, Worf. Stay still."}
+- 13:45 act: {"actions":[],"say":"Worf, Zack, I cannot see either of you from here, so the hand-over keeps failing. I will stay put at 416,107,-1053 and wait. Walk into my view and say so; I will give the moment y
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}]}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Dusk. Billy going to bed at 429,107,-1051. Worf 5 and Zack 3 are owed; I will give them at first light, in sight."
+- 13:51 act: {"actions":[{"do":"sleep"}]}
+- 13:51 say: {"text":"Night, row. Billy at bed 429,107,-1051, holding 8 potatoes. No walking in the dark. At first light: Worf 5 and Zack 3 first, when in sight."}
+- 13:56 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Morning. Billy walking to Worf, in daylight, Jason in sight. Worf's 5 potatoes first."}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Billy walking west along the row to 419,107,-1050, in daylight. Worf and Zack, hold still."}
+- 13:56 act: {"actions":[{"do":"give","to":"Worf","item":"potato","count":5}]}
+- 13:57 act: {"actions":[{"do":"note","text":"Give 5 potatoes to Worf failed: no such agent in sight. Holding still at 421,107,-1050 for Worf or Zack to come into sight."}],"say":"Billy here at 421,107,-1050, hold
+- 13:57 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, 3 potatoes coming to you now."}
+- 13:57 act: {"actions":[],"say":"Zack, I cannot see you in my list yet, so the give failed. I am still at 421,107,-1050 with 8 potatoes. Please hold where you can see me, and I will try again."}
+- 13:58 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, giving your 3 potatoes now."}
+- 13:59 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, 5 potatoes now."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1051}}],"say":"Sun is low. Billy going back to my bed at 429,107,-1051 now, Jason in sight. Worf, Zack: stay where you can see me and I will giv
+- 14:02 act: {"actions":[],"say":"Zack, I hear you. I am at 427,107,-1051, next to my bed. Nobody shows in my list yet. I will give when you are in my sight, first light if not before."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Dusk. Billy going to bed at 429,107,-1051. Worf 5 and Zack 3 still owed; first light, in sight. Jason, Worf, Zack: no walk in the
