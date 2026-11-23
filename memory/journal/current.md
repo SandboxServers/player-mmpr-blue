@@ -4,3 +4,7 @@
 - 09:15 say: told the row we hold at beds until an armed friend is in sight. Riker, MacDonald, Lewis, Beverly, Troi all holding, unarmed. Leonardo, Trini, Jason, Zack not in sight.
 - 09:19 say: {"text":"Night now. I am sleeping here by my bed. Holding, no walk until daylight and an armed friend in sight."}
 - 09:19 say: {"text":"Still here at night, unarmed, holding my potatoes. Morning, I will look for Leonardo and Trini and name the walk only with an armed friend in sight."}
+- 09:20 act: {"actions":[{"do":"note","text":"Day 850, night. At 444,107,-1051 with Lewis beside me. Holding 10 potatoes for Leonardo and Trini. No walk named; staying put until daylight."}],"say":"Billy here, at 
+- 09:20 act: {"actions":[{"do":"sleep"}]}
+- 09:22 act: {"actions":[{"do":"note","text":"Day 850, daylight. At 444,107,-1051, health 20, hunger 20. Holding 10 potatoes for Leonardo and Trini, who are not in sight. No walk: no armed friend in sight."}],"say
+- 09:25 act: {"actions":[{"do":"note","text":"Day 851, morning. Still at 444,107,-1051 with Lewis. Holding 10 potatoes for Leonardo and Trini, not in sight. Row unarmed, no walk named."}],"say":"Morning, row. Bill
