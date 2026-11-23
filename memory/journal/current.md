@@ -40,3 +40,6 @@
 - 01:46 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"x":415,"y":107,"z":-1036},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":200
 - 01:46 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
 - 01:46 say: {"text":"Billy: Troi, go east, away from the west, toward the chest at 419,-1037. I am at the bed 415,-1036, trying to sleep now."}
+- 01:52 say: {"text":"Billy: morning. Pillager 6 blocks west at spawn. Nobody walks. Troi, stay beside me at the bed. Jason, hold with your sword. We wait for it to leave our sight."}
+- 01:58 say: {"text":"Billy: Riker, heard you. No walk yet. Jason, if you are armed and near, step into my sight. Then we walk to the potatoes at 409,-1054 together."}
+- 02:03 say: {"text":"Billy: night has come. No walk. I sleep in the bed beside me at 415,-1037. Troi, stay near the beds. Jason, keep your sword ready."}
