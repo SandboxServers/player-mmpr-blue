@@ -8,3 +8,12 @@
 - 09:20 act: {"actions":[{"do":"sleep"}]}
 - 09:22 act: {"actions":[{"do":"note","text":"Day 850, daylight. At 444,107,-1051, health 20, hunger 20. Holding 10 potatoes for Leonardo and Trini, who are not in sight. No walk: no armed friend in sight."}],"say
 - 09:25 act: {"actions":[{"do":"note","text":"Day 851, morning. Still at 444,107,-1051 with Lewis. Holding 10 potatoes for Leonardo and Trini, not in sight. Row unarmed, no walk named."}],"say":"Morning, row. Bill
+- 09:26 act: {"say":"Morning, row. Billy here at the east bed, health 20, hunger 20. I hold 10 potatoes for Leonardo and Trini. Leonardo, Trini, come into sight and I will hand them over. No walk named yet; I want
+- 09:29 act: {"say":"Holding, MacDonald. No walk yet. Leonardo and Trini, the potatoes are here when you come."}
+- 09:31 act: {"say":"Holding, Beverly. No walk named. Stay where you are and keep your potatoes held for Leonardo and Trini."}
+- 09:32 act: {"say":"Dusk, row. Billy at my bed, health 20, hunger 20, holding 10 potatoes for Leonardo and Trini. Sleeping now; no walk until daylight with an armed friend in sight.","actions":[{"do":"sleep"}]}
+- 09:35 act: {"actions":[{"do":"sleep"}],"say":"Night. I am beside my bed in Billy's row. I will rest here."}
+- 09:36 act: {"actions":[],"say":"Morning, row. Billy, health 20, hunger 20, unarmed, holding 10 potatoes for Leonardo and Trini. No walk named yet. Riker, you stay with me; we will look for an armed friend before
+- 09:37 act: {"actions":[],"say":"Holding, Bcrusher. Still no armed friend in sight, so no walk yet. Leonardo and Trini, when you come by, the 10 potatoes are yours."}
+- 09:41 act: {"actions":[],"say":"Worf, Jason, if you are armed and in sight, stay close. Light is still dim here. When it is full day I will name the walk to the potato patch; not before."}
+- 09:49 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy beside the bed, health 20, hunger 20, unarmed, no walk. Goodnight."}

@@ -1,5 +1,4 @@
-Handoff, day 850 (sleeping, night)
+Handoff, day 851 (sleeping, night)
 
-Slept one block off the white bed at 443,107,-1051, standing at 444,107,-1051. Health 20, hunger 20. Unarmed. Holding 10 potatoes for Leonardo and Trini.
-Lewis beside me. No walk named. No armed friend in sight.
-Next at daylight: look, say to the row, give potatoes to Leonardo and Trini when in sight. Walk only with an armed friend in sight, in daylight.
+At 444,107,-1051, beside the white bed at 443,107,-1051, health 20, hunger 20. Unarmed. Holding 10 potatoes for Leonardo and Trini, who have not come into sight. No errand running. No walk named. Lewis beside me. Troi, Riker, MacDonald, Laforge, Beverly holding at their beds; Beverly health 7.3, hunger 16.
+Next at daylight: look, say to the row, give potatoes to Leonardo and Trini when in sight (weakest first). Walk only with an armed friend in sight, in daylight.
