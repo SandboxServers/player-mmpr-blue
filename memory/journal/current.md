@@ -137,3 +137,9 @@
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1051}}],"say":"Sun is low. Billy going back to my bed at 429,107,-1051 now, Jason in sight. Worf, Zack: stay where you can see me and I will giv
 - 14:02 act: {"actions":[],"say":"Zack, I hear you. I am at 427,107,-1051, next to my bed. Nobody shows in my list yet. I will give when you are in my sight, first light if not before."}
 - 14:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"Dusk. Billy going to bed at 429,107,-1051. Worf 5 and Zack 3 still owed; first light, in sight. Jason, Worf, Zack: no walk in the
+- 14:03 act: {"say":"Dusk. I'm beside the bed and will wait here for night, then sleep.","intent":{"goal":"wait_for_night_beside_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
+- 14:06 act: {"say":"Billy here at the beds, 430,-1051, morning. I hold 8 potatoes. Beverly is weakest, so she comes first. Come into sight and I will hand them over in the open."}
+- 14:06 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I am walking to you in daylight, with my 8 potatoes. Worf 5 and Zack 3 first, at your side."}
+- 14:07 act: {"say":"Jason, Zack, Worf: it is going dim and there is thunder, so I will not walk the 13 blocks now. I am at 430,107,-1051 by the bed. Come to my sight and I give Worf 5 and Zack 3 at once; otherwis
+- 14:08 act: {"say":"Riker, I have seen no sheep or sword material yet. I hold 8 potatoes by the bed at 430,107,-1051 and wait for first light to feed Worf and Zack."}
+- 14:16 act: {"actions":[{"do":"sleep"}]}
