@@ -24,3 +24,10 @@
 - 10:15 act: {"actions":[{"do":"sleep"}]}
 - 10:15 act: {"actions":[{"do":"sleep"}]}
 - 10:20 act: {"actions":[{"do":"note","text":"Day 853 morning. Holding 10 potatoes for Leonardo and Trini. Beverly is weakest (health 7.3, hunger 16)."}],"say":"Morning, row. Billy at the east bed, health 20, hung
+- 10:20 act: {"actions":[{"do":"note","text":"Day 853 morning, still dark-reading, no armed friend in sight. Holding 10 potatoes; no walk named."}],"say":"Understood, Bcrusher. Billy holds at the east bed; no walk
+- 10:25 act: {"actions":[{"do":"note","text":"Day 854 morning. Still at the east bed, no one in sight, holding 10 potatoes. No walk named."}]}
+- 10:29 act: {"actions":[{"do":"sleep"}]}
+- 10:29 act: {"actions":[{"do":"sleep"}]}
+- 10:31 act: {"actions":[{"do":"note","text":"Day 854 morning. Awake at the east bed, health 20, hunger 20, holding 10 potatoes. No armed friend in sight, so no walk yet."}],"say":"Morning. Billy at the east bed, 
+- 10:38 act: {"actions":[],"say":"Bcrusher, I am the one holding 10 potatoes for Leonardo and Trini, at the east bed. Beverly is weakest, so eat one now if you have one. I still walk only with an armed friend in d
+- 10:42 act: {"actions":[{"do":"note","text":"Day 854 day passed with no armed friend and no one from Leonardo or Trini in sight. Potatoes still held. It is night again; resting at the east bed."},{"do":"sleep"}]}
