@@ -61,3 +61,12 @@
 - 19:03 act: {"say":"Bcrusher, if Zack is in your sight, give him his 3 now. Then Worf's 5 when he is in sight. Zack, Worf, stay together."}
 - 19:07 act: {"say":"Zack and Worf, walk to 430,-1036 beside Bcrusher, in daylight, both together. Bcrusher, give the moment they stand in your sight."}
 - 19:11 act: {"actions":[],"say":"Morning, row. Billy at 444,-1037, health 20, hunger 20, no food. Kimberly: Beverly first with your 4 potatoes if she is in sight, then Trini. Bcrusher: Zack 3 and Worf 5 when they
+- 19:20 act: {"actions":[],"say":"Zack, Worf: Bcrusher can only see you when you stand in his view. Walk together to 430,-1037 in daylight, with Jason in your sight, and stop there. Bcrusher, give 3 then 5 the mom
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Billy sleeps at the bed here, 443,107,-1037. Zack, Worf: Bcrusher gives 3 then 5 at first light, once you st
+- 19:28 act: {"say":"Morning, row. Billy at bed 443,-1037, health 20, hunger 20, unarmed. Holding here. Whoever has a sword, stand in my sight, and we walk to the potatoes at 466,-1074 together in daylight.","acti
+- 19:29 act: {"say":"Bcrusher, thank you. Zack and Worf, come to 430,-1037 in daylight, both together. Give Zack 3 then Worf 5 the moment they stand in Bcrusher's sight. Beverly first, if she is seen.","actions":[
+- 19:31 say: {"text":"Trini, good. I hold at bed 443,-1037. When you stand in my sight, we walk together to the potatoes at 464,107,-1073, in daylight. Stay within reach of me."}
+- 19:31 act: {"say":"Trini and Leonardo, both armed and in my sight, daylight. We walk together to the ripe potatoes at 464,107,-1073. Stay within reach of me on the way. I will eat as soon as I can reach one.","a
+- 19:31 act: {"actions":[{"do":"break","at":{"x":466,"y":107,"z":-1073}},{"do":"break","at":{"x":466,"y":107,"z":-1074}}],"say":"I'm at the potato patch with Trini and Leonardo in sight. Harvesting two now; the fi
+- 19:32 act: {"actions":[{"do":"eat"}],"say":"I have 7 potatoes from the patch. Trini, Leonardo, Beverly: come to me here at 464,107,-1072 in daylight and I'll share them with whoever is weakest."}
+- 19:35 act: {"actions":[],"say":"Dusk, and I'm alone by the patch with no armed friend in sight. I'm holding here, not walking the dark. I have 7 potatoes for whoever comes."}
