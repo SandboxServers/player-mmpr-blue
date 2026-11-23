@@ -25,3 +25,38 @@
 - 17:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Night, all. I go to my bed at 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
 - 17:58 act: {"actions":[{"do":"sleep"}],"say":"Night, all. I sleep at my bed, 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
 - 18:02 act: {"actions":[{"do":"note","text":"Morning, day 877. At bed 430,107,-1037, health 20, hunger 20, no food. Beverly is weakest (health 7); Kimberly holds potatoes for her. Staying here, no walk yet."}],"s
+- 18:02 act: {"say":"Morning, all. Beverly is weakest, so Bcrusher, if she is in your sight now, please give her potatoes first. Then Zack 3 and Worf 5 as they come into view. I have no food myself, and I will not
+- 18:10 act: {"say":"Bcrusher, Worf and Zack, walk to Bcrusher now in daylight, with Jason in sight. Bcrusher, hold at 431,-1047 and give Beverly first, then Zack 3 and Worf 5 once they stand in your view. I stay 
+- 18:11 say: {"text":"It is dusk, so I go to bed here at 430,-1037. Zack, Worf, Jason: stay in the row, not in the dark, and feed Beverly at first light."}
+- 18:11 act: {"actions":[{"do":"sleep"}]}
+- 18:14 act: {"actions":[{"do":"sleep"}]}
+- 18:15 act: {"actions":[],"say":"Billy here at bed 430,-1037, holding in the row. No walk in the dark. At first light: Bcrusher gives Beverly first, then Zack 3 and Worf 5. Trini, you are next for any potato in r
+- 18:15 act: {"actions":[],"say":"Morning, row. Billy holds at bed 430,-1037. Bcrusher: give Beverly first, then Zack 3 and Worf 5, from your 10 potatoes. Leonardo, give your one to whoever is lowest after that. R
+- 18:16 act: {"actions":[],"say":"Correction, Zack: Wesley pays nothing first. Bcrusher gives Beverly first, then Zack 3 and Worf 5. Bcrusher, go ahead. Zack and Worf, step into Bcrusher's sight at 431,-1047 in da
+- 18:17 act: {"actions":[],"say":"Bcrusher, thank you for the correction. Then who holds potatoes? Kimberly, say if you have any. Ripe potatoes grow at 464-468,107,-1073..-1075, but that is not ours to take unless
+- 18:17 act: {"actions":[],"say":"Kimberly, good. Beverly, walk to Kimberly at 431,107,-1047 now, in daylight, with Kimberly in sight. Kimberly gives you 4. Zack and Worf hold at 419,-1047 until Beverly is fed, th
+- 18:18 act: {"actions":[],"say":"Zack and Worf: walk now, in daylight, with Jason, to 431,107,-1047, and step into Bcrusher's sight. Bcrusher gives Worf 5 and Zack 3. Beverly, if Bcrusher or Kimberly is in your s
+- 18:23 act: {"actions":[],"say":"Beverly, walk now to 431,107,-1047 in daylight. Kimberly gives you 4 when in sight. Zack, Worf, Jason hold at 419 until fed."}
+- 18:27 act: {"actions":[],"say":"Dusk. I sleep at my bed here. Bcrusher holds 10 potatoes at 431,-1047. Zack, Worf and Jason, stay where you are at 419 tonight. Walk only in daylight."}
+- 18:31 act: {"actions":[],"say":"Daylight. Bcrusher and Kimberly walk together to 419,108,-1047 now. Give Worf 5 and Zack 3 there, and Beverly 4 if she is in sight."}
+- 18:35 act: {"say":"Bcrusher, walk to Zack at 419 as you said. Give Zack 3 and Worf 5 there. Kimberly, hold at 421 and give Beverly 4 if she comes into sight. I stay at my bed.","intent":{"goal":"hold_at_bed_for_
+- 18:40 act: {"say":"Trini, hold where you are and stay with us in daylight. Bcrusher is giving Zack and Worf now. Kimberly, give Beverly 4 if you see her."}
+- 18:42 act: {"actions":[{"do":"sleep"}]}
+- 18:42 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}]}
+- 18:43 act: {"say":"Bcrusher, stay in my reach and sleep by the bed. Give Zack 3 and Worf 5 at first light. Kimberly is lost to phantoms; hold the rest for Beverly and the row.","actions":[{"do":"sleep"}]}
+- 18:44 act: {"actions":[{"do":"sleep"}],"say":"Billy here, at the bed, holding still. Bcrusher, keep the 14 potatoes; give Zack 3 and Worf 5 at first light."}
+- 18:44 act: {"actions":[],"say":"Worf, Bcrusher holds your 5 potatoes and is near you. Bcrusher, give Worf 5 now, then Zack 3."}
+- 18:45 act: {"actions":[],"say":"Morning, row. Bcrusher: give Worf 5 and Zack 3 from your 14 now, in sight. Leonardo: give your potato to Beverly if she is near. I hold at my bed; no walk yet."}
+- 18:47 act: {"actions":[],"say":"Kimberly, walk to Bcrusher at bed 429,107,-1037 in daylight and hold there. Bcrusher: after Worf and Zack, give Kimberly 4 potatoes in sight, and keep the rest for Beverly."}
+- 18:48 act: {"actions":[],"say":"Bcrusher, Kimberly is in your reach now: give her 4 potatoes. Then Worf and Zack, once they are in your sight. Hold the rest for Beverly."}
+- 18:51 act: {"actions":[],"say":"Kimberly: Beverly first, the 4 potatoes. Trini's 2 only after Beverly is fed. Bcrusher: Zack 3 is in your sight now, give it, then Worf 5."}
+- 18:55 act: {"actions":[{"do":"wait","seconds":30}],"say":"Dusk, row. I sleep at my bed now. Hold where you are; Beverly first with Kimberly's potatoes, Trini after."}
+- 18:56 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Beverly gets Kimberly's potatoes first, Trini after. Hold where you are till first light."}
+- 18:56 act: {"actions":[{"do":"sleep"}]}
+- 18:58 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning, row. Beverly first: Kimberly, give your 4 potatoes to Beverly now. Leonardo, your potato to Beverly too. Bcrusher, Worf 5 and Zack 3, in their si
+- 18:59 act: {"actions":[{"do":"wait","seconds":10}],"say":"Beverly, come to Kimberly at bed 429,-1037 and say so. Kimberly, hold the 4 for her. If she is not found, give the 4 to Trini next."}
+- 19:00 act: {"say":"Jason, hold. Call me at hunger 10 and I will send your share. Kimberly, hold the 4 for Beverly; if she is not in sight soon, give them to Trini."}
+- 19:01 act: {"say":"Bcrusher, Zack is still waiting for his 3 and Worf for his 5. Give them when they are in your sight. Kimberly, Beverly first if she comes."}
+- 19:03 act: {"say":"Zack and Worf, come to Bcrusher at bed 430,-1037 so he can see you. Bcrusher holds 10 potatoes for you. Kimberly holds 4 for Beverly."}
+- 19:03 act: {"say":"Bcrusher, if Zack is in your sight, give him his 3 now. Then Worf's 5 when he is in sight. Zack, Worf, stay together."}
+- 19:07 act: {"say":"Zack and Worf, walk to 430,-1036 beside Bcrusher, in daylight, both together. Bcrusher, give the moment they stand in your sight."}

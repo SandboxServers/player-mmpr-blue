@@ -1,6 +1,5 @@
-Handoff, day 876 dusk (world day 877 morning cycle). I stand at bed 430,107,-1037; my own bed is 430,107,-1051. Health 20, hunger 20, no food in my pack.
-Beverly (health 7, weakest) is near 431,-1047 with Kimberly, who holds 6 potatoes. Kimberly has been asked to give Beverly 4, then Trini 2. Not yet confirmed.
-Bcrusher holds 10 potatoes: owes Zack 3 and Worf 5, and owes me 10. Zack and Worf wait near 418,-1047.
-Jason, Worf and Zack hold together. Lewis holds at bed 443,-1051 with no food. Chapman (Johnny) holds at white bed 443,-1023 with no food. Trini holds at 430,107,-1023.
-Owed by me: none in hand. Owed to me: Bcrusher 10, Jason's sword, Wesley 1 beef, Chapman 10 rotten flesh.
-Next: sleep in bed, then at morning check whether Beverly was fed. No walk west without an armed friend in sight, daylight only.
+Handoff, day 880 night. I sleep at bed 430,107,-1037. Health 20, hunger 20, no food, unarmed.
+Bcrusher holds 10 potatoes at his bed near me. His gives to Zack (3) and Worf (5) failed: they were not in his sight. Zack and Worf are at bed 415,107,-1050, asleep, and will come back to Bcrusher in daylight.
+Kimberly holds 4 potatoes at bed 429,-1037 for Beverly (not seen yet), then Trini. Trini holds at 430,107,-1023, hunger 17, no food. Leonardo holds 1 potato for Beverly. Jason at 419,108,-1047, hunger 14, sword, waits for my call at hunger 10. Lewis and Chapman hold in the row, no food.
+Owed to me: none confirmed.
+Next at first light: Zack and Worf walk to Bcrusher in daylight; Bcrusher gives 3 and 5 when they are in his sight. Kimberly gives 4 to Beverly if found, else Trini. Feed Trini after Beverly. No walk west without an armed friend, daylight only.
