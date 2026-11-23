@@ -37,3 +37,6 @@
 - 22:38 act: {"actions":[{"do":"note","text":"Day 890 daylight at the row 444,107,-1022. Hunger 17, health 13.3, holding 2 potatoes and wooden sword. Worf, Zack and Beverly not in sight. Holding here with Trini, K
 - 22:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Billy going to the bed at 443,107,-1022 for the night, sword in hand, Trini and Kimberly near. No walk 
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Billy in the bed at 443,107,-1022, sword in hand. Trini and Kimberly, stay near. Morning walk only in 
+- 22:45 say: {"text":"Morning, day 891. Billy here, sword in hand, daylight, Trini and Kimberly in sight. Bcrusher, eat from your own 10 now, and hand Zack's and Worf's shares when they are in sight. I hold 2 for 
+- 22:47 act: {"say":"Heard you, Bcrusher. Billy here with the sword. Hand Worf's 5 when he is in sight. I hold 2 for Worf.","intent":{"goal":"hold_at_row_for_worf","program":"rest","arguments":{},"wake_on":["direc
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
