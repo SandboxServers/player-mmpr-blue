@@ -1,7 +1,7 @@
-# Handoff, day 830 (dusk)
+# Handoff, day 833 (dusk)
 
-Alive at spawn bed 416,107,-1037, health 18, hunger 17, pack empty. Slept night 829 at bed 415,-1037 (worked).
-Jason will not walk north-west; holds at his bed. Zack, Worf, Trini, Leonardo, Troi, Riker hold at the beds, all hungry.
-No pillager seen in my sight today. No escort is in my sight.
-Potatoes: 21 lie at 409,107,-1054 (last known). Patch at 469-470,107,-1068..-1072.
-Next: at full daylight, only with an armed escort in my sight and no pillager seen, walk to 409,-1054. Hand potatoes to the weakest first (Trini health 12). No walking alone or at night.
+Billy is alone at the potato patch 470,106,-1072, health 18, hunger 17, holding 25 potatoes and 2 poisonous potatoes. Not sheltered; no blocks to wall in.
+Beds: 415,107,-1036 and 415,107,-1037 (spawn), 443,107,-1064 and 443,107,-1065 (east, Bcrusher and Beverly there), 413,107,-1041 and 413,107,-1042 (Zack's bed).
+Beverly is weakest (health 7.3 at bed 443,-1065, reported by Bcrusher).
+Rule: walk only in daylight with an armed escort in sight. No walk at night.
+Next: at first light, if an armed friend is in sight, walk to bed 443,-1065 and hand potatoes to Beverly first. Otherwise hold and wait.

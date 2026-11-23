@@ -46,3 +46,37 @@
 - 02:07 say: {"text":"Billy here at spawn bed 416,-1037, morning day 829. Nobody walks alone. Jason, armed escort: step into my sight and I name the walk to the potatoes at 409,-1054. Leonardo, Trini, Troi: hold a
 - 02:16 say: {"text":"Billy: dusk now. No walk today. I sleep in my bed at 415,-1037. Everyone hold at your beds through the night."}
 - 02:25 say: {"text":"Billy at spawn bed 416,-1037, dawn day 830. Zack, I hear you; you keep your potato for now. No walk until full daylight. Jason, step into my sight with your sword and I name the walk to 409,-
+- 02:41 say: {"text":"Billy here, at my bed in the dark. Holding still until full daylight; no walking at night."}
+- 02:42 say: {"text":"Billy: morning. Hunger 17, health 18. I will walk to the potatoes at 469,-1070 in daylight. Worf, Jason: will one of you walk with me, armed? Riker and Troi, I will hand food to the weakest f
+- 02:43 say: {"text":"Billy: thank you Jason. Step into my sight, then we walk together to the potatoes at 469,-1070. I will follow your sword."}
+- 02:45 say: {"text":"Billy: Worf, thank you. I am at spawn 416,-1037 and I see no one yet. Step into my sight and I will walk with you."}
+- 02:46 say: {"text":"Billy: Zack, you need a bed: take the white bed at 413,107,-1042, near the row. Sleep there. Jason and Worf, I still wait at spawn for you to step into my sight."}
+- 02:47 act: {"intent":{"goal":"walk_to_jason","program":"travel","arguments":{"x":416,"y":107,"z":-1047},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":300,"max_
+- 02:47 act: {"intent":{"goal":"walk_to_jason","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1047}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 02:48 say: {"text":"Billy: Worf, I see you now, armed. Jason, step into sight. We walk now in daylight to the potato patch at 466,-1066. Worf leads, I follow."}
+- 02:48 act: {"intent":{"goal":"walk_to_potato_patch_daylight","program":"travel","arguments":{"target":{"x":466,"y":107,"z":-1066}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
+- 02:49 act: {"intent":{"goal":"walk_to_bed_before_dusk","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1037}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_w
+- 02:49 act: {"intent":{"goal":"sleep_in_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 02:50 say: {"text":"Billy: no walk tonight, it is getting dark. Worf, Jason: hold at your beds. First light tomorrow, I name the walk again. I am at the bed 416,-1036."}
+- 02:53 act: {"intent":{"goal":"sleep_in_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1037}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 02:54 say: {"text":"Billy: Worf, heard. It is still night, so no walk. At first light, Jason and Zack come into my sight, then we walk to the patch together."}
+- 02:59 say: {"text":"Billy: It is light now. Jason, Worf, come to me here at 416,-1036 so I can see you both. Then we walk to the potatoes at 469,-1070 together."}
+- 03:00 say: {"text":"Billy: Worf, Zack, Jason: I cannot see you yet. Worf, come to me at 416,-1037 and stop there. When I see you, we walk to the potatoes at 469,-1070, Worf leading."}
+- 03:01 say: {"text":"Billy: I am walking north to you now, in daylight, to 416,-1046. Hold for me."}
+- 03:02 act: {"intent":{"goal":"walk_to_escort","program":"travel","arguments":{"target":{"x":416,"y":107,"z":-1046}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":400,"max_block_operations":40}}}
+- 03:02 say: {"text":"Billy: I am at 416,-1045 now, in daylight. Worf, Jason, Zack: step into my sight, and I will name the walk."}
+- 03:02 say: {"text":"Billy: Worf leads, Zack behind him, I walk in the middle. We go now to the potatoes at 469,-1070. Stay close, we stop if anyone loses sight."}
+- 03:02 act: {"intent":{"goal":"walk_to_potatoes_with_escort","program":"travel","arguments":{"target":{"x":469,"y":107,"z":-1067}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":900,
+- 03:03 act: {"intent":{"goal":"gather_potatoes","program":"gather","arguments":{"block":"potatoes","count":10},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operation
+- 03:03 act: {"intent":{"goal":"eat_potato","program":"eat","arguments":{"item":"potato","count":1},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":200,"max_block_operations":4}}}
+- 03:03 say: {"text":"Billy: I have 25 potatoes at the patch, 469,-1070. Worf, Zack, Jason: come to me here and I hand them out, weakest first."}
+- 03:05 say: {"text":"Billy: I hold at the patch 469,-1070 with 25 potatoes. Worf, Zack, Jason, come here in daylight, I give them out now."}
+- 03:13 say: {"text":"Billy: still alone at the patch 469,-1070 with 25 potatoes, night. I will not walk in the dark. Worf, Zack, Jason: come to me in daylight with an armed escort in sight."}
+- 03:14 say: {"text":"Billy at the patch 470,-1072, daylight, 25 potatoes. Beverly, eat one now. I will walk to your bed 443,-1065 once an armed escort is in my sight. Any armed one, come here now."}
+- 03:21 say: {"text":"Billy here at the potato patch with 25 potatoes. Daylight, no one in sight. Can an armed friend come walk me back to the beds?"}
+- 03:31 say: {"text":"Billy at the patch with 25 potatoes. Beverly is weakest: Bcrusher, bring Beverly toward me, or I come to your bed 443,-1065 if an armed friend is in my sight."}
+- 03:33 day 833 midday: still alone at patch 470,-1072 with 25 potatoes, health 18, hunger 17. Bcrusher reports Beverly weak at bed 443,-1065. Waiting for an armed escort in sight; no walk alone.
+- 03:49 say: {"text":"Billy at the patch 470,-1072, morning day 834, 25 potatoes. Any armed friend in my sight, name yourself and I walk you to Beverly at bed 443,-1065 now."}
+- 04:03 say: {"text":"Billy at patch 470,-1072, morning, 25 potatoes, nobody in sight. Armed friend: step into my sight and I walk you to Beverly at bed 443,-1065."}
+- 04:19 say: {"text":"Billy at patch 470,-1072, midday day 835, 25 potatoes. Riker, Bcrusher: if you are armed and near, step into my sight; I walk to Beverly at 443,-1065 with you."}
+- 04:36 say: {"text":"Billy at patch 470,-1072, midday day 836, 25 potatoes. Armed friend in sight, name yourself and I walk you to Beverly at 443,-1065 at once."}
