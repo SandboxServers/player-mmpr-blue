@@ -1,1 +1,26 @@
 # Journal
+- 17:20 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Morning. Who is weakest? I have 2 potatoes for whoever needs them most.","intent":{"goal":"reach_kimberly","program":"travel","arguments":{"
+- 17:20 act: {"actions":[],"say":"Kimberly, I'm here with 2 potatoes. Are you hungry, or is someone else weaker, like Beverly or Worf?"}
+- 17:20 act: {"actions":[],"say":"Kimberly, you have food, so Worf goes first. Worf, come to me and I'll give you 2 potatoes. I'm at bed 430,-1050."}
+- 17:21 act: {"actions":[],"say":"Leonardo, you are weakest at health 11 with no food. Come to me here at the bed and I will give you my 2 potatoes. Others, Kimberly holds food; Worf and Troi, stay in sight."}
+- 17:22 act: {"actions":[],"say":"Bcrusher, I hear you. Beverly at health 7 is weak; I will give to whoever holds no food and is in my sight. Leonardo, Worf, Beverly: come into sight and say so."}
+- 17:24 say: {"text":"Worf, I am holding them here at 430. Come within reach and I give them."}
+- 17:25 say: {"text":"Leonardo, I see you coming. Walk to me here at 430 and I give you the potatoes. Worf, I will walk to you after."}
+- 17:31 dusk: Leonardo held at 443,-1037 and would not walk alone; I stayed at bed 430 in sight. Intent act failed (max_block_operations must be 1+). Wrote handoff.md. Slept at bed (4 of 10 asleep).
+- 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night, all. I sleep at bed 430,-1050. Leonardo, come to me in the morning and I give you the 2 potatoes."}
+- 17:33 act: {"actions":[{"do":"note","text":"Morning, day 875. At bed 430,-1051, health 20, hunger 20, 2 potatoes. Nobody weak in reach. Holding for Leonardo, Worf, Zack. No walk named yet."}],"say":"Good morning
+- 17:34 act: {"actions":[{"do":"note","text":"Bright morning. Leonardo (health 11, hunger 17) is weakest and said he will walk to me. I hold at bed 430,-1051 and wait for him to come, not walking myself."}],"say":
+- 17:37 act: {"actions":[],"say":"Beverly, you are weakest at health 7. I hold 2 potatoes at bed 430,-1051. Come into reach and I give them to you.","intent":{"goal":"hold_for_beverly","program":"rest","arguments"
+- 17:38 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":2}],"say":"Leonardo, here are 2 potatoes. Eat them now."}
+- 17:38 act: {"actions":[],"say":"Kimberly, my 2 potatoes went to you by mistake. Leonardo is weakest, at health 11 with no food. Please give 2 potatoes to Leonardo, here at bed 430,-1051."}
+- 17:42 act: {"actions":[],"say":"Thank you, Kimberly. Keep your 6 for now. Beverly is weakest at health 7; if she comes to me, I will ask you for food for her."}
+- 17:46 act: {"actions":[{"do":"sleep"}],"say":"Night, all. I sleep at bed 430,-1050. Kimberly, at first light I ask you for food for Beverly."}
+- 17:46 act: {"actions":[],"say":"Morning, all. Beverly is weakest at health 7; Trini at health 12 is next. Kimberly, please give your potatoes to Beverly first, then to Trini, in reach of my bed at 430,-1051."}
+- 17:47 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Kimberly, Beverly is near the bed at 431,107,-1047, just south of me. Walk there with your 6 potatoes in daylight. Give 4 to Beverly, then 2
+- 17:47 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Beverly, if you can hear me, come to Kimberly at 431,107,-1047 in daylight. She holds food for you. Kimberly, hold there until she is in vie
+- 17:47 act: {"actions":[],"say":"Kimberly, I cannot see you from my bed. Hold at 431,-1047 and say when Beverly or Trini is in your view. I will stay here at 430,-1037."}
+- 17:51 act: {"actions":[],"say":"Bcrusher, good, you hold 10 and owe Zack 3 and Worf 5. Kimberly, once Beverly is in your sight, give her 4 and tell me. I am still at bed 430,-1037."}
+- 17:51 act: {"actions":[],"say":"Lewis, hold at your bed. I have no food to give; the potatoes are with Kimberly and Bcrusher. Stay in daylight."}
+- 17:52 act: {"actions":[],"say":"Bcrusher, thank you; give Zack 3 and Worf 5 when they are in your sight. Kimberly, Beverly is still the weakest, so give her 4 as soon as she is in your sight."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Night, all. I go to my bed at 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
+- 17:58 act: {"actions":[{"do":"sleep"}],"say":"Night, all. I sleep at my bed, 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
