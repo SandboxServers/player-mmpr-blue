@@ -1,6 +1,5 @@
-Handoff, day 861 night
+Handoff, day 862 dusk (second)
 
-Health 20, hunger 20, holding 10 potatoes. Asleep beside the row bed at 429,107,-1049.
-Owed at first light, in sight: Worf first, then Zack, then Beverly, Leonardo and Trini.
-Bcrusher holds 10 potatoes for Beverly and Worf at 429,107,-1051. Zack, Worf and Jason at 418,107,-1051.
-Walk to the potato patch only in daylight with an armed friend (Jason) in sight.
+At bed 415,107,-1037, holding 8 potatoes, health 20, hunger 20, unarmed. Leonardo at 2.2 blocks, eating, given 2 potatoes.
+Owed in order: Worf 5 (not yet in sight; he said he is coming), then Zack 3 (holding at 416,107,-1047, blocked to the south), then Beverly, Trini. Jason 1 (holds with sword at 417,107,-1050). Troi (430,107,-1037) potatoes and chicken. Kimberly rotten flesh. Lewis walk to the patch.
+Walk only in daylight with an armed friend in sight. Sword and tools only with an armed group in daylight.
