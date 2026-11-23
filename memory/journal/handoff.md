@@ -1,9 +1,9 @@
-# Handoff, day 818 night (second)
+# Handoff, day 826 dusk
 
-Billy at 413,107,-1040 beside bed 413,107,-1041, health 20, hunger 20. Holding 2 potatoes for the first weak one seen at first light.
+Billy died at 441,-1051 to a phantom at dawn and woke at spawn 416,107,-1037 with nothing. Health 20, hunger 20. The wooden sword lies at 441,107,-1051 where I died (not worth going back alone).
 
-Beverly (ag_bcrusher_01, health 3.3) was at bed 430,107,-1051 but was not in sight when I came; give failed. Worf (ag_worf_01, says no potato in pack) went to bed near 416,107,-1050, also out of sight. Zack holds 2 potatoes near 415,107,-1050 for Worf. Leonardo says he has no potato and will sleep near Billy. Troi holds 2 and is about 18 blocks off. Trini holds 1 at 416,107,-1023.
+With Billy at spawn: Troi (in reach, wooden sword). Holding for the night, Troi at the white bed.
+Zack (potato for Leonardo), Worf (sword, potato for the weakest), Jason (sword) are at 417-418,-1048 to -1051, in sight of each other. Leonardo holds at bed 415,107,-1023, hunger 17, no food. Wesley holds at 415,107,-1047.
 
-Enderman seen about 20 blocks southwest at 402,107,-1023.
-
-Next morning: greet the row, feed Beverly first if she is in sight, then Worf and Leonardo. Name any walk only when quiet, with two escorts named aloud.
+Rule: no walk at night, no walk alone. At first light, named walk: Troi, Zack, Worf, Jason and Billy go together to the potato patch near 466,107,-1066 (ripe potatoes 468-470, -1068..-1072). Bring food to Leonardo, then the weakest.
+Phantoms are near the NE of the row. Keep swords in hand with the group.
