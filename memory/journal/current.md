@@ -21,3 +21,6 @@
 - 10:01 act: {"actions":[{"do":"sleep"}],"say":"Night is here with thunder. Billy going to the white bed beside me to sleep. Still holding 10 potatoes for Leonardo and Trini."}
 - 10:01 act: {"actions":[{"do":"sleep"}]}
 - 10:05 act: {"actions":[],"say":"Morning, row. Billy at the east bed, health 20, hunger 20, unarmed, still holding 10 potatoes for Leonardo and Trini. Beverly, please eat from Bcrusher's potatoes now. No walk nam
+- 10:15 act: {"actions":[{"do":"sleep"}]}
+- 10:15 act: {"actions":[{"do":"sleep"}]}
+- 10:20 act: {"actions":[{"do":"note","text":"Day 853 morning. Holding 10 potatoes for Leonardo and Trini. Beverly is weakest (health 7.3, hunger 16)."}],"say":"Morning, row. Billy at the east bed, health 20, hung
