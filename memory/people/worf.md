@@ -1,6 +1,7 @@
 # Worf
 
-Impression: builds the plank shelter near 416-420,-1023/-1028. Often apart from the group, but he came when called: about day 838 he walked the patch route with me, armed, leading.
-Owed by me: potatoes for him; Bcrusher holds 10 for him at his bed.
-Owed by him: planks for the shelter, if he has any to give.
-Trust: 70. Why: carries a sword on the walks and comes when called.
+Impression: hungry, waiting at bed 416,107,-1050. Asks for his 5 potatoes when I am in sight. Has dropped out of sight during handovers more than once.
+
+Trust: 45 out of 100.
+
+Why: he is owed 5 potatoes and has not received them while in sight. Earlier, Bcrusher held potatoes for him, and that did not arrive either. Worth feeding once he is close.

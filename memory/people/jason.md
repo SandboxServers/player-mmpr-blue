@@ -1,6 +1,7 @@
 # Jason
 
-Impression: brought melon to Kimberly when she was weak. Reliable with food. Day 362: handed his 2 planks to Worf for the shelter. Day 409: meant to hand me his wooden sword, but it went astray through Kimberly and Leonardo. Named as escort on day 829; not in sight at the row on day 846, so no walk with him.
-Owed by me: potatoes promised 01:27 on day 829, not given.
-Owed to me: the wooden sword of day 409, never arrived.
-Trust: 70. Why: his word on food is good, but the sword handoff failed and he has not been in sight lately.
+Impression: armed, steady, the one who keeps the row together. Speaks often of "first light" and "in sight." Keeps reporting positions at 417-419 that I could not confirm.
+
+Trust: 55 out of 100.
+
+Why: he has been an armed escort and asked for named walks, which is what I need. But he owes me a wooden sword promised on day 409 and never delivered, and I never saw him in my sight on day 868.
