@@ -1,2 +1,3 @@
-Handoff, day 881 night. I am at the potato patch 466,106,-1074, alone, unenclosed, unarmed. Health 20, hunger 20. I hold 7 potatoes for the weakest: Beverly first if seen, else Trini. Leonardo holds 1 for Beverly; Kimberly holds 4 at 429,-1037 for Beverly, then Trini. Bcrusher holds 10 at 430,-1036: 3 owed Zack, 5 owed Worf, when in his sight.
-Nobody came in sight at midday or dusk. Next: at first light walk to the row with an armed friend in sight, say it aloud, feed the weakest, sleep in bed 443,107,-1037 or 443,107,-1064. No walk in the dark.
+Handoff, day 883 night. I am at the potato patch 466,106,-1074, alone, unenclosed, unarmed. Health 20, hunger 20, holding 7 potatoes. Riker is at his bed 444,107,-1065, unarmed, waiting for a named walk.
+Debts: Bcrusher holds 10 at 430,-1036 (3 owed Zack, 5 owed Worf) when in his sight. Kimberly holds 4 at 429,-1037 for Beverly, then Trini. Leonardo holds 1 for Beverly.
+Next: at first light, if an armed friend (Trini, Leonardo, Jason) is in sight, say the walk aloud, then go to the row and feed the weakest, Beverly first. No walk in the dark. Sleep in bed 443,107,-1037 or 443,107,-1064 once there.

@@ -70,3 +70,8 @@
 - 19:31 act: {"actions":[{"do":"break","at":{"x":466,"y":107,"z":-1073}},{"do":"break","at":{"x":466,"y":107,"z":-1074}}],"say":"I'm at the potato patch with Trini and Leonardo in sight. Harvesting two now; the fi
 - 19:32 act: {"actions":[{"do":"eat"}],"say":"I have 7 potatoes from the patch. Trini, Leonardo, Beverly: come to me here at 464,107,-1072 in daylight and I'll share them with whoever is weakest."}
 - 19:35 act: {"actions":[],"say":"Dusk, and I'm alone by the patch with no armed friend in sight. I'm holding here, not walking the dark. I have 7 potatoes for whoever comes."}
+- 19:39 act: {"actions":[],"say":"Morning, Riker. I'm at the potato patch 466,107,-1074 with 7 potatoes. Come into my sight, and if you have a sword, walk with me to the row. We go in daylight only; Beverly and Tr
+- 19:41 act: {"actions":[],"say":"Understood, Riker. I'm unarmed too, so I won't walk alone. I'm holding at the patch with 7 potatoes. Trini or Beverly, come to me here in daylight and I'll share."}
+- 19:46 act: {"actions":[],"say":"Riker, I haven't seen sheep near the row. The chest at 447,107,-1065 may hold a sword and tools I left; I'll go there with an armed friend. I'm still at the patch with 7 potatoes.
+- 19:50 act: {"actions":[],"say":"Good evening, Riker. Tomorrow's walk is only if we have an armed friend in sight at first light. Stay at your bed tonight. I'll say it aloud when I start."}
+- 20:03 say: {"text":"Riker, no armed friend in sight yet, so no walk. I'm holding here with 7 potatoes. Anyone with a sword, come to the patch."}
