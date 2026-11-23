@@ -72,3 +72,14 @@
 - 16:59 act: {"actions":[],"say":"Worf, the game says items already lie on the ground by you, so my give cannot land. Please pick up what is at your feet, then tell me, and I will give Zack his 3 next."}
 - 17:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Dusk. I go to my bed at 430,-1050. Worf, Zack: first light, in sight, Zack gets his 3."}
 - 17:02 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Kimberly, I am at the bed stand for the night. Stay close with your sword. I have no rotten flesh for you yet."}
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Night. I stand by the bed at 430,107,-1050. Kimberly is near. At first light I give the potatoes, weakest first."}
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 17:03 act: {"actions":[],"say":"Morning. Billy at the bed 430,107,-1050, 8 potatoes. Zack, Beverly, step into my sight and I give Beverly first, then Zack 3."}
+- 17:07 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"},{"do":"give","to":"ag_kimberly_01","item":"potato","count":3}],"say":"Kimberly, health 7 is the lowest I hear. I come to you and give 3 potatoes now
+- 17:07 act: {"actions":[{"do":"note","text":"Day 874 morning at bed 430,107,-1050. Gave Kimberly 3 potatoes (she was at health 7). 5 potatoes left, owed to Worf and Zack."}],"say":"Kimberly, you have 3 potatoes f
+- 17:08 act: {"actions":[],"say":"Worf, I do not see you in my list yet. I hold at bed 430,-1050 and will not walk west alone. Step up to 431,-1047 near Bcrusher and Kimberly, and I give 5 potatoes to you first."}
+- 17:12 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Billy walks west now in daylight with armed Kimberly in sight, to Worf at 419 to give Worf 5 potatoes and Zack 3. Holding at 430 is over."}
+- 17:12 act: {"actions":[{"do":"note","text":"Day 874 midday. Walk west to Worf at 419 did not start; I am still at bed 430,-1050 with Kimberly and Bcrusher near. Holding 5 potatoes for Worf 5 and Zack 3."}],"say"
+- 17:13 act: {"actions":[],"say":"Bcrusher, I hear you. Beverly at 431,-1047 is weakest, so I still hold at bed. Beverly, step to 430,-1047 where I see you and I give you potatoes now."}
+- 17:15 say: {"text":"It is night and dim, so I stay at the bed. Beverly, Worf, Zack: come into sight and I give you potatoes at first light."}
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}]}
