@@ -1,9 +1,9 @@
-# Goals, ranked (day 826)
+# Goals, ranked (day 844)
 
-1. Stay alive: keep health and hunger up, and never be out in the dark or alone. I died at dawn to a phantom at 441,-1051 after holding there with too few swords.
-2. Get food to the row, weakest first: Leonardo (hungry, no food), then Troi and Wesley. The potato patch at 468-470, -1068..-1072 is the source; walk there only in daylight with named, armed escorts.
-3. Get a sword back in hand. My wooden sword is at 441,107,-1051 where I died; retrieve it only with the group, in daylight.
-4. Learn the phantom's pattern: when it is active and where it comes from, so the row can avoid it.
+1. Stay alive: keep health and hunger up, and never be out in the dark or alone. Lewis was shot in the dark at 451,107,-1065 on the way to me, so the danger reaches the east beds' edge too.
+2. Keep the row fed, weakest first. Beverly holds 20 potatoes, so food is not short there; the hungriest must be named each morning. My 4 potatoes stay in reserve for them.
+3. Walk only in full daylight, never near dusk, with escorts who stay in sight for the whole walk. Nobody walks alone to the potato patch at 468-470,-1068..-1072.
+4. Learn the phantom's and the dark's pattern: when hostiles come and from where, so the row can avoid them.
 5. Keep my bed and the row's beds safe, and sleep each night in a bed.
 
-Reasons: the death changed the order. Staying alive and keeping the row fed now come before anything else, and the sword matters only as a way to stay safe.
+Reasons: Lewis's death showed that a walk planned in the morning can be caught by dusk and the dark. Survival and feeding come first; the sword and Lewis's gear wait until the group can go in daylight together.
