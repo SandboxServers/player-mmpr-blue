@@ -1,6 +1,8 @@
-Handoff, day 856 night (sleeping at east bed 443,107,-1064, from 444,107,-1064)
+Handoff, day 860 night
 
-Health 20, hunger 20, unarmed. I hold 10 potatoes in my pack, meant for Leonardo and Trini (not in sight).
-Bcrusher says he holds 10 potatoes for Leonardo and Trini and none for Beverly or Worf. Records conflict: there may be 20 potatoes in total. Beverly (health 7.3, hunger 16) is still not fed.
-No errand running, no walk named.
-Next at daylight: look; settle the potato count with Bcrusher at the row; give Beverly food first; give Leonardo and Trini theirs when in sight. Walk only with an armed friend in sight, in daylight.
+Health 20, hunger 20, unarmed. Sheltered beside the bed at 429,107,-1049 (row), not enclosed.
+I hold 10 potatoes. Still to give: Worf first (hunger 11, at first light), then Zack (hunger 18), then Beverly, Leonardo and Trini.
+Zack, Worf and Jason hold at 418,107,-1051 to the west, out of my sight. Zack says at first light they come along the row in company, Worf first.
+Bcrusher is beside me with 10 potatoes for Leonardo and Trini.
+Walk to the potato patch (464-468,107,-1073 to -1075) only in daylight with an armed friend in sight. Jason is the armed escort.
+Next at daylight: look; give Worf potatoes when he is in sight; then Zack; then Beverly, Leonardo and Trini.
