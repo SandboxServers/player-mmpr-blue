@@ -24,3 +24,4 @@
 - 17:52 act: {"actions":[],"say":"Bcrusher, thank you; give Zack 3 and Worf 5 when they are in your sight. Kimberly, Beverly is still the weakest, so give her 4 as soon as she is in your sight."}
 - 17:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Night, all. I go to my bed at 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
 - 17:58 act: {"actions":[{"do":"sleep"}],"say":"Night, all. I sleep at my bed, 430,-1051. Kimberly, give Beverly 4 potatoes at first light."}
+- 18:02 act: {"actions":[{"do":"note","text":"Morning, day 877. At bed 430,107,-1037, health 20, hunger 20, no food. Beverly is weakest (health 7); Kimberly holds potatoes for her. Staying here, no walk yet."}],"s
