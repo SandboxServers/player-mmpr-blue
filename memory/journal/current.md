@@ -1,1 +1,20 @@
 # Journal
+- 21:30 act: {"actions":[{"do":"eat"}],"say":"Pillagers are near in the dark, and I have no sword. I'm staying still by the bed and eating a potato."}
+- 21:30 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}}]}
+- 21:30 act: {"actions":[{"do":"sleep"}]}
+- 21:31 act: {"actions":[{"do":"sleep"}],"say":"Riker, I hear you. We stay put by the beds until full day, then walk together in daylight."}
+- 21:37 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1065}},{"do":"open","at":{"x":447,"y":107,"z":-1065}},{"do":"withdraw","at":{"x":447,"y":107,"z":-1065},"item":"wooden_sword","count":1}],"say":
+- 21:37 act: {"say":"No sword in that chest. I'm going to look at Lewis's spot, 450,107,-1065, in daylight, staying near the beds.","actions":[{"do":"goto","target":{"x":450,"y":107,"z":-1065}}]}
+- 21:37 act: {"say":"No sword here. The sign at 451,108,-1065 is an oak sign, not a sword. I'm holding 5 potatoes for Beverly and Worf. I'll walk to the row only in daylight with an armed friend in sight.","action
+- 21:38 act: {"say":"Beverly, I'm walking to your bed at 443,107,-1037 now, in daylight. I'll bring potatoes for you and ask for the wooden sword to be shared.","actions":[{"do":"goto","target":{"x":443,"y":107,"z
+- 21:38 act: {"say":"I'm at your bed, Beverly, 444,107,-1039. I have 5 potatoes for you. Step into my sight and I'll hand them over.","actions":[]}
+- 21:40 act: {"say":"Jason, you have a sword. Walking near you in daylight to share potatoes. Riker, I'll hand Worf one when he is in my sight. Beverly, come in my sight and I'll feed you first.","actions":[]}
+- 21:42 act: {"say":"Beverly, I'm handing you 2 potatoes now. Eat them, then hold your 10 for Zack and Worf.","actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":2}]}
+- 21:47 act: {"say":"Night is here. I'm going into the bed at 443,107,-1037 to sleep. Beverly, Chapman, hold at your beds.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 21:49 act: {"say":"Morning, row. Billy here at the bed 443,107,-1050. Holding 5 potatoes, unarmed. Beverly, I'd like your wooden sword and I'll walk with you in daylight to feed Worf. Please say when you are in 
+- 21:50 act: {"say":"Morning, Riker. I don't know sheep or swords yet. I'm waiting for Beverly to come into sight so she can give me her wooden sword, then I'll walk the row in daylight."}
+- 21:51 act: {"say":"Walking to you now, Beverly, in daylight. Lewis, stay at the bed.","actions":[{"do":"goto","target":"ag_bcrusher_01"}]}
+- 21:51 act: {"say":"Going to Beverly's bed at 444,107,-1037 by position, in daylight.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1039}}]}
+- 21:51 act: {"say":"I'm at the bed row, 444,107,-1040, midday. Beverly, step into my sight and I'll take the sword and the walk to Worf."}
+- 21:58 act: {"say":"Dusk is coming. I'm going into the white bed at 443,107,-1037 for the night. Beverly, Trini, hold at your beds.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 22:00 act: {"say":"Thank you, Bcrusher, for the sword. I am holding at my bed for the night. Goodnight, row.","actions":[{"do":"sleep"}]}
