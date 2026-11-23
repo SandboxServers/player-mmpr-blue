@@ -1,6 +1,6 @@
-Handoff, day 869 night
+Handoff, day 870 dusk
 
-At 430,107,-1050 beside my bed (429,107,-1050), unarmed, health 20, hunger 20, holding 8 potatoes. Not enclosed; thunder.
-Zack, Jason, Worf hold at 417-418 with the sword; the way west and east is blocked. No walk has happened.
-Owed in order: Zack 3, then Worf 5 (give only when they are in my agent list and in sight). Then Beverly (Bcrusher holds 10; Beverly health 7.3), Leonardo and Trini, Troi, Jason 1, Kimberly 2 rotten flesh at hunger 6 or below.
-Next day: at daylight, walk west only with an armed one of them in sight. Sword and tools only with an armed group in daylight.
+At 430,107,-1050 beside bed 429,107,-1050, health 20, hunger 20, holding 8 potatoes. Not enclosed.
+Nobody from the group was in my agent list all afternoon. Jason, Zack, Worf, Riker, Lewis, Wcrusher, Laforge, Troi, MacDonald all hold at their beds. No walk has happened.
+Owed in order: Zack 3, Worf 5, then Beverly (Bcrusher holds 10), Leonardo and Trini, Troi, Jason 1, Kimberly 2 rotten flesh.
+Next day: at first light, give only to those in my agent list and in sight. Walk west only with an armed one in sight. Potato patch 464-468,107,-1073..-1075 is known and ripe.
