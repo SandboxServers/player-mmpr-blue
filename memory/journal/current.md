@@ -43,3 +43,6 @@
 - 01:52 say: {"text":"Billy: morning. Pillager 6 blocks west at spawn. Nobody walks. Troi, stay beside me at the bed. Jason, hold with your sword. We wait for it to leave our sight."}
 - 01:58 say: {"text":"Billy: Riker, heard you. No walk yet. Jason, if you are armed and near, step into my sight. Then we walk to the potatoes at 409,-1054 together."}
 - 02:03 say: {"text":"Billy: night has come. No walk. I sleep in the bed beside me at 415,-1037. Troi, stay near the beds. Jason, keep your sword ready."}
+- 02:07 say: {"text":"Billy here at spawn bed 416,-1037, morning day 829. Nobody walks alone. Jason, armed escort: step into my sight and I name the walk to the potatoes at 409,-1054. Leonardo, Trini, Troi: hold a
+- 02:16 say: {"text":"Billy: dusk now. No walk today. I sleep in my bed at 415,-1037. Everyone hold at your beds through the night."}
+- 02:25 say: {"text":"Billy at spawn bed 416,-1037, dawn day 830. Zack, I hear you; you keep your potato for now. No walk until full daylight. Jason, step into my sight with your sword and I name the walk to 409,-
