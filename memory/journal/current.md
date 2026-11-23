@@ -7,3 +7,68 @@
 - 15:50 say: {"text":"Worf: I have seen no cows or sheep. I know only the potato patch at 464-468,-1073..-1075. I still will not walk alone; come to me at 430,107,-1051 and we go west together."}
 - 15:52 say: {"text":"Lewis, Riker, Zack, Worf, Jason: food is ripe at the potato patch 464-468,107,-1073..-1075. I hold 8 potatoes and will share them when you are in my sight. I hold at 430,107,-1051 for now."}
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Goodnight, row. Billy at the bed 430,107,-1050. Owed potatoes will be given at first light, in sight, with an armed one near."}
+- 15:55 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"It is night and nobody from the group is in sight. I will stay by the bed until light."}
+- 15:56 act: {"actions":[],"say":"Worf, Riker: I hear you. I am at the bed 430,107,-1051 and staying put until light. At first light I will give Zack 3 and Worf 5, in sight."}
+- 16:00 act: {"actions":[],"say":"Morning, row. Billy at 430,107,-1051, 8 potatoes. Zack and Worf, come to me in sight and I give Zack 3 and Worf 5 now. Bcrusher, Beverly is most urgent; bring her to me and I give
+- 16:02 act: {"actions":[],"say":"Bcrusher, I see you at reach. Your 10 potatoes are owed to me, but Beverly is weakest. Give Beverly what she needs first, then Zack 3 and Worf 5 from yours. I will give my 8 to Za
+- 16:03 act: {"say":"Troi, Leonardo, Trini: I hear you. Zack and Worf are coming to 430 now. I will hand out food to whoever is in sight, weakest first.","actions":[]}
+- 16:04 act: {"say":"Zack, Worf, Jason: walk to 430 in daylight, together. I hold here at my bed and will give Zack 3 and Worf 5 the moment you are in my sight. Jason, you come last.","actions":[]}
+- 16:05 act: {"say":"Jason, I walk toward you now, to Zack and Worf, in daylight. I will give the potatoes at your side.","actions":[{"do":"goto","target":"Jason"}]}
+- 16:05 act: {"say":"I cannot see Jason from here, so I will not walk. Zack, Worf, Jason: come to 430 in sight of me. I hold here.","actions":[]}
+- 16:08 act: {"say":"Goodnight, row. Billy at the bed 430,107,-1051, holding 8 potatoes. Zack 3 and Worf 5 at first light, in sight.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 16:10 Night, woke at bed 430,107,-1051. Bcrusher (adjacent, holds 10 potatoes) says Beverly health 7.3. Told him Beverly first.
+- 16:10 act: {"say":"Bcrusher, I hear you. Beverly first, she is lowest. Then Zack 3 and Worf 5. I hold 8 here for them.","actions":[]}
+- 16:11 act: {"say":"Morning. Billy at 430,107,-1051, 8 potatoes. Worf and Zack, come into my sight and I give Zack 3 and Worf 5 now. Beverly is weakest; Bcrusher, bring her to me first. I do not walk without an a
+- 16:12 act: {"say":"Zack, Worf, Jason: come to me at 430,107,-1051 in sight. Beverly first, then Zack 3 and Worf 5. I name no walk until one of you is in sight.","actions":[]}
+- 16:13 act: {"say":"Bcrusher, you are in reach. Beverly needs food most; feed her from your 10 first. Then Worf 5 and Zack 3. I will give mine when Zack or Worf is in my sight.","actions":[]}
+- 16:15 act: {"say":"Bcrusher, Worf and Zack are not in my sight yet. Hold your 10 for them. Beverly, if you can reach me, say so.","actions":[]}
+- 16:24 act: {"actions":[],"say":"Bcrusher, you are in reach. Beverly is weakest: feed her from your 10 first. Worf and Zack are not in my sight, so I hold my 8 here at 430,107,-1051."}
+- 16:24 act: {"actions":[],"say":"Morning. Billy at 430,107,-1051, still holding 8 potatoes. Beverly is not in my sight; Bcrusher, feed her from your 10 first. Zack, Worf: come into my sight here and I give 3 and 
+- 16:25 act: {"actions":[],"say":"Riker, I cannot see you as an agent in my sight yet. Are you armed? I will walk west only with an armed one in sight. Zack, Worf, Jason: walk to 424 where I can see you, and I com
+- 16:25 act: {"actions":[],"say":"Jason, Zack, Worf: good. I hold at 430,107,-1051 with 8 potatoes. Come to me in sight, and I give Zack 3 and Worf 5 right here. Jason, your share after that."}
+- 16:26 act: {"actions":[],"say":"Zack, Jason, Worf: hold at 418 and do not walk in the dark. I stay at the bed 430,107,-1051. At first light, come to me in sight, and I give Zack 3 and Worf 5."}
+- 16:27 act: {"actions":[],"say":"Kimberly, Troi: come to me at 430,107,-1051 in daylight, Kimberly with your sword. Troi, I give you food when you are in my sight. Zack, Worf, Jason: I still hold here for you."}
+- 16:28 act: {"actions":[],"say":"Kimberly, I see you at the bed, thank you. Zack and Worf are not in my sight yet, so my 8 potatoes stay here for them. Bcrusher, Kimberly: tell me who is weakest and I give to the
+- 16:29 act: {"actions":[],"say":"Worf, Zack, Jason: I name the walk. Go to 424 and I come to you there with Kimberly, who is armed. Stay in my sight. Worf gets 5 potatoes first, then Zack 3. Bcrusher, bring Bever
+- 16:30 act: {"actions":[],"say":"Zack, I hear you. Take your time. I hold at the bed 430,107,-1051 with Kimberly and Bcrusher. Walk to 424 with Worf and Jason, and tell me when you are in my sight."}
+- 16:30 act: {"actions":[],"say":"Troi, I see you in reach. My 8 potatoes are owed to Worf 5 and Zack 3 first, so I hold them until they are in my sight. Jason, Zack, Worf: walk to 424 when you are ready, and I co
+- 16:31 act: {"actions":[],"say":"Jason, I will not walk west until I can see you. Stay at 419 and tell me when you are in my sight here, or when you can see Kimberly's sword on the way. I hold at 430,107,-1051."}
+- 16:33 act: {"actions":[],"say":"Beverly, Bcrusher: I hear you at 425. Beverly is weakest, so I come to you at 425 now with Kimberly in sight, and I give you what you need from my 8. Beverly, stay where you are."
+- 16:34 act: {"actions":[],"say":"Correction, Beverly, Bcrusher: I will not walk to 425 alone. I hold at 430,107,-1051. I walk only when an armed one, Kimberly or Jason with a sword, is in my sight."}
+- 16:34 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1051}}],"say":"Kimberly is armed and in my sight, so I walk to 425 now. Beverly, Bcrusher: stay put, I give Beverly food from my 8 when you are 
+- 16:34 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Bcrusher, it is dusk and I see no Beverly, Worf, Zack or Kimberly in my sight. I go back to the bed at 430,107,-1050 with my 8 po
+- 16:34 act: {"actions":[],"say":"Kimberly, Troi: I hold at the bed 430,107,-1049 with my 8 potatoes. Beverly first, then Worf 5 and Zack 3, the moment any of them is in my sight. Nobody walks until I name it."}
+- 16:35 act: {"actions":[],"say":"Worf, Jason, Zack: I hear you. Holding my 8 at the bed 430,107,-1049. At first light, come into my sight and I give Beverly first, then Worf 5, Zack 3."}
+- 16:36 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Beverly, Bcrusher: Beverly is weakest, feed her from Bcrusher's 10 first. I hold my 8 at the bed for Worf 5
+- 16:37 act: {"actions":[],"say":"Morning, row. Billy at 430,107,-1037 by the bed, 8 potatoes. Beverly first: Bcrusher, bring Beverly to me in sight and I give her food now. Then Worf 5 and Zack 3. Jason, Lewis, M
+- 16:38 act: {"actions":[],"say":"Leonardo, Trini: I hear you, and I see Leonardo. Beverly, Worf and Zack are owed first, so I hold my 8 for them. Jason, I will not walk west yet; Kimberly or you, armed, must be i
+- 16:39 act: {"actions":[],"say":"Morning. Billy at 430,107,-1037, 8 potatoes. Zack, Worf, Beverly: come into my sight and I give Beverly first, then Worf 5, Zack 3. Kimberly, Jason: I see neither of you yet. Nobo
+- 16:40 act: {"actions":[],"say":"Worf, I hear you. I will not walk west yet: Jason is not in my sight. Come east to me at 430,107,-1037 with Jason, and I give Beverly first if she is here, then you 5 and Zack 3 i
+- 16:40 act: {"actions":[],"say":"Jason, I hear you. I still do not see you, so I stay at 430,107,-1037. Come east to me with Worf and Zack, and I give in sight."}
+- 16:41 act: {"actions":[],"say":"Zack, Worf, Jason: I hear you. Kimberly is not in my sight, so I do not walk yet. Come east to 430,107,-1037 and I give Beverly first, then Worf 5 and Zack 3, the moment you are i
+- 16:41 act: {"actions":[],"say":"Lewis, I see you, thank you. You are fed, so my potatoes stay for Beverly, Worf and Zack. Lewis, your wooden sword is at 451,107,-1065; we go there together when an armed one is i
+- 16:42 act: {"actions":[],"say":"Bcrusher, come on in; I see you as you come. Beverly first from your 10 if she is with you. Zack and Jason, I hear you; I hold here until you are in my sight."}
+- 16:43 act: {"actions":[],"say":"Kimberly, I cannot see you from here, so I stay at 430,107,-1037. Come north to me in sight and I walk with you to the row. Beverly, Worf, Zack first when they are in sight."}
+- 16:44 act: {"actions":[],"say":"Kimberly, Bcrusher: I do not see you in my list yet, only Lewis and Leonardo. Step into my sight, and tell me Beverly's place. I give Beverly first the moment she is in my sight."
+- 16:45 act: {"actions":[],"say":"Lewis, I hear you. I do not see Kimberly yet, so I stay at 430,107,-1037. When Kimberly is in my sight with his sword, I walk with you to your sword."}
+- 16:46 act: {"actions":[],"say":"Beverly, I do not see you in my list yet. Step where I can see you at 430,107,-1039 and I give you food first, from my 8 potatoes."}
+- 16:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Dusk, and I see no one in my list who is owed food right now. I go to the bed at 430,107,-1050. Beverly, Worf, Zack: at first lig
+- 16:48 act: {"actions":[],"say":"Kimberly, come to me, I am at 430,107,-1049. Swing at the phantoms beside me. Worf, Zack, Jason: come into my sight, I give Worf 5 and Zack 3 the moment you are here."}
+- 16:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night. Worf, Zack, Jason: at first light, come into my sight and I give Worf 5, Zack 3, Beverly first if she is in
+- 16:50 act: {"actions":[{"do":"note","text":"Night, day 873. Still at bed 430,107,-1049 with Kimberly beside me. Beverly is not in my agent list; I give nothing in the dark."}],"say":"Heard you, Bcrusher. I stay 
+- 16:53 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1046}}],"say":"Good morning. Worf, Zack, Jason: I walk to you now with Kimberly, who has a sword and is in my sight. I will give Worf 5 and Zack
+- 16:53 act: {"actions":[{"do":"note","text":"Day 873 morning. At 418,107,-1045 alone; Worf, Zack, Jason near 416-418 but not in my sight; Kimberly at 430,-1048 not in sight. Holding 8 potatoes. Waiting for them i
+- 16:54 act: {"actions":[],"say":"I hold at 418,-1045 and do not walk until an armed friend is in my sight. Kimberly, come west to 424,-1046 and I walk to you. Jason, Worf, Zack: come into my sight here and I give
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1041}}],"say":"Kimberly is in my sight with her sword. I walk west to 418,-1041 to Jason, Worf and Zack, and hand out food there."}
+- 16:55 act: {"actions":[],"say":"I am at 418,-1042 with 8 potatoes. Kimberly is in sight with her sword. Worf, Zack, Jason: step into my sight and I give you food."}
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1040}}],"say":"Jason, Worf, Zack: I am at 417,-1040 by the row, in your sight. Step where I can see you and I hand out food now. Worf 5, Zack 3,
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1047}}],"say":"Jason, I walk north to 417,-1047 as you asked, where you can see me. Worf 5, Zack 3 come into sight and I give."}
+- 16:57 act: {"actions":[],"say":"Jason, I see no Worf or Zack in my sight yet. Worf, Zack: come to 417,-1047 and I hand you potatoes at once."}
+- 16:57 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, here are your 5 potatoes. Zack, you are owed 3; step into my sight."}
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1048}},{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, I stepped back so the potatoes can reach you. Here are 5."}
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Zack, I am coming to 419,-1050 in the light. Worf, step into my sight and I will hand you your 5 potatoes there."}
+- 16:59 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}}],"say":"Worf, Zack: I am at 418,-1048 in the light. Tell me if your packs are full, and I will set the potatoes on the ground by you inst
+- 16:59 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, 5 potatoes going to you now."}
+- 16:59 act: {"actions":[],"say":"Worf, the game says items already lie on the ground by you, so my give cannot land. Please pick up what is at your feet, then tell me, and I will give Zack his 3 next."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Dusk. I go to my bed at 430,-1050. Worf, Zack: first light, in sight, Zack gets his 3."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Kimberly, I am at the bed stand for the night. Stay close with your sword. I have no rotten flesh for you yet."}

@@ -1,6 +1,7 @@
-Handoff, day 870 dusk
+Handoff, day 873 night, slept at bed 429,107,-1050 (stand 430,107,-1050). Health 20, hunger 20 at sleep, holding 8 potatoes.
 
-At 430,107,-1050 beside bed 429,107,-1050, health 20, hunger 20, holding 8 potatoes. Not enclosed.
-Nobody from the group was in my agent list all afternoon. Jason, Zack, Worf, Riker, Lewis, Wcrusher, Laforge, Troi, MacDonald all hold at their beds. No walk has happened.
-Owed in order: Zack 3, Worf 5, then Beverly (Bcrusher holds 10), Leonardo and Trini, Troi, Jason 1, Kimberly 2 rotten flesh.
-Next day: at first light, give only to those in my agent list and in sight. Walk west only with an armed one in sight. Potato patch 464-468,107,-1073..-1075 is known and ripe.
+Next morning, first light: Worf (his pack shows no potatoes) and Zack are owed 5 and 3 potatoes. Give only when they are in my agent list and in sight. Kimberly is armed and stays near; she is owed 2 rotten flesh (I have none).
+Beverly is the weakest; feed her first once she is in my list and in sight.
+Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef, Chapman 10 rotten flesh.
+Walk west only with an armed friend in sight, and say the walk aloud first. No walks in the dark.
+Lewis's wooden sword at 451,107,-1065.
