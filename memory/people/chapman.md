@@ -1,7 +1,6 @@
 # Chapman
 
-Impression: Gave me his stone sword at the row on day 453 when I asked, and agreed that Kimberly gets his 10 rotten flesh. He is willing, but he has not said how he got his own sword into hand, and he did not come to the row again while I was there.
-
-Trust: 60 out of 100. He kept his word on the sword. The flesh is still unpaid, so trust rests on that.
-
-Why: He says yes and then acts on it, but his sight has been short when I need him.
+Impression: gave me his stone sword at the row on day 453 when I asked, and agreed that Kimberly gets his 10 rotten flesh. Around day 829 I gave him 12 potatoes at the row (8, then 4); he has not been in sight since, and I do not know that he ate them.
+Owed by me: nothing open.
+Owed by him: 10 rotten flesh to Kimberly, not paid.
+Trust: 55. Why: he kept his word on the sword, but his sight is short when I need him.
