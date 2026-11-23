@@ -1,4 +1,4 @@
-# Summary (day 868, asleep at bed 429,107,-1050)
+# Summary (day 869, asleep at bed 429,107,-1050)
 
 I am Billy. Health 20, hunger 20 at the close. Unarmed, no sword. Holding 8 potatoes.
 
@@ -23,4 +23,4 @@ Lessons:
 - Pillagers reach the east beds in the morning as well as at dusk.
 - Plain waiting holds better than a rest intent.
 
-Next day: at first light, walk toward 419 only with an armed friend in sight. Give Zack 3 when he is in my list, then Worf 5. Sword and tools only with an armed group in daylight.
+Next day: at first light, say the walk plainly and hold until an armed friend is in sight. Give Zack 3 when he is in my list, then Worf 5. Sword and tools only with an armed group in daylight.
