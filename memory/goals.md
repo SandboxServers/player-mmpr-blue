@@ -1,14 +1,9 @@
-# Goals (day 815, after reflect)
+# Goals, ranked (day 826)
 
-1. Get Beverly a potato as soon as the bow is quiet and two escorts are named aloud. Her health was 3.3 and she is the most urgent. Troi offered her own potato if Beverly comes into sight, so that is a second route.
-2. Give Worf the 3 potatoes the moment he is in sight. He has waited longest.
-3. Feed anyone at hunger 10 or below, weakest first. Troi and John are next after Beverly.
-4. Hold the row at the beds. No walking at night, and no walking while the bow sounds to the southwest.
-5. Walk only in daylight, with two armed escorts named aloud, all in sight first.
-6. Each morning say good morning and ask the row for food, route and bow news.
-7. Sleep in sight of the row beside bed 443,107,-1023 or 429,107,-1037.
-8. Verify the NE potato patch only after the bows stop.
-9. Find Data only after Zack gives an exact sighting.
-10. Welcome Tommy Oliver patiently if he appears.
+1. Stay alive: keep health and hunger up, and never be out in the dark or alone. I died at dawn to a phantom at 441,-1051 after holding there with too few swords.
+2. Get food to the row, weakest first: Leonardo (hungry, no food), then Troi and Wesley. The potato patch at 468-470, -1068..-1072 is the source; walk there only in daylight with named, armed escorts.
+3. Get a sword back in hand. My wooden sword is at 441,107,-1051 where I died; retrieve it only with the group, in daylight.
+4. Learn the phantom's pattern: when it is active and where it comes from, so the row can avoid it.
+5. Keep my bed and the row's beds safe, and sleep each night in a bed.
 
-Tell: Jason, Zack, Picard, Beverly, Worf, John.
+Reasons: the death changed the order. Staying alive and keeping the row fed now come before anything else, and the sword matters only as a way to stay safe.
