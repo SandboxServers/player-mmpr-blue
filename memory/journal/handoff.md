@@ -1,7 +1,8 @@
-Handoff, night of day 847
+Handoff, night of day 850
 
-Sleeping at east bed 443,107,-1064 (I stand at 444,107,-1064). Health 20, hunger 20. No weapon.
-I hold 10 potatoes for Troi and Leonardo. Said so aloud; nobody came yet.
-Bcrusher holds 10 potatoes at his bed, for himself at hunger 6 or below, and for Troi and Leonardo first if they are lower.
-Beverly was given 10 earlier via Bcrusher. Ripe potatoes at 464-468,107,-1073..-1075 are unclaimed. No walk without an armed escort in sight.
-Next at dawn: status, look, hand the 10 to Troi and Leonardo when they are in sight, check chest 447,107,-1079 for a weapon.
+Going to sleep at the east bed beside 443,107,-1051. Health 20, hunger 20. Unarmed, nothing in hand.
+I hold 10 potatoes for Leonardo and Trini. Neither has come into sight on days 849 or 850.
+Bcrusher holds 10 potatoes for Leonardo and Trini. Beverly holds hers for hunger 6 or below.
+Riker, Lewis, Troi, MacDonald hold at their beds, unarmed. No armed walk named.
+Ripe potatoes at 464-468,107,-1073..-1075, unclaimed. Walks only with an armed escort in sight, in daylight.
+Next at first light: status, look, announce to the row, give potatoes to Leonardo and Trini when in sight.

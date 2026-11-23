@@ -195,3 +195,17 @@
 - 08:08 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":10}],"say":"Bcrusher, 10 potatoes for Beverly at your bed, now. I keep 10 for Troi and Leonardo."}
 - 08:09 act: {"actions":[{"do":"note","text":"Holding 10 potatoes for Troi and Leonardo. Bcrusher has his 10 at his bed for hunger 6 or below."}],"say":"Troi, Leonardo: I hold 10 potatoes for you. Come to me at 44
 - 08:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 08:17 act: {"actions":[],"say":"Morning, row. I hold 10 potatoes for Troi and Leonardo at 444,107,-1065. Beverly holds hers. No walk to the patch until an armed escort is here."}
+- 08:18 act: {"actions":[],"say":"Lewis, your sword lies at 451,107,-1065, by the sign there, seven blocks east of me. Take it and tell us when you hold it."}
+- 08:23 act: {"actions":[],"say":"Lewis, I do not know if the pillager is gone. I have no weapon and will not walk there. Do not go alone. We wait until someone armed is here."}
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 08:27 act: {"actions":[],"say":"Laforge, it is still day, so I cannot sleep yet. I hold 10 potatoes for Troi and Leonardo. I am not walking to the patch without an armed escort."}
+- 08:30 act: {"actions":[],"say":"Row, Billy here. No walk yet. Stay at your beds. I hold 10 potatoes for Troi and Leonardo. Whoever is armed, say so and we walk together."}
+- 08:32 act: {"actions":[],"say":"Lewis, Riker, Bcrusher, Laforge: no one here carries a weapon, so no walk today. We hold at our beds. I will not name a walk until someone armed is with us."}
+- 08:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 08:43 act: {"actions":[],"say":"Morning, row. Billy here, health 20, hunger 20. I hold 10 potatoes for Leonardo and Trini. Whoever is hungry, come within sight and I will hand them over. Still no armed walk."}
+- 08:44 act: {"say":"Leonardo, Trini: I hold 10 potatoes for you. Come close and I'll hand them over.","intent":{"goal":"hold_for_leonardo","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","un
+- 08:44 act: {"say":"Bcrusher, hold yours for Leonardo and Trini. I'll give mine when they are in sight."}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Riker, dusk noted. I hold for first light. No walk tonight."}
+- 08:51 act: {"actions":[{"do":"sleep"}]}
+- 08:54 act: {"say":"Morning, row. Billy health 20, hunger 20. I hold 10 potatoes for Leonardo and Trini. Come into sight and I'll hand them over. No walk named yet."}
