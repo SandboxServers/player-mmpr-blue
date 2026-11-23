@@ -60,3 +60,4 @@
 - 19:03 act: {"say":"Zack and Worf, come to Bcrusher at bed 430,-1037 so he can see you. Bcrusher holds 10 potatoes for you. Kimberly holds 4 for Beverly."}
 - 19:03 act: {"say":"Bcrusher, if Zack is in your sight, give him his 3 now. Then Worf's 5 when he is in sight. Zack, Worf, stay together."}
 - 19:07 act: {"say":"Zack and Worf, walk to 430,-1036 beside Bcrusher, in daylight, both together. Bcrusher, give the moment they stand in your sight."}
+- 19:11 act: {"actions":[],"say":"Morning, row. Billy at 444,-1037, health 20, hunger 20, no food. Kimberly: Beverly first with your 4 potatoes if she is in sight, then Trini. Bcrusher: Zack 3 and Worf 5 when they
