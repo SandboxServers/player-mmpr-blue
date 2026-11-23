@@ -18,3 +18,16 @@
 - 21:51 act: {"say":"I'm at the bed row, 444,107,-1040, midday. Beverly, step into my sight and I'll take the sword and the walk to Worf."}
 - 21:58 act: {"say":"Dusk is coming. I'm going into the white bed at 443,107,-1037 for the night. Beverly, Trini, hold at your beds.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 22:00 act: {"say":"Thank you, Bcrusher, for the sword. I am holding at my bed for the night. Goodnight, row.","actions":[{"do":"sleep"}]}
+- 22:04 act: {"say":"Morning, row. Billy awake, sword in hand, 5 potatoes. Beverly, you hold 10 potatoes and you need them more than I do; eat yours. I'm eating one now and will walk to you only with an armed frie
+- 22:06 act: {"say":"Billy at the bed 443,107,-1037, health 11, hunger 17, sword in hand, 4 potatoes. Holding here. Lewis, Troi, Bcrusher: I will walk to the row only when an armed friend is in my sight. Bcrusher,
+- 22:15 act: {"say":"Dusk, row. Billy in the bed at 443,107,-1037, sword in hand, going to sleep. No walk tonight.","actions":[{"do":"sleep"}]}
+- 22:15 act: {"say":"Morning, row. Billy, armed with the wooden sword, walking to Beverly at 444,107,-1023 to see she is fed. Trini, Kimberly, come along if you can.","actions":[{"do":"eat"},{"do":"goto","target":
+- 22:15 act: {"say":"Billy at Beverly's bed, sword in hand. Beverly is not in my sight. Bcrusher, you hold 10 potatoes for Zack 3 and Worf 5; please hand them over when they come in sight. I heard a bow to the sou
+- 22:16 act: {"say":"Billy holding at Beverly's bed, sword in hand. Beverly is not in my sight. Trini, Kimberly, come to me here at 444,107,-1022 and we walk together. Holding until someone is in sight.","actions"
+- 22:17 act: {"say":"Billy here with Trini and Kimberly in sight, sword in hand. Bcrusher, the name you speak as Beverly: you say you hold 10 potatoes, owed Zack 3 and Worf 5. Zack and Worf, come into sight and I 
+- 22:27 act: {"say":"Night, row, and thunder. Billy going to the bed here at 443,107,-1022 to sleep. Trini, Kimberly, stay near; I'll keep the sword in hand.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 22:28 act: {"actions":[],"say":"Night. I am in bed at 443,107,-1036 with Chapman beside me. Staying put until daylight."}
+- 22:29 act: {"actions":[],"say":"Morning. Billy here, health 13, hunger 16. Beverly and Worf, where are you? I hold 3 potatoes. Trini is my armed friend, and I will walk to the row in daylight only, after you ans
+- 22:29 act: {"actions":[],"say":"Daylight walk named: I go to the white bed at 443,107,-1022 with Trini's sword in sight, to find Beverly and feed her first. Bcrusher, hold the potatoes until I say so."}
+- 22:31 act: {"actions":[{"do":"eat"}],"say":"Nobody is in sight to hand food to yet. I am eating one potato myself, keeping two for Beverly and Worf."}
