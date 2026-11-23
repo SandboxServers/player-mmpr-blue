@@ -1,4 +1,5 @@
 # Journal
+- 01:40 midday: pillager seen near Troi, held at spawn 416,-1040 with nothing in hand. Named Kimberly (sword) and Troi as escorts for the 21 potatoes at 409,107,-1054. Waiting for clear sight before walking.
 - 01:20 say: {"text":"Good morning. Billy here. Walk to the potatoes now, in daylight: Jason, Zack, Worf and Troi, with me. Weakest first. Jason, lead; I follow your sword."}
 - 01:21 act: {"intent":{"goal":"walk_to_potatoes_daylight","program":"travel","arguments":{"x":466,"y":107,"z":-1066},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
 - 01:21 act: {"intent":{"goal":"walk_to_potatoes_daylight","program":"travel","arguments":{"position":{"x":466,"y":107,"z":-1066}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
@@ -29,3 +30,13 @@
 - 01:35 act: {"intent":{"goal":"flee_pillager_far","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
 - 01:36 say: {"text":"Billy at 403,-1018, health 10, holding 22 potatoes. Something shot me from the left at dawn. Data, Riker, anyone who needs food: name yourself and step into sight."}
 - 01:37 say: {"text":"Billy here, I died to the pillager and woke at spawn 416,-1037 with nothing. 21 potatoes lie at 409,107,-1054. Riker, hold at your bed. Once it is full daylight and no pillager is in sight, I
+- 01:38 say: {"text":"Billy here, at spawn 416,-1037, full daylight, nothing in my hands. Troi, Jason: I name you as escorts. We walk together to the 21 potatoes at 409,107,-1054, then to the row. Say if you have 
+- 01:38 say: {"text":"Billy: pillager near Troi. Everyone hold still, stay by the beds, no walking until it is clear. Troi, come to me here at 416,-1040."}
+- 01:39 say: {"text":"Billy: Kimberly, you are named as armed escort. Troi with you. No pillager in my sight now. Hold at the bed until I say go, then we walk to 409,-1054 together for the potatoes."}
+- 01:44 say: {"text":"Billy: afternoon now and the sun is getting low. No walk today. Kimberly, Troi, Tommy, hold at the beds. We go at first light tomorrow to the 21 potatoes at 409,-1054, armed escort first."}
+- 01:44 act: {"intent":{"goal":"flee_pillager_east","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
+- 01:44 say: {"text":"Billy: a pillager at 408,-1040 shot me twice; I fled east to 439,-1043. Health 17 and rising. I hold nothing. Stay out of the west, hold at the east beds, no walking west."}
+- 01:46 act: {"intent":{"goal":"flee_pillager_north","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":300,"max_block_operations":16}}}
+- 01:46 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"x":415,"y":107,"z":-1036},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":200
+- 01:46 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":415,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 01:46 say: {"text":"Billy: Troi, go east, away from the west, toward the chest at 419,-1037. I am at the bed 415,-1036, trying to sleep now."}
