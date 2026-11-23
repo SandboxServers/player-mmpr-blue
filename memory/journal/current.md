@@ -31,3 +31,9 @@
 - 22:29 act: {"actions":[],"say":"Morning. Billy here, health 13, hunger 16. Beverly and Worf, where are you? I hold 3 potatoes. Trini is my armed friend, and I will walk to the row in daylight only, after you ans
 - 22:29 act: {"actions":[],"say":"Daylight walk named: I go to the white bed at 443,107,-1022 with Trini's sword in sight, to find Beverly and feed her first. Bcrusher, hold the potatoes until I say so."}
 - 22:31 act: {"actions":[{"do":"eat"}],"say":"Nobody is in sight to hand food to yet. I am eating one potato myself, keeping two for Beverly and Worf."}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1023}}],"say":"Kimberly, Trini, Beverly: daylight, sword in my hand, I am walking to Beverly's bed at 444,107,-1023 now. Beverly, I have 2 potat
+- 22:32 act: {"actions":[],"say":"Billy at Beverly's bed, sword in hand, daylight. Bcrusher, you are in my sight: are you Beverly, and whose hands hold the 10 potatoes? Say the name and I will feed the weakest fir
+- 22:34 act: {"actions":[],"say":"Bows are being drawn to the southwest, so I hold here with Trini in reach. Worf and Zack, call out your places and I will bring the potatoes in daylight."}
+- 22:38 act: {"actions":[{"do":"note","text":"Day 890 daylight at the row 444,107,-1022. Hunger 17, health 13.3, holding 2 potatoes and wooden sword. Worf, Zack and Beverly not in sight. Holding here with Trini, K
+- 22:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, row. Billy going to the bed at 443,107,-1022 for the night, sword in hand, Trini and Kimberly near. No walk 
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night, row. Billy in the bed at 443,107,-1022, sword in hand. Trini and Kimberly, stay near. Morning walk only in 
