@@ -1,7 +1,7 @@
-# Handoff, day 826 night
+# Handoff, day 827 evening
 
-Billy asleep in the white bed at 415,107,-1037. Health 20, hunger 20. No food, no sword, pack empty.
-With me: Troi (in reach, hungry 17). Jason, Zack, Worf, Lewis, Trini hold near their beds.
-Food: ripe potatoes at 468-470, 107, -1068..-1072 (NE patch).
-Lost wooden sword at 441,107,-1051 (phantom attack site).
-Rule: no walk at night, no walk alone. At first light, name the daylight walk to the potato patch with Troi, Zack, Worf, Jason; feed the weakest first.
+Billy at bed 412,107,-1041, sheltered by beds, health 20, hunger 20. Holding 22 potatoes.
+Nobody was in my sight to hand them to all afternoon (sight is patchy; names come by speech).
+Riker (health 20 now) will walk to me at first light. Hand potatoes to the weakest first.
+Chapman gives failed earlier; try dropping near him or a named walk.
+Rule: no walk at night, no walk alone. At first light, name the daylight walk to the potato patch 468-470,107,-1068..-1072.

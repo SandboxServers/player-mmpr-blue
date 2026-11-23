@@ -21,3 +21,11 @@
 - 01:28 say: {"text":"Riker, you are weakest now. I am at 413,107,-1050, in the open by the grass. Walk to me in daylight, I will give you potatoes as soon as you are in sight."}
 - 01:29 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]}
 - 01:29 say: {"text":"Going to the bed at 413,-1041 for the night. I hold 22 potatoes. Riker, walk to me at first light and I give them out."}
+- 01:30 say: {"text":"Good morning all. Walk now: Jason, Zack, Worf, Troi meet me at spawn 416,107,-1037. Then to Chapman first, he is weakest at health 0.3. I hold 22 potatoes."}
+- 01:31 say: {"text":"Worf, keep your potato for whoever is weakest in your sight. I hold 22 at the bed 412,-1041. Dusk now, nobody walks until first light."}
+- 01:32 say: {"text":"Riker, come to the bed at 412,-1041, I am here. I will give you potatoes the moment you are in sight. Eat one now if you can."}
+- 01:35 act: {"intent":{"goal":"flee_pillager_southeast","program":"travel","arguments":{"target":{"x":425,"y":107,"z":-1030}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_
+- 01:35 act: {"intent":{"goal":"flee_pillager_far","program":"flee","arguments":{"from":"pillager"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
+- 01:35 act: {"intent":{"goal":"flee_pillager_far","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
+- 01:36 say: {"text":"Billy at 403,-1018, health 10, holding 22 potatoes. Something shot me from the left at dawn. Data, Riker, anyone who needs food: name yourself and step into sight."}
+- 01:37 say: {"text":"Billy here, I died to the pillager and woke at spawn 416,-1037 with nothing. 21 potatoes lie at 409,107,-1054. Riker, hold at your bed. Once it is full daylight and no pillager is in sight, I
