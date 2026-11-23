@@ -41,3 +41,4 @@
 - 22:47 act: {"say":"Heard you, Bcrusher. Billy here with the sword. Hand Worf's 5 when he is in sight. I hold 2 for Worf.","intent":{"goal":"hold_at_row_for_worf","program":"rest","arguments":{},"wake_on":["direc
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
 - 22:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy here, night. Staying in the white bed with Trini and Kimberly near. No walk until daylight; Worf and Zack get their potatoe
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy here, at the white bed in the row. Night, bows heard southwest. I'm staying put with Kimberly and Trini close, and going to
