@@ -34,3 +34,4 @@
 - 10:42 act: {"actions":[{"do":"sleep"}]}
 - 10:46 act: {"actions":[{"do":"note","text":"Day 855 morning at east bed. Still no armed friend in sight and no walk named. Potatoes held for Leonardo and Trini. Row holding."}],"say":"Morning, row. Billy, health
 - 10:50 act: {"actions":[{"do":"note","text":"Bcrusher answered: holding his 10 potatoes at his bed, no walk. Still nobody armed or Leonardo/Trini in sight. Waiting."}]}
+- 10:54 act: {"actions":[{"do":"note","text":"Day 855 dusk: slept at east bed, health 20, hunger 20. Row holding, no walk named. Potatoes still held for Leonardo and Trini."}],"say":"Night, row. Billy in bed at th
