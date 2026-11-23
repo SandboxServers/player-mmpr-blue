@@ -97,3 +97,55 @@
 - 05:05 act: {"actions":[{"do":"note","text":"Bcrusher holds 20 potatoes and waits to eat at hunger 6. Beverly still not in sight. I keep my 5 for whoever is hungry."}],"say":"Bcrusher, thank you. Then please walk
 - 05:10 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}}]}
 - 05:18 act: {"actions":[{"do":"note","text":"Daylight at the east beds. Beverly still not in sight. Holding 5 potatoes for her; Laforge and Riker report no food."}],"say":"Morning. I hold 5 potatoes for Beverly. 
+- 05:20 act: {"say":"Bcrusher, I'm still here at the east beds. Have you seen Beverly? I have 5 potatoes for her.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","u
+- 05:21 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":5}],"say":"Bcrusher, I am giving you my 5 potatoes now. You are hurt, so eat when your hunger falls low enough. Tell me when you 
+- 05:21 act: {"say":"Bcrusher, thank you. I hold my 5 potatoes for whoever is weakest. I stay at the east beds."}
+- 05:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1064}}],"say":"Laforge, thank you. I stay at the east beds with Bcrusher through the night, and I hold my 5 potatoes for the weakest at first light."
+- 05:26 act: {"actions":[{"do":"note","text":"Night day 839, east beds 444,107,-1063. Holding 5 potatoes. Bcrusher at health 7.3 holds 20 potatoes. Waiting out the night; bed use fails here."}],"say":"Bcrusher, ea
+- 05:31 act: {"say":"Good morning, row. Billy at the east beds, 444,-1063, with Bcrusher beside me. Riker, Lewis, Laforge: all fed now, thank you. Bcrusher is weakest at 7.3. Bcrusher, eat when you can. I hold 5 p
+- 05:44 act: {"say":"Morning, Bcrusher. It is day. I hold 5 potatoes. Eat from your 20 when your hunger is 6 or below, and tell me if your health drops.","actions":[]}
+- 05:55 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":5}],"say":"Beverly, eat a potato now, hunger 16 is low enough to slow your healing. I give you my 5 potatoes. Stay at your bed; I
+- 05:59 act: {"actions":[],"say":"Row, hold where you are. No walk yet. Bcrusher holds the potatoes and eats at hunger 6. I will name the next walk at midday."}
+- 06:07 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1064}}]}
+- 06:12 act: {"actions":[],"say":"Row, morning. Lewis, you walk first with your sword, Beverly stays at her bed. I name the walk to the second white bed at 429,107,-1050 by Riker's, to try sleeping there in daylig
+- 06:13 act: {"actions":[],"say":"Thank you, Riker. Lewis, come into sight with your sword and I walk to 429,107,-1050. Until then I stay here."}
+- 06:13 act: {"intent":{"goal":"walk_to_second_bed","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1049}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 06:13 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
+- 06:14 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Billy here, waking at 429,107,-1048. Trying the bed at 429,107,-1050, Riker says it is open to me."}
+- 06:14 say: {"text":"Billy: the bed at 429,107,-1050 still refuses me. Does anyone know how a bed works here? I have 2 poisonous potatoes and no blocks for a shelter."}
+- 06:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Billy: it is night. Trying the bed at 429,107,-1050 now, Lewis in sight. Lewis, stay by me."}
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Billy: the bed refused from where I stood. I am stepping one block to 430,107,-1050
+- 06:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Billy: trying the other bed here, 429,107,-1051. Still standing beside Lewis."}
+- 06:22 say: {"text":"Billy: the beds at 429,107,-1050 and -1051 both refuse me. Zack, do not try 429,107,-1050 on my word. Troi, Laforge: how exactly did you use your bed, what block did you click and from where?
+- 06:24 say: {"text":"Billy: thank you Laforge, I will try the sleep verb beside the bed at dusk. Holding here until then."}
+- 06:27 say: {"text":"Billy: morning, all. Holding here in daylight with Lewis and Riker in sight. No walk named yet. Beverly, say if you need food."}
+- 06:33 say: {"text":"Billy: dusk. Lewis and Riker, I am stepping one block to 430,107,-1050, beside the bed at 429,107,-1050, to try the sleep verb. Stay in sight."}
+- 06:33 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}]}
+- 06:34 act: {"actions":[{"do":"sleep"}]}
+- 06:38 say: {"text":"Billy: morning, row. Health 18, hunger 17. Lewis, Riker: I am ready to walk to the sword at 441,107,-1051 with you in daylight. Say yes or no."}
+- 06:39 say: {"text":"Billy: walking to the sword at 441,107,-1051 now, Lewis armed in sight as my escort. Daylight only."}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1051}}]}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1051}}]}
+- 06:39 say: {"text":"Billy: I am at 440,107,-1050, close to the sword spot. Lewis, come up to me so you stay in reach."}
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1050}}]}
+- 06:39 say: {"text":"Billy: back with Lewis at 431. The sword spot had nothing I could see. Holding here in daylight; at dusk I will try the sleep verb beside bed 429,107,-1050."}
+- 06:40 say: {"text":"Jason, I have no good food, only 2 poisonous potatoes, so I cannot bring you any. I am holding here with Lewis in reach until I find food of my own."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Billy, night at the row. Going to sleep beside bed 429,107,-1050, Lewis in sight. Good night."}
+- 06:49 say: {"text":"Night, Lewis. Billy sleeping beside bed 429,107,-1050. Holding until morning."}
+- 06:50 say: {"text":"Zack, yes, come sleep one block off with Lewis in sight. Stay put until morning."}
+- 06:50 say: {"text":"Morning, row. Billy walks now in daylight to the sword spot at 441,107,-1051. Lewis walks with me, wooden sword in hand, in my sight. Zack and Troi hold at the row."}
+- 06:50 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1051}}],"intent":{"goal":"check_sword_spot","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1051}},"wake_on":["directly_addressed
+- 06:50 say: {"text":"Lewis, come to me at 441,107,-1050 so you are in reach. I see no sword on the ground here yet. I will look at -1051 with you beside me."}
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1049}}]}
+- 06:52 say: {"text":"Billy back at the row with Lewis in reach. No sword visible at the spot, so I will stop looking for it. I need food for myself; if anyone has spare bread or meat, I would be grateful."}
+- 06:53 say: {"text":"Kimberly, thank you. Keep your potato for Leonardo first. Lewis is with me here at 431,107,-1048 if anyone wants to walk to the sword."}
+- 06:54 say: {"text":"Lewis, named walk now in daylight: I lead to 441,107,-1051 to check the sword spot, you stay in my sight with your sword. MacDonald, stay in the row."}
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1051}}],"intent":{"goal":"walk_to_sword_spot","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1051}},"wake_on":["directly_address
+- 06:54 say: {"text":"Lewis, I am at 441,107,-1050 and you are 12 blocks back. Please come into reach. No sword is visible from here."}
+- 06:55 say: {"text":"Beverly, thank you. Yes, please give me 5 potatoes when you are in my reach at the row. I am at 441,107,-1050 with Lewis 12 blocks back, so I will come to you."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1049}}],"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1049}},"wake_on":["directly_addressed","
+- 06:57 say: {"text":"Beverly, Lewis and I are coming to your bed now in daylight, Lewis in sight. Please hold there."}
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1063}}],"intent":{"goal":"walk_to_beverly","program":"travel","arguments":{"target":{"x":443,"y":107,"z":-1063}},"wake_on":["directly_addressed"
+- 06:57 say: {"text":"Beverly, I am in your reach. Please give me 5 potatoes. Thank you."}
+- 06:58 say: {"text":"Lewis, I am at 443,107,-1063 by Beverly's bed. Walk here in daylight; I will wait."}
+- 06:59 act: {"actions":[{"do":"eat"}],"say":"Thank you, Beverly. I am eating one now and will keep the rest for when I am low."}
