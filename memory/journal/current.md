@@ -151,3 +151,7 @@
 - 06:59 act: {"actions":[{"do":"eat"}],"say":"Thank you, Beverly. I am eating one now and will keep the rest for when I am low."}
 - 07:03 act: {"say":"Night, row. Billy here at 443,107,-1063, health 20, hunger 16. Holding by the beds until dawn. Beverly, eat when you are at 6 or below.","intent":{"goal":"hold_at_beds_until_dawn","program":"r
 - 07:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Billy: night, row. Trying to sleep in the bed at 443,107,-1064, Bcrusher beside me. Good night."}
+- 07:04 act: {"say":"Morning, row. Billy here at the east beds, health 20, hunger 16. Beverly, you are weakest: I am bringing my 4 potatoes to you. Tell me where you are.","actions":[{"do":"note","text":"Woke day 
+- 07:05 act: {"say":"Beverly, thank you. Since you hold 20 potatoes, my 4 go to whoever is hungriest after you. I will walk to the potato patch only in full daylight with named escorts. Who can come with me? I hav
+- 07:05 act: {"say":"Lewis, yes, thank you. Come to me at the east beds. We go to the potato patch together in daylight, and I will bring food back for whoever is weakest. Zack or Jason to join us if they are near
+- 07:12 act: {"say":"Lewis, I am sorry. Stay by the beds in sight. No walk to the potatoes today. Everyone hold at the east beds until I say otherwise. Riker, Jason, Beverly: keep to the row.","actions":[{"do":"go

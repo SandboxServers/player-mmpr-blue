@@ -1,7 +1,7 @@
-# Handoff, day 843 (night)
+Handoff, day 844 (night)
 
-Slept beside bed 443,107,-1064 (east beds) with the sleep action; 8 of 10 asleep. Bcrusher in reach at my side.
-Billy health 20, hunger 16. Pack: 4 potato, 2 poisonous_potato. No sword (sword spot 441,107,-1051 checked at dawn: nothing visible).
-Beds at 429,107,-1050 and -1051 refused me until the sleep verb worked beside 430,107,-1050 (dusk).
-Beverly is at 443,107,-1065 area, weak earlier; Bcrusher holds potatoes for her.
-Next at dawn: check status, ask who is hungry, share the 4 potatoes weakest first, then decide the next walk in daylight with an armed escort in sight.
+At east bed 444,107,-1064, sheltered, nobody with me in sight. Health 20, hunger 16.
+Pack: 4 potato, 2 poisonous_potato. No sword.
+Lewis died at 451,107,-1065 in the dark (sword, leather, boat there). Potato walk cancelled.
+Beverly holds 20 potatoes at 429,107,-1063, health 7.3. Riker and Jason near the row.
+Next at dawn: check status, ask who is hungry, no walk until full daylight and named escorts who stay in sight.
