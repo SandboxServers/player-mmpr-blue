@@ -17,3 +17,7 @@
 - 09:37 act: {"actions":[],"say":"Holding, Bcrusher. Still no armed friend in sight, so no walk yet. Leonardo and Trini, when you come by, the 10 potatoes are yours."}
 - 09:41 act: {"actions":[],"say":"Worf, Jason, if you are armed and in sight, stay close. Light is still dim here. When it is full day I will name the walk to the potato patch; not before."}
 - 09:49 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Billy beside the bed, health 20, hunger 20, unarmed, no walk. Goodnight."}
+- 09:57 act: {"say":"Billy at the east bed, health 20, hunger 20, unarmed, holding 10 potatoes for Leonardo and Trini. No walk yet. I will name it when an armed friend is in sight in full daylight."}
+- 10:01 act: {"actions":[{"do":"sleep"}],"say":"Night is here with thunder. Billy going to the white bed beside me to sleep. Still holding 10 potatoes for Leonardo and Trini."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:05 act: {"actions":[],"say":"Morning, row. Billy at the east bed, health 20, hunger 20, unarmed, still holding 10 potatoes for Leonardo and Trini. Beverly, please eat from Bcrusher's potatoes now. No walk nam
