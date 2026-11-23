@@ -42,3 +42,22 @@
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
 - 22:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy here, night. Staying in the white bed with Trini and Kimberly near. No walk until daylight; Worf and Zack get their potatoe
 - 22:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy here, at the white bed in the row. Night, bows heard southwest. I'm staying put with Kimberly and Trini close, and going to
+- 22:55 act: {"actions":[{"do":"eat"}],"say":"Morning. Trini and Kimberly, I'm awake. I'm going to check the row in daylight with you both in sight, and feed Beverly first."}
+- 22:55 act: {"actions":[{"do":"note","text":"Daylight. Walking to the row with Trini and Kimberly in sight, wooden sword in hand. Beverly first."}],"intent":{"goal":"reach_row_near_beverly","program":"travel","ar
+- 22:56 act: {"actions":[{"do":"note","text":"At the row (432,-1045) in morning light. A bow was drawn to the west. No friends in sight now. Holding here, sword in hand."}],"say":"Kimberly, Trini, I'm at the row. 
+- 22:56 act: {"actions":[{"do":"note","text":"Named walk: 432,-1045 to 431,-1039, daylight, with Jason and Zack in sight. Bcrusher is there, Worf west at 416,-1050. Holding my wooden sword."}],"say":"Named walk, d
+- 22:57 act: {"actions":[{"do":"note","text":"Holding at 432,-1039 in morning light with one potato. Owed first to Beverly (weakest), not yet in sight. Zack and Worf have asked for food; I owe them after her."}],"
+- 22:58 act: {"say":"Billy holding at 432,107,-1039 with my wooden sword. I still hold one potato for Beverly, who is weakest. Worf, I will give you your share when you are in my sight. Troi, you are twelve blocks
+- 23:04 act: {"say":"Afternoon, dusk coming. I am walking the short way to the white bed at 429,107,-1036 with my sword in hand, and I will sleep there. Beverly, if you are in sight, say so and I will give you my 
+- 23:04 act: {"say":"Billy at the bed 429,107,-1036 with Bcrusher beside me. Holding my potato for Beverly, who is still out of sight. Going to sleep here at dusk.","actions":[{"do":"use","at":{"x":429,"y":107,"z"
+- 23:04 act: {"say":"Morning, day 892. Billy at the bed 429,107,-1036, Bcrusher beside me. My potato is still for Beverly. Who has seen her? I will walk only in daylight, with someone armed in my sight."}
+- 23:06 act: {"say":"Dusk. Billy sleeping by the bed at 429,107,-1036, sword in hand, one potato kept for Beverly. Worf, my word stands for your potatoes in daylight.","actions":[{"do":"goto","target":{"x":429,"y"
+- 23:06 act: {"say":"Billy here by the bed 429,107,-1036. Beverly, where are you? I still hold one potato for you."}
+- 23:08 act: {"actions":[{"do":"give","to":"ag_beverly_01","item":"potato","count":1}],"say":"Beverly, I'm at the bed with your potato. Hand me a sign if you're near."}
+- 23:10 act: {"actions":[{"do":"give","to":"Beverly","item":"potato","count":1}],"say":"Morning. Beverly, if you're in sight, I'm holding your potato at the bed. Bcrusher, Worf is owed 5 when he's in sight."}
+- 23:11 act: {"actions":[],"say":"Billy here at bed 429,-1037, health 15, hunger 17, wooden sword in pack. Beverly still unseen; I hold her potato. No walk yet; holding with Bcrusher and Jason."}
+- 23:20 act: {"actions":[{"do":"note","text":"Dusk, day 892. Standing by bed 429,107,-1036. Holding 1 potato for Beverly. No walk at dusk."}],"say":"Billy here, by the bed at 429,107,-1036. No walk at dusk. Holdin
+- 23:21 act: {"actions":[{"do":"give","to":"Beverly","item":"potato","count":1}],"say":"Beverly, here is your potato. Eat it, you are the weakest."}
+- 23:24 act: {"actions":[],"say":"Morning, row. Bcrusher, please pay Zack 3 now while he is in your sight. Beverly, come to the bed; I hold a potato for you. No walk yet, I need an armed friend in sight."}
+- 23:26 act: {"actions":[],"say":"Daylight walk named: north to the chest at 447,107,-1065 and Lewis's sword at 451,107,-1065. Jason and Worf armed, we stay in each other's sight. Go now."}
+- 23:27 act: {"actions":[],"say":"Walk called off; the east way is blocked. I hold here by the bed with my potato for Beverly. Tell me when an armed friend is in sight and I will name the walk again."}
