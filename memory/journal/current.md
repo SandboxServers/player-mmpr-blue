@@ -152,3 +152,5 @@
 - 01:08 say: {"text":"Troi, thank you, you are in reach. Wait here with me until Worf, Zack and Jason are in sight. Then we all walk to the potato patch at 468,-1070 together, in daylight."}
 - 01:08 say: {"text":"Named walk, daylight: Troi, Zack, Worf, Jason and I go together to the potato patch near 466,107,-1066. Stay in each other's sight. Zack, give your potato to Leonardo when he is in sight."}
 - 01:09 say: {"text":"It is getting dark, so no walk tonight. Everyone hold where you are with someone in sight. Billy holds at spawn 416,-1037 with Troi. We walk to the potatoes at first light."}
+- 01:12 say: {"text":"Billy here. I have no food and no sword, but I am holding at health 20. Let us walk to the potatoes together in daylight, and find a sword first."}
+- 01:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Night is here. Billy going into the white bed at 415,107,-1037 with Troi in sight. No walking until first light."}
