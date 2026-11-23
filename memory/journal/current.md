@@ -80,3 +80,20 @@
 - 04:03 say: {"text":"Billy at patch 470,-1072, morning, 25 potatoes, nobody in sight. Armed friend: step into my sight and I walk you to Beverly at bed 443,-1065."}
 - 04:19 say: {"text":"Billy at patch 470,-1072, midday day 835, 25 potatoes. Riker, Bcrusher: if you are armed and near, step into my sight; I walk to Beverly at 443,-1065 with you."}
 - 04:36 say: {"text":"Billy at patch 470,-1072, midday day 836, 25 potatoes. Armed friend in sight, name yourself and I walk you to Beverly at 443,-1065 at once."}
+- 04:41 act: {"say":"Billy at the potato patch, dusk, alone with 25 potatoes. No walking at night. Armed friend in sight: name yourself.","intent":{"goal":"hold_at_patch_until_light","program":"rest","arguments":{
+- 04:44 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":8}],"say":"Bcrusher, 8 potatoes for Beverly, weakest first. Eat one yourself if you are hungry. I sleep at the bed beside you."}
+- 04:44 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}}]}
+- 04:44 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1064}}]}
+- 04:45 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":4}],"say":"Bcrusher, it is day. Beverly is the weakest: take all the potatoes to her now at her bed. I am giving you 4 more so sh
+- 04:49 act: {"say":"Bcrusher, Beverly is the one at 7.3 health. Please take the potatoes to her bed now, not wait for your hunger to fall. Laforge, I hold 13 potatoes; tell me who is weakest in your sight."}
+- 04:50 act: {"say":"Billy at the east beds, 446,-1065, daylight, 13 potatoes. Beverly first. Anyone armed in sight, name yourself and I walk you to her bed now."}
+- 04:52 act: {"say":"Lewis, thank you. Come to me at 446,-1065 in daylight, then we walk the few blocks to Beverly's bed with the potatoes. Tell me when you are in sight."}
+- 04:58 act: {"actions":[{"do":"note","text":"Night, 446,107,-1065, not walking. Holding 13 potatoes; Bcrusher beside me. Waiting for daylight and an armed escort."}],"say":"Bcrusher, it is night, so I am staying 
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1066}}],"say":"Lewis, thank you. Walking with you to Beverly's bed now. Stay close."}
+- 05:00 act: {"actions":[{"do":"note","text":"At east beds 444,107,-1065 with Lewis (armed). Beverly not in sight yet. Holding potatoes for her."}],"say":"Beverly, Billy is at your bed with potatoes and Lewis is w
+- 05:01 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":8}],"say":"Bcrusher, you say health 7.3, so you are the weakest here. I give you 8 potatoes now. Eat them."}
+- 05:01 act: {"actions":[{"do":"note","text":"Gave 8 potatoes to Bcrusher (health 7.3). Holding 5 for Beverly, who is not yet in sight. Lewis armed at my side."}],"say":"Laforge and Riker, I have 5 potatoes left f
+- 05:05 act: {"actions":[{"do":"note","text":"Day 838 morning, thunder. At east beds with Lewis and Bcrusher. Holding 5 potatoes for Beverly, still out of sight. Laforge is fed, so Beverly first."}],"say":"Laforge
+- 05:05 act: {"actions":[{"do":"note","text":"Bcrusher holds 20 potatoes and waits to eat at hunger 6. Beverly still not in sight. I keep my 5 for whoever is hungry."}],"say":"Bcrusher, thank you. Then please walk
+- 05:10 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}}]}
+- 05:18 act: {"actions":[{"do":"note","text":"Daylight at the east beds. Beverly still not in sight. Holding 5 potatoes for her; Laforge and Riker report no food."}],"say":"Morning. I hold 5 potatoes for Beverly. 

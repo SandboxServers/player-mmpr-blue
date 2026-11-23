@@ -1,7 +1,7 @@
-# Handoff, day 833 (dusk)
+# Handoff, day 838 (dusk)
 
-Billy is alone at the potato patch 470,106,-1072, health 18, hunger 17, holding 25 potatoes and 2 poisonous potatoes. Not sheltered; no blocks to wall in.
-Beds: 415,107,-1036 and 415,107,-1037 (spawn), 443,107,-1064 and 443,107,-1065 (east, Bcrusher and Beverly there), 413,107,-1041 and 413,107,-1042 (Zack's bed).
-Beverly is weakest (health 7.3 at bed 443,-1065, reported by Bcrusher).
-Rule: walk only in daylight with an armed escort in sight. No walk at night.
-Next: at first light, if an armed friend is in sight, walk to bed 443,-1065 and hand potatoes to Beverly first. Otherwise hold and wait.
+Billy at the east beds, 444,107,-1063. Health 18, hunger 17. Not enclosed. Lewis (armed, wooden sword) and Bcrusher beside me.
+Holding 5 potatoes and 2 poisonous potatoes. Bcrusher holds about 20 potatoes (he gave me none back; I gave him 8 for his health 7.3).
+Beverly has not come into sight at her bed 443,107,-1065. Her potatoes still wanted for her first.
+Bed `use` still fails here ("that block is a bed"), so no sleep in a bed yet. Night coming: stay with Lewis and Bcrusher, do not walk in the dark.
+Next at first light: if Beverly is in sight, give her the 5 potatoes. Then Laforge and the rest as they name hunger.
