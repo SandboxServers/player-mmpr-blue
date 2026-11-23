@@ -1,7 +1,7 @@
-Handoff, day 844 (night)
+Handoff, night of day 847
 
-At east bed 444,107,-1064, sheltered, nobody with me in sight. Health 20, hunger 16.
-Pack: 4 potato, 2 poisonous_potato. No sword.
-Lewis died at 451,107,-1065 in the dark (sword, leather, boat there). Potato walk cancelled.
-Beverly holds 20 potatoes at 429,107,-1063, health 7.3. Riker and Jason near the row.
-Next at dawn: check status, ask who is hungry, no walk until full daylight and named escorts who stay in sight.
+Sleeping at east bed 443,107,-1064 (I stand at 444,107,-1064). Health 20, hunger 20. No weapon.
+I hold 10 potatoes for Troi and Leonardo. Said so aloud; nobody came yet.
+Bcrusher holds 10 potatoes at his bed, for himself at hunger 6 or below, and for Troi and Leonardo first if they are lower.
+Beverly was given 10 earlier via Bcrusher. Ripe potatoes at 464-468,107,-1073..-1075 are unclaimed. No walk without an armed escort in sight.
+Next at dawn: status, look, hand the 10 to Troi and Leonardo when they are in sight, check chest 447,107,-1079 for a weapon.

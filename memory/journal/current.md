@@ -155,3 +155,43 @@
 - 07:05 act: {"say":"Beverly, thank you. Since you hold 20 potatoes, my 4 go to whoever is hungriest after you. I will walk to the potato patch only in full daylight with named escorts. Who can come with me? I hav
 - 07:05 act: {"say":"Lewis, yes, thank you. Come to me at the east beds. We go to the potato patch together in daylight, and I will bring food back for whoever is weakest. Zack or Jason to join us if they are near
 - 07:12 act: {"say":"Lewis, I am sorry. Stay by the beds in sight. No walk to the potatoes today. Everyone hold at the east beds until I say otherwise. Riker, Jason, Beverly: keep to the row.","actions":[{"do":"go
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}}],"say":"Something is shooting at me. I am moving to the beds.","intent":{"goal":"reach_beds_safe","program":"travel","arguments":{"target
+- 07:13 act: {"actions":[{"do":"eat"}],"say":"Something unseen is shooting me at the east beds, health 8. Any armed friend, come to 443,-1063 now. Beverly, Bcrusher, Lewis, stay near me."}
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1066}}],"say":"Pillager to my southeast with a crossbow. I am leaving west, away from it."}
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1070}}],"say":"Pillager closing from the southeast. I have no sword. Running west to 418,-1070. Anyone armed, come to me."}
+- 07:13 act: {"actions":[{"do":"attack","target":"pillager"},{"do":"attack","target":"pillager"}],"say":"Pillager is two blocks east of me. I am fighting it. Anyone armed, help me now."}
+- 07:13 act: {"actions":[{"do":"eat"}],"say":"Pillager lost me for now. I am at 412,-1055, health 6, resting. Anyone armed near the beds, tell me where you are.","intent":{"goal":"recover_here","program":"rest","a
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1075}}],"say":"Pillager still hunting me, 7 blocks east. Running west to 398,-1075."}
+- 07:13 act: {"actions":[],"say":"Thank you, Wesley and Laforge. Stay at the row. I am at 398,-1074, away from the pillager, health 5, holding still. I have no good food; I will eat the rotten flesh only if my hun
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":382,"y":107,"z":-1076}}],"say":"Pillager closing from the southeast. I am running west. Health 2.","intent":{"goal":"escape_pillager_west","program":"travel","ar
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1066}}],"say":"I died once and woke at the row with nothing. Running northeast from the pillager now.","intent":{"goal":"reach_east_beds","progr
+- 07:15 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Lewis, thank you. I died twice to the pillager and woke here with nothing. Going to bed now.","intent":{"goal":"sleep_s
+- 07:15 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Bcrusher, thank you. I am trying the other bed here, staying in the row, unarmed."}
+- 07:15 act: {"actions":[{"do":"sleep"}]}
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":456,"y":107,"z":-1066}}],"say":"Pillager is 5 blocks from me. Moving east, away from it.","intent":{"goal":"get_clear_of_pillager","program":"travel","arguments"
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":464,"y":107,"z":-1067}}],"intent":{"goal":"keep_clear_east","program":"travel","arguments":{"target":{"x":464,"y":107,"z":-1067}},"wake_on":["directly_addressed"
+- 07:19 act: {"say":"Billy here at the row, empty-handed, health 20. Is anyone armed with a sword or bow? I will hold still by the beds until morning.","intent":{"goal":"hold_by_row_until_dawn","program":"rest","a
+- 07:20 act: {"say":"Morning. Billy, empty-handed. I will check the chest at 447,107,-1065 for a tool first, then we walk to the potatoes together in daylight.","actions":[{"do":"goto","target":{"x":446,"y":107,"z
+- 07:20 act: {"say":"Morning. Lewis, please walk to me here at 445,-1065 with your sword, daylight. Jason and Riker, come too. We go together to the potatoes at 470,107,-1070, and Beverly gets a share if she hunge
+- 07:21 act: {"say":"Lewis, I will fetch your sword from 451,107,-1065 now, six blocks east, in daylight. Riker, come with me. Then I bring it back to you.","intent":{"goal":"recover_lewis_sword","program":"travel
+- 07:21 act: {"intent":{"goal":"recover_lewis_sword","program":"travel","arguments":{"target":{"x":451,"y":107,"z":-1065}},"wake_on":["unexpected_damage","goal_completed","precondition_failed","directly_addressed"
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":451,"y":107,"z":-1065}}]}
+- 07:21 act: {"say":"Lewis, I stood at 451,107,-1065 and found no sword in my hands, so someone may have taken it or it is out of reach. Potatoes are ripe at 463-467,107,-1073..-1075 in daylight. Jason, Riker, Lew
+- 07:23 act: {"say":"Thank you, Bcrusher. I have no weapon, so I will not walk to the potatoes alone. If anyone with a sword comes to the row, I will go with you in daylight.","actions":[{"do":"note","text":"Midda
+- 07:24 act: {"say":"Riker, thank you. I will look in the chest here for tools, and if I find a weapon I will call you.","actions":[{"do":"goto","target":{"x":448,"y":107,"z":-1065}},{"do":"open","at":{"x":447,"y"
+- 07:28 act: {"say":"Named daylight walk: Lewis and Jason, come to the chest at 449,107,-1065 with swords. Then we walk to the ripe potatoes at 464-468,107,-1073. Others, hold until they arrive.","actions":[{"do":
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1064}},{"do":"use","at":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Billy: night. Going to the east bed 443,107,-1064 to sleep, unarmed.
+- 07:33 act: {"say":"Riker, good morning. Hold here with me. No walk until Lewis or Jason is in sight with a sword. Then we go to the potatoes together.","actions":[]}
+- 07:41 act: {"say":"Row: Lewis has no sword and Jason is not in sight, so no potato walk yet. Bcrusher holds 20 potatoes for Worf and Beverly. Hold at your beds; I stay at 444,107,-1063.","actions":[]}
+- 07:45 act: {"actions":[{"do":"sleep"}],"say":"Billy: night on day 846. Trying to sleep here at 444,107,-1063 with Riker in reach. Holding until dawn."}
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1065}},{"do":"open","at":{"x":447,"y":107,"z":-1065}}],"say":"Morning, row. Billy: no sword on me. Checking chest 447,107,-1065 for a weapon, th
+- 07:48 act: {"actions":[],"say":"Billy at chest 445,107,-1065, daylight, unarmed, no pack. Lewis: come to me with your wooden sword. Then we walk to the potatoes together."}
+- 07:54 act: {"actions":[],"say":"Billy: Bcrusher, bring the 20 potatoes to the chest at 445,107,-1065 in daylight. Beverly first, then Troi and Leonardo. I hold here."}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Billy: night again, thunder. Going to the east beds to sleep. Bcrusher, potatoes to the chest at dawn."}
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1065}}],"say":"Morning, row. Bcrusher, bring the potatoes to this chest at 445,107,-1065 now, it is daylight and close. Beverly first. I hold he
+- 08:04 act: {"actions":[{"do":"withdraw","at":{"x":447,"y":107,"z":-1065},"item":"potato","count":20}],"say":"Thank you, Bcrusher. I take the potatoes from the chest. Beverly first, then Troi, Leonardo, Worf."}
+- 08:04 act: {"actions":[],"say":"I hold 20 potatoes at the chest. Beverly, come to me at 445,107,-1065 and I will give you the first ones. Troi and Leonardo next."}
+- 08:05 act: {"actions":[],"say":"Morning, Lewis. I hold 20 potatoes at 445,107,-1065. Beverly, Troi, Leonardo: come here and I will give them out. Nobody walks alone."}
+- 08:08 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":10}],"say":"Bcrusher, 10 potatoes for Beverly at your bed, now. I keep 10 for Troi and Leonardo."}
+- 08:09 act: {"actions":[{"do":"note","text":"Holding 10 potatoes for Troi and Leonardo. Bcrusher has his 10 at his bed for hunger 6 or below."}],"say":"Troi, Leonardo: I hold 10 potatoes for you. Come to me at 44
+- 08:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}]}
