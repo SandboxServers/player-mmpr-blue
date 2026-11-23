@@ -149,3 +149,5 @@
 - 06:57 say: {"text":"Beverly, I am in your reach. Please give me 5 potatoes. Thank you."}
 - 06:58 say: {"text":"Lewis, I am at 443,107,-1063 by Beverly's bed. Walk here in daylight; I will wait."}
 - 06:59 act: {"actions":[{"do":"eat"}],"say":"Thank you, Beverly. I am eating one now and will keep the rest for when I am low."}
+- 07:03 act: {"say":"Night, row. Billy here at 443,107,-1063, health 20, hunger 16. Holding by the beds until dawn. Beverly, eat when you are at 6 or below.","intent":{"goal":"hold_at_beds_until_dawn","program":"r
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Billy: night, row. Trying to sleep in the bed at 443,107,-1064, Bcrusher beside me. Good night."}
