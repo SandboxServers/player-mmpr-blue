@@ -52,3 +52,4 @@
 - 12:43 act: {"actions":[{"do":"note","text":"Zack at 418 out of my sight, hunger 18. Dusk now, not walking in the dark. Holding potatoes at bed 429,107,-1049; will give at daylight or when they come to the row."}
 - 12:44 act: {"actions":[{"do":"note","text":"Night day 860: sheltered at bed 429,107,-1049. Handoff written. Sleeping. Worf first at first light."}]}
 - Day 860 night: slept at bed 429,107,-1049. Holding 10 potatoes, health 20, hunger 20, unarmed. Worf (hunger 11) first at first light, then Zack, then Beverly, Leonardo and Trini. Walk to potato patch only in daylight with Jason in sight.
+- 12:45 say: {"text":"Good night, Bcrusher and Zack. I hold 10 potatoes; Worf first at first light, then Zack, Beverly, Leonardo and Trini."}
