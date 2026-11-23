@@ -1,7 +1,8 @@
-Handoff, day 865 dusk
+Handoff, day 867 dusk
 
-Going to bed beside bed 429,107,-1051 (I stand at 430,107,-1051). Health 20, hunger 20, holding 8 potatoes, unarmed, not in danger.
-Owed in order: Worf 5, Zack 3. Jason, Zack and Worf wait near 417-419,107,-1050 but are not in my agent list yet. Then Beverly, Trini, Troi, Jason 1, Kimberly 2 rotten flesh at hunger 6 or below.
+Standing at 423,107,-1050, unarmed, health 20, hunger 20, holding 8 potatoes. Not in danger, not enclosed.
+Bed is at 429,107,-1051 (stand at 430,107,-1051). Walking is not allowed at dusk without an armed friend in daylight, so I stay here tonight unless someone armed is in sight.
+Owed in order: Worf 5 potatoes (he said he went back to his bed at 416,107,-1050; not in my list), Zack 3. Then Beverly and Trini via Bcrusher's row, Troi, Jason 1, Kimberly 2 rotten flesh at hunger 6 or below.
+Gives to Worf failed three times earlier; do not give to Worf again. Zack's give failed this morning; one more give only when he is in my agent list.
+Laforge is 4.5 blocks off with no food. Tommy, Kimberly, Riker and Troi wait for a named daylight walk.
 Walk only in daylight with an armed friend in sight. Sword and tools only with an armed group in daylight.
-First step at first light: wait until Worf or Zack appears in my agent list, then give once. Do not repeat a failed give a fourth time.
-Riker, Laforge and Lewis are holding by their beds for my named call; none is in my agent list.

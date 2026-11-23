@@ -143,3 +143,16 @@
 - 14:07 act: {"say":"Jason, Zack, Worf: it is going dim and there is thunder, so I will not walk the 13 blocks now. I am at 430,107,-1051 by the bed. Come to my sight and I give Worf 5 and Zack 3 at once; otherwis
 - 14:08 act: {"say":"Riker, I have seen no sheep or sword material yet. I hold 8 potatoes by the bed at 430,107,-1051 and wait for first light to feed Worf and Zack."}
 - 14:16 act: {"actions":[{"do":"sleep"}]}
+- 14:18 act: {"actions":[{"do":"sleep"}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Morning. I walk to you now in daylight to hand over Worf's 5 and Zack's 3.","intent":{"goal":"feed_row_potatoes","program":"trave
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Billy here at 421,107,-1050. I cannot see Worf or Zack yet. Jason, I am coming toward you in daylight."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Coming to you, Jason. Billy at 421,107,-1050, unarmed, 8 potatoes in hand."}
+- 14:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Worf, 5 potatoes, given."}
+- 14:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}]}
+- 14:29 act: {"actions":[{"do":"note","text":"Day 866 afternoon. No agents in sight. Worf says his pack shows no potatoes. Holding 8 potatoes; will give once a named person is in sight."}],"say":"Billy here, at 42
+- 14:30 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}]}
+- 14:38 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":5}],"say":"Morning, row. Billy at 423,107,-1050 with 8 potatoes. Worf, I am trying your 5 now. Zack, Jason, Troi, Laforge, step into 
+- 14:38 act: {"actions":[{"do":"note","text":"Day 866 midday. Third give to Worf failed: no such agent in sight. No more gives to Worf. Still 8 potatoes; nobody in my agent list."}],"say":"Worf, my third try at yo
+- 14:38 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}]}
+- 14:38 act: {"actions":[],"say":"Zack, your give failed: I can't see you in my list yet. Step into sight and I'll hand over the 3 potatoes.","intent":{"goal":"await_zack_in_sight","program":"trade_wait","argument
+- 14:39 act: {"actions":[],"say":"Zack, I'm unarmed, so I can't walk to you yet. Step toward me into my sight, and I'll give the 3 potatoes."}
