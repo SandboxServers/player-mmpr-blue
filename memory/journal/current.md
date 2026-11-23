@@ -40,3 +40,4 @@
 - 22:45 say: {"text":"Morning, day 891. Billy here, sword in hand, daylight, Trini and Kimberly in sight. Bcrusher, eat from your own 10 now, and hand Zack's and Worf's shares when they are in sight. I hold 2 for 
 - 22:47 act: {"say":"Heard you, Bcrusher. Billy here with the sword. Hand Worf's 5 when he is in sight. I hold 2 for Worf.","intent":{"goal":"hold_at_row_for_worf","program":"rest","arguments":{},"wake_on":["direc
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 22:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}}],"say":"Billy here, night. Staying in the white bed with Trini and Kimberly near. No walk until daylight; Worf and Zack get their potatoe
