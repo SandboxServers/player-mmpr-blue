@@ -22,3 +22,8 @@
 - 05:05 act: {"say":"Billy here at 418,107,-1053, unarmed, no food. I cannot see Worf or Zack yet. Please step into my sight and I will fall in at the back.","actions":[]}
 - 05:06 act: {"say":"Worf: I have no food to hand over, my pack is empty. I hold here at 418,107,-1053 until you name the next step.","actions":[]}
 - 05:09 act: {"say":"Leonardo, Billy here by your bed. I am taking the bed at 415,107,-1037 for the night, in your sight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 05:11 act: {"say":"Billy here at bed 416,107,-1037, health 20, hunger 20, pack empty. I am holding for the night beside Leonardo. Thank you all; at first light I will follow Worf's word.","actions":[]}
+- 05:12 act: {"say":"Worf: Billy has no potatoes, my pack is empty. I hold at 416,107,-1037 by Leonardo. Name the walk when you are ready and I will follow at the back in your sight.","actions":[]}
+- 05:14 act: {"say":"Worf, Billy here, no food. I will walk at the back to the cows if you keep me in sight. I can't see you yet from 416,107,-1037, so please step into view.","actions":[]}
+- 05:14 act: {"say":"Billy here, unarmed, no food, at 416,107,-1037. Worf, I hear you at 415,107,-1047. Jason is not walking, so I will hold here and not follow the cow walk alone. Lewis, I hold with you. Tell me 
+- 05:21 act: {"say":"Billy: I am unarmed and do not trust the route east to the potatoes, which was blocked before. Whoever holds a weapon, lead it. I will follow at the back in sight.","actions":[]}

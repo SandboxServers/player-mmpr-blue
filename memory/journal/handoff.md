@@ -1,6 +1,7 @@
-Handoff, night day 910.
-Died at 418,107,-1053 (struck by something, cause unseen). Respawned at 416,107,-1037 beside Leonardo, health 20, hunger 20, pack empty. Riker is ALIVE (day 975 death record was stale; he was at bed 430,107,-1065 last heard).
-Group: Zack, Worf, Jason, Tommy, Leonardo nearby around the row beds. Walk to potatoes (463-467,107,-1073..-1076) was blocked; hold until Worf names a walk, in daylight only.
-Owed: Zack and Worf (potatoes). Pay when I have food.
-Beds refused earlier: 413,107,-1041/-1042; 415,107,-1036/-1037; 429,107,-1050/-1051. Untried: 443,107,-1050/-1051; 443,107,-1036/-1037; 401,107,-1037/-1036.
-Dead: Bcrusher (day 467), Kimberly (day 466), Jason's sign from day 466 (not Jason's death; sign reads ag_jason_01 day 466, treat as old).
+Handoff, dusk day 910.
+Billy at 416,107,-1037, health 20, hunger 20, unarmed, pack empty, no food. Not enclosed, next to bed 415,107,-1037.
+Worf at bed 416,107,-1050 with Wesley and Troi nearby; going to sleep, no walk tonight. Leonardo at health 1 near 416,107,-1023. Zack and Jason at 418,107,-1051. Lewis trying bed 429,107,-1037. John at 430,107,-1023. Data at 402,-1023.
+No walk named. I am unarmed and do not trust the route east to potatoes at 463-467,107,-1073 (last walk blocked). Lead needs an armed person.
+Owed: Worf and Zack (potatoes), pay when I have food.
+Beds: 415,107,-1037 refused earlier; untried 443,107,-1050/-1051, 443,107,-1036/-1037, 401,107,-1037/-1036.
+Dead: Bcrusher (day 467), Kimberly (day 466).
