@@ -1,1 +1,4 @@
-Handoff, day 894 dusk. Standing at 415,107,-1039 beside white bed 415,107,-1037, on grass, not enclosed. Health about 15, hunger 17. Holding 1 potato for Worf (not in sight at last check), wooden sword in pack. Worf, Jason and Zack are near bed 416,107,-1050; the direct route from 417,107,-1046 is blocked. Do not walk south-west. Owed: Beverly first if seen, then Worf 5, Zack 3, Jason 1. Next: sleep in the bed. At morning, wait for Worf or Leonardo in sight, say the plan aloud, then give the potato. Walk to chest 447,107,-1065 only in daylight with an armed friend in sight.
+Handoff, day 898 night. I died to a pillager near 423,107,-1048 after the potato give to Jason failed. I respawned at the bed row 416,107,-1037 with nothing in hand or pack. My wooden sword lies at 423,107,-1048, under pillager fire, so leave it until daylight with an armed friend in sight.
+Potato: gone, Leonardo holds one for Worf. Owed food: Zack, Wesley and Tommy are hungry. Jason and Worf are fed.
+Pillager is south and south-west of the bed row. Do not walk south at night.
+Next at first light: wait for someone in sight, say my state aloud, and take food or a sword only when it is safe.

@@ -96,3 +96,47 @@
 - 00:13 act: {"actions":[],"say":"Worf, I am at 417,107,-1053 in daylight and can't see you yet. Holding your potato. Step into view and I will give it."}
 - 00:14 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1051}}],"say":"Coming closer to you now, Worf."}
 - 00:16 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"It is dusk. Going to the white bed at 413,107,-1042 to sleep now, with Zack nearby."}
+- 00:17 act: {"say":"Leonardo, I am going to bed here by the row. I still hold my potato for Worf.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}]}
+- 00:17 act: {"actions":[{"do":"sleep"}]}
+- 00:18 act: {"say":"Morning, Leonardo. Yes, walk with me. Billy with my wooden sword and one potato, going to Worf at 416,107,-1050 in daylight. Stay in my sight.","actions":[{"do":"goto","target":{"x":416,"y":10
+- 00:18 act: {"say":"Billy at 417,107,-1046 in daylight, sword in pack, one potato. Worf, Leonardo, Jason: I cannot see you. Step into my sight and I will hand the potato to Worf.","actions":[]}
+- 00:20 act: {"say":"Worf, I am coming to you now at 416,107,-1050 in daylight. Holding the potato for you.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}]}
+- 00:20 act: {"say":"Jason, Worf: I am at 413,107,-1049 in the morning sun, potato in hand for Worf. The way to your bed is blocked from here. Walk to me or tell me a clear path.","actions":[]}
+- 00:21 act: {"say":"Jason, I cannot see you from here. Worf, if you can see me, step one block north toward me and I will hand the potato over.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 00:22 act: {"say":"Tommy, I cannot see you. Worf, Jason, Zack, Tommy: I hold at 413,107,-1049 with the potato for Worf. Step into my sight and I come to you.","actions":[]}
+- 00:22 act: {"say":"Worf, I see you coming. Here is your potato.","actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 00:22 act: {"say":"Worf, the give failed: you are not in my sight. Zack, Troi: Beverly is the weakest, and I will give to her first when she is in my sight. I still hold at 413,107,-1049.","actions":[]}
+- 00:25 act: {"say":"Leonardo, Billy here at 413,107,-1049. I still hold the one potato. Beverly first when she is in my sight, then Worf. I am standing still and I can see no one yet.","intent":{"goal":"hold_for_
+- 00:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, I can see no one at 416,107,-1049 yet. If you are in my sight, I am trying the potato now. Beverly still comes first
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. Billy goes to the bed at 413,107,-1041 now. I still hold the potato for Beverly, then Worf, at first light."}
+- 00:30 act: {"say":"Morning. Billy at bed 413,107,-1041, holding the potato. Worf, Leonardo: step into my sight and I give it to Beverly if she is in sight, else to Worf. I hold still until I see you."}
+- 00:34 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Leonardo, Billy at 402,107,-1037, morning light, walking toward you now. Beverly first when she is in sight, then Worf at 416,107,-1049."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1037}}],"say":"Walking east in daylight toward the row, to 409,107,-1037. Potato still held for Beverly, then Worf."}
+- 00:35 act: {"actions":[],"say":"Billy at 409,107,-1036, in the row, potato in hand. Beverly is not in my sight. Worf, step toward me into view and I give it to you now. An enderman is 15 blocks southwest, so I s
+- 00:38 act: {"actions":[],"say":"Billy holding still at 409,107,-1036. Hostile pillager with a crossbow 24 blocks north at 415,-1059. Leonardo, come in by the south side of the row, and keep the bed between you a
+- 00:40 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1036}}],"say":"Billy moving east 3 blocks to 412,107,-1036, toward Leonardo's bed, in daylight. Leonardo, I am coming into view now."}
+- 00:40 act: {"actions":[],"say":"Billy at 412,107,-1035, in the open, dusk coming. Still holding the potato for Beverly, then Worf or Leonardo. Anyone who sees me, step in and call out."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. Billy walking to the bed at 413,107,-1041 to sleep. Potato still held for Beverly first."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Going to bed now for the night."}
+- 00:42 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, I hold the potato for Beverly first. I am sleeping by the row now."}
+- 00:46 act: {"actions":[],"say":"Morning, day 897. Billy at bed 416,107,-1037 with one potato. Beverly, step into my sight and I give it to you first. Worf next."}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1047}}],"say":"Walking south toward Worf's bed, in daylight, potato in hand."}
+- 00:48 act: {"actions":[],"say":"Billy at 415,107,-1045, in the open, daylight. Worf, Beverly, I see no one yet. Come into view and I hand over the potato."}
+- 00:51 act: {"say":"Leonardo, I am here at 415,107,-1045 in daylight, out in the open. Come into my sight and I will give you the potato if Beverly and Worf are not near.","actions":[]}
+- 00:51 act: {"say":"Wesley, I hear you. Nothing shows in my sight yet. Beverly is first for the potato, then Worf. Stay near and say when you see me.","actions":[]}
+- 00:53 act: {"say":"Billy at 415,107,-1045. Beverly, Worf, Riker, Troi: no one is in my sight yet. The potato stays with me for Beverly. Dusk is near; I will go to the row beds and sleep there.","actions":[]}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Worf, Leonardo: I go to the bed at 413,107,-1040 for the night. Potato for Beverly first at first light, then Worf."}
+- 00:54 act: {"actions":[{"do":"sleep"}]}
+- 00:55 act: {"actions":[{"do":"note","text":"Dusk day 897 at 413,107,-1040. Sleep refused: not night yet. Holding potato for Beverly, waiting here."}],"say":"Billy at 413,107,-1040 by the white bed. Holding a pot
+- 00:59 act: {"actions":[{"do":"note","text":"Morning day 897. Still at 413,107,-1040. Potato held for Beverly, then Worf (walking here). Nobody in sight yet."}],"say":"Morning. Billy at 413,107,-1040. Potato wait
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1045}}],"say":"Walking to 414,107,-1045 to meet Worf and Zack in view. Potato for Beverly first."}
+- 01:01 act: {"actions":[],"say":"Billy at 414,107,-1044, in the open. Beverly, Worf or Zack: step into sight and say so."}
+- 01:01 act: {"actions":[],"say":"Zack, Worf, Bcrusher: I am in the open at 414,107,-1044, in view now. Come to me. The potato goes to Beverly first, then Worf or Zack."}
+- 01:05 act: {"actions":[],"say":"Billy still at 414,107,-1044. Beverly, come to me with the potato in mind. Worf and Zack, step into view and I give."}
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1040}},"wake_on":["goal_completed"
+- 01:11 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Going to bed here at 413,107,-1041. Holding one potato for Beverly first."}
+- 01:13 act: {"actions":[],"say":"Morning. Billy at 416,107,-1037 with one potato. Beverly first, then Worf or Zack. Step into my sight and I give it."}
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1047}}],"say":"Worf, I am coming south to you in daylight, potato in hand. Beverly is not in my sight."}
+- 01:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, you are in my sight and I owe you a share. Here is my one potato. Beverly, Worf and Zack, I am sorry it went this 
+- 01:14 act: {"actions":[],"say":"Jason, Worf, Zack, Beverly: Billy at 421,107,-1050, holding one potato. Whoever is in sight first, step to me and I give it."}
+- 01:15 act: {"say":"Billy here, respawned at the beds with nothing. My wooden sword lies at 423,107,-1048. A pillager is shooting near there, so I stay by the beds for now.","intent":{"goal":"hold_by_beds","progr
