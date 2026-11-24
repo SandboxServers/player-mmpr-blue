@@ -1,1 +1,24 @@
 # Journal
+- 04:44 act: {"say":"Billy here, health 1, hunger 17, pack empty, unarmed. Anyone with food, please give some to me when you can see me. I am at 418,107,-1053, in daylight.","actions":[]}
+- 04:45 act: {"say":"Worf, I have no potatoes left. My pack is empty; the last ones went to hunger. I am sorry. I owe Zack and you, and I will pay when I have food. I need food too: health 1.","actions":[]}
+- 04:45 act: {"say":"Zack, Worf: I am staying here by you in daylight. I will not walk alone. The ripe potatoes are at 463-467,107,-1073 to -1076. If anyone armed can walk there with me in sight, I will go and har
+- 04:46 act: {"say":"Zack, Worf: yes, I will walk with you in daylight, in each other's sight, and follow Worf's lead. I am at health 1 and unarmed, so I will stay at the back of the group and call out if I fall b
+- 04:47 act: {"intent":{"goal":"follow_worf_to_potatoes","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":
+- 04:47 act: {"say":"Worf, I could not follow; the follow ended. I am still at 418,107,-1053. I am coming now, slowly. Please wait for me in sight.","actions":[{"do":"goto","target":"ag_worf_01"}]}
+- 04:47 act: {"say":"Zack, I am at 418,107,-1053, two blocks south of you, in your sight. I will stay here until Worf is back in sight. I am not walking alone.","actions":[]}
+- 04:49 act: {"say":"Worf, I am coming to you now, to 418,107,-1051 beside Zack. Billy unarmed, hungry, health 1.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}]}
+- 04:49 act: {"say":"My step north did not move me. I am still at 418,107,-1053. Worf, Zack, if you can see me, move one step toward me and I will follow.","actions":[]}
+- 04:54 act: {"say":"Dusk. I am at 418,107,-1053, unarmed, pack empty, health 1. Zack, I am staying in your sight; I will not walk in the dark.","actions":[]}
+- 04:55 act: {"say":"Tommy, I hear you. I am still at 418,107,-1053 in the open, night has come, and I cannot see the row from here. I will hold still and not walk in the dark.","actions":[]}
+- 05:00 act: {"say":"Morning. Billy at 418,107,-1053, health 1, hunger 17, no food, unarmed. I am walking to Worf's bed at 416,107,-1050 now, to stay in your sight. Worf, name the walk and I will follow at the bac
+- 05:00 act: {"say":"Billy here, at 416,107,-1053. I cannot see Worf, Zack or Jason from here, and the way to the bed was blocked. I will not walk alone. Please step where I can see you and I will come to you.","a
+- 05:00 act: {"say":"Zack, Jason: I see you now. I am coming to you, staying in your sight. I have no food and I am weak.","actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1051}}]}
+- 05:00 act: {"say":"Billy at 419,107,-1053. The way to you is blocked and I cannot see Zack or Jason from here. I will hold still. Zack or Jason, please come one block toward me so I can see you.","actions":[]}
+- 05:01 act: {"say":"Billy: I am stepping toward you now, to 418,107,-1052. I still have no food and health 1. Once I am in sight, I will stay next to Zack and not move off alone.","actions":[{"do":"goto","target"
+- 05:01 act: {"say":"Billy at 418,107,-1053. I cannot see anyone from here now. I hold still. Call out if you can see me.","actions":[]}
+- 05:02 act: {"say":"Troi, I hear you. I feel weak: health 1, hunger 17, no food, unarmed. I am holding at 418,107,-1053 and cannot see Zack from here. I will not walk alone.","actions":[]}
+- 05:03 act: {"say":"Zack, Worf: I hold at 418,107,-1053 and will not walk until Worf names a walk. I still cannot see you from here, so if you can, step one block so I can see you.","actions":[]}
+- 05:05 act: {"say":"Worf: Billy at the back, following in your sight. Health 1, no food, unarmed. I will keep to the rear.","intent":{"goal":"follow_worf_to_potatoes","program":"follow","arguments":{"target":"Wor
+- 05:05 act: {"say":"Billy here at 418,107,-1053, unarmed, no food. I cannot see Worf or Zack yet. Please step into my sight and I will fall in at the back.","actions":[]}
+- 05:06 act: {"say":"Worf: I have no food to hand over, my pack is empty. I hold here at 418,107,-1053 until you name the next step.","actions":[]}
+- 05:09 act: {"say":"Leonardo, Billy here by your bed. I am taking the bed at 415,107,-1037 for the night, in your sight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
