@@ -80,3 +80,19 @@
 - 23:58 act: {"say":"Zack, I hear you. I am still holding my potato here for Worf; I will name a daylight walk once Worf is in sight. Leonardo, come on in."}
 - 00:04 act: {"say":"Dusk. Billy going to bed at 415,107,-1037 now, holding one potato for Worf, I will give it at morning in daylight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}]}
 - 00:04 act: {"actions":[{"do":"sleep"}],"say":"Billy going to sleep beside bed 415,107,-1037. Holding one potato for Worf, will give it at morning in daylight."}
+- 00:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk, and I am heading to my bed now. Worf, your potato is for morning, I will give it when you are in sight."}
+- 00:05 act: {"actions":[],"say":"Billy here at 430,107,-1037, still dark. I will not walk until daylight. At light, with Leonardo in sight, I walk to Worf at 416,107,-1050 and give him my potato. Beverly first if
+- 00:06 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}}],"say":"Billy in daylight, walking east to Beverly at bed 443,107,-1037 with my potato for her, she is weakest. Bcrusher, stay by her bed
+- 00:06 act: {"actions":[],"say":"Billy at 440,107,-1037. I see no one in sight yet. Beverly, Bcrusher, if you are near, call out and I will hand you the potato."}
+- 00:07 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1038}},{"do":"give","to":"Bcrusher","item":"potato","count":1}],"say":"Billy here, giving my potato to Beverly, who is at health 7. Hunger is no
+- 00:07 act: {"actions":[],"say":"Billy at 441,107,-1038. Bcrusher, Beverly, I cannot see you in sight for the give. Name yourself and I will come to you."}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1044}}],"say":"Billy walking west in daylight to the row at 416,-1050 with my potato for Worf. Beverly, call out if you are in sight."}
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1047}}],"say":"Billy at 421,-1044, nearing the row. Worf, Jason, Zack, Leonardo: I have my potato for Worf. Show yourselves and I will hand it o
+- 00:09 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Billy here, in reach now. Worf is owed my potato; where is Worf? I will hand it over when he is in sight."}
+- 00:09 act: {"actions":[],"say":"Billy here with Zack and Jason in sight. Worf, call out where you are; my potato is yours when you are in sight. Holding here in daylight."}
+- 00:09 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, Billy giving you my potato now."}
+- 00:12 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, your potato is coming to you now."}
+- 00:12 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, walking to you in daylight to hand over the potato."}
+- 00:13 act: {"actions":[],"say":"Worf, I am at 417,107,-1053 in daylight and can't see you yet. Holding your potato. Step into view and I will give it."}
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1051}}],"say":"Coming closer to you now, Worf."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"It is dusk. Going to the white bed at 413,107,-1042 to sleep now, with Zack nearby."}
