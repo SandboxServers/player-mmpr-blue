@@ -1,5 +1,6 @@
 # Picard
 
-Impression: gave me his melon on day 415, and gave me bread on day 530 when I asked by name. Counted in sight on most days.
-Owed: nothing open. Owed by him: nothing open.
-Trust: 90. Why: he gave food twice when I asked, and I promised him the next spare sword.
+Impression: gave me melon (day 415) and bread (day 530) when I asked by name. Counted in sight on most days. Named as owed a share on day 906.
+Owed by me: 1 potato, still open. I promised him the next spare sword.
+Owed by him: nothing open.
+Trust: 85 out of 100. Why: he gave food twice when I asked, but I have not yet paid him back.

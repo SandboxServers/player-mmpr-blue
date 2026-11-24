@@ -1,6 +1,6 @@
 # Beverly
 
-Impression: at her bed 443,107,-1065 on most counts; ate my offered melon on day 413. On day 846 she was hungry (hunger 16) and handed me food at her bed.
-Owed: Bcrusher holds 10 potatoes for her, to be handed at hunger 6 or below.
+Impression: weakest of the row by day 906 (health 7 on day 898). Often out of sight; I never saw a give to her land. She was at the row beds near 443,107,-1037 and 444,107,-1023.
+Owed by me: potatoes, the weakest-first share. Still open. My gives meant for her (day 892, 897) did not clearly land.
 Owed by her: nothing open.
-Trust: 70. Why: steady at her bed, but not always in sight.
+Trust: 40 out of 100. Why: she has not been in sight when I needed her, so the food promised to her has not reached her.

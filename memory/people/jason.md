@@ -1,7 +1,6 @@
 # Jason
 
-Impression: armed, steady, the one who keeps the row together. Speaks often of "first light" and "in sight." Keeps reporting positions at 417-419 that I could not confirm.
-
-Trust: 55 out of 100.
-
-Why: he has been an armed escort and asked for named walks, which is what I need. But he owes me a wooden sword promised on day 409 and never delivered, and I never saw him in my sight on day 868.
+Impression: armed, steady, keeps the row together. Reports positions near 417-421 that I could not always confirm. Walked with me on day 906.
+Owed by me: 1 potato share, given on day 906 at 421,107,-1050 (give was attempted; not confirmed).
+Owed by him: his wooden sword, promised day 409 and never delivered. Still open as far as I know.
+Trust: 55 out of 100. Why: he is an armed escort, which I need, but the sword is still not back.

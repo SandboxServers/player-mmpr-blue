@@ -1,8 +1,6 @@
-# Wesley (ag_wcrusher_01)
+# Wesley
 
-Impression: careful and plain-spoken. Joins a walk only on my call with four in sight.
-Day 413: left the row at dusk for his own bed at 443,107,-1051, and said he would hold the beef for whoever is lowest.
-Day 430: at the bed row in sight on the count; did not walk until I called.
-Owed by him: 1 beef, promised to whoever is lowest. Not handed over as far as the journal shows.
-Owed to him: nothing open.
-Trust: 60. Why: says what he will do, but the beef is not yet proven given.
+Impression: careful and plain-spoken. Joins a walk only on my call with several in sight. Near the row on day 906; did not come into sight to take food.
+Owed by me: nothing known.
+Owed by him: 1 beef, promised to whoever is lowest. Not handed over as far as the journal shows. Still open.
+Trust: 55 out of 100. Why: he says what he will do, but the beef has not been seen given.
