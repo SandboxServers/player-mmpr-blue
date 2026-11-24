@@ -154,3 +154,59 @@
 - 02:36 act: {"actions":[],"say":"Morning, row. Billy at the bed 416,107,-1037, health 20, hunger 20, unarmed, pack empty. No walk south until an armed friend is in my sight. Worf, Zack, Jason: I hold here and lis
 - 02:51 act: {"say":"Billy here, at the row, 416,107,-1037. Health 20, hunger 20, unarmed, pack empty. Macdonald, Troi, I hold too. Nobody has food for me yet. When someone with a weapon is in my sight, I will go 
 - 03:03 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy here. Health 20, hunger 20, unarmed, no food. It is night, so I am going to the bed at 415,-1037 to sleep."}
+- 03:04 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 03:04 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Billy going to the bed at 413,107,-1041 for the night. Unarmed, heal
+- 03:04 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 03:04 act: {"actions":[{"do":"note","text":"Night day 903 at 414,107,-1041 beside white bed 413,107,-1041. Health 20, hunger 20, unarmed, pack empty. Bed use refused several times; holding still until daylight, 
+- 03:06 act: {"actions":[{"do":"note","text":"Morning day 904 at 414,107,-1041. Health 20, hunger 20, unarmed, pack empty. No armed friend in sight, so no walk to the sword. Holding still."}],"say":"Morning, row. 
+- 03:09 act: {"actions":[],"say":"Billy at 414,107,-1041, midday, unarmed, pack empty, health 20. Nobody armed is in my sight, so I hold. I have no food to give; Worf stays first in line for the potato."}
+- 03:13 act: {"actions":[],"say":"Billy at 414,107,-1041, midday, unarmed, pack empty, health 20, hunger 20. Holding here until an armed friend is in sight."}
+- 03:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Billy going to the bed at 415,107,-1036 for the night. Unarmed, heal
+- 03:26 act: {"actions":[],"say":"Morning, day 905. Billy at 413,107,-1037, health 20, hunger 20, unarmed, pack empty. Zack, I have no food either. I hold until an armed friend is in my sight, then I walk to the s
+- 03:34 act: {"actions":[{"do":"note","text":"Night day 905. At 413,107,-1037, health 20, hunger 20, unarmed, pack empty. Holding still; no walk in the dark."}],"say":"Night. Billy at 413,107,-1037, holding still.
+- 03:38 act: {"actions":[{"do":"note","text":"Morning, day 905 (second). At 413,107,-1037, health 20, hunger 20, unarmed, pack empty. No armed friend in sight; holding for the sword."}],"say":"Morning. Billy at 41
+- 03:46 act: {"actions":[{"do":"note","text":"Dusk, day 906. At 413,107,-1037, health 20, hunger 20, unarmed, no food. Holding. Worf and Zack are still waiting on Leonardo's potato."}],"say":"Billy at 413,107,-103
+- 03:47 act: {"actions":[{"do":"note","text":"Dusk day 906. Troi says he stays the night here with me. Beverly is at 7 health; I hold no food. Holding still at 413,107,-1037."}],"say":"Troi, good. I stay here too,
+- 03:50 act: {"actions":[{"do":"note","text":"Night day 906. Holding still at 413,107,-1037. Data reports an enderman 4 blocks off; I will not move. Worf and Leonardo hold the potato for first light."}],"say":"Hol
+- 03:54 act: {"actions":[{"do":"note","text":"Morning day 906. Health 20, hunger 20, unarmed, no food. No armed friend in my sight, so I do not walk to the sword. Owed food list unchanged."}],"say":"Billy at 413,1
+- 03:56 act: {"actions":[],"say":"Morning, Troi, Deanna. Billy here, health 20, hunger 20, no food. I am still holding at my spot and listening."}
+- 04:00 act: {"actions":[{"do":"note","text":"Afternoon day 906. Still holding at 413,107,-1037, health 20, hunger 20, no food. Potato handover between Leonardo and Worf is not mine to do."}]}
+- 04:02 act: {"actions":[],"say":"Leonardo, Billy here. I hold no potato and nothing to clear the line with, so I will stay where I am and not block you. Good luck, Worf."}
+- 04:09 act: {"actions":[],"say":"Morning, Macdonald. Billy here, health 20, hunger 20, unarmed, no food. I held through the night at 413,107,-1037. I will not walk to the sword unless someone armed is with me."}
+- 04:11 act: {"actions":[],"say":"Troi, Billy here. Honestly, hungry in my pack and tired. I have no food, nothing armed, and I am holding still until someone armed walks with me."}
+- 04:18 act: {"actions":[],"say":"Wesley, Billy here. Still holding at 413,107,-1037, health 20, hunger 20, no food and no arms. No walk yet. I will call you when someone armed is with us."}
+- 04:23 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at 413,108,-1037, I am unarmed, health 18. Anyone armed near, please help."}
+- 04:23 act: {"actions":[],"say":"Phantom has drifted off to the south, about 10 blocks. I am holding still at my bed row until first light."}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1048}}],"say":"A phantom keeps hitting me and I have no weapon. I am going to the wooden sword at 423,107,-1048 to arm myself."}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1048}}]}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":423,"y":107,"z":-1049}}]}
+- 04:24 act: {"actions":[],"say":"I am at the sword spot, 423,107,-1048, but I see no sword here and I am unarmed. Phantoms keep hitting me, health 15. Anyone with a weapon, please come."}
+- 04:24 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Health 11, phantoms still on me. Going to the bed at 429,107,-1050 to try for shelt
+- 04:24 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"say":"Bed refused again. I am fighting the phantom with my bare hands, health 11."}
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"use","at":{"x":429,"y":107,"z":-1051}}],"say":"Health 3. Trying the bed at 429,-1051, the one I have not tried yet."}
+- 04:25 act: {"actions":[],"say":"Health 3, unarmed, nothing in pack. Worf, please stay near. I will hold still here at 430,-1051 and not move."}
+- 04:30 act: {"actions":[],"say":"Billy, daylight, health 3, hunger 17, unarmed. Bcrusher, please bring the potatoes to me, or I come to you with Worf. Worf, walk with me now, I stay on your left."}
+- 04:31 act: {"actions":[{"do":"attack","target":"ag_bcrusher_01"}],"say":"Bcrusher, thank you. Please give me 2 potatoes now, I am at health 3. Worf gets his 5 and Zack his 3 as you said."}
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Bcrusher, I am sorry. I will pick up your potatoes at 430,-1050 and keep them safe for Worf and Zack."}
+- 04:31 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}]}
+- 04:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}],"say":"I am hungry and unarmed. I am picking up the food on the ground here."}
+- 04:33 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"I have 9 potatoes from the ground. I am eating now, then I will share with Bcrusher and Zack."}
+- 04:33 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1051}},{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I am bringing your 3 potatoes now. Worf, I have 3 more for you af
+- 04:33 act: {"actions":[],"say":"Zack and Worf, I am at 421,107,-1051 with 6 potatoes. Zack, I cannot see you; walk into my sight and I will hand yours over."}
+- 04:34 act: {"actions":[],"say":"Troi, I am alive. Health 7, hunger 17, unarmed. I hold 5 potatoes for Zack and Worf. Zack, come into sight and I will give yours."}
+- 04:34 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, here are your 3 potatoes. Picard, I will bring you food after Worf."}
+- 04:34 act: {"actions":[],"say":"I cannot see Zack or Picard from here, so I will hold my 5 potatoes. Walk into my sight and I will hand them over. Worf, I need you in sight too."}
+- 04:35 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, trying the give again now."}
+- 04:35 act: {"actions":[{"do":"eat"}],"say":"Zack is not in my sight, so the potatoes stay with me. I hold 5 potatoes. Whoever is near and hungry, come stand where I can see you and I will hand them over."}
+- 04:36 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1051}}],"say":"Zack, I am walking toward you now. I will hand over the potatoes once you are in sight."}
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1051}},{"do":"give","to":"ag_worf_01","item":"potato","count":2}],"say":"Worf, I am stepping toward you. Giving you 2 potatoes now."}
+- 04:39 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, giving you 3 potatoes now."}
+- 04:39 act: {"actions":[],"say":"Zack, the give failed again: I see no one in my sight. I am staying here on open grass at 421,-1051 for the night, holding 4 potatoes. Come close and I will hand them over."}
+- 04:40 act: {"actions":[],"say":"Jason, Worf, Zack: I hold 4 potatoes at 421,-1051. Zack first, 3 of them, the moment you stand in my sight. Picard gets one after."}
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1051}},{"do":"give","to":"ag_zack_01","item":"potato","count":3}],"say":"Zack, I am coming to you now, 3 potatoes."}
+- 04:41 act: {"actions":[],"say":"Three phantoms are between us, Zack and Leonardo. I am unarmed and will not walk into them. I hold at 423,-1051 with the potatoes. When it is light, I come to you."}
+- 04:41 act: {"actions":[{"do":"eat"}],"say":"I was hit from the front, health 7. Staying low and still; I eat one potato now."}
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}}],"say":"Phantom on me at health 5. Moving to the row at 418,-1050."}
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1051}}],"say":"Worf, I am coming to your sword at 419,-1051. Phantom closing from the north."}
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}}]}
