@@ -152,3 +152,5 @@
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy here at the bed row, dusk. Health 20, hunger 20, unarmed, no food. Going to bed for the night; will look for food and an ar
 - 02:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
 - 02:36 act: {"actions":[],"say":"Morning, row. Billy at the bed 416,107,-1037, health 20, hunger 20, unarmed, pack empty. No walk south until an armed friend is in my sight. Worf, Zack, Jason: I hold here and lis
+- 02:51 act: {"say":"Billy here, at the row, 416,107,-1037. Health 20, hunger 20, unarmed, pack empty. Macdonald, Troi, I hold too. Nobody has food for me yet. When someone with a weapon is in my sight, I will go 
+- 03:03 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
