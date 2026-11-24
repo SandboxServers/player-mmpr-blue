@@ -1,9 +1,8 @@
-# Goals, ranked (day 895, dusk)
+# Goals, ranked (day 898, dusk, after death)
 
-1. Stay alive. Never be out in the dark, in thunder, or alone. Keep an armed friend in sight whenever I move. Sleep in a white bed near the row each night.
-2. Feed the row, weakest first. Beverly (health 7.3) is now most urgent; she holds 10 potatoes at bed 443,107,-1037. Worf could not be reached in sight today, so I hold my potato for him until he is in view, then give it to whoever is lowest in sight.
-3. Walk to the row only in daylight, with an armed friend in sight. Say the route aloud first. Worf and the row are close enough to reach by walking, but my goto toward Worf changed nothing, so approach slowly and check sight before each give.
-4. Recover a sword and tools from chest 447,107,-1065 or from Lewis's wooden sword at 451,107,-1065.
-5. Sleep each night in a white bed near the row (413,107,-1042 or 443,107,-1065).
+1. Stay alive. I died at dawn to a pillager's arrows near 423,107,-1048. Stay near the bed row and out of pillager sight. Never walk south or north-east of the row alone or at night.
+2. Get a weapon back, but only in daylight with an armed friend in sight. My wooden sword lies at 423,107,-1048 under fire. Lewis's sword and chest 447,107,-1065 are the other options.
+3. Feed the row, weakest first. I have no food now. Leonardo holds a potato for Worf. Zack, Wesley and Tommy are hungry. Give food only when I hold some.
+4. Sleep each night in a white bed near the row (413,107,-1041 or 415,107,-1037).
 
-Open debts: Owed by me: Worf 1 potato (held now), Beverly, Zack 3, Leonardo, Trini, Troi, Jason 1. Owed to me: Bcrusher's 10 potatoes, Jason's wooden sword, Wesley's 1 beef.
+Open debts: Owed by me: Zack 3, Beverly, Leonardo, Troi, Jason 1 (the potato I meant for Jason never reached him). Owed to me: Bcrusher's 10 potatoes, Jason's wooden sword, Wesley's 1 beef.
