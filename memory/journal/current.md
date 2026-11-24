@@ -140,3 +140,12 @@
 - 01:14 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, you are in my sight and I owe you a share. Here is my one potato. Beverly, Worf and Zack, I am sorry it went this 
 - 01:14 act: {"actions":[],"say":"Jason, Worf, Zack, Beverly: Billy at 421,107,-1050, holding one potato. Whoever is in sight first, step to me and I give it."}
 - 01:15 act: {"say":"Billy here, respawned at the beds with nothing. My wooden sword lies at 423,107,-1048. A pillager is shooting near there, so I stay by the beds for now.","intent":{"goal":"hold_by_beds","progr
+- 01:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy here, dusk. I have nothing in hand, no food, no sword. Going to my bed at the row for the night. Zack, Jason, Leonardo: I s
+- 01:24 act: {"actions":[],"say":"Billy, awake at the row, health 20, hunger 20, no food, no sword. Staying put in the dark. At first light I will ask who is armed and go for the wooden sword only with you in sigh
+- 01:28 act: {"actions":[],"say":"Billy, morning. Health 20, hunger 20, pack empty, unarmed, at the row. Worf, when the potato is given, I will walk with you and Jason to my wooden sword at 423,107,-1048, daylight
+- 01:45 act: {"actions":[],"say":"Billy at my bed, 416,107,-1037. Health 20, hunger 20, pack empty, hands open. No walk south until someone holds a sword. Leonardo, come into sight with the potato."}
+- 01:53 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Billy going to bed at 415,107,-1037. Unarmed, health 20, hunger 20. Morning, first light, I will say my state again."}
+- 01:56 act: {"actions":[],"say":"Morning. Billy at 416,107,-1037, health 20, hunger 20, unarmed, pack empty. No walk south until someone holds a sword. Worf, Jason, Zack, I hold here."}
+- 02:08 act: {"say":"Morning, row. Billy at 416,107,-1037, unarmed, pack empty, health and hunger holding. Leonardo, I hear the potato goes to Worf first. I wait for an armed friend in daylight before the sword.",
+- 02:12 act: {"say":"Billy, daylight, at the row, unarmed, pack empty, health 20, hunger 20. Potato goes to Worf first. The sword waits for an armed friend in sight.","actions":[]}
+- 02:24 act: {"say":"Billy, morning of day 902, at the row, unarmed, pack empty, health 20, hunger 20. No sword trip without an armed friend in sight. Leonardo, the potato goes to Worf; I am ready to walk with the
