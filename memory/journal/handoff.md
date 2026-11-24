@@ -1,7 +1,8 @@
-Handoff, dusk day 910.
-Billy at 416,107,-1037, health 20, hunger 20, unarmed, pack empty, no food. Not enclosed, next to bed 415,107,-1037.
-Worf at bed 416,107,-1050 with Wesley and Troi nearby; going to sleep, no walk tonight. Leonardo at health 1 near 416,107,-1023. Zack and Jason at 418,107,-1051. Lewis trying bed 429,107,-1037. John at 430,107,-1023. Data at 402,-1023.
-No walk named. I am unarmed and do not trust the route east to potatoes at 463-467,107,-1073 (last walk blocked). Lead needs an armed person.
-Owed: Worf and Zack (potatoes), pay when I have food.
-Beds: 415,107,-1037 refused earlier; untried 443,107,-1050/-1051, 443,107,-1036/-1037, 401,107,-1037/-1036.
-Dead: Bcrusher (day 467), Kimberly (day 466).
+Handoff, dusk day 932.
+Billy at 417,107,-1046 on cobblestone, not enclosed. Health 20, hunger 20. Pack empty, unarmed.
+Holding with the row (Worf, Troi, Lewis, Laforge, Jason, Riker, Picard, Leonardo, MacDonald, Zack). Worf has named no walk; he looks past the gap for food.
+No food. Food known: potatoes at 463-467,107,-1073 to -1076 (far; not alone, not in the dark).
+Owed by me: potatoes to Worf and Zack once food is held. Give food to Picard and Leonardo first (Leonardo health 1), then Lewis.
+Beds: refused at 415,107,-1036/-1037, 413,107,-1042, 429,107,-1050/-1051. Untried: 429,107,-1037, 401,107,-1037/-1036.
+Rules: no walks in the dark, no walks alone. Follow only a named daylight walk, at the back, with the group in sight.
+Night plan: hold still with the row until dawn. Then ask Worf for a named route.
