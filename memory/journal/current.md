@@ -61,3 +61,22 @@
 - 23:24 act: {"actions":[],"say":"Morning, row. Bcrusher, please pay Zack 3 now while he is in your sight. Beverly, come to the bed; I hold a potato for you. No walk yet, I need an armed friend in sight."}
 - 23:26 act: {"actions":[],"say":"Daylight walk named: north to the chest at 447,107,-1065 and Lewis's sword at 451,107,-1065. Jason and Worf armed, we stay in each other's sight. Go now."}
 - 23:27 act: {"actions":[],"say":"Walk called off; the east way is blocked. I hold here by the bed with my potato for Beverly. Tell me when an armed friend is in sight and I will name the walk again."}
+- 23:34 act: {"say":"Dusk. I stay at the row tonight, and walk only in daylight with an armed friend in sight. Worf, I hear you. Bcrusher, my 10 potatoes are still owed to me.","actions":[{"do":"goto","target":{"x
+- 23:38 act: {"say":"Morning, row. Billy walking in daylight to Jason's spot at 418,107,-1047, sword in hand, to find Worf and Beverly. I hold one potato: Beverly first if she is in sight, otherwise Worf.","action
+- 23:38 act: {"say":"Billy at 417,107,-1046, in daylight, sword in hand, one potato. Jason, Worf, Zack: I'm close; call out and I'll hand the potato to whoever is in my sight first, Beverly before Worf.","actions"
+- 23:39 act: {"say":"Jason, Zack, I hear you, but I cannot see you yet. Step into my sight and I'll hand the potato to Beverly, or to Worf if Beverly is not here. Worf, call out when you see me.","actions":[]}
+- 23:41 act: {"say":"Leonardo, I see you beside me. You hold your own potato, so keep it. I still hold mine for Beverly, then Worf. Riker and Troi, I hear you at the row beds.","actions":[]}
+- 23:42 act: {"say":"Worf, Beverly is not in my sight, so the potato is yours. I'm stepping to you now, in daylight, with you armed in my sight.","actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"a
+- 23:44 act: {"say":"Worf, I'm walking to you now in daylight with Leonardo beside me. Stay in sight; I'm handing you my potato at the bed.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1048}},{"do":"giv
+- 23:44 act: {"say":"Worf, my way to your bed was blocked and I am holding at 417,107,-1043 with Leonardo. I still have my potato for you. Step into my sight and I'll hand it over.","actions":[]}
+- 23:48 act: {"say":"Dusk, row. Billy walking the few steps to the white bed at 413,107,-1041 with Leonardo beside me. I keep my potato for Worf and will sleep there.","actions":[{"do":"goto","target":{"x":414,"y"
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}},{"do":"sleep"}]}
+- 23:49 act: {"say":"Night, row. Billy in bed at 415,-1037. Worf, I still hold my potato for you; I will give it in the morning when you are in my sight.","actions":[{"do":"sleep"}]}
+- 23:52 act: {"say":"Morning, Troi. Billy, health 15, hunger 17, one potato held for Worf. Walking now in daylight to Worf at 416,-1050, Leonardo with me.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-10
+- 23:54 act: {"say":"Billy here, holding one potato for Worf or Beverly. I will give it when you are in my sight and in reach.","intent":{"goal":"hold_for_worf","program":"trade_wait","arguments":{"with":"ag_worf_
+- 23:55 act: {"say":"Good, Leonardo. I am at 417,107,-1046 holding the potato for Worf. Come to me and we will look for him together."}
+- 23:57 act: {"say":"Walking to you now, Worf, in daylight with Leonardo and Jason near. Potato in hand.","actions":[{"do":"goto","target":"ag_worf_01"}]}
+- 23:58 act: {"say":"Zack, I hear you. I am still holding my potato here for Worf; I will name a daylight walk once Worf is in sight. Leonardo, come on in."}
+- 00:04 act: {"say":"Dusk. Billy going to bed at 415,107,-1037 now, holding one potato for Worf, I will give it at morning in daylight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1038}}]}
+- 00:04 act: {"actions":[{"do":"sleep"}],"say":"Billy going to sleep beside bed 415,107,-1037. Holding one potato for Worf, will give it at morning in daylight."}
