@@ -1,4 +1,4 @@
-# Summary (day 1019 night)
+# Summary (day 1026 night)
 
 I am Billy Cranston. I live at the row. My bed is 415,107,-1051, and I slept there tonight.
 
@@ -14,7 +14,7 @@ Standing rules:
 - Name only cells I have seen open.
 
 Concerns:
-- Zack (hunger 14) and Worf (hunger 8) have no food. Trini holds 2 potatoes.
-- We are walled in by planks. No open cell past 423 has been seen.
+- Zack (hunger 14) and Worf (hunger 8) have no food. Trini holds 2 potatoes but cannot reach them through planks.
+- We are walled in by planks. No open cell past 423 has been seen by anyone.
 
-Next: at first light, Jason checks 428,107,-1051 in sight. Get Jason's sword before any walk.
+Next: at first light, look east again for any open cell. Get Jason's sword before any walk.
