@@ -24,3 +24,6 @@
 - 21:59 act: {"actions":[{"do":"note","text":"Day 1032 night. Holding at 417,107,-1051 in sight of Jason, Zack, Worf. No open cell named, no walk. Health 20, hunger 20, empty pack. days_since_sleep 6, bed 1051 blo
 - 22:02 act: {"actions":[],"say":"Billy, morning, at 417,107,-1051 in sight of Jason and Zack. I have named no cell yet. I will name one only after I see it open myself in daylight."}
 - 22:02 act: {"actions":[{"do":"note","text":"Day 1032 morning. View east from 417,107,-1051: planks 2 ahead, chest 2 ahead, no open cell. Named none. Holding in the row."}]}
+- 22:04 say: {"text":"Billy here, morning 1032, at 417,107,-1051. I am unarmed and see no open cell past the planks yet. Jason, can you see one open cell east? Name it and we walk together."}
+- 22:09 say: {"text":"Billy, morning 1033, at 417,107,-1051. I see no open cell past the planks, so I name none. Wesley, I hold here with you. Whoever first sees an open cell, name it aloud and we will look togeth
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
