@@ -25,3 +25,4 @@
 - 18:58 act: {"actions":[],"say":"Zack, you take the bed at 415,107,-1050; I will hold here beside you in sight for the night, no walk until light."}
 - 19:03 act: {"actions":[],"say":"Morning. Billy at 415,107,-1051, health 20, hunger 20, no food, unarmed. I have seen no open cell past 423 either. I walk nowhere until one is named and seen."}
 - 19:08 act: {"actions":[{"do":"note","text":"Billy holds at 415,107,-1051 in sight of Zack, Jason, Worf, Bcrusher. No food, unarmed, no open cell past 423 seen by me."}],"say":"Billy here, still at 415,107,-1051,
+- 19:10 say: {"text":"Morning. Jason, is 428,107,-1051 still plank? I have not seen it open. I will not walk until you have looked in daylight."}
