@@ -56,3 +56,6 @@
 - 16:04 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy: I will look in the chest at 419,107,-1051 next to me, in sight of Jason and Zack. Still no walk."}
 - 16:11 say: {"text":"Billy here, at 418,107,-1051, holding. I have no food and no weapon. If anyone sees an open cell on the way to the potatoes, name it and I will look at it before I move."}
 - 16:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 16:16 say: {"text":"Still night. I am at my bed and will hold here until first light, with no walk in the dark."}
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy: daylight. I am going to look in the chest at 419,107,-1051 for a weapon or 
+- 16:20 act: {"actions":[],"say":"Billy: the chest at 419 opened, but I see no contents in my hands. I still hold, unarmed, no walk past 423."}
