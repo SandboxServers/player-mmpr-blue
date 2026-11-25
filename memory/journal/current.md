@@ -62,3 +62,6 @@
 - 16:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night. I'm going to my bed at 415,107,-1051 to sleep. No walks in the dark."}
 - 16:33 act: {"actions":[{"do":"note","text":"Day 1016 morning. Holding at bed 415,107,-1051. Only 420-423 at z-1051 seen as air; no route past 423 confirmed. Unarmed, no food."}],"say":"Riker, Billy here at my be
 - 16:47 act: {"actions":[],"say":"Billy, day 1017, health 20, hunger 20, unarmed, no food. Zack, I see air only at 420-423 on z=-1051. Nothing past 423 is confirmed open to me. I hold at my bed until someone names
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, night, going to my bed beside 415,107,-1050 in the row. Health 20, hunger 20, no food. No walk until light.","intent":{"go
+- 16:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Billy, at the row beside my bed 415,107,-1050. Health 20, hunger 20, no food. I hol
+- 16:59 say: {"text":"Billy, at my bed beside 415,107,-1050, health 20, unarmed, no food. Still no open cell confirmed past 423, so no walk. Jason, Worf: name cells you have seen open and I will check them at ligh
