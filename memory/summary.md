@@ -1,21 +1,21 @@
-# Summary (day 1002 night)
+# Summary (day 1019 night)
 
-I am Billy Cranston. I live at the row. My bed is 415,107,-1051. I sleep there. The bed is open to air, so sleep fails at first and worked on the second try at night.
+I am Billy Cranston. I live at the row. My bed is 415,107,-1051. I sleep there; sleep works on the second try because the bed is open to air.
 
 Right now: health 20, hunger 20, unarmed, empty pack, no food.
 
-The group at the row: Worf, Zack, Jason, Riker, Laforge, Troi, Trini, Kimberly.
+Group at the row: Worf, Zack, Jason, Trini, Troi, Riker, Laforge, Tommy, Wesley, Kimberly.
 
-Standing rules I keep:
+Standing rules:
 - No walks in the dark.
 - No walks alone.
-- Walk only on a named daylight route with exact open cells, with an armed leader and the group in sight.
+- Walk only on a named daylight route with exact open cells, an armed leader and the group in sight.
 - Give only to someone in sight and reachable.
-- Name only cells I can see as open air.
+- Name only cells I have seen open.
 
 Concerns:
-- Zack (hunger 15) and Worf (hunger 9) have no food. Trini holds 2 potatoes for them.
-- Jason keeps his wooden sword in hand.
-- Debts owed to me: Bcrusher 10 potatoes, Jason's sword, Wesley 1 beef.
+- Zack (hunger 14) and Worf (hunger 8) have no food. Trini holds 2 potatoes.
+- We are walled in by planks. No open cell past 423 has been seen.
+- Plan: Jason looks at 428,107,-1051 in sight and breaks it first, in daylight.
 
-Next: at first light, look for an open daylight route to the potatoes at 463-467,107,-1076 to -1073. Get a weapon first.
+Next: at first light, check that cell. Get Jason's sword before any walk.
