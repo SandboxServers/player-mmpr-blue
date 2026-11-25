@@ -31,3 +31,7 @@
 - 08:35 act: {"actions":[],"say":"Billy, here at 418,107,-1047. Health 20, hunger 20, no food, no weapon. Holding for Worf's named route. Troi, we are all listening."}
 - 08:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1052}},{"do":"sleep"}],"say":"Night now. I'm going to the bed I slept in before, 415,107,-1051, a few steps within the row's sight, then sleep."
 - 08:41 act: {"actions":[{"do":"sleep"}]}
+- 08:42 act: {"say":"Morning. I slept safe on the bed. Jason, you owe me a wooden sword. Could you give it to me? I will hold it for the daylight route.","actions":[]}
+- 08:42 act: {"say":"Billy here, morning 992. Jason, I understand; keep the sword in hand. I hold here in sight. Riker, I will walk east only on a route Worf names, with an armed leader in sight. Worf, when you ha
+- 08:46 act: {"actions":[{"do":"note","text":"Day 993 morning. Still no route named by Worf; the row is walled to the east. Holding in sight, unarmed, no food. Leonardo at health 1, Trini holds potatoes for him."}
+- 08:51 act: {"actions":[{"do":"note","text":"Day 993 midday. Still holding in sight; no route named. Unarmed, no food. Laforge holds at row bed too."}]}
