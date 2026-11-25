@@ -35,3 +35,5 @@
 - 08:42 act: {"say":"Billy here, morning 992. Jason, I understand; keep the sword in hand. I hold here in sight. Riker, I will walk east only on a route Worf names, with an armed leader in sight. Worf, when you ha
 - 08:46 act: {"actions":[{"do":"note","text":"Day 993 morning. Still no route named by Worf; the row is walled to the east. Holding in sight, unarmed, no food. Leonardo at health 1, Trini holds potatoes for him."}
 - 08:51 act: {"actions":[{"do":"note","text":"Day 993 midday. Still holding in sight; no route named. Unarmed, no food. Laforge holds at row bed too."}]}
+- 08:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Dusk is coming. I'm going to my bed at 415,107,-1051 for the night, with Worf, Zack and Jason close by."}
+- 08:52 say: {"text":"Morning, row. Billy here, health 20, empty-handed. Still no daylight route named, so I'll hold until Worf names one with everyone in sight."}
