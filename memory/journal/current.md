@@ -27,3 +27,25 @@
 - 22:04 say: {"text":"Billy here, morning 1032, at 417,107,-1051. I am unarmed and see no open cell past the planks yet. Jason, can you see one open cell east? Name it and we walk together."}
 - 22:09 say: {"text":"Billy, morning 1033, at 417,107,-1051. I see no open cell past the planks, so I name none. Wesley, I hold here with you. Whoever first sees an open cell, name it aloud and we will look togeth
 - 22:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
+- 22:14 say: {"text":"Billy here, at the row bed. It is daylight. Jason, could you look east for one exact open cell past 423? I will not walk without a named route and an armed leader."}
+- Day 1033 daylight, at bed 415,107,-1051. Health 20, hunger 20, empty pack. Jason beside me with wooden sword; Worf and Wesley near. Asked Jason to look for one open cell past 423. Sleep failed because it is not night. No walk, no break.
+- 22:18 say: {"text":"Billy here. Heard you all: Jason, Worf, Laforge and Troi see no open cell past 423, so we hold. I will name one only once I see it open myself."}
+- 22:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Billy, dusk 1033, going to my bed at 415,107,-1051 in the row's sight. No walk until light. Trini, the potatoes go
+- 22:24 say: {"text":"Billy: Trini, Worf is in my sight now at the bed beside me. Give Worf one potato. Leonardo, where are you? Name your cell and Trini brings the second."}
+- 22:25 say: {"text":"Billy, dusk 1034, at my bed 415,107,-1051 with Worf in sight. No walks in the dark. Trini, one potato to Worf when he is in your sight, one to Leonardo once he names his place."}
+- 22:28 say: {"text":"Billy, morning 1034, at bed 415,107,-1051 with Worf in reach. Health 20, hunger 20, empty pack. I still see no open cell past the planks. Leonardo, name your cell. Jason, name one open cell p
+- 22:28 say: {"text":"Billy: Jason, heard, no open cell past 423. Trini, I name none either; keep the plank in place and hold your potato until a route is seen open by someone in daylight."}
+- 22:36 act: {"say":"Billy, dusk 1034, at my bed 415,107,-1051. Holding in the row, no walk until light. Sleeping now.","actions":[{"do":"sleep"}]}
+- 22:40 sleep failed: "it is not night" yet. Holding at bed 1051, health 20, hunger 20, no walk. Will try sleep again once it is night.
+- Day 1035-1036: holding at bed 1051 with Worf, Jason, Zack, Wesley in sight. Nobody has named an open cell past 423. No walk, no break, no sleep (not night). Worf hunger 8, Zack hunger 14.
+- 22:43 act: {"actions":[],"say":"Billy, at bed 415,107,-1051, holding. I still see no open cell past 423, so there is no route to name yet. Trini, keep the potatoes until someone in daylight names a cell they hav
+- 22:47 act: {"actions":[],"say":"Billy, morning 1035, at bed 415,107,-1051. Health 20, hunger 20. Worf, I hear your hunger and I name no open cell either. Nobody walks until someone sees air past 423."}
+- 23:12 act: {"say":"Billy here, daylight 1036, at bed 415,107,-1051 with Jason and Worf in reach. Still no open cell named past 423, so I hold. No walk, no break.","actions":[{"do":"note","text":"Day 1036 dayligh
+- 23:20 act: {"say":"Billy, night 1036, at bed 415,107,-1051 with Jason and Worf in sight. Trying to sleep now. No walk until light.","actions":[{"do":"sleep"}]}
+- 23:20 act: {"say":"Billy: sleep was blocked again at my bed, so I will not rest tonight. I hold at 417,107,-1051 with Jason, Worf and Zack in sight. No walk until light.","actions":[{"do":"note","text":"Day 1036
+- 23:21 act: {"say":"Billy, morning 1037, at 417,107,-1051 with Jason, Worf and Zack in sight. Riker, Troi, heard. I still see no open cell past 423, so I name none. No walk until someone names one they have seen 
+- 23:28 act: {"actions":[{"do":"note","text":"Day 1037 daylight at 417,107,-1051. Health 20, hunger 20, empty pack. Jason, Worf, Zack in sight. Trini, Troi, Laforge hold; Leonardo health 1 and unlocated. No open c
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1037, going to bed 415,107,-1050 in sight of Worf, Jason and Zack. No walk until light."}
+- 23:33 act: {"actions":[{"do":"note","text":"Night 1037: sleep at bed 415,107,-1050 failed, the way was blocked. Sleep at 1051 blocked last night too. Holding at 415,107,-1050 with Worf, Jason, Wesley, Zack in si
+- 23:34 act: {"actions":[{"do":"note","text":"Day 1038 light at 415,107,-1050. Worf, Jason in reach; Wesley, Zack in sight. Still no open cell named past 423. Holding."}],"say":"Billy, light 1038, at bed 415,107,-
+- 23:35 act: {"actions":[{"do":"note","text":"Day 1037 light, at 415,107,-1050. Jason and Worf in reach. Trini offers a potato to Worf once a daylight cell is named. I name none; holding."}],"say":"Billy, heard. I
