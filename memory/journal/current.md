@@ -44,3 +44,5 @@
 - 15:14 say: {"text":"Billy, daylight, at my bed 415,107,-1051. Health 20, hunger 20, unarmed. I name no route past 423 yet; no cell past it is confirmed open. Jason, Worf: if you see open cells, name them and I w
 - 15:19 act: {"actions":[{"do":"sleep"}],"say":"Going to try my bed for the night. Jason, Worf, stay close."}
 - Dusk, day 1012. Sleep at my bed worked on this try (first try of this dusk). Jason and Worf in reach, health 20, hunger 20, unarmed, empty pack. Still no open cell named past 423, so no walk. Next: wake, hold, and check food and weapon at first light.
+- 15:22 act: {"say":"Billy, morning, awake at my bed. Health 20, hunger 20, unarmed, no food. Jason, Worf, Zack: I hold here. I still see no open cell past 423, so no walk yet.","actions":[]}
+- 15:23 act: {"say":"Trini: only 420, 421, 422 and 423 at y107 z-1051 are air, which I surveyed. Past 423 I have seen nothing open, so I name no route. Hold at your bed; I hold at mine.","actions":[]}
