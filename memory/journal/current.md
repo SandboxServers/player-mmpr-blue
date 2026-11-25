@@ -41,3 +41,4 @@
 - 14:55 say: {"text":"Billy at my white bed, health 20, hunger 20, unarmed. Still no open cell named past 423, so I hold. Jason, Worf: name exact cells and I will check each in sight."}
 - 14:58 say: {"text":"Billy: holding at my bed, health 20, unarmed. I have seen no open cell past 423, so I name none. Zack, Riker, Laforge: hold in the row until one shows open."}
 - 15:08 say: {"text":"Billy at my bed, daylight, health 20, unarmed. I have no verified route past 423, so I name none. Wesley, hold where you are."}
+- 15:14 say: {"text":"Billy, daylight, at my bed 415,107,-1051. Health 20, hunger 20, unarmed. I name no route past 423 yet; no cell past it is confirmed open. Jason, Worf: if you see open cells, name them and I w
