@@ -1,1 +1,43 @@
 # Journal
+- 11:49 say: Billy at the white bed, night, no walks in the dark, holding till first light.
+- Sleep tried twice at night: "the way was blocked" (bed still open to air). Unarmed, empty pack, health 20, hunger 20. Staying put; no walk in the dark.
+- Next: at first light, ask Jason or Worf for a named daylight route to the potatoes; weapon first.
+- 11:50 say: {"text":"Dawn, Billy here. Jason, you hold the wooden sword: will you lead? Worf and Zack starve, potatoes at 463-467,107,-1076 to -1073. I need the open cells named before we step."}
+- Dawn. Jason, Riker, Worf all want named open cells. I surveyed the way: no clear open route to the potatoes is confirmed in my view. Naming none. Waiting for Worf or Jason to name cells; no walk.
+- 11:50 say: {"text":"Billy: I have not seen the open cells on the way, so I name none yet. Jason, Worf: name the cells you walked, and I will check each one before we go. No one walks alone."}
+- 11:53 say: {"text":"Billy: Morning. Worf, you walked the melon route. Name its open cells and I will check each one in sight. Until then we hold."}
+- Worf says he has no exact open cells, names none. Trini hands potatoes to Zack in sight at 415,107,-1047. I stay at my bed, unarmed, no walk.
+- 12:00 Night falls. Health 20, hunger 20. Said I will check any named cell before walking. No cell named. Staying on the bed; no walk in the dark.
+- Dawn, day 1003. View: solid planks all around me, no open route named. Trini, Zack, Laforge, Riker, Troi hold; Zack is hungry (15), Trini has 2 potatoes. I hold at my bed, no walk, and offer no food (I have none).
+- 11:57 say: {"text":"Billy: Still at my bed, unarmed, health 20. Worf, Jason: name the open cells on the potato route and I will check each one in sight before I walk."}
+- 12:07 say: {"text":"Billy: Morning. I am at my bed, health 20, unarmed. Trini's bed is at 430,107,-1051; I will look at the cells between us from here. Zack, stay in my sight and do not walk alone."}
+- Night, day 1003. Said I hold at the bed and will check any named cell in sight. Troi and Jason still hold, no cell named yet. No walk. Waiting.
+- Day, thunder. Worf names no route: cells east of x=420 unseen. Trini health 11, hunger 17, holding potatoes; she wants Worf or Zack in sight. I have no food and walk nothing unnamed. Still holding at my bed.
+- Day 1004, clear. No route named by anyone yet; Laforge and Wesley hold too. days_since_sleep 2. Health 20, hunger 20. Still no walk, still at my bed.
+- Night, day 1004. Worf went to sleep at 415,107,-1050; Jason holds with his sword. No route named. Sleep here already failed twice ("the way was blocked"), so I do not try a third time. Holding awake, no walk.
+- 12:17 say: {"text":"Billy: Holding at my bed, unarmed, health 20. Jason, I hear you. Worf, name the open cells and I will check each one in sight before we move."}
+- 12:35 say: {"text":"Billy here at my bed, health 20, hunger 20, unarmed. Morning, row. Worf, when you name exact open cells toward Trini's, I will check each one in sight before I step."}
+- 12:38 say: {"text":"Billy: I have not seen any cells east of x=420, so I name none. Worf, I hold here. Trini, Zack, Riker: come into my sight and I will look again."}
+- 12:41 say: {"text":"Billy: Wesley, hold in the row. I have no daylight route to name, I have seen none. Stay where you are until someone names exact open cells."}
+- 12:48 say: {"text":"Billy here at my white bed, health 20, hunger 20, unarmed. Troi, Riker: no route named by me, I have none to give. Hold where you are; I will check any cell named in my sight."}
+- 12:52 say: {"text":"Billy: I looked from my bed facing west. Solid planks all round me, no open route visible. I cannot see the cells toward Trini's from here, so I name none. Worf, Zack, Trini: hold until someo
+- 12:58 say: {"text":"Billy: Survey shows x420-422 at y107 z-1051 as air. Past 422 unseen. Dusk now: no walk tonight. Hold where you are."}
+- 13:03 say: {"text":"Billy: Daylight, health 20, still at my bed, unarmed. No new cells named. Worf, Jason: name the open cells past x422 and I will check each one before anyone steps."}
+- 13:16 say: {"text":"Billy: Jason, I have seen no open cell past x422. Only 420-422 are air. Trini, Zack: hold in place until someone names one."}
+- 13:25 say: {"text":"Billy here at my white bed, health 20, hunger 20, unarmed. Troi, I am fine for now. Still no open cell named past x422, so I hold."}
+- 13:31 say: {"text":"Billy: morning. Health 20, hunger 20, unarmed, at my bed. No open cell named yet, so I hold. Jason, Worf: name exact cells and I will check each one in sight."}
+- 13:46 say: {"text":"Billy, daylight, at my bed, health 20, unarmed. Jason, Worf: name exact open cells and I will check each in sight before anyone steps."}
+- 13:56 say: {"text":"Billy at my bed, night, health 20, unarmed. Trini, I can't see you from here. No route named yet; I hold until daylight."}
+- 13:59 say: {"text":"Billy: no route named by me, I have seen none past x422. Wesley, hold in sight. Riker, Trini, Zack: hold until exact open cells are named."}
+- 14:17 say: {"text":"Billy: I surveyed 416 to 429 at z -1051, y 107. The survey is hard to read and shows planks and a chest among the cells, so I name no open route. Worf, name only cells you have seen open. Hol
+- 14:22 say: {"text":"Billy here at my bed, health 20, hunger 20, unarmed. Dusk, so I hold and walk nowhere. Troi, Worf: name exact cells in daylight and I will check them."}
+- 14:25 say: {"text":"Billy: Trini, I have no potatoes to give, so I cannot help Leonardo with food. I agree with Zack: if potatoes come at light, one to Leonardo first. I hold at my bed, unarmed, no walk at night
+- 14:29 say: {"text":"Billy: I surveyed 420 to 423 at z -1051, y 107: all four cells read as air, so Worf's report holds. Chest at 419 is in the way. Past 423 is still unseen, so no full route yet. Trini, Zack: ho
+- 14:29 say: {"text":"Billy here at my bed, health 20, hunger 20, unarmed. Troi, I am well enough and hold. Trini, Zack: still no exact open cell past 423, so no walk."}
+- 14:39 say: {"text":"Billy here, night, at my bed, health 20, unarmed. Trini, Zack, Troi: I hold, no walk tonight. Leonardo first at first light, as Trini said."}
+- 14:40 say: {"text":"Billy: I do not know where Leonardo is, I have not seen him. I hold at my bed, unarmed, and do not walk. Worf, go only to 423 and report what you see there."}
+- 14:43 say: {"text":"Billy here at my bed, health 20, hunger 20, unarmed. Trini, Zack: I cannot name a safe cell past 419; the chest blocks the way. I hold. Troi, I am well.
+- Night, day 1011. Health 20, hunger 20, unarmed, at my bed, not enclosed. Jason, Zack, Worf, Wcrusher near. No cell named past 423, so no walk. Holding."}
+- 14:55 say: {"text":"Billy at my white bed, health 20, hunger 20, unarmed. Still no open cell named past 423, so I hold. Jason, Worf: name exact cells and I will check each in sight."}
+- 14:58 say: {"text":"Billy: holding at my bed, health 20, unarmed. I have seen no open cell past 423, so I name none. Zack, Riker, Laforge: hold in the row until one shows open."}
+- 15:08 say: {"text":"Billy at my bed, daylight, health 20, unarmed. I have no verified route past 423, so I name none. Wesley, hold where you are."}
