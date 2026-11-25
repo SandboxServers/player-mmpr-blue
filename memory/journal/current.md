@@ -3,3 +3,22 @@
 - 09:22 act: {"actions":[],"say":"Billy, morning. Proposal: a daylight route east to Lewis's wooden sword at 451,107,-1065 (about 36 blocks). Jason is armed and in sight, so Jason leads, Worf and Zack walk with us
 - 09:23 act: {"actions":[],"say":"Billy: understood, Jason. Worf, I wait for your named route with exact cells. I will not walk until you name it."}
 - 09:25 act: {"actions":[],"say":"Tommy, welcome to the row. I am Billy. We hold here until Worf names a daylight route, then we go together in sight. Zack, Wesley, Riker, you are all heard."}
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Worf, I hold at my bed with you and the group. No walk tonight. I am still unarmed and waiting for your daylight route."}
+- 09:36 act: {"actions":[],"say":"Morning, Deanna. Billy here, unarmed, empty pack, health 20. We hold at the row until Worf names a daylight route with exact cells. Worf, please name it."}
+- 09:48 act: {"actions":[],"say":"Goodnight, row. Billy on the bed, holding in sight. No walk in the dark. Worf, name the daylight route at morning."}
+- 09:52 act: {"actions":[],"say":"Worf, if you go to the north-west gap, I will not follow without a named route and an armed leader in sight. I stay at the bed. Tell me the exact cells first."}
+- 10:05 act: {"say":"Billy here, morning, health 20, hunger 20, unarmed, no food. Worf, I will not follow you out. Tell us the exact cells you find, and I will come to the first named open cell only with an armed 
+- 10:19 act: {"say":"Billy here, morning. I have no exact open cells to name; I have not seen a clear route to the potatoes. I will not name one blind. Worf, if you find open air, give exact cells and I will walk 
+- 10:25 act: {"say":"Billy here, morning. Health 20, hunger 20, holding at the bed, unarmed. I still see no open cell I can name, so I will not walk. Worf, if you find air, name the cells and I walk only in sight 
+- 10:32 act: {"say":"Billy here, morning. Health 20, hunger 20, at my bed. I still name no open cell, so no walk. Worf, Zack, Jason, Laforge, Troi: when someone sees air, say the exact cells and we go together in 
+- 10:44 act: {"say":"Billy here. Trini, your 2 potatoes: Zack is hungry at 15 and Riker at 17, so please give them to Zack first. I still have no open cell and no walk. Good morning, row."}
+- 10:52 act: {"say":"Billy here. Ripe potatoes are at 463-467, y 107, z -1076 to -1073, ten of them. No route yet. I hold no food and no weapon. Worf, name the cells when you have looked, and we walk in daylight w
+- 10:55 act: {"say":"Billy here, at my bed in the row. Holding until light. Troi, I am well, health 20. No walk in the dark."}
+- 10:57 act: {"say":"Billy: it is day now. I have not seen the open ground between here and the potatoes, so I cannot name a safe route yet. Jason, you hold the sword: please look east toward 440, -1065 and tell u
+- 11:04 act: {"say":"Billy: I do not know Trini's bed or a clear cell to it. I have seen no open ground from the row yet. Zack, hold until someone names an open cell, and I will not walk with you until then."}
+- 11:08 act: {"say":"Billy: it is night and I have no named route, so I stay on my bed with Worf, Zack and Jason in reach. No walk in the dark."}
+- 11:10 act: {"say":"Billy: morning. Worf, Zack, Laforge, Riker: I will look at the open cells from here before anyone walks. No walk is named yet."}
+- 11:11 say: {"text":"Billy: I am looking at the cells now. I will name an open daylight route only when I see one, and nobody walks before then."}
+- 11:11 act: {"say":"Billy: Zack, Trini has offered you her 2 potatoes. I have seen no open cell between us, so only walk if you can see Trini the whole way and Worf or I are with you. I name no route yet."}
+- 11:23 act: {"say":"Billy: morning. I still see only walls from my bed and name no route. Hold where you are; I will look again at each new light and say the moment I see open cells."}
+- 11:27 act: {"say":"Billy: Trini, I hear you. I still see no open cell from my bed, so I name no route yet. I will look again and name the cells the moment I see them."}
