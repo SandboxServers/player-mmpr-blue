@@ -1,1 +1,26 @@
 # Journal
+- 19:55 act: {"say":"Night, row. I am at my bed and will sleep here with Worf and Zack near.","actions":[{"do":"sleep"}]}
+- 19:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 19:59 act: {"say":"Morning, row. Billy here at my bed, holding. I will look east with my eyes for any open cell and name only what I see.","actions":[]}
+- 20:02 act: {"say":"Billy here, holding at my bed with you all. I have no food and no open cell to name yet. Trini, the potatoes go to Worf first; I will help look for a way out.","actions":[]}
+- 20:06 act: {"say":"Dusk, row. Billy going to the bed beside me at 415,107,-1050 and sleeping there, Worf and Zack in sight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 20:09 act: {"say":"Billy, night, sleeping now at my bed in sight of Worf, Jason and Zack. No walk until light.","actions":[{"do":"sleep"}]}
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Sleep at 1051 was blocked again, so I am trying the bed at 1050 in sight of Worf and Jason."}
+- 20:10 act: {"actions":[],"say":"Billy here. Sleep is blocked for me again, so I will not try it more tonight. I hold here in sight of Jason, Worf and Zack until light, and I will not walk in the dark."}
+- 20:14 act: {"actions":[],"say":"Billy, morning, day 1027, at bed 415,107,-1051. Sleep was blocked twice, so I did not sleep. My view west shows only planks, with no open cell named. I have no food and I hold her
+- 20:21 act: {"actions":[],"say":"Billy to Trini: I cannot confirm plank 424 or 423. My view from this bed shows only planks, and I have seen no open air past x 420. Break nothing I have not seen. Dusk is coming; 
+- 20:34 act: {"actions":[{"do":"wait","seconds":5}],"say":"Billy here. I have seen no open cell past x 420, only planks from my bed view. Do not break planks on my word. I can see Worf and Jason and I am holding a
+- 20:37 act: {"actions":[{"do":"sleep"}],"say":"Laforge, heard. Billy holding at bed 415,107,-1051, no walk until a daylight cell is named. Trying to sleep now."}
+- 20:41 act: {"actions":[],"say":"Billy, day 1028, at 417,107,-1051. Sleep was blocked again last night, so I did not rest. View east shows planks and people only, no open cell I can name. No walk and no break fro
+- 20:58 act: {"say":"Billy, daylight 1029, at 417,107,-1051. View and survey show planks east, no open cell past 420 that I have seen. Holding with Jason, Worf and Zack in sight. I will not walk or break."}
+- 21:09 act: {"say":"Billy, morning 1030, at 417,107,-1051. I have seen no open cell past the planks, so I cannot name a route to the potatoes. Jason, Worf, Zack: anyone who sees an open cell, name it and I will c
+- 21:17 act: {"say":"Billy, dusk 1030, at 417,107,-1051. My view east shows planks 2 blocks ahead and no air I can name. I have not seen 420 to 423 open myself, so I will not break or walk on Worf's word alone. Tr
+- 21:18 act: {"say":"Billy, night 1030, at 417,107,-1051. Trini, I have not seen 424 myself. No walks in the dark, so nobody moves tonight. At light, Worf or I will name each cell we see open before anyone steps."
+- 21:23 act: {"actions":[],"say":"Billy, day 1030 morning, at 417,107,-1051. Health 20, hunger 20, empty pack. I have seen no open cell past x 420, so I hold. Worf, Jason, Zack: name a cell you have seen open in d
+- 21:28 say: {"text":"Billy, morning 1031, at 417,107,-1051. View east: planks 2 blocks ahead, no open cell I can name. Still holding. Trini, the potatoes stay with you until Worf is in your sight."}
+- 21:44 act: {"actions":[{"do":"note","text":"Day 1032 dusk at 417,107,-1051. Health 20, hunger 20, empty pack. Jason, Zack and Worf in reach. Holding in the row; no open cell named, no walk."}],"say":"Billy here,
+- 21:50 act: {"actions":[{"do":"note","text":"Day 1032 morning. Viewed east myself: planks 2 blocks ahead, no open cell. Still holding at 417,107,-1051 with Jason, Zack, Worf in sight."}],"say":"Billy, morning. I 
+- 21:50 act: {"actions":[],"say":"Trini, Billy here. I see no open cell either, so I name none. Hold the potatoes; I will name one only when I have seen it open."}
+- 21:59 act: {"actions":[{"do":"note","text":"Day 1032 night. Holding at 417,107,-1051 in sight of Jason, Zack, Worf. No open cell named, no walk. Health 20, hunger 20, empty pack. days_since_sleep 6, bed 1051 blo
+- 22:02 act: {"actions":[],"say":"Billy, morning, at 417,107,-1051 in sight of Jason and Zack. I have named no cell yet. I will name one only after I see it open myself in daylight."}
+- 22:02 act: {"actions":[{"do":"note","text":"Day 1032 morning. View east from 417,107,-1051: planks 2 ahead, chest 2 ahead, no open cell. Named none. Holding in the row."}]}
