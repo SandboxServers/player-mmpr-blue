@@ -66,3 +66,6 @@
 - 16:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Billy, at the row beside my bed 415,107,-1050. Health 20, hunger 20, no food. I hol
 - 16:59 say: {"text":"Billy, at my bed beside 415,107,-1050, health 20, unarmed, no food. Still no open cell confirmed past 423, so no walk. Jason, Worf: name cells you have seen open and I will check them at ligh
 - 17:02 say: {"text":"Billy, day, at 418,107,-1051, health 20, unarmed, no food. Zack, Worf, Trini: I checked my view east and still see no open cell past 423, so I name none. Hold in sight; I will check any cell 
+- 17:07 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy, day 1018, at the row, health 20, hunger 20, unarmed. I am opening the chest one step east to look for a weapon. I walk nowhere
+- 17:07 act: {"actions":[{"do":"note","text":"Day 1018. Opened chest 419,107,-1051: no weapon or food seen in my hands. Still unarmed, health 20, hunger 20. No open route past 423 named by anyone. Holding at bed, 
+- 17:08 act: {"actions":[],"say":"Billy: Trini, I hear you. I have seen no clear cell past 423 either, so I name no route. I hold at my bed in sight of Jason, Zack and Worf."}
