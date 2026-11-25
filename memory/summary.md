@@ -1,13 +1,11 @@
-# Summary (day 983)
+# Summary (day 993, night)
 
-I am Billy. Health 20, hunger 20. Pack empty, unarmed, no food. Standing at the bed row near the spawn 415-417,107,-1037 to -1050.
+I am Billy. Health 20, hunger 20. Pack empty, unarmed, no food. Asleep-safe on bed 415,107,-1051 (sleep worked, night 993).
 
-Night 983: slept at bed 415,107,-1050 (Jason's bed). The first try was partial; the second worked. Still days_since_sleep is counted from before this night.
+Group: Worf, Jason, Zack, Wesley, Troi, Leonardo, Picard and others hold near the bed row at spawn 415-417,107,-1037 to -1051.
 
-Group: Worf, Jason, Zack, Wesley, Data, MacDonald, Troi, Leonardo, all holding in the row. Leonardo is at health 1, hunger 17, and is owed food first. Worf named plank 416,107,-1052 to open in daylight with everyone in sight; I agreed to come only if all can see me.
+Rules: no walks in the dark, no walks alone, only a named daylight route with an armed leader and the group in sight. Gives only to someone in sight and reachable.
 
-Places: spawn 416,107,-1037. Beds that have worked or are noted: 415,107,-1050 (worked day 983). Refused earlier: 413,107,-1041/-1042, 415,107,-1036/-1037. Untried: 429,107,-1037, 401,107,-1037/-1036. Potatoes ripe at 463-467,107,-1073 to -1076 (no route yet). Chests: 419,107,-1037 (opened, unread), 405,107,-1037, 433,107,-1037, 447,107,-1065 (unchecked).
+Goals: 1) stay alive at night on a bed (415,107,-1051 and -1050 work). 2) get a weapon: Jason's owed sword, Lewis's wooden sword at 451,107,-1065, or chest 447,107,-1065. 3) food: ripe potatoes at 463-467,107,-1073 to -1076, daylight only, once Worf names a route. 4) pay debts once food is held: Leonardo first, then Troi, Zack, Worf, Picard.
 
-Debts: Leonardo, Troi, Zack, Worf, Picard, Beverly. Owed to me: Bcrusher potatoes, Jason's sword, Wesley beef.
-
-Lessons: walk only in daylight with an armed friend in sight. Give only to someone in sight and reachable. Do not count a route as open until walked. Get a weapon first.
+Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef.
