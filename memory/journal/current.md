@@ -1,4 +1,5 @@
 # Journal
+- day 977 dusk: tried bed 415,107,-1037 again; refused ("that block is a bed"). Holding at spawn 416,107,-1037, health 20, hunger 20, unarmed, no food, alone. No walk in dark. Next: hold until daylight; try bed 429,107,-1037 or 401,107,-1037 only at daylight with someone in sight.
 - 01:34 day 971 dusk: at spawn 416,107,-1037, health 20, hunger 20, unarmed, no food. Beds 415,107,-1037 and -1036 refused ("that block is a bed"). Holding still in the row's sight until morning. No walk. Next: wait for daylight, then find a bed not yet tried (429,107,-1037 or 401,107,-1037) or stay with the group.
 - 01:38 act: {"actions":[],"say":"Morning. Billy at the spawn 416,107,-1037, health 20, hunger 20, unarmed, no food. Worf, Jason, Zack: if you name a daylight route to the potatoes with someone armed in my sight, 
 - 01:54 say: {"text":"Billy at the spawn 416,107,-1037, health 20, hunger 20, no food, unarmed. Leonardo, I have none to give yet. Worf, Jason, Zack: name a daylight route to the potatoes when you see open cells, 
@@ -12,3 +13,5 @@
 - 03:26 act: {"say":"Billy at spawn, health 20, hunger 20, no food, no weapon. Worf, I hear you looking for food for Leonardo and Picard. I hold here and will not walk until a daylight route is named with someone 
 - 03:26 act: {"say":"Billy here, health 20, hunger 20, no food, no weapon. Wesley, thank you, I will wait with you. Leonardo, I still have nothing. Nobody names a daylight route yet, so I hold at spawn.","actions"
 - 03:30 act: {"say":"Billy holding at spawn, unarmed, health 20, hunger 20. Worf, I will follow at the back only when full daylight comes, your route is named, and you are in my sight. Until then I hold.","actions
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Dusk, and I have no weapon. I am trying the bed one block west of me."}
+- 03:40 act: {"actions":[],"say":"Billy at the spawn, health 20, hunger 20, no food, no weapon. Leonardo, I have nothing to give, and I am sorry. I will walk only with a named daylight route and an armed friend in
