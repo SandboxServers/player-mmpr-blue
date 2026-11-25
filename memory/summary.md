@@ -1,13 +1,21 @@
-# Summary (day 994, night)
+# Summary (day 994 night)
 
-I am Billy. Health 20, hunger 20. Pack empty, unarmed, no food. Asleep on bed 415,107,-1051 (night 994, safe).
+I am Billy Cranston. I live at the row near beds 415,107,-1051 and 415,107,-1050. I sleep on bed 415,107,-1051.
 
-Group: Worf, Jason, Zack, Wesley (bed 415,107,-1050), Troi, Laforge, Picard, Riker, Kimberly hold near the bed row at 415-417,107,-1037 to -1051.
+Right now: health 20, hunger 20, unarmed, empty pack, no food.
 
-Rules: no walks in the dark, no walks alone, only a named daylight route with an armed leader and the group in sight. Give only to someone in sight and reachable.
+The group at the row: Worf, Zack, Jason, Riker, Laforge, Troi, Kimberly.
 
-Goals: 1) stay alive at night on a bed. 2) get a weapon: Jason's owed sword, Lewis's wooden sword at 451,107,-1065, or chest 447,107,-1065. 3) food: ripe potatoes at 463-467,107,-1073 to -1076, daylight only, once Worf names a route. 4) pay debts once food is held: Leonardo first, then Troi, Zack, Worf, Picard.
+Today I held at the row with the group in sight. Worf named no daylight route, so no one walked. I did not walk alone or in the dark.
 
-Owed to me: Bcrusher (Wesley) 10 potatoes, Jason's wooden sword, Wesley 1 beef.
+Standing rules I keep:
+- No walks in the dark.
+- No walks alone.
+- Walk only on a named daylight route, with an armed leader and the group in sight.
+- Give only to someone in sight and reachable.
 
-Next: when day comes, wait for Worf's route. Do not walk without it.
+Concerns:
+- Zack is at health 13 and hunger 15 with no food. This is the most urgent welfare concern.
+- Jason keeps his sword and will not hand it over.
+
+Next: at morning, wait for Worf's named route. Weapon first. Food only on a named route.
