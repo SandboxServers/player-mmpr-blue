@@ -59,3 +59,4 @@
 - 16:16 say: {"text":"Still night. I am at my bed and will hold here until first light, with no walk in the dark."}
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy: daylight. I am going to look in the chest at 419,107,-1051 for a weapon or 
 - 16:20 act: {"actions":[],"say":"Billy: the chest at 419 opened, but I see no contents in my hands. I still hold, unarmed, no walk past 423."}
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night. I'm going to my bed at 415,107,-1051 to sleep. No walks in the dark."}
