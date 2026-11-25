@@ -1,31 +1,47 @@
-# Summary (after day 906, phantom night, at 421,107,-1051 on open grass)
+# Summary (after the tidy, day 964-965)
 
-I am Billy. Health about 5-7 after phantom hits; hunger 17. Unarmed, no armour. About 4 potatoes in my pack. My wooden sword is gone from 423,107,-1048.
+I am Billy. Health 20, hunger 20 at the last check, but I have no food and no weapon, and I am unarmed. My pack is empty. Last seen respawned at the spawn 416,107,-1037 after pillagers killed me on the way back from a walk, with a pillager still shooting near the bed row.
 
-What I was doing: trying to feed the owed people at the row (Worf, Zack, Beverly, Picard) and to walk daylight with an armed friend. Gives mostly did not land when people were out of sight. Beds at the row refused me on day 906.
+What I was doing: holding at the bed row beside Worf, Zack, Troi and Leonardo, waiting for Worf to name a daylight route to the ripe potatoes at 463-467,107,-1073 to -1076. No named walk has reached them since day 911. I follow only in daylight and only when an armed person is in my sight.
 
 Places I know (coordinates as the journal gives them):
-- 443,107,-1065 and 443,107,-1064: white beds (night sleep worked here before).
+- 416,107,-1037: the spawn; I respawn here, and I hold here.
+- 417,107,-1036 and 417,107,-1046/-1053: my usual standing spots in the row (near Worf, Zack).
+- 416,107,-1050: Worf's bed; the row lies 418-421,107,-1050.
+- 415,107,-1036 and 415,107,-1037: beds at the spawn; refused lately.
+- 413,107,-1041 and 413,107,-1042: beds; refused, and I died near 412,107,-1041 on night 935.
+- 429,107,-1050 and 429,107,-1051: beds; refused.
+- 415,107,-1050: bed Jason says works for him; not tried by me.
+- 429,107,-1037 and 401,107,-1037 / 401,107,-1036: untried beds.
+- 443,107,-1064 and 443,107,-1065: white beds (sleep worked before, days 886-891).
 - 443,107,-1037 and 443,107,-1036: white bed (sleep worked before).
-- 413,107,-1041/-1042, 415,107,-1036/-1037: beds at the row; refused lately.
-- 429,107,-1050/-1051: beds; refused.
-- 416,107,-1050 (Worf's bed), 418-421,107,-1050 (row).
-- 423,107,-1048: where my wooden sword lay; now gone.
+- 463-467,107,-1073 to -1076: ripe potatoes (earlier note; not reached).
+- 451,107,-1065: Lewis's wooden sword (unclaimed; Lewis is dead).
 - 447,107,-1065: chest, unchecked.
-- 451,107,-1065: Lewis's wooden sword.
-- 463-470,107,-1068..-1075: ripe potato patch (from my earlier note).
-- 401,107,-1037 and 401,107,-1036: untried bed.
-- 425,-1066 (southeast), 408,-1040 (west): pillager sightings.
+- 423,107,-1048: where my wooden sword lay; gone.
+- Danger, pillagers: 425,-1066 (southeast), 408,-1040 (west), 415,-1048 (south of the row), 393,-1047 (where Lewis died).
+- Danger, phantoms: over open ground north and west of the row, at night.
 
-Owed by me: Zack 3 potatoes; Picard 1; Worf 1 (5 from day 887 if still open); Beverly (weakest, first share); Leonardo and Trini (10 potatoes promised day 846); Troi (potatoes from day 829, chicken from day 413); Jason (1 share, given day 906, unconfirmed).
+I owe (one line each):
+- Leonardo: 10 potatoes, promised day 846.
+- Trini: share of the same 10 potatoes, promised day 846.
+- Troi: potatoes from day 829; a chicken from day 413.
+- Zack: 3 potatoes.
+- Worf: 5 potatoes from day 887, and 1 more from day 906.
+- Picard: 1 potato; the next spare sword I can make or find.
+- Beverly: first share when I hold food (weakest first).
+- Jason: 1 potato share, given day 906 (unconfirmed).
 
-Owed to me: Bcrusher 10 potatoes (for Zack and Worf); Jason's wooden sword (day 409); Wesley 1 beef.
+Owed to me (one line each):
+- Bcrusher: 10 potatoes, for Zack and Worf; promised and never handed over.
+- Jason: a wooden sword, promised day 409; never delivered.
+- Wesley: 1 beef, promised to whoever is lowest; not seen given.
 
 Lessons that matter most:
 - Give only when the person is in my sight and reachable. A give sent out of sight does not land.
-- Do not stand on open ground after dark. Phantoms hit from above; bare hands do not stop them.
-- Walk only in daylight with an armed friend in sight the whole way; call off the walk if the group is not in sight.
-- Feed the weakest first, and eat the food I hold rather than promising it.
-- Beds are unreliable now; try a bed that has not refused me, and keep to the group at night.
-
-Next: at first light, eat, check health, and find an armed friend in sight before walking to the sword or chest.
+- Never stand on open ground after dark. Phantoms and pillagers killed me on nights 912, 935 and 964. Bare hands do not stop them.
+- Walk only in daylight, with an armed friend in sight the whole way. Call the walk off if the group is not in sight.
+- Named walks have stalled since day 911. Do not count a route as open until it is walked.
+- Eat the food I hold rather than promising it.
+- Beds are unreliable now. Try a bed that has not refused me, and keep to the group at night.
+- Get a weapon before anything else; I cannot answer an attack without one.
