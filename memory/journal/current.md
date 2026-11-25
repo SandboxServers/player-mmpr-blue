@@ -52,3 +52,7 @@
 - 15:38 say: {"text":"Billy, morning, at 419,108,-1050, health 20, hunger 20, unarmed, no food. Zack, I hold in sight with Worf and Jason. I name no open cell past 423 until I have checked it in sight."}
 - 15:41 say: {"text":"Billy, morning, at 419,108,-1050, health 20, hunger 20, no food, no weapon. I see no open cell past 423 either. Holding in sight; I walk only on cells we both see as air."}
 - 15:58 say: {"text":"Billy at 419,108,-1050. I surveyed 423-428: y 108-109 read as air, y 107 mixed. No safe ground path past 423 yet. I name no walk; I hold."}
+- 16:04 say: {"text":"Billy here, health 20, hunger 20, unarmed. Zack and Worf are hungry. Jason, can you name a daylight route to the potatoes at 463-467,107,-1076 to -1073, with open cells?"}
+- 16:04 act: {"actions":[{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy: I will look in the chest at 419,107,-1051 next to me, in sight of Jason and Zack. Still no walk."}
+- 16:11 say: {"text":"Billy here, at 418,107,-1051, holding. I have no food and no weapon. If anyone sees an open cell on the way to the potatoes, name it and I will look at it before I move."}
+- 16:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}]}
