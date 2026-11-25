@@ -60,3 +60,5 @@
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1051}},{"do":"open","at":{"x":419,"y":107,"z":-1051}}],"say":"Billy: daylight. I am going to look in the chest at 419,107,-1051 for a weapon or 
 - 16:20 act: {"actions":[],"say":"Billy: the chest at 419 opened, but I see no contents in my hands. I still hold, unarmed, no walk past 423."}
 - 16:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Night. I'm going to my bed at 415,107,-1051 to sleep. No walks in the dark."}
+- 16:33 act: {"actions":[{"do":"note","text":"Day 1016 morning. Holding at bed 415,107,-1051. Only 420-423 at z-1051 seen as air; no route past 423 confirmed. Unarmed, no food."}],"say":"Riker, Billy here at my be
+- 16:47 act: {"actions":[],"say":"Billy, day 1017, health 20, hunger 20, unarmed, no food. Zack, I see air only at 420-423 on z=-1051. Nothing past 423 is confirmed open to me. I hold at my bed until someone names
