@@ -1,2 +1,27 @@
 # Journal
 - 17:26 act: {"say":"Billy, morning, at 416,107,-1050, health 20, hunger 20, unarmed. I agree: no walk until Jason has looked at 428,107,-1051 in sight and named what he sees. Zack and Worf first for any food."}
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Dusk. I am going to my bed at 415,107,-1051 for the night. No walks in the dark."}
+- 17:37 act: {"actions":[],"say":"Billy, morning, at my bed 415,107,-1051. Health 20, hunger 20, unarmed, no food. Jason, Zack, Worf: I hold here. I walk nowhere until an open cell is seen in daylight with an arme
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 17:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
+- 17:37 act: {"actions":[{"do":"sleep"}]}
+- 17:41 act: {"actions":[],"say":"Billy, morning, at 415,107,-1051. Health 20, hunger 20, unarmed, no food. Jason has seen only planks, so I name no open cell and walk nowhere. Holding in the row with Jason, Zack 
+- 17:41 act: {"say":"Billy, day, at 415,107,-1051. Hunger 20, health 20, unarmed, no food. I have seen no open cell past 423 either. Holding in sight with Jason, Zack and Worf. Worf, I have nothing to give."}
+- 17:44 act: {"say":"Billy: I have seen no open cell past 423 either, so I name none. Wesley, Worf, Trini, we hold in sight until someone sees one open in daylight."}
+- 17:52 act: {"say":"Billy, dusk, at my bed 415,107,-1051 with Jason, Zack and Worf in sight. No walk until light. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 17:56 act: {"say":"Billy, good light, at 415,107,-1051. Health 20, hunger 20, unarmed, no food. Troi, Worf, Zack: I have nothing to give. No open cell named, so I hold in sight."}
+- 17:58 act: {"actions":[{"do":"note","text":"Day 1020 morning. Sleep at 415,107,-1051 blocked 3 times. No route verified past 423. Holding in sight."}],"say":"Billy, at 415,107,-1051, health 20, hunger 20, no foo
+- 18:05 act: {"actions":[],"say":"Billy, night, at 415,107,-1051 with Worf and the row in sight. Holding. No walk until light.","intent":{"goal":"hold_row_until_light","program":"rest","arguments":{},"wake_on":["d
+- 18:07 act: {"actions":[],"say":"Billy, good morning, at 415,107,-1051, health 20, hunger 20. Worf, I have no potato and nothing in my hands. No open route named, so I hold in sight."}
+- 18:17 act: {"actions":[{"do":"note","text":"Holding at bed 415,107,-1051 at dusk with Worf, Jason, Zack in sight. No food, no open route."}],"say":"Billy, dusk, at my bed 415,107,-1051 with Worf, Jason and Zack 
+- 18:21 act: {"actions":[],"say":"Billy, morning, at my bed 415,107,-1051. Health 20, hunger 20, unarmed, no food. No open cell past 423 has been seen yet. Jason, when you look at 428,107,-1051 in daylight, tell u
+- 18:31 act: {"actions":[{"do":"note","text":"Dusk, day 1022. Holding at bed 415,107,-1051 with Worf, Jason, Zack and Wesley in sight. No food, no open cell past 423. Walking nowhere in the dark."}],"say":"Billy h
+- 18:34 act: {"actions":[{"do":"note","text":"Morning. Holding at bed 415,107,-1051. Asking Jason to look at 428,107,-1051 in sight before anyone walks."}],"say":"Billy, morning, at the row bed 415,107,-1051, hold
+- 18:35 act: {"actions":[{"do":"note","text":"Morning. Worf hunger 8, Zack holding. I have nothing to give; holding at the row bed."}],"say":"Worf, I have nothing in my hands to give you. I hold here at the row be
+- 18:44 act: {"actions":[{"do":"note","text":"Dusk, day 1022. Holding at 415,107,-1051 in sight of Jason, Worf, Zack, Wesley. No food, no open cell past 423. Walk nothing in the dark."}],"say":"Billy here, at the 
+- 18:47 act: {"actions":[{"do":"note","text":"Day 1023, day. Still at 415,107,-1051 with Jason, Zack, Worf in sight. No food held, no open cell past 423 seen. Holding."}],"say":"Worf, I hold no potato and no food,
+- 18:52 act: {"actions":[],"say":"Zack, Billy here, still at the row in sight of Jason, Worf and Wesley. I have no food and I have not seen an open cell past 423. I hold with you."}
+- 18:58 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. Billy trying the white bed beside mine at 415,107,-1050 for the night, in sight of Jason, Zack and Worf. No food, no walk until 
+- 18:58 act: {"actions":[],"say":"Zack, you take the bed at 415,107,-1050; I will hold here beside you in sight for the night, no walk until light."}
+- 19:03 act: {"actions":[],"say":"Morning. Billy at 415,107,-1051, health 20, hunger 20, no food, unarmed. I have seen no open cell past 423 either. I walk nowhere until one is named and seen."}
+- 19:08 act: {"actions":[{"do":"note","text":"Billy holds at 415,107,-1051 in sight of Zack, Jason, Worf, Bcrusher. No food, unarmed, no open cell past 423 seen by me."}],"say":"Billy here, still at 415,107,-1051,
