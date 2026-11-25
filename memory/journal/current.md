@@ -31,3 +31,10 @@
 - 19:20 act: {"actions":[],"say":"Troi, Billy here at my bed, health 20, hunger 20, unarmed, nothing in my hands. Holding in sight with Jason and Zack. Walking nowhere until a cell is seen open."}
 - 19:25 act: {"actions":[{"do":"sleep"}],"say":"Billy, dusk, at my bed 415,107,-1051 with Jason, Zack and Worf in sight. Holding, no walk until light. Going to sleep here."}
 - 19:28 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Billy in my bed at 415,107,-1051, holding in sight. No walk until light."}
+- 19:28 act: {"actions":[],"say":"Billy, morning, at the row, health 20, hunger 20, unarmed, no food. Jason, could you look at 428,107,-1051 in this light and tell us what you see? I walk nowhere until a named cel
+- 19:29 act: {"actions":[],"say":"Billy, morning, health 20, hunger 20, no food, no potato, hands empty. Worf, I am sorry, I have nothing. Jason, thank you for looking. No cell seen open, so we all hold."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night. Billy going to my bed at 415,107,-1051 with Worf and Zack near. No walk until light."}
+- 19:42 act: {"actions":[],"say":"Billy, night, holding here with Jason, Zack and Worf in reach. No walk until light."}
+- 19:46 act: {"actions":[],"say":"Billy, morning day 1026. I have seen nothing open past 423 either. Jason, can you look at 428,107,-1051 in daylight and name exact open cells? I walk nowhere until one is named."}
+- 19:47 act: {"actions":[],"say":"Billy, my view east is planks, no open cell. I hold here too, empty-handed, until someone names one seen open."}
+- 19:50 act: {"actions":[],"say":"Trini, Billy. I see the same planks, nothing open. I will not break them, they may be someone's wall. I hold here, empty-handed, until a cell is named open."}
