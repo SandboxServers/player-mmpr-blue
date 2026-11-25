@@ -1,8 +1,5 @@
-Handoff, dusk day 983.
-Billy at spawn 416,107,-1037 on cobblestone, not enclosed. Health 20, hunger 20. Pack empty, unarmed, no food.
-Group: Worf, Jason, Wesley (wcrusher), Zack, Data, MacDonald, Troi, Leonardo all hold at their beds in the row.
-Agreed in principle (Worf, Jason, Wesley, me): open ONE plank in daylight, with everyone in sight. Worf must name the cell and the hour. I have not named a cell; I will come only if all can see me.
-Leonardo at bed 416: health 1, hunger 17. Owed first when food is held.
-Potatoes (ripe) at 463-467,107,-1073..-1076, still no route.
-Untried beds: 429,107,-1037, 401,107,-1037/-1036, 415,107,-1050. Bed 415,107,-1037 refused "that block is a bed" twice; stand on a bed, do not use from beside it.
-No walk in the dark, no walk alone.
+Handoff, night 983 (waking 1489).
+Slept on bed 415,107,-1051 and it worked. Health 20, hunger 20, unarmed, empty pack, no food.
+Zack, Jason, Worf and Wesley were in sight. Still no weapon, no food, no route to the potatoes.
+Next: wait for daylight. Only walk in daylight, with a named armed leader in sight. Weapon first (Jason's owed sword, or the wooden sword at 451,107,-1065).
+Debts unchanged: owed to me Bcrusher 10 potatoes, Jason's sword, Wesley 1 beef. I owe Leonardo first, then Troi, Zack, Worf, Picard.
