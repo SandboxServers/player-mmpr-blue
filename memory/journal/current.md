@@ -37,3 +37,6 @@
 - 08:51 act: {"actions":[{"do":"note","text":"Day 993 midday. Still holding in sight; no route named. Unarmed, no food. Laforge holds at row bed too."}]}
 - 08:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Dusk is coming. I'm going to my bed at 415,107,-1051 for the night, with Worf, Zack and Jason close by."}
 - 08:52 say: {"text":"Morning, row. Billy here, health 20, empty-handed. Still no daylight route named, so I'll hold until Worf names one with everyone in sight."}
+- 08:53 act: {"say":"Dusk. I am on my bed, unarmed and holding still. No walk tonight."}
+- 08:53 act: {"actions":[{"do":"sleep"}]}
+- 08:53 act: {"actions":[{"do":"note","text":"Night 993. Slept safe on bed 415,107,-1051, sleep worked, Zack, Worf and Jason in sight. Health 20, hunger 20, unarmed, no food. Still no daylight route named by Worf;
