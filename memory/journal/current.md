@@ -15,3 +15,19 @@
 - 03:30 act: {"say":"Billy holding at spawn, unarmed, health 20, hunger 20. Worf, I will follow at the back only when full daylight comes, your route is named, and you are in my sight. Until then I hold.","actions
 - 03:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Dusk, and I have no weapon. I am trying the bed one block west of me."}
 - 03:40 act: {"actions":[],"say":"Billy at the spawn, health 20, hunger 20, no food, no weapon. Leonardo, I have nothing to give, and I am sorry. I will walk only with a named daylight route and an armed friend in
+- 03:49 act: {"say":"Billy here, dusk, unarmed, no food, holding at the spawn. No walk in the dark. I will try the bed one step west, and I stay where Worf and Jason are.","actions":[{"do":"use","at":{"x":415,"y":
+- 03:50 act: {"actions":[{"do":"note","text":"Dusk day 978: holding at spawn unarmed. Use on the bed failed (a bed must be stood on, not used from afar). Holding still, no walk in the dark."}]}
+- 03:54 act: {"say":"Morning. Billy at the spawn, health 20, hunger 20, no food, no weapon. Worf, I hold here until you name a daylight route with someone armed in my sight. I have no food to give yet.","actions":
+- 04:10 act: {"say":"Morning, all. Billy at the spawn, health 20, hunger 20, no food, no weapon. I have seen no open route past the planks, so I name none. Worf, when you name one, I walk only in your sight. Until
+- 04:18 act: {"actions":[],"say":"Dusk, Billy holding at the spawn 416,107,-1037. No walk in the dark. Jason and Worf are holding at their beds too."}
+- 04:21 act: {"actions":[],"say":"Morning. Billy at the spawn, health 20, hunger 20, no food, no weapon. Still holding for a named daylight route with someone armed in sight."}
+- 04:23 act: {"actions":[],"say":"Worf, I hear you hold the stone sword. Name the route when you see open air, and I will walk only in your sight."}
+- 04:31 act: {"actions":[],"say":"Goodnight, row. Billy holds at the spawn, health 20, hunger 20. No walk tonight."}
+- 04:39 act: {"actions":[],"say":"Billy, morning, day 980 light. I have no open route to name; the planks still wall the row. I hold at the spawn with health 20, hunger 20. MacDonald, Zack, Worf: name open air whe
+- 04:47 act: {"actions":[],"say":"Billy, morning of 981, health 20, hunger 20, no food, unarmed. Leonardo, I hear you at health 1; Trini, the potatoes first, please. Worf, Zack, Jason: name open air when you see i
+- 04:48 act: {"actions":[],"say":"Billy, morning 981, holding at spawn. Jason, you hold the sword: when you can see open air from your bed, name it, and I will come only in your sight. I will not walk until then."
+- 04:57 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Billy, dusk 981. I hold at spawn beside the bed 415,107,-1037, no walk in the dark. Goodnight, row."}
+- 05:03 act: {"actions":[],"say":"Billy, morning 982, at spawn, health 20, hunger 20. I hold no potatoes and no food, so I owe nothing to hand over yet. Worf, Leonardo: when food is in my hands I will bring it to 
+- 05:20 act: {"actions":[],"say":"Billy, morning, at spawn, health 20, hunger 20, no food, no weapon. I have seen no open route from here, so I name no walk yet. Jason, if you can see open air from your bed, name 
+- 05:23 act: {"actions":[],"say":"Billy: Worf, I agree to one plank opened in daylight, with everyone in sight of the wall. I will stand at spawn and watch. Name the plank and the hour, and I will come only if all
+- 05:30 act: {"say":"Billy here, at spawn, health 20, hunger 20, pack empty. Holding. Worf, I need a named cell and an hour before I walk, with everyone in sight."}
