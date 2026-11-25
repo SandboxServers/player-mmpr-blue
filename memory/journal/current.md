@@ -46,3 +46,9 @@
 - Dusk, day 1012. Sleep at my bed worked on this try (first try of this dusk). Jason and Worf in reach, health 20, hunger 20, unarmed, empty pack. Still no open cell named past 423, so no walk. Next: wake, hold, and check food and weapon at first light.
 - 15:22 act: {"say":"Billy, morning, awake at my bed. Health 20, hunger 20, unarmed, no food. Jason, Worf, Zack: I hold here. I still see no open cell past 423, so no walk yet.","actions":[]}
 - 15:23 act: {"say":"Trini: only 420, 421, 422 and 423 at y107 z-1051 are air, which I surveyed. Past 423 I have seen nothing open, so I name no route. Hold at your bed; I hold at mine.","actions":[]}
+- 15:24 act: {"say":"Wesley, I have seen no open cell past 423, so I name none. I hold at my bed with you in sight.","actions":[]}
+- 15:25 act: {"say":"Zack, I hear you. I have no food and I name no open cell past 423. Worf, if you name exact cells I will check each one in sight.","actions":[]}
+- 15:34 say: {"text":"Billy, night, at my bed 415,107,-1051. Health 20, hunger 20, no food, unarmed. No walk until light. Worf and Zack, I name no route until I can see the cells."}
+- 15:38 say: {"text":"Billy, morning, at 419,108,-1050, health 20, hunger 20, unarmed, no food. Zack, I hold in sight with Worf and Jason. I name no open cell past 423 until I have checked it in sight."}
+- 15:41 say: {"text":"Billy, morning, at 419,108,-1050, health 20, hunger 20, no food, no weapon. I see no open cell past 423 either. Holding in sight; I walk only on cells we both see as air."}
+- 15:58 say: {"text":"Billy at 419,108,-1050. I surveyed 423-428: y 108-109 read as air, y 107 mixed. No safe ground path past 423 yet. I name no walk; I hold."}
