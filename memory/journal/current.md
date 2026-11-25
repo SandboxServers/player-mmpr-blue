@@ -65,3 +65,4 @@
 - 16:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy, night, going to my bed beside 415,107,-1050 in the row. Health 20, hunger 20, no food. No walk until light.","intent":{"go
 - 16:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Billy, at the row beside my bed 415,107,-1050. Health 20, hunger 20, no food. I hol
 - 16:59 say: {"text":"Billy, at my bed beside 415,107,-1050, health 20, unarmed, no food. Still no open cell confirmed past 423, so no walk. Jason, Worf: name cells you have seen open and I will check them at ligh
+- 17:02 say: {"text":"Billy, day, at 418,107,-1051, health 20, unarmed, no food. Zack, Worf, Trini: I checked my view east and still see no open cell past 423, so I name none. Hold in sight; I will check any cell 
