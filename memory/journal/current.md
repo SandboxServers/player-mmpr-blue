@@ -6,3 +6,17 @@
 - 00:54 act: {"actions":[],"say":"Troi, I'm at the spawn, health 20, hunger 20. Holding still until daylight. No food or sword yet."}
 - 00:57 act: {"actions":[],"say":"John, Leonardo, Worf: Billy here at the spawn, unarmed, pack empty, health 20, hunger 20. I'll hold in sight of the beds and follow Worf's call. No walk until someone names a rout
 - 00:58 act: {"actions":[],"say":"Morning, Troi. Glad to see you too. I hold here. Worf, name a daylight route when the cells are clear and I'll follow at the back."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1037}},{"do":"open","at":{"x":419,"y":107,"z":-1037}}],"say":"Daylight, and no one in sight. I will check the chest by the spawn for anything I 
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy here, morning. Chest at 419,107,-1037 opened but its contents did not show to me. Going to Worf's bed at 416,107,-1050, in 
+- 01:04 act: {"actions":[],"say":"Billy at 413,107,-1050, the row is dim and I can see no one. Holding still here, unarmed, no food. Worf, Jason, Zack: call me if you see me out of line."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Coming to you, Zack and Jason, to Worf's bed. Unarmed, no food."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Worf, Jason: Billy is by the bed at 415,107,-1050, which Jason said works. Dusk is 
+- 01:05 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Trying the bed at 415,107,-1051 for the night, in the row's sight."}
+- 01:06 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to the bed at 415,107,-1050 to sleep. Still unarmed, no food."}
+- 01:10 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy trying the bed here in the row's sight, unarmed, no food."}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1049}}],"say":"Billy is back to the row at dawn, unarmed, no food. Holding with Jason and Worf."}
+- 01:14 act: {"actions":[],"say":"Billy here at the beds, health 20, hunger 20, unarmed, no food. Worf, I hold. Name the open cells you see and I will wait for them before any walk."}
+- 01:15 say: {"text":"Billy: I name no walk yet. I am unarmed and I have no open route to the potatoes. Troi, hold at your bed. Worf, when you see open cells, name them and I will follow only in daylight."}
+- 01:22 act: {"actions":[{"do":"sleep"}],"say":"Billy: it is night and I hold here with the row. I try the bed now."}
+- 01:26 say: {"text":"Billy, morning day 971. I slept at the bed and I am up, health 20, hunger 20, no food and no weapon. I name no walk. I hold at 416,107,-1037 with the row until Worf names open cells."}
+- 01:27 say: {"text":"Leonardo, I have no potato or bread, my pack is empty. I hold here at the bed. I will give what I get to you first."}
