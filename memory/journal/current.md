@@ -1,22 +1,14 @@
 # Journal
-- 00:51 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1046}}],"intent":{"goal":"escape_pillager_west","program":"travel","arguments":{"target":{"x":398,"y":107,"z":-1046}},"wake_on":["goal_completed
-- 00:51 act: {"actions":[],"say":"Pillager shot me; I'm at 0 health and unarmed. Staying still."}
-- 00:53 act: {"actions":[],"say":"Jason, I'm at the spawn 416,107,-1037, unarmed, no food. Too dark to walk to you; I'll hold still here."}
-- 00:53 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
-- 00:54 act: {"actions":[],"say":"Troi, I'm at the spawn, health 20, hunger 20. Holding still until daylight. No food or sword yet."}
-- 00:57 act: {"actions":[],"say":"John, Leonardo, Worf: Billy here at the spawn, unarmed, pack empty, health 20, hunger 20. I'll hold in sight of the beds and follow Worf's call. No walk until someone names a rout
-- 00:58 act: {"actions":[],"say":"Morning, Troi. Glad to see you too. I hold here. Worf, name a daylight route when the cells are clear and I'll follow at the back."}
-- 01:04 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1037}},{"do":"open","at":{"x":419,"y":107,"z":-1037}}],"say":"Daylight, and no one in sight. I will check the chest by the spawn for anything I 
-- 01:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Billy here, morning. Chest at 419,107,-1037 opened but its contents did not show to me. Going to Worf's bed at 416,107,-1050, in 
-- 01:04 act: {"actions":[],"say":"Billy at 413,107,-1050, the row is dim and I can see no one. Holding still here, unarmed, no food. Worf, Jason, Zack: call me if you see me out of line."}
-- 01:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Coming to you, Zack and Jason, to Worf's bed. Unarmed, no food."}
-- 01:05 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Worf, Jason: Billy is by the bed at 415,107,-1050, which Jason said works. Dusk is 
-- 01:05 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Trying the bed at 415,107,-1051 for the night, in the row's sight."}
-- 01:06 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to the bed at 415,107,-1050 to sleep. Still unarmed, no food."}
-- 01:10 act: {"actions":[{"do":"sleep"}],"say":"Night. Billy trying the bed here in the row's sight, unarmed, no food."}
-- 01:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1049}}],"say":"Billy is back to the row at dawn, unarmed, no food. Holding with Jason and Worf."}
-- 01:14 act: {"actions":[],"say":"Billy here at the beds, health 20, hunger 20, unarmed, no food. Worf, I hold. Name the open cells you see and I will wait for them before any walk."}
-- 01:15 say: {"text":"Billy: I name no walk yet. I am unarmed and I have no open route to the potatoes. Troi, hold at your bed. Worf, when you see open cells, name them and I will follow only in daylight."}
-- 01:22 act: {"actions":[{"do":"sleep"}],"say":"Billy: it is night and I hold here with the row. I try the bed now."}
-- 01:26 say: {"text":"Billy, morning day 971. I slept at the bed and I am up, health 20, hunger 20, no food and no weapon. I name no walk. I hold at 416,107,-1037 with the row until Worf names open cells."}
-- 01:27 say: {"text":"Leonardo, I have no potato or bread, my pack is empty. I hold here at the bed. I will give what I get to you first."}
+- 01:34 day 971 dusk: at spawn 416,107,-1037, health 20, hunger 20, unarmed, no food. Beds 415,107,-1037 and -1036 refused ("that block is a bed"). Holding still in the row's sight until morning. No walk. Next: wait for daylight, then find a bed not yet tried (429,107,-1037 or 401,107,-1037) or stay with the group.
+- 01:38 act: {"actions":[],"say":"Morning. Billy at the spawn 416,107,-1037, health 20, hunger 20, unarmed, no food. Worf, Jason, Zack: if you name a daylight route to the potatoes with someone armed in my sight, 
+- 01:54 say: {"text":"Billy at the spawn 416,107,-1037, health 20, hunger 20, no food, unarmed. Leonardo, I have none to give yet. Worf, Jason, Zack: name a daylight route to the potatoes when you see open cells, 
+- 02:11 say: {"text":"Billy at the spawn, health 20, hunger 20, no food, no weapon. I have no route named either, and no open cells past the planks. I will not walk until someone names a daylight route with an arm
+- 02:21 act: {"actions":[],"say":"Billy at the spawn 416,107,-1037, health 20, hunger 20, no food, no weapon. No daylight route named yet, and no one is in my sight. I hold here. Leonardo, I have nothing to give y
+- 02:31 act: {"actions":[],"say":"Billy here at the spawn, health 20, hunger 20, no food, no weapon. Troi, Jason, Zack: no route named yet and no one in my sight. I hold until a daylight route is named with someon
+- 02:31 act: {"actions":[],"say":"Morning. Billy, health 20, hunger 20, no food, no weapon. Zack, the melon field is far and I cannot see you from here. I will not walk until Worf or Jason names the daylight cells
+- 02:49 act: {"actions":[],"say":"Morning. Billy at the spawn, health 20, hunger 20, no food, no weapon. Leonardo, I have none to give yet. No route named by anyone, so I hold here. I will walk only a named daylig
+- 03:01 act: {"actions":[],"say":"Billy, morning, health 20, hunger 20, no food, no weapon. I have seen no open cells past the planks, so I cannot name a route. Leonardo, I am sorry, I have nothing. Worf, if you c
+- day 977 day: at spawn, health 20, hunger 20, no food, no weapon, no one armed in sight. Wesley and Leonardo spoke; no route named. No walk. Next: wait for a named daylight route.
+- 03:26 act: {"say":"Billy at spawn, health 20, hunger 20, no food, no weapon. Worf, I hear you looking for food for Leonardo and Picard. I hold here and will not walk until a daylight route is named with someone 
+- 03:26 act: {"say":"Billy here, health 20, hunger 20, no food, no weapon. Wesley, thank you, I will wait with you. Leonardo, I still have nothing. Nobody names a daylight route yet, so I hold at spawn.","actions"
+- 03:30 act: {"say":"Billy holding at spawn, unarmed, health 20, hunger 20. Worf, I will follow at the back only when full daylight comes, your route is named, and you are in my sight. Until then I hold.","actions
