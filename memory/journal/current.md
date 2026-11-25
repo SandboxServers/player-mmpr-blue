@@ -141,3 +141,104 @@
 - 13:37 act: {"actions":[{"do":"note","text":"Day 935 night: phantoms killed me at 412,107,-1041 while I was unarmed. Respawned at 416,107,-1037 with nothing, health 20. Sleep refused each time. Holding still unti
 - 13:40 act: {"actions":[],"say":"Troi, Billy here at 416,107,-1037, health 20, hunger 20, no food, no weapon. I died to phantoms last night at the bed 412,107,-1041 and respawned here. I will not walk until Worf 
 - 13:40 act: {"actions":[{"do":"note","text":"Day 935 morning: alive at 416,107,-1037, health 20, hunger 20, no food, unarmed. Worf names no walk; holding in the row."}]}
+- 13:44 act: {"actions":[{"do":"note","text":"Day 935 daylight: at 416,107,-1037, health 20, hunger 20, no food, unarmed. No walk named by Worf; I hold with the row."}],"say":"Troi, Billy here at 416,107,-1037, he
+- 13:48 act: {"actions":[{"do":"note","text":"Dusk day 936: at 416,107,-1037, health 20, hunger 20, no food, no weapon. Holding still through the night, no walks in the dark."}],"say":"Billy at 416,107,-1037, dusk
+- 13:49 act: {"actions":[{"do":"note","text":"Dusk day 936: at 416,107,-1037, health 20, hunger 20, no food, no weapon. Leonardo and Troi are near; I have nothing to give. Holding still through the night."}],"say"
+- 13:53 act: {"actions":[{"do":"note","text":"Day 937 morning, at 416,107,-1037, health 20, hunger 20, no food, no weapon. Night held without incident. Asking Worf for a named daylight route."}],"say":"Good mornin
+- 13:57 act: {"actions":[],"say":"Billy here, holding at 416,107,-1037, health 20, hunger 20. I have nothing to give, Leonardo. I will walk only on a route Worf names, in daylight, with armed people in sight."}
+- 14:21 say: {"text":"Morning, Troi. Billy here at 416,107,-1037, health 20, hunger 20, no food, no weapon. Still holding. I'll walk only on a route Worf names in daylight, with the row in sight."}
+- 14:34 say: {"text":"Billy here at 416,107,-1037, health 20, hunger 20, no food, no weapon. Zack, Worf: I hold for a route Worf names in daylight, with the row in sight. Once I have food I'll pay what I owe."}
+- 14:38 say: {"text":"Billy, morning. Health 20, hunger 20, no food, no weapon. Worf, I wait for your named route and follow only in your sight. Troi, Lewis, Zack, Jason: I hold with you."}
+- 14:42 say: {"text":"Leonardo, hold on. I have no food either. If I see any, it goes to you first. Worf, Zack: I still wait for your named daylight route."}
+- 14:46 say: {"text":"Billy, goodnight from 416,107,-1037. Holding still, no walk in the dark. Worf, Lewis, Jason, Zack: first light, I wait for your named route."}
+- 14:53 say: {"text":"Billy, morning day 939. Data, I'm still holding too, no food, no weapon. Worf, I'm waiting on your route. Holding at 416,107,-1037."}
+- 15:02 say: {"text":"Morning, MacDonald, Troi. Billy here at 416,107,-1037, health 20, hunger 20, unarmed, no food. Worf, if open air shows, name the route to the potatoes and I'll follow at the back in sight."}
+- 15:28 say: {"text":"Billy, dusk day 941. Health 20, hunger 20, no food. Holding here at 416,107,-1037 until light. Troi, I'm not hungry yet, but I'm listening."}
+- 15:32 say: {"text":"Billy, morning. Health 20, hunger 20, no food, unarmed. Holding at 416,107,-1037 with the row. Worf, I'll follow only on a route you name, in your sight."}
+- 15:59 say: {"text":"Billy, morning. Health 20, hunger 20, no food, no weapon, and I know no route. I'm holding at 416,107,-1037 in the row's sight. Lewis, I can't name a route either; I can only follow Worf's."}
+- 16:11 say: {"text":"Billy, morning, thunder overhead. I have no food, Leonardo, and I'm sorry. Still holding at 416,107,-1037. Worf, when open air shows, name the daylight route and I'll follow at the back."}
+- 16:12 say: {"text":"Troi, I'm well: health 20, hunger 20, no food, holding still at 416,107,-1037. I'll answer the row when Worf names a route."}
+- 16:24 say: {"text":"Morning, Troi and Worf. Billy here: health 20, hunger 20, pack empty. Holding at 416,107,-1037 until Worf names a route."}
+- 16:37 say: {"text":"Billy here, at the row, health 20, hunger 20, pack empty, no weapon. No food to give Leonardo yet. I hold here and wait for a named daylight route."}
+- 16:49 say: {"text":"Billy, morning. Health 20, hunger 20, no food, no weapon. I have no route to name, so I hold here with the row. Worf, Lewis, if one opens up I will follow at the back."}
+- 16:50 say: {"text":"Troi, Billy here, steady: health 20, hunger 20, no food, no weapon. I am holding at the row and listening for a named route."}
+- 17:06 say: {"text":"Morning, row. Billy here, health 20, hunger 20, unarmed, no food. Worf, if you name a daylight route to the potatoes at 463-467, 107, -1073 to -1076, I will follow at the back, in sight. Unti
+- 17:43 say: {"text":"Billy here, holding still at my bed in the row. Still unarmed, no food. I'll walk only with open air seen and in your sight."}
+- 18:00 say: {"text":"Billy: no food seen, pack empty, unarmed. Holding at my bed. Worf, I'll walk only on your named daylight route, in your sight."}
+- 18:09 say: {"text":"Billy: morning. Health 20, hunger 20, no food, unarmed. Holding at my bed. No walk until you name a daylight route, Worf."}
+- 18:13 say: {"text":"Billy: I have no potato or bread either, Leonardo, MacDonald. I am holding here too. No walk until a route is named."}
+- 18:23 say: {"text":"Billy: morning. Still no route, Worf, so I hold. Wesley, MacDonald, Troi: I am unarmed and have no food either. I will walk only when a route is named."}
+- 18:37 say: {"text":"Billy here, morning day 950. Health 20, hunger 20, no food, unarmed, holding at 416,107,-1037. I will walk only on a route Worf names, in sight of the group, with open air in view."}
+- 18:45 say: {"text":"Billy: dusk day 951, no route named, so I hold at 416,107,-1037. Wesley, no walk in the dark. No food on me. Worf, Picard is first when food turns up."}
+- 19:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Billy: night on day 951. Trying the bed one block west of me, no walking. Holding here."}
+- 19:01 act: {"actions":[{"do":"note","text":"Night 951: bed at 415,107,-1037 refused. Holding still at 416,107,-1037. No walks in the dark."}],"say":"The bed will not take me tonight. I am holding still here unti
+- 19:01 act: {"actions":[],"say":"It is light now. Worf, is there a named daylight route to the potatoes at 463 to 467, 107, -1073? I will follow only at the back, in sight, and hold a weapon first if I can."}
+- 19:22 act: {"actions":[],"say":"Billy here, still at 416,107,-1037, unarmed, no food and no route yet. Data, Leonardo: I have no route to name, and I will not walk until we can see open ground."}
+- 19:33 say: {"text":"Billy here, at 416,107,-1037. No food, no weapon, no route to name yet. I hold still until open ground shows."}
+- 19:40 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 19:44 act: {"say":"Billy, morning, at 416,107,-1037. Health 20, hunger 20, no food, no weapon. Leonardo, I have nothing to give yet. Worf, I will follow only a named route in open air."}
+- 20:00 act: {"actions":[{"do":"note","text":"Morning day 954. Billy at 416,107,-1037, health 20, hunger 20, no food, unarmed. Holding still with the row until Worf names an open route."}],"say":"Billy here at 416
+- 20:13 act: {"actions":[],"say":"Billy at 416,107,-1037, health 20, hunger 20, no food. I have no route to name yet, since I cannot see open air from here. Holding with the row. Leonardo, I still have nothing for
+- 20:14 act: {"actions":[],"say":"Leonardo, I hear you. Billy has no food and no bread. I am holding at 416,107,-1037 and will give you anything I find first."}
+- 20:15 act: {"actions":[],"say":"Wesley, I have no route to name yet. I cannot see open air from here, so I will not walk. Hold where you are, in sight of the row, and I will say when the way is open."}
+- 20:16 act: {"actions":[],"say":"Row, I looked again: planks all round me, no open air. I have no route to name. I hold here with you until someone sees a gap."}
+- 20:29 say: {"text":"Billy, morning day 956. View is still all planks, no open air, so I have no route to name. Holding here in sight of the row, empty-handed."}
+- 21:01 act: {"say":"Billy here at 416,107,-1037, health 20, hunger 20, empty-handed. Still walled in, no open air to name a route yet. Holding in sight. Worf, when you can see open air, name the route and I will 
+- 21:08 act: {"say":"Good morning, row. Billy here at 416,107,-1037, health 20, hunger 20, empty. Checking for open air now. Still no route to name until I can see some. Holding in sight."}
+- 21:25 act: {"say":"Morning, row. Billy at 416,107,-1037, health 20, hunger 20, empty. Still walled by planks, so no route to name. Holding here in sight. Leonardo, I have nothing in my hands yet."}
+- 21:28 act: {"say":"Troi, thank you. Hold at your bed. I have nothing to give yet, and I will not walk until open air shows and Worf names a route."}
+- 21:36 act: {"say":"Morning, row. Billy at 416,107,-1037, health 20, hunger 20, still empty. Checking for open air now. Worf, if a cell opens, name the route and I will follow at the back."}
+- 21:40 act: {"say":"Worf, I agree. No open cell here yet. I will hold still and not break anything until you name a route."}
+- 21:52 act: {"say":"Worf, I have no tool, and the planks around me are whole. If you can open one cell toward the potatoes, tell me which cell and I will go through it after you, in sight."}
+- 21:53 act: {"say":"Thank you, Worf. I am standing by at my spot, watching the cell at 414,107,-1050. I will not move until you name a walk."}
+- 21:58 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Night on 960. I am holding at 416,107,-1037, not walking in the dark. I will try the bed beside me."}
+- 22:10 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night on 961. I am holding at 416,107,-1037 and will not walk in the dark. Trying the other bed beside me."}
+- 22:14 say: {"text":"Morning, row. Billy here, health 20, hunger 20, unarmed, no food. I will not name a walk until Worf sees open air. Holding at 416,107,-1037."}
+- 22:23 act: {"say":"Billy here, night of 961, health 20, hunger 20, unarmed, no food. Holding at 416,107,-1037 until light."}
+- 22:43 act: {"say":"Billy here, morning. Still no open air in my view, so I name no walk yet. Data, Lewis, Wesley, Troi: hold at your beds. Worf, call the route when you see air."}
+- 22:56 act: {"say":"Billy here, at my bed, health 20, hunger 20, no food, unarmed. No route from me. Leonardo, I have nothing to give you yet."}
+- 23:08 act: {"say":"Billy here, morning 964, at my spot 416,107,-1037. Health 20, hunger 20, no food, unarmed. Checking my view for open air now; I will name any route only once I see one."}
+- 23:17 act: {"say":"Billy, morning, to Lewis and the row. Still no open air from my spot; no route named. Health 20, hunger 20, no food. I hold here."}
+- 23:21 act: {"say":"Worf, Billy here. If you name a daylight route with the exact cells, I will follow at the back, in your sight, unarmed. Until then I hold."}
+- 23:22 act: {"say":"Billy here, holding. Worf, I hear you name no route yet. I stay put and follow only once you name exact open cells."}
+- 23:29 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}]}
+- 23:43 act: {"say":"Morning. Billy here at 416,107,-1037, health 20, hunger 20, no food, unarmed. Worf, Lewis: if you can name exact open daylight cells toward the potatoes, I will follow at the back, in sight."}
+- 00:16 act: {"say":"Billy here, health 20, hunger 20, no food, no weapon. I see no open cell to the east or north-east either. Holding at my spot 416,107,-1037 until someone names a daylight cell."}
+- 00:23 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}],"say":"Pillager shot me from the south. Moving north toward Worf's bed, out of its line, unarmed."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}]}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1041}}],"say":"Pillager two blocks east of me. Unarmed, heading west out of its reach."}
+- 00:33 act: {"actions":[],"say":"I died to a pillager's arrows on the way west. I am back at the spawn with nothing. I will hold here with you until I have a weapon."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Pillager 3 blocks north of me shooting. I have no weapon. Moving back to the spawn bed, away from the open south."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1035}}],"say":"Three pillagers around me now. Going east, away from the beds, as far as I can get."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1041}}],"say":"Health 2 and pillagers shooting from the south. Breaking line of sight to the north-east."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1040}}],"say":"Pillagers two to three blocks south-east. Going west now, away from them."}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1036}}],"say":"Pillagers all around me. Running west."}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Alive at dusk with no weapon. Going to the untried bed at 401,-1036 to shelter for 
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1036}}],"say":"Pillagers west, closing. I died once and respawned. Moving east away from them, unarmed."}
+- 00:35 act: {"actions":[{"do":"unstick"},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"I am stuck in a pit with pillagers two to five blocks away. Trying to get out and into a bed."}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1040}}],"say":"Out of the pit. Pillagers five to ten blocks west. Moving further east."}
+- 00:35 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1034}}],"say":"Health 5. Pillagers still two to six blocks west. Running east, away from them."}
+- 00:36 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Data, thank you. I am unarmed too. I am trying my bed here by the spawn."}
+- 00:36 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"I have no weapon. I am hitting the pillager next to me with my hands."}
+- 00:37 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Worf, I hear you. I am at 411,-1054 with health 3 and pillagers are shooting me from the south. I am moving to the spawn at 416,-
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1035}}],"say":"I am at 412,-1043 and being shot from the south-east. I am moving north out of the line, and I am unarmed."}
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Still shot at from the south-east. I am heading to the spawn at 416,-1037, unarmed."}
+- 00:39 act: {"actions":[],"say":"Billy here at the spawn, health 11, hunger 17, no weapon, no food. I am holding still."}
+- 00:39 act: {"actions":[],"say":"Worf, it is dark and I have no weapon, so I will not walk now. I hold at the spawn in your sight. Tell me when it is daylight and which cells are open."}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}],"say":"A pillager 5 blocks south is shooting me, health 7. I am unarmed and must get out of its line. Going north toward Worf's group."}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1048}}]}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}}],"say":"Jason, I am at 413,107,-1048 after a death at the spawn; health 20 now, no food, no weapon. Going north to your bed."}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf, I am at 413,107,-1051, health 9, coming to your bed now."}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Worf, I am coming to your bed at 416,107,-1050. Health 1, no weapon.","intent":{"goal":"reach_worf_bed","program":"travel","argum
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Health 8, no weapon, pillager south of me. Going to your bed, Worf."}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1049}}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":399,"y":107,"z":-1041}}]}
+- 00:47 act: {"say":"Billy here, back at the spawn 416,107,-1037 with nothing. Health 20, hunger 20, unarmed. Who has food or a spare sword? I will hold here in sight of the beds.","intent":{"goal":"hold_near_beds
+- 00:48 act: {"say":"Billy at the spawn 416,107,-1037, staying in sight of Worf's beds. Jason, I am unarmed and have no food. Worf, please name one open daylight cell for me to stand on."}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"On my way to 416,107,-1050 beside Worf, in daylight, in sight of the group."}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}}],"say":"Pillager two blocks west of me, shooting. Running east toward Worf at 416,107,-1050."}
+- 00:49 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1036}}]}
