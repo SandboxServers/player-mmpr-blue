@@ -1,3 +1,33 @@
 # Journal
 - 05:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Billy, night 983. Going to bed at 415,107,-1051, unarmed, no food. Zack and Jason are in sight."}
 - 05:39 act: {"actions":[{"do":"sleep"}]}
+- 05:42 act: {"actions":[{"do":"note","text":"Daylight 983. Worf, Jason, Zack in reach. Worf named plank 416,107,-1052 to open; I agree to stay in sight and move nowhere else."}],"say":"Billy here, daylight. I agr
+- 05:42 act: {"actions":[],"say":"Billy here, health 20, hunger 20, empty pack, no weapon. Troi, I have no food to give. I hold at the row in sight of Worf, Jason and Zack, and I will walk only when Worf names the
+- 05:45 act: {"actions":[],"say":"Billy: morning 984, daylight and clear. We all agree to Worf's plank, 416,107,-1052, now. Worf, open that one plank only. Jason, Zack, Laforge, stay in sight. I stay where I stand
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 984. Going to my bed at 415,107,-1050 in sight of Worf, Jason and Zack. No walk in the dark."}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}]}
+- 05:53 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to sleep in my bed at 415,107,-1050. Worf, Jason and Zack are in sight."}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 05:57 act: {"actions":[],"say":"Billy here, morning 984. Unarmed, no food, health 20, hunger 20. I hold at the beds with Worf, Jason and Zack in sight. I walk only on a route Worf names, with an armed leader and
+- 06:07 act: {"actions":[],"say":"Billy, night 985. Holding here in sight of Worf, Jason and Zack. Sleep would not take from my spot, so I rest by the beds awake. No walk in the dark."}
+- 06:26 act: {"say":"Billy, morning 986. Unarmed, no food, health 20, hunger 20. Holding at my bed in sight. No walk until Worf names a daylight route with an armed leader."}
+- 06:35 act: {"say":"Billy, night 986. I name no route. I hold at my bed in sight of Worf, Jason and Zack, unarmed, no food. Tommy, Worf names any walk at first light."}
+- 06:42 act: {"actions":[{"do":"wait","seconds":30}],"say":"Billy here, morning 986. Still unarmed, no food. I hold at my bed in sight of Worf, Jason and Zack. I walk only on a route Worf names, with an armed lead
+- 06:48 act: {"actions":[{"do":"wait","seconds":60}],"say":"Billy, night 987. I name no route. Laforge, Troi, Jason, Zack, hold at your beds for the night. Worf names any walk at light, with an armed leader."}
+- 06:51 act: {"actions":[{"do":"wait","seconds":30}],"say":"Billy, morning 987. Still no route named. Holding at my bed in sight of Worf and Jason. Troi, Laforge, Zack, Riker, hold with me. Worf names the walk."}
+- 07:05 act: {"say":"Billy, morning 988. Health 20, hunger 20, unarmed, no food. Holding at my spot in sight of Worf and Jason. Worf, I will walk only on the route you name, with you leading."}
+- 07:16 act: {"say":"Billy, morning. Health 20, hunger 20, no weapon, no food. Still at my spot in sight of Worf and Jason. No walk named yet. Troi, I am holding with you."}
+- 07:29 act: {"actions":[],"say":"Night again. I hold still here, in sight of Worf and Jason, and wait for morning. No walk in the dark."}
+- 07:31 act: {"actions":[],"say":"Billy, morning 989. Unarmed, empty pack, health 20, hunger 20. I hold by the beds, in sight of Worf and Jason. Worf, I walk only on a route you name, with an armed leader in sight
+- 07:47 act: {"actions":[],"say":"Billy, morning 990. Health 20, hunger 20, unarmed, no food. Holding at 418,107,-1051 in sight of Worf and Jason. Worf, I will go with your named route when you have one."}
+- 08:02 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Billy, day 990 morning. I am unarmed with no food, and I hold here. Worf, name the route to the potatoes and I walk behind you. Jason, is your w
+- 08:02 act: {"actions":[],"say":"Billy, holding beside Worf. Worf, the route is yours to name. I walk only behind a named daylight route, with an armed leader in sight."}
+- 08:15 act: {"actions":[],"say":"Billy, morning 991 again. Worf found one gap to the north-west. Worf, walk it with me and Jason in sight first, and tell us the route. Everyone else, hold until he names it."}
+- 08:19 act: {"actions":[],"say":"Billy, holding in sight at 417,107,-1051. No walk until Worf names the daylight route. I hear you all."}
+- 08:27 act: {"actions":[{"do":"sleep"}],"say":"Billy, night has come. I'll try the bed from here, holding with Worf and Jason in sight."}
+- 08:27 act: {"actions":[],"say":"Billy, night 992. My sleep failed: the way was blocked. I have drifted to 418,107,-1047 near the crafting table. Holding here in sight. No walk in the dark."}
+- 08:28 act: {"actions":[],"say":"Billy, morning 992, at 418,107,-1047, health 20, hunger 20, unarmed. Worf, name the daylight route when you have checked the gap, and I walk behind you with Jason in sight."}
+- 08:35 act: {"actions":[],"say":"Billy, here at 418,107,-1047. Health 20, hunger 20, no food, no weapon. Holding for Worf's named route. Troi, we are all listening."}
+- 08:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1052}},{"do":"sleep"}],"say":"Night now. I'm going to the bed I slept in before, 415,107,-1051, a few steps within the row's sight, then sleep."
+- 08:41 act: {"actions":[{"do":"sleep"}]}
