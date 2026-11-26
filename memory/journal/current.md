@@ -3,3 +3,15 @@
 - Morning 1091: said I agree to hold, no walk. Asked Trini to give Worf the potatoes first. Still at the row, no food on me, health 20, hunger 20. Waiting for daylight readers.
 - 17:32 act: {"actions":[{"do":"note","text":"View north-west: solid planks all round, no gap I can name. No open cell east confirmed."}],"say":"Worf, Billy here. My view north-west is all planks, no air I can nam
 - 17:32 act: {"actions":[],"say":"Trini, Billy: I cannot name a cell past 423 either. My view is planks only, so I do not confirm it. We hold, no walk."}
+- 17:39 act: {"say":"Jason, could I borrow your wooden sword? I want a weapon before any walk. I will give it back when we have a confirmed open route.","actions":[]}
+- 17:40 act: {"say":"Thank you, Jason. Then I will make my own. Could you help me find wood? I need planks and sticks for a sword. I will hold at the row.","actions":[]}
+- 17:40 act: {"say":"Thank you, Worf. I will craft it at the table now.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}},{"do":"craft","item":"wooden_sword","count":1}]}
+- Dusk 1091: craft of wooden sword failed (need 2 planks, 1 stick). Worf's planks never arrived. Reached bed 415,107,-1050. Sleep returned result_too_large; will retry after a short wait.
+- 17:40 act: {"say":"Worf, the planks and stick did not reach me. Zack, could you give me 2 oak planks and a stick? It is dark, so I will go to my bed now.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1
+- 17:41 act: {"say":"Thank you, Zack, I have your 2 planks. Jason, could you hand me the stick Worf meant for me? Then I can craft the sword at the table.","actions":[]}
+- 17:41 act: {"say":"Thank you, Jason. I will make the stick myself from planks.","actions":[{"do":"craft","item":"stick","count":4},{"do":"goto","target":{"x":418,"y":107,"z":-1048}},{"do":"craft","item":"wooden_
+- Night 1091: crafted wooden_sword at 418,107,-1048. Sleep failed at dusk (not night), then worked at night in bed 415,107,-1050. Morning 1092: no walk, no open cell named. Asked Trini to give Worf the potatoes first.
+- 17:41 act: {"say":"I have my wooden sword now, thank you all. I will hold it in hand and go to my bed.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"use","item":"wooden_sword","at":{"x":4
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed now, sword in my pack. Trini, if Worf is in sight, give him the potatoes first."}
+- 17:46 act: {"actions":[],"say":"Morning, row. I slept the night at my bed and have my wooden sword. I name no open cell east, so no walk. Trini, Worf is in my sight with hunger 5: please give him the 2 potatoes 
+- 17:48 act: {"actions":[],"say":"Billy, morning. My view north-west is planks all round, with only players and planks in the grid. I name no open cell east, so I hold. Trini, Worf first with your potatoes."}
