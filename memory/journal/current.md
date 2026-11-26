@@ -42,3 +42,5 @@
 - 22:44 say: {"text":"Billy at 416, dusk 1106. No food, not enclosed, no open cell named past 423. I hold here through the night and walk nowhere."}
 - 22:47 say: {"text":"Billy to Bcrusher: I have no bed I can confirm. 1051 is Wesley's and the others I tried failed. Hold where you are and do not walk the dark."}
 - 23:13 say: {"text":"Billy, dusk 1108. I cannot give you a bed on my word. 1051 is the one that failed for you before. Hold where you are in the row and do not walk the dark. I hold at 416 as well."}
+- 23:30 say: {"text":"Billy, light 1109, at 416,108,-1047. I have no open cell east past 423 that I can confirm, so I name no route. Riker, Wesley, hold where you are until two of us see the same cell."}
+- 23:32 say: {"text":"Billy, light 1109, at 416. Trini, I see no open cell past 423 from here, so I name none. Worf, you are first in line for the potatoes. I hold and watch for a gap."}
