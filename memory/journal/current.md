@@ -119,3 +119,17 @@
 - 08:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1063. No walk. Going to the bed at 415,107,-1050 to sleep."}
 - 08:10 act: {"actions":[],"say":"Billy, light 1063, at 418,107,-1051, health 20, unarmed, no food. No open cell is named past 423, so nobody walks. Jason, Worf, Zack: name exact cells if you see any."}
 - 08:13 act: {"say":"Billy here, at 418,107,-1051. I have no potatoes and nothing in my pack. Holding here with you, no walk until an armed reader names an open route.","intent":{"goal":"hold_here_until_route","pr
+- 08:18 say: {"text":"Billy here. It is daylight. Jason, Worf, Zack: I am looking east for an open cell past 423 now. Please tell me any cell you have seen open."}
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. I am going to my bed at 415,107,-1050 to sleep."}
+- 08:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 08:18 act: {"actions":[{"do":"sleep"}]}
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Sleep refused at my bed. I am trying the bed at 413,107,-1042 near Z
+- 08:23 act: {"actions":[{"do":"note","text":"Dusk 1063 at 415,107,-1047. Beds refuse sleep. Holding unarmed, no food, no walk. Bcrusher is in reach."}],"say":"Billy, dusk 1063, at 415,107,-1047, unarmed, no food.
+- 08:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Billy, morning 1064, at 415,107,-1047, unarmed, no food. Trying the untried bed at 415,107,-1036 in daylight, short walk, no open
+- 08:28 act: {"actions":[],"say":"Billy: the walk to bed 415,107,-1036 is blocked too. I am at 416,107,-1047, unarmed, no food. I hold here and walk nowhere until two readers name an open cell."}
+- 08:28 act: {"actions":[],"say":"Billy, Jason, I hear you. I am perched at 416,108,-1047 after a reflex unstick, not hurt. I still name no open cell and walk nowhere. Jason, keep your sword in sight."}
+- 08:40 act: {"say":"Billy here at 416,108,-1047, unarmed, no food, holding. Jason, Zack: name an exact open cell past 423 and I will walk only with an armed reader in sight.","intent":{"goal":"hold_and_wait_for_r
+- 08:44 act: {"say":"Billy here. Health 20, hunger 20, unarmed, no food. Still no exact open cell named past 423, so I hold here. Thank you for asking, Deanna.","actions":[]}
+- 08:54 act: {"say":"Billy, morning 1065. Health 20, hunger 20, unarmed, no food. I see no open cell east past 423 from here, so I name none. Holding at 416,108,-1047.","actions":[]}
+- 09:02 say: {"text":"Billy, dusk 1065. Holding at 416,108,-1047 in the row, in sight of Bcrusher and Zack. No walk tonight. Still no open cell named past 423."}
+- 09:06 say: {"text":"Billy, morning 1066. Health 20, hunger 20, unarmed, no food. Still no open cell named past 423, so I hold here with Jason, Zack and Worf in sight."}
