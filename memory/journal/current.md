@@ -133,3 +133,10 @@
 - 08:54 act: {"say":"Billy, morning 1065. Health 20, hunger 20, unarmed, no food. I see no open cell east past 423 from here, so I name none. Holding at 416,108,-1047.","actions":[]}
 - 09:02 say: {"text":"Billy, dusk 1065. Holding at 416,108,-1047 in the row, in sight of Bcrusher and Zack. No walk tonight. Still no open cell named past 423."}
 - 09:06 say: {"text":"Billy, morning 1066. Health 20, hunger 20, unarmed, no food. Still no open cell named past 423, so I hold here with Jason, Zack and Worf in sight."}
+- 09:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"It is dusk and I need to sleep. I am going to the bed at 415, 107, -1050."}
+- 09:17 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Jason, Worf, Zack: Billy here at my bed, night 1066. Unarmed, no food. No walk in the dark. Trying sleep."}
+- 09:22 act: {"actions":[],"say":"Billy, morning 1066, at 416,107,-1050, health 20, unarmed, no food. I name no open cell past 423 I can confirm alone, so I walk nowhere. Jason, Worf, Zack: I hold here until one o
+- 09:24 act: {"actions":[{"do":"note","text":"1066 day, at 416,107,-1050, health 20, hunger 20, unarmed. Holding with Jason, Worf, Zack. No cell past 423 named by two readers, so no walk."}],"say":"Billy, 1066, at
+- 09:24 act: {"actions":[{"do":"note","text":"1067 day. Still at 416,107,-1050, health 20, hunger 20. 4 days since sleep. Bed 415,107,-1037 is untried and in the row. Asking Jason to lead there with his sword."}],
+- 09:25 act: {"actions":[{"do":"note","text":"1067 day: view shows planks walls left and right, gravel 5 down-left, and only players 1 block ahead. No open cell past 1 block confirmed. Holding."}],"say":"Billy, 10
+- 09:28 act: {"say":"Trini, Billy here at 416,107,-1050. I hear you: no open cell past 423. I hold here with Jason, Worf and Zack in sight. I will not walk until one of them names an exact cell.","intent":{"goal":
