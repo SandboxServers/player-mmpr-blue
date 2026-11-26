@@ -60,3 +60,10 @@
 - 03:44 say: {"text":"Billy: my survey reads z -1051 y 107: 417-418 air, 419 chest, 420-426 air. So 420-423 are air. Walk still on hold: no sword, no armed leader."}
 - 03:54 act: {"say":"Jason, Billy here, day 1050, at 415,107,-1051. You owe me your wooden sword. Please hand it over; I will walk nowhere unarmed.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":
 - 03:54 act: {"say":"Jason, Billy heard. Keep your sword for the walk, then. I walk nowhere without it in your hand. I stay here at my bed."}
+- 04:03 act: {"say":"Billy here, daylight 1050, at 416,107,-1049, health 20, hunger 20, unarmed. Worf, you said you would read 423 to 430 at first light. Tell us what you see. No walk until two of us agree on an open cell.","intent":"hold_for_worf_reading (rest)"}. Holding; no walk, no dig; waiting for Worf's reading of 423-430.
+- 04:03 act: {"say":"Morning, Troi. Billy here, health 20, hunger 20, holding at the row. Trini, thank you for the potatoes; Leonardo first, then Worf, then Zack."}
+- 04:04 act: {"say":"Trini, I hear you: you are walled at 418,107,-1053 and will not break planks. Zack, Worf, Leonardo: find the gap on Trini's right and say so. I still walk nowhere until two readers agree on an open cell.
+- Day 1051 morning: at 416,107,-1049, health 20, hunger 20, unarmed. Trini walled at 418,107,-1053 holding 2 potatoes; Zack hunger 14. Jason holds sword for a walk. Still no confirmed open cell, so no walk and no dig. Waiting for Worf's reading.
+- 04:10 act: {"say":"Billy, daylight 1051, at 416,107,-1049. My own survey reads 420 to 425 at z -1051 as air, same as Worf. That is two readers for 420 to 423, but the way out needs 426 to 430 named too. Worf, Za
+- 04:10 act: {"intent":{"goal":"hold_for_route_reading","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operat
+- 04:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1051, going to my bed at 415,107,-1050 to sleep. Still no walk: 426 to 430 unread, Jason's sword stil
