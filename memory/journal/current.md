@@ -53,3 +53,5 @@
 - 16:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, dusk 1088. Going to the bed at 415,107,-1050 with Jason, Worf and Zack in sight. No walk in the dark."}
 - 16:43 act: {"actions":[{"do":"sleep"}],"say":"Billy, in the bed at 415,107,-1050 for the night. Jason is at the next bed. No walk."}
 - 16:43 act: {"actions":[{"do":"note","text":"Day 1088 dusk. Sleep at bed 415,107,-1050 worked. Health 20, hunger 20, unarmed, no food. No open cell past 423 named, so no walk. Hold in the row at light."}]}
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to bed at 415,107,-1050 for the night. Goodnight, Jason."}
+- 16:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1089, going into bed at 415,107,-1050. Jason and Worf near. No walk in the dark."}
