@@ -18,3 +18,5 @@
 - 17:48 act: {"actions":[],"say":"Billy, morning. My view north-west is planks all round, with only players and planks in the grid. I name no open cell east, so I hold. Trini, Worf first with your potatoes."}
 - 17:53 act: {"actions":[],"say":"Morning. I have a wooden sword now. Worf, you are hungriest; Trini, can your potatoes go to Worf first? Then we need one exact open cell past the planks, seen by two of us."}
 - 17:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed. Trini, Worf first when a cell is confirmed."}
+- 17:59 act: {"say":"Billy here. It is daylight and I can see Worf, Zack and Jason at the row. I still have no confirmed open cell past 423, so I will not walk yet. Who can read a clear cell to the east?","intent"
+- 18:08 act: {"say":"Billy here, dusk at the row. Holding by my bed with Wesley in sight. No walk, no open cell named. Troi, Deanna, I am sorry you have no food either. Worf and Trini first when a route is named."
