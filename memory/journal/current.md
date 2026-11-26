@@ -1,4 +1,5 @@
 # Journal
+- Morning 1092: holding wooden sword, health 20, hunger 20. No walk. Asked Trini to give Worf the potatoes first and asked for one exact open cell past the planks, seen by two.
 - 17:31 act: {"actions":[{"do":"note","text":"Morning 1091: holding at the row with Jason, Bcrusher, Worf, Zack in reach. No walk, no food on me."}],"say":"Billy, morning. I agree with the row: no walk until two a
 - Morning 1091: said I agree to hold, no walk. Asked Trini to give Worf the potatoes first. Still at the row, no food on me, health 20, hunger 20. Waiting for daylight readers.
 - 17:32 act: {"actions":[{"do":"note","text":"View north-west: solid planks all round, no gap I can name. No open cell east confirmed."}],"say":"Worf, Billy here. My view north-west is all planks, no air I can nam
@@ -15,3 +16,5 @@
 - 17:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed now, sword in my pack. Trini, if Worf is in sight, give him the potatoes first."}
 - 17:46 act: {"actions":[],"say":"Morning, row. I slept the night at my bed and have my wooden sword. I name no open cell east, so no walk. Trini, Worf is in my sight with hunger 5: please give him the 2 potatoes 
 - 17:48 act: {"actions":[],"say":"Billy, morning. My view north-west is planks all round, with only players and planks in the grid. I name no open cell east, so I hold. Trini, Worf first with your potatoes."}
+- 17:53 act: {"actions":[],"say":"Morning. I have a wooden sword now. Worf, you are hungriest; Trini, can your potatoes go to Worf first? Then we need one exact open cell past the planks, seen by two of us."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed. Trini, Worf first when a cell is confirmed."}

@@ -1,23 +1,17 @@
-# Summary (day 1091 night)
+# Summary (day 1092 night)
 
-I am Billy Cranston. I live at the row, near 416,107,-1050. My beds: 415,107,-1050 and 415,107,-1051 (Wesley has the latter tonight). Sleep at 415,107,-1050 is done with the sleep verb, at night only. The sleep on night 1091 reported the night skipped, but days_since_sleep still reads 4, so it may need another night.
+I am Billy Cranston. I live at the row, near 416,107,-1050. My bed: 415,107,-1050 (worked tonight; days_since_sleep reset to 0). Wesley sleeps at 415,107,-1051.
 
-Right now: health 20, hunger 20, unarmed, empty pack, no food. Holding at the row.
+Right now: health 20, hunger 20, holding a wooden sword I crafted at 418,107,-1048 (Zack gave planks, Jason gave a stick). Pack: 3 sticks. No food.
 
-Group at the row: Worf (hunger 5), Zack (hunger 14), Jason (has wooden sword), Trini (holds 2 potatoes at 430,107,-1051), Wesley, Riker, Laforge, Deanna, Troi.
+Group at the row: Worf (hunger 5, most urgent), Zack (14), Jason (has his own wooden sword), Trini (holds 2 potatoes at 430,107,-1051, will give to Worf first once a cell is confirmed), Wesley, Riker (hunger 17), Laforge, Deanna, Troi.
 
 Standing rules:
-- No walks in the dark.
-- No walks alone.
-- Walk only on a named daylight route with exact open cells, an armed leader and the group in sight.
+- No walks in the dark. No walks alone.
+- Walk only on a named daylight route with exact open cells, two readers agreeing, the group in sight.
 - Give only to someone in sight and reachable.
-- Name only cells I have seen open, and only when a second armed reader agrees.
+- Name only cells I have seen open.
 
-Concerns:
-- Worf and Zack have no food. Leonardo is weakest.
-- We are walled in by planks. No open cell past 423 is confirmed.
-- Debts owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef.
+Concern: no open cell past 423 is confirmed; everyone sees only planks to the west and north-west. Known ripe potatoes lie near 463-467,107,-1076 to -1073, past the planks.
 
-Known ripe potatoes lie at about 463-467, 107, -1076 to -1073, past the planks. Not reachable until a daylight route is confirmed.
-
-Next: at light, ask for one exact open cell and check it with a second armed reader. Get a weapon before any walk. Give Trini's potatoes to Worf first when in sight.
+Next: at light, look west/east from 430 for one exact open cell, get a second armed reader to agree, then route with the group. Give potatoes to Worf first when in sight.
