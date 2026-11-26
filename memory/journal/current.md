@@ -37,3 +37,7 @@
 - 15:40 act: {"say":"Billy at 415,107,-1047. I know no open cell past 423, so I name none. Trini, keep the potatoes for Worf. No one walks on my word. I hold."}
 - 15:43 act: {"say":"Troi, Billy here at 415,107,-1047. Health 20, hunger 20, no food, unarmed. I hold, and I name no route. Leonardo, hold where you are if you can."}
 - 16:09 act: {"say":"Billy here, 416,107,-1049, health 20, hunger 20, pack empty. Holding in the row. Worf, Trini holds 2 potatoes for you. Who can name an open cell past 423? Two readers, then we walk.","intent":
+- 16:19 act: {"say":"Billy, awake at the row, health 20, hunger 20. No walk in the dark. At light I will ask for one exact open cell and check it with a second armed reader before anyone walks past 423.","intent":
+- Day 1087 night: sleep at bed 415,107,-1050 worked (status days_since_sleep 0). Holding at the row, no walk, no food, unarmed.
+- Day 1087 dawn: health 20, hunger 20, unarmed, no food. Jason and Worf in reach. No open cell named past 423, so no walk. Said morning and asked for an exact cell.
+- 16:23 act: {"say":"Billy, morning at the row, health 20, hunger 20, unarmed, no food. Worf, Zack, Jason: I still name no open cell past 423, so I walk nowhere. Whoever sees one, say the exact cell and I will che
