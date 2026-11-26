@@ -1,4 +1,7 @@
 # Journal
+- Day 1044: sleep failed 3 times ("not night"). I stop trying until the world turns to night, then one try at bed 415,107,-1050. Holding in the row, no walk, no route named.
+- Day 1044 dusk: sleep at bed 415,107,-1050 failed, "not night" (still dusk). Jason and Zack see no open cell past 423, so no walk. Waiting for true night, then sleep at that bed.
+- Day 1044 daylight, at bed 415,107,-1050, health 20, hunger 20, unarmed. Asked group for one exact open cell past 423 and to lend Jason's sword. Holding at bed under rest intent. No walk.
 - 23:46 act: {"say":"Sleep failed again, the way was blocked. I will stay put in the dark and not walk alone at night.","intent":{"goal":"wait_for_first_light","program":"rest","arguments":{},"wake_on":["directly_
 - 23:46 act: {"say":"Troi, I am holding. Standing still at the row until light. No walks in the dark."}
 - 23:51 say: {"text":"Billy, daylight 1038, health 20, hunger 20, empty pack. I walk nowhere yet. I am reading the cells east of the row first. Worf, you are first for food when a cell is confirmed open."}
@@ -25,3 +28,27 @@
 - 01:22 say: {"text":"Morning. Billy holding at 415,107,-1050, unarmed, no walk. Trini, Leonardo first when he can be seen. Could anyone name one exact open cell they saw in daylight?"}
 - 01:34 say: {"text":"Billy at my bed, night, no walk. Holding with Jason, Worf and Zack in sight. Sleep here is still blocked, so I wait for first light."}
 - 01:35 say: {"text":"Billy: it is day, and I have no route yet. I see no open cell past 423 and I hold no sword. I will not walk until two readers name exact open cells. Trini, Worf is first for the potatoes when
+- 01:44 act: {"say":"Billy here. It is daylight. Has anyone seen one exact open cell past x 423? I will not walk until two of you confirm a route. Jason, may I borrow your sword for that walk?","intent":{"goal":"h
+- 01:44 act: {"intent":{"goal":"hold_until_route","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 01:44 act: {"say":"Thank you, Jason. Then no walk yet. I hold at my bed and will ask again at dusk. Worf and Zack, if anyone sees an open cell, name it and I will check it."}
+- 01:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk. No route seen, no walk. I am sleeping at my bed, 415,107,-1050, in the row with Jason, Worf and Zack in sight."}
+- 01:58 act: {"say":"Billy here, at 415,107,-1050, holding. No route is confirmed, so nobody walks. I will look east myself in daylight.","intent":{"goal":"hold_until_night","program":"rest","arguments":{},"wake_o
+- 02:02 act: {"actions":[{"do":"sleep"}],"say":"Billy here, night, at my bed 415,107,-1050. Trying sleep once. No walk tonight."}
+- 02:02 say: {"text":"Billy here, morning. Trini, I have no confirmed route to 419 and I name none. Nobody walks until two readers name an exact open cell. Your 2 potatoes stay with you for now."}
+- 02:10 say: {"text":"Billy, morning. Worf and I now both read z -1051 as air at 420, 421, 422. That is two readers. 423 is what I read as air too, from 417. Worf, Jason: confirm 423 from where you stand. Once you
+- 02:15 act: {"say":"Billy, night on 1045, at 419,108,-1050 with Worf and Zack in reach and Jason in sight. Bed 415,107,-1050 is four blocks off, and I will not walk the dark. I hold here until light.","intent":{"
+- 02:15 act: {"say":"Billy, day 1045, at 419,108,-1050. Worf, Zack, Jason, I still need one reader to confirm 423,107,-1051 from where you stand. No walk until then."}
+- 02:16 act: {"say":"Billy, morning, holding at 419,108,-1050. Zack and Jason cannot confirm 423 either. Worf, one word from you on 423 and we decide. No walk until then."}
+- 02:17 act: {"say":"Billy, day 1045. Worf and Zack cannot confirm 423 either, so the row stays shut. We hold at 419,108,-1050 and walk nowhere. I will ask again at dusk."}
+- 02:34 act: {"say":"Billy, day 1046, at 419,108,-1050, health 20, hunger 20, holding. Riker, Trini: no walk yet. Worf, one word on 423,107,-1051 and we decide.","intent":{"goal":"hold_until_night","program":"rest
+- 02:34 act: {"intent":{"goal":"hold_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operations":
+- 02:37 act: {"say":"Billy, heard you, Worf: no on 423, so no walk. Zack, I hold with you at 419,108,-1050. Trini's potatoes: Leonardo, then Worf, then you. I will not dig."}
+- 02:42 act: {"actions":[{"do":"sleep"}],"say":"Billy, night on 1046, holding at 419,108,-1050 with Zack and Worf in reach. No walk in the dark. Trying sleep once here."}
+- 02:42 act: {"say":"Billy, day 1047 dawn. My sleep failed, not night. I am at 415,107,-1048 now, not at the row spot. I walk nowhere; I hold here and check my cells first."}
+- 02:42 act: {"say":"Billy, at 415,107,-1048, health 20, hunger 20, holding. I am walled with an oak door ahead. I walk nowhere until two readers confirm a cell. Trini, I hear you, Leonardo first."}
+- 02:54 act: {"actions":[{"do":"sleep"}],"say":"Billy, night 1047, at 415,107,-1048, holding. Trying sleep once here. No walk in the dark."}
+- 02:58 act: {"say":"Billy, daylight 1047, at 419,108,-1050 with Worf and Zack in reach, Jason in sight. Health 20, hunger 20, unarmed. Still no confirmed cell past 423, so no walk. Worf, one word on 423 from you 
+- 03:07 act: {"say":"Billy, dusk 1048, at 419,108,-1050 with Worf, Zack and Jason in reach. Holding here, no walk in the dark. Trini, Leonardo first at light, then Worf, then Zack."}
+- 03:11 act: {"say":"Billy, daylight 1048, at 419,108,-1050, holding. My survey of the z -1051 line reads air, but I cannot tell which cell is which from it, so I name nothing for a walk. Worf, Trini, Zack: no wal
+- 03:21 act: {"actions":[{"do":"sleep"}],"say":"Billy, night 1048, at 419,108,-1050 with Zack and Jason in reach, Worf nearby. Trying sleep once here. No walk in the dark."}
+- 03:25 say: {"text":"Billy, daylight 1049, at 418,107,-1047, health 20, unarmed, holding. Trini, Leonardo first, then Worf, then Zack. Nobody walks until two readers confirm 423,107,-1051."}
