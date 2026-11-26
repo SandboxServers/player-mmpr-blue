@@ -16,3 +16,12 @@
 - 00:44 say: {"text":"Billy, morning, at 417,107,-1051, health 20, hunger 20, holding. Trini, Worf, Leonardo: no walk until two readers agree on a cell. I have not seen Leonardo yet, so if he comes into my sight I
 - 00:45 say: {"text":"Billy, morning of day 1041, at 417,107,-1051, holding. Agreed: Trini's potatoes go to Leonardo first, then Worf, then Zack. I still read 420 as air, so the only way out of the row stays shut 
 - 00:53 say: {"text":"Billy, still holding at 417,107,-1051. My survey read of 420,107,-1051 is air. Laforge reads planks. Worf, name the cell for a second reader, or we hold. No walk, no dig."}
+- 01:03 say: {"text":"Billy here. I am still walled in; I see no open cell yet. Has anyone seen a clear cell east past 423? Zack and Worf need food, and I will not walk without a daylight route."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. Jason, Tommy, I hear you. I am two blocks from my bed and will try sleep there, staying in the row."}
+- 01:04 act: {"actions":[{"do":"sleep"}]}
+- 01:16 act: {"say":"Billy here, Zack. I have not seen a daylight route to the melon field. I hold nothing and will not walk until two of us name an open cell."}
+- 01:18 act: {"actions":[{"do":"sleep"}]}
+- 01:18 say: {"text":"Billy here. Heard you, Worf and Jason. No walk tonight. I hold at my bed and will name a daylight route only when two of us have seen the cells."}
+- 01:22 say: {"text":"Morning. Billy holding at 415,107,-1050, unarmed, no walk. Trini, Leonardo first when he can be seen. Could anyone name one exact open cell they saw in daylight?"}
+- 01:34 say: {"text":"Billy at my bed, night, no walk. Holding with Jason, Worf and Zack in sight. Sleep here is still blocked, so I wait for first light."}
+- 01:35 say: {"text":"Billy: it is day, and I have no route yet. I see no open cell past 423 and I hold no sword. I will not walk until two readers name exact open cells. Trini, Worf is first for the potatoes when
