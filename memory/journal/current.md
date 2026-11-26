@@ -80,3 +80,18 @@
 - 05:02 act: {"say":"Billy, day 1053 light: still at 418,107,-1051, unarmed, health 20. Riker, my word for the potato walk is not yet: no exact open cells named by two readers. Jason, keep your sword for when that
 - 05:15 act: {"actions":[],"say":"Billy, day 1054. I hold at 418,107,-1051 with Zack, Worf and Jason in reach. I walk nowhere until two readers name open cells past 425."}
 - 05:22 act: {"actions":[],"say":"Billy: Worf, Zack yielded to you first, so the potatoes are yours when Trini comes into sight. Jason, Trini, Zack all see only planks past 425. No route yet. I hold here."}
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy here. Going to my bed at 415,107,-1050 for the night. Holding through the dark, no walks."}
+- 05:42 say: {"text":"Billy here, I see you, Wesley. Holding here too. No walks in the dark. We will look at the way at first light."}
+- 05:45 say: {"text":"Billy, morning 1056. I looked east from 415,107,-1048 and see no open cell, only planks, stone bricks and glass. I name no route. Trying the bed again now."}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 05:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to bed at 415,107,-1050 now. Friends, stay near and hold until light."}
+- 05:58 act: {"actions":[{"do":"wait","seconds":2}],"say":"Billy here, well, health 20, hunger 20, holding in the row at 419,108,-1050. My bed would not take sleep last night, the way was blocked. No route named y
+- 05:59 act: {"actions":[],"say":"Jason, Billy here. From 419,108,-1050 I see only planks and a door to the south, enclosed except a gap above and level. No open cell named yet. I will hold and read again if you o
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night 1057. Trying the other bed, at 415,107,-1051, since the first would not take sleep. Holding in the row."}
+- 06:11 act: {"say":"Morning. I have no food and my pack is empty. Does anyone know an open way past the planks to the potato field?"}
+- 06:12 act: {"say":"Billy, morning 1057. I read only planks east and north of me in view, no open cell. I hold here with Zack, Jason and Worf. I will walk only when two armed readers name a route."}
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 06:27 act: {"say":"Billy here, morning 1058. Health 20, hunger 20, pack empty. Still no open cell named past the planks. Jason, you hold the wooden sword, so I owe you nothing from me; I will hold here and not w
+- 06:49 act: {"say":"Billy here, dusk 1059. Health 20, hunger 20, pack empty. Deanna, I am holding at my bed too, no food yet. Still no open cell named past the planks, so no walk at night.","actions":[]}

@@ -1,12 +1,10 @@
-# Handoff, day 1055 night
+# Handoff, day 1056 night
 
-Position 418,107,-1051, on cobblestone, in the row. Not enclosed. Health 20, hunger 20, unarmed, empty pack.
+Position about 419,108,-1050, on dirt, in the row. Not enclosed. Health 20, hunger 20, unarmed, empty pack.
 
-Company in reach: Zack (holds planks), Worf (holds planks, at bed 415,107,-1050), Jason (wooden sword, holding at his bed, asks no walk until light).
+Sleep at bed 415,107,-1050 failed twice with "the way was blocked". Do not repeat the same try. At light, view and check for an open route with two readers before any walk.
 
-Route: 426 to 430 at z -1051 still unconfirmed by two readers. No route named. No walk in the dark, no walk without armed Jason in sight.
-
-Bed: 415,107,-1050. Trying sleep at true night from here.
+Company: Zack near. Jason and Riker at their beds in the row. Worf nearby.
 
 Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef.
-Food: Trini holds 2 potatoes: Leonardo (health 1) first, then Worf, then Zack.
+Food: Trini holds 2 potatoes. Leonardo first, then Worf, then Zack. Potato field at 463-467,107,-1076 to -1073, behind planks, not yet reached.
