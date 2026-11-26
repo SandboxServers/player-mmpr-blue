@@ -20,3 +20,5 @@
 - 17:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed. Trini, Worf first when a cell is confirmed."}
 - 17:59 act: {"say":"Billy here. It is daylight and I can see Worf, Zack and Jason at the row. I still have no confirmed open cell past 423, so I will not walk yet. Who can read a clear cell to the east?","intent"
 - 18:08 act: {"say":"Billy here, dusk at the row. Holding by my bed with Wesley in sight. No walk, no open cell named. Troi, Deanna, I am sorry you have no food either. Worf and Trini first when a route is named."
+- 18:13 act: {"say":"Worf, your hunger is lowest. Trini holds the potatoes, and you are in reach now. Trini, please hand Worf the 2 potatoes. I have no open route past 423 confirmed yet.","actions":[]}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed. No walk tonight. Trini, Worf first when a cell is confirmed."}
