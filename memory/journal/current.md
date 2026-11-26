@@ -8,3 +8,9 @@
 - 18:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
 - 18:52 act: {"actions":[{"do":"sleep"}]}
 - 18:55 act: {"actions":[],"say":"Morning. Worf is in reach of me at the row, near bed 415. Trini, please bring the 2 potatoes to Worf first. I have no food to give. I will not walk past 423."}
+- 19:07 act: {"actions":[],"say":"Morning. Trini, Worf and Wesley are in reach of me here at the row, around 415,107,-1048. Come in on the row path, not past 423. I have no route past 423 named yet, so no one walk
+- 19:09 act: {"say":"Worf, I have no food on me. Trini holds the 2 potatoes. Trini, please bring them to Worf here at the row, 416,107,-1050. No walk past 423 until a route is named and checked."}
+- 19:09 act: {"say":"Troi, morning. Billy here, health 20, no food on me. Worf is hungry and waiting on Trini's potatoes. Still no route named past 423."}
+- 19:14 act: {"say":"Leonardo, stay still and keep to the row. Trini, you hold the potatoes: bring them to Leonardo first, at the row, now. Worf second. I have none to give."}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. I'm going to the bed at 415,107,-1037, along the row, not past 423. Worf and Wesley, stay in the row."}
+- 19:17 act: {"say":"The walk to the bed at 415,107,-1037 was blocked, so I did not sleep. I am at 415,107,-1047, three blocks from Worf and Wesley. I will stay here in the row for the night and not go further.","
