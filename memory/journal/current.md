@@ -22,3 +22,6 @@
 - 18:08 act: {"say":"Billy here, dusk at the row. Holding by my bed with Wesley in sight. No walk, no open cell named. Troi, Deanna, I am sorry you have no food either. Worf and Trini first when a route is named."
 - 18:13 act: {"say":"Worf, your hunger is lowest. Trini holds the potatoes, and you are in reach now. Trini, please hand Worf the 2 potatoes. I have no open route past 423 confirmed yet.","actions":[]}
 - 18:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night has come. I am going to my bed. No walk tonight. Trini, Worf first when a cell is confirmed."}
+- 18:24 act: {"say":"Billy, night. I am at my bed with the row in sight. No walk until light, and no open cell confirmed past 423. Trini, Worf first with the potatoes.","actions":[{"do":"note","text":"Night 1093: 
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night. Going to rest in my bed. Trini, Worf first with the potatoes at light."}
+- 18:24 act: {"say":"Wesley, yes, sleep in your bed at 415,107,-1051. I am sleeping here too. No walk until light.","actions":[{"do":"note","text":"Night 1094: sleeping at bed 415,107,-1050. Sleep partly worked (6
