@@ -114,3 +114,5 @@
 - 07:51 act: {"actions":[],"say":"Billy, dusk 1062, at 416,107,-1050. Both bed halves refuse sleep again, and I have no planks to wall in. I hold here, unarmed, no walk in the dark. Jason, Worf, Zack: please say i
 - 07:51 act: {"actions":[],"say":"Billy, dusk 1062, holding at 416,107,-1050 with Jason, Worf and Zack in sight. No walk in the dark. At light we check for an open way east together.","intent":{"goal":"hold_until_
 - 07:57 act: {"actions":[],"say":"Billy, morning 1062, at 416,107,-1050. View shows a gap up ahead and to the right, but the grid reads only other folk, so I name no exact cell yet. Jason, Worf, Zack: name one exa
+- 08:02 act: {"actions":[{"do":"note","text":"Day light, dim. Jason beside me with wooden sword. Zack and Worf hungry. Checking for open route east."}],"say":"Jason, Zack, Worf: I'm awake and unarmed. Has anyone s
+- 08:05 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. Going to my bed now. No walks tonight."}
