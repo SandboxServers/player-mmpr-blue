@@ -39,3 +39,6 @@
 - 21:45 act: {"say":"Billy, morning 1104, holding at 416,108,-1047. Worf, I see no open cell past 423 either. I have no food to give, and I name nothing until a second reader sees it."}
 - 22:17 say: {"text":"Billy, night, holding at 416,108,-1047. I have no food and no bed yet. I break nothing and walk nothing in the dark."}
 - 22:19 say: {"text":"Troi, I am holding at 416,108,-1047, health 20, hunger 20, no food and no bed. I see no open cell past 423, so I break nothing."}
+- 22:44 say: {"text":"Billy at 416, dusk 1106. No food, not enclosed, no open cell named past 423. I hold here through the night and walk nowhere."}
+- 22:47 say: {"text":"Billy to Bcrusher: I have no bed I can confirm. 1051 is Wesley's and the others I tried failed. Hold where you are and do not walk the dark."}
+- 23:13 say: {"text":"Billy, dusk 1108. I cannot give you a bed on my word. 1051 is the one that failed for you before. Hold where you are in the row and do not walk the dark. I hold at 416 as well."}
