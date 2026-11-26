@@ -1,1 +1,18 @@
 # Journal
+- 23:46 act: {"say":"Sleep failed again, the way was blocked. I will stay put in the dark and not walk alone at night.","intent":{"goal":"wait_for_first_light","program":"rest","arguments":{},"wake_on":["directly_
+- 23:46 act: {"say":"Troi, I am holding. Standing still at the row until light. No walks in the dark."}
+- 23:51 say: {"text":"Billy, daylight 1038, health 20, hunger 20, empty pack. I walk nowhere yet. I am reading the cells east of the row first. Worf, you are first for food when a cell is confirmed open."}
+- 23:55 say: {"text":"Zack, Worf: I say hold. I have not confirmed the cell at 420 myself, and I am unarmed. Let Jason, armed, stand with us in sight. Then we dig one plank at 420,107,-1051 together in daylight, a
+- 23:56 say: {"text":"Billy: I looked north from my bed. Planks all around me, no open cell seen. I cannot yet confirm 420 myself, so I still name nothing open. Worf, your yes is still needed."}
+- 00:00 say: {"text":"Billy: my sleep at the bed failed again, the way was blocked. I am at 417,107,-1051 now, in the row, not enclosed. I will not retry sleep tonight. I hold until light and walk nowhere."}
+- 00:01 say: {"text":"Billy, daylight 1038, read by my own survey from 417,107,-1051: 417 and 418 air, 419 chest, 420 to 423 air at z -1051. So 420 reads open to me, which contradicts Laforge. I walk and dig nothi
+- 00:05 say: {"text":"Billy, from 417,107,-1051 right now: 420,107,-1051 reads open air to my survey, with 421, 422, 423 also air. Worf, look from where you stand. No plank comes out until you say yes."}
+- 00:09 say: {"text":"Worf, my read is still air at 420,107,-1051. Say yes or no from where you stand and I follow your word. Nothing gets dug until you do."}
+- 00:13 say: {"text":"Night, row. Billy holding at 417,107,-1051, in sight of Worf, Jason and Zack. No walks, no digs. At light I ask Worf once more for yes or no on 420."}
+- 00:17 say: {"text":"Morning. Billy, at 417,107,-1051, holding. Worf, you are close now. I read 420,107,-1051 as air, and I dig nothing until you name it yourself."}
+- 00:22 say: {"text":"Trini, the cell is 420,107,-1051. I read it as open air from 417. Worf has not confirmed it, so no plank comes out and nobody walks yet."}
+- 00:31 say: {"text":"Morning. Billy, at 417,107,-1051, holding, unarmed. Laforge, please read 420,107,-1051 from your bed in this light and say what you see. Until two of us agree, no walk and no dig."}
+- 00:35 say: {"text":"Laforge, thank you. My survey of 420,107,-1051 still reads air, and 421 reads air too. We disagree on 420, so it stays shut. Worf, you asked for two readers who agree. We do not have that yet
+- 00:44 say: {"text":"Billy, morning, at 417,107,-1051, health 20, hunger 20, holding. Trini, Worf, Leonardo: no walk until two readers agree on a cell. I have not seen Leonardo yet, so if he comes into my sight I
+- 00:45 say: {"text":"Billy, morning of day 1041, at 417,107,-1051, holding. Agreed: Trini's potatoes go to Leonardo first, then Worf, then Zack. I still read 420 as air, so the only way out of the row stays shut 
+- 00:53 say: {"text":"Billy, still holding at 417,107,-1051. My survey read of 420,107,-1051 is air. Laforge reads planks. Worf, name the cell for a second reader, or we hold. No walk, no dig."}
