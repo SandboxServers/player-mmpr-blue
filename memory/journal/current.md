@@ -116,3 +116,6 @@
 - 07:57 act: {"actions":[],"say":"Billy, morning 1062, at 416,107,-1050. View shows a gap up ahead and to the right, but the grid reads only other folk, so I name no exact cell yet. Jason, Worf, Zack: name one exa
 - 08:02 act: {"actions":[{"do":"note","text":"Day light, dim. Jason beside me with wooden sword. Zack and Worf hungry. Checking for open route east."}],"say":"Jason, Zack, Worf: I'm awake and unarmed. Has anyone s
 - 08:05 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}],"say":"Dusk. Going to my bed now. No walks tonight."}
+- 08:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1063. No walk. Going to the bed at 415,107,-1050 to sleep."}
+- 08:10 act: {"actions":[],"say":"Billy, light 1063, at 418,107,-1051, health 20, unarmed, no food. No open cell is named past 423, so nobody walks. Jason, Worf, Zack: name exact cells if you see any."}
+- 08:13 act: {"say":"Billy here, at 418,107,-1051. I have no potatoes and nothing in my pack. Holding here with you, no walk until an armed reader names an open route.","intent":{"goal":"hold_here_until_route","pr
