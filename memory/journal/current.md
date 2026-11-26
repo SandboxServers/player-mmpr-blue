@@ -67,3 +67,16 @@
 - 04:10 act: {"say":"Billy, daylight 1051, at 416,107,-1049. My own survey reads 420 to 425 at z -1051 as air, same as Worf. That is two readers for 420 to 423, but the way out needs 426 to 430 named too. Worf, Za
 - 04:10 act: {"intent":{"goal":"hold_for_route_reading","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operat
 - 04:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, night 1051, going to my bed at 415,107,-1050 to sleep. Still no walk: 426 to 430 unread, Jason's sword stil
+- 04:15 act: {"say":"Billy: sleep at the bed was blocked, so I hold here at 418,107,-1051 until light. No walk in the dark. Unarmed, health 20.","intent":{"goal":"hold_row_until_light","program":"rest","arguments"
+- 04:17 act: {"say":"Billy, morning 1051. I am at 418,107,-1051, unarmed, empty. I hold until 426 to 430 is read by two. Worf, Zack: please each say what your view shows east of 425.","actions":[{"do":"note","text
+- 04:17 act: {"say":"Billy: thank you, Zack. No open cell is named yet, so I hold here at 418,107,-1051, unarmed. Jason, when two readers name open cells, I will go with your sword."}
+- 04:19 act: {"say":"Billy: Worf, go and look from 422, and report exactly what you see. I stay here unarmed until Jason walks with his sword."}
+- 04:20 act: {"say":"Billy: Worf, I read no open cell at 422 to 425 from here either. I hold still. Trini, I hold nothing, so Worf, Zack and Leonardo go first on your potatoes."}
+- 04:28 act: {"say":"Billy: night 1052. I go to my bed at 415,107,-1050 and try sleep once. No walk tonight.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 04:28 act: {"say":"Billy: sleep at the bed failed, the way was blocked again. I hold at 418,107,-1051 with Zack, Worf and Jason in reach. No walk in the dark."}
+- 04:31 act: {"say":"Billy: it is day. Jason holds the wooden sword in sight. I will not name a route until two readers agree on cells 426 to 430 at z -1051. Riker, hold at your bed."}
+- 04:49 act: {"say":"Billy, morning 1053: still at 418,107,-1051. Zack first for the potatoes, as Worf yielded. Jason, please read 426 to 430 at z -1051 and name the exact cells you see."}
+- 04:54 act: {"say":"Billy: Jason, thank you. No walk until you or Worf name exact open cells. Zack, Trini's potato is yours first. I hold here at 418,107,-1051."}
+- 05:02 act: {"say":"Billy, day 1053 light: still at 418,107,-1051, unarmed, health 20. Riker, my word for the potato walk is not yet: no exact open cells named by two readers. Jason, keep your sword for when that
+- 05:15 act: {"actions":[],"say":"Billy, day 1054. I hold at 418,107,-1051 with Zack, Worf and Jason in reach. I walk nowhere until two readers name open cells past 425."}
+- 05:22 act: {"actions":[],"say":"Billy: Worf, Zack yielded to you first, so the potatoes are yours when Trini comes into sight. Jason, Trini, Zack all see only planks past 425. No route yet. I hold here."}

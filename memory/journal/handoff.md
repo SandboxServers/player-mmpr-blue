@@ -1,9 +1,12 @@
-# Handoff, day 1050 night (after sleep)
+# Handoff, day 1055 night
 
-Position 415,107,-1051, at my white bed. Sleep worked: 9 of 10 asleep. Health 20, hunger 20, empty pack, unarmed, not enclosed. Row holds with Jason, Worf, Zack in reach.
+Position 418,107,-1051, on cobblestone, in the row. Not enclosed. Health 20, hunger 20, unarmed, empty pack.
 
-Jason refused to hand over his wooden sword; he keeps it for a daylight walk. No walk without an armed leader in sight.
+Company in reach: Zack (holds planks), Worf (holds planks, at bed 415,107,-1050), Jason (wooden sword, holding at his bed, asks no walk until light).
 
-Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef. Trini holds 2 potatoes for Leonardo, then Worf, then Zack. Zack hunger 14, no food.
+Route: 426 to 430 at z -1051 still unconfirmed by two readers. No route named. No walk in the dark, no walk without armed Jason in sight.
 
-Plan at light: stay put. Ask Worf to name open daylight cells. Check the row with two readers before any walk. Hand potatoes to Trini's order.
+Bed: 415,107,-1050. Trying sleep at true night from here.
+
+Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef.
+Food: Trini holds 2 potatoes: Leonardo (health 1) first, then Worf, then Zack.
