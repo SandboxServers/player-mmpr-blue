@@ -95,3 +95,14 @@
 - 06:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1051}},{"do":"sleep"}]}
 - 06:27 act: {"say":"Billy here, morning 1058. Health 20, hunger 20, pack empty. Still no open cell named past the planks. Jason, you hold the wooden sword, so I owe you nothing from me; I will hold here and not w
 - 06:49 act: {"say":"Billy here, dusk 1059. Health 20, hunger 20, pack empty. Deanna, I am holding at my bed too, no food yet. Still no open cell named past the planks, so no walk at night.","actions":[]}
+- 07:06 say: {"text":"Morning, Bcrusher. You still owe me 10 potatoes. Do you know an open way east past the planks?"}
+- 07:09 say: {"text":"Billy, morning 1060, at 415,107,-1047, health 20, unarmed, no food. Heard you all. My view is enclosed, so I see no open cell either. No walk until two readers name one."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"It is night. I am going to my bed at 415,107,-1050 to sleep."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}],"say":"My bed at 415,107,-1050 is blocked. I am trying the bed beside it, at 415,107,-1051."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Bed 415,107,-1051 is also blocked. Trying the bed at 415,107,-1036."}
+- 07:22 say: {"text":"Morning. Billy here, health 20, no food. Jason, could you give me your wooden sword before we walk? Who can name an open cell east?"}
+- 07:23 say: {"text":"Billy: I am still enclosed by view, with no open cell in sight. I will hold until someone names an exact open cell."}
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk. I am trying the bed at 413,107,-1041 since my other beds are blocked."}
+- 07:31 say: {"text":"The way to the bed at 413,107,-1041 is blocked. I am holding at 416,107,-1047 until light."}
+- 07:40 say: {"text":"Billy, dawn 1061. Health 20, hunger 20, unarmed, no food. I still see only planks to the east from 416,108,-1047. I will not walk until two readers name an open cell."}
+- 07:40 say: {"text":"Billy here, morning. Health 20, hunger 20, no food, no sword. Still planks to the east from where I stand. No walk until a route is named."}
