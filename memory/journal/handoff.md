@@ -1,9 +1,9 @@
-Handoff, day 1083 dusk
+Handoff, day 1088 dusk
 
-Position 419,108,-1050, on dirt, not enclosed, in the row with Jason near. Health 20, hunger 20, unarmed, empty pack.
-Sleep: bed tries at 415,107,-1050/-1051/-1036 and 413,107,-1041/-1042 were blocked. Untried: 415,107,-1037, daylight only, with an armed reader in sight. days_since_sleep 11. Do not claim sleep until a wait confirms it.
-No open cell past 423 is confirmed by two readers. No walk taken. No errand running.
+Position 416,107,-1050 next to bed 415,107,-1050, in the row with Jason (1.5 away, wooden sword), Worf, Wcrusher and Zack. Health 20, hunger 20, unarmed, empty pack.
+Sleep: the sleep at 415,107,-1050 said "worked" but status still reads days_since_sleep 1. Do not claim sleep until a wait or status confirms it.
+No open cell past 423 is named or confirmed by two armed readers. No walk taken. No errand running.
 Owed to me: Bcrusher 10 potatoes, Jason's wooden sword, Wesley 1 beef.
-Trini holds 2 potatoes for Worf (first), then Leonardo and Zack. Worf is walking to Trini's bed at 429,107,-1049.
-Food near: ripe potatoes at 463-467, 107, -1073 to -1076. Not to be walked to without an armed daylight group.
-Next: stay put through the night. At light, ask for an exact open cell and check it with a second armed reader. Only then try bed 415,107,-1037.
+Food: Trini holds 2 potatoes for Worf (first), then Leonardo and Zack. Ripe potatoes at 463-467, 107, -1073 to -1076, not to be walked to without an armed daylight group.
+Riker asked armed readers to check 424-445 along z -1065. I asked them to name exact open cells.
+Next: at light, ask for one exact open cell and check it with a second armed reader. Only then try bed 415,107,-1037 in daylight with an armed reader in sight. Get a weapon before any walk.

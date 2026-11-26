@@ -41,3 +41,15 @@
 - Day 1087 night: sleep at bed 415,107,-1050 worked (status days_since_sleep 0). Holding at the row, no walk, no food, unarmed.
 - Day 1087 dawn: health 20, hunger 20, unarmed, no food. Jason and Worf in reach. No open cell named past 423, so no walk. Said morning and asked for an exact cell.
 - 16:23 act: {"say":"Billy, morning at the row, health 20, hunger 20, unarmed, no food. Worf, Zack, Jason: I still name no open cell past 423, so I walk nowhere. Whoever sees one, say the exact cell and I will che
+- Day 1087 daylight, dim light: Jason, Worf, Zack in sight; no open cell named past 423. Said I hold with Jason. Waiting for an exact cell.
+- 16:23 act: {"say":"Billy here. Morning. I see the same: no open cell past 423, so I name none. Holding, no walk. Jason, you are armed and near; I will hold with you.","actions":[{"do":"wait","seconds":60}]}
+- 16:24 act: {"say":"Zack, Billy here. Health 20, hunger 20, no food, unarmed. I hold with you. Still no open cell named past 423, so no walk.","actions":[{"do":"wait","seconds":120}]}
+- 16:25 act: {"say":"Jason, Billy: heard, holding with you. I will stay put until someone names an open cell that two readers check.","actions":[{"do":"note","text":"Day 1088 daylight. Health 20, hunger 20, unarme
+- 16:26 act: {"actions":[{"do":"note","text":"Day 1088 daylight. Health 20, hunger 20, unarmed, empty pack. Holding at 416,107,-1050 with Jason, Worf, Zack in sight. No open cell past 423 named or confirmed, so no
+- 16:26 act: {"actions":[],"say":"Laforge, Jason: heard. Billy holds at 416,107,-1050. No open cell past 423 is named yet, so nobody walks. Name the exact cell and I check it."}
+- 16:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"},{"do":"note","text":"Day 1088 dusk. Went to bed 415,107,-1050 with Jason, Worf, Zack in sight. Health 20, hunger 20, unarm
+- 16:34 act: {"actions":[{"do":"note","text":"Day 1089 morning. Sleep at 415,107,-1050 did not finish: days_since_sleep still 1. Health 20, hunger 20, unarmed, no food. Still no open cell past 423 named, so no wal
+- 16:39 act: {"actions":[],"say":"Billy here, unarmed, so I cannot be the armed reader. Riker, Jason: please check 424-445 along z -1065 and name the exact open cells. I will look with you and walk only after two 
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Billy, dusk 1088. Going to the bed at 415,107,-1050 with Jason, Worf and Zack in sight. No walk in the dark."}
+- 16:43 act: {"actions":[{"do":"sleep"}],"say":"Billy, in the bed at 415,107,-1050 for the night. Jason is at the next bed. No walk."}
+- 16:43 act: {"actions":[{"do":"note","text":"Day 1088 dusk. Sleep at bed 415,107,-1050 worked. Health 20, hunger 20, unarmed, no food. No open cell past 423 named, so no walk. Hold in the row at light."}]}
