@@ -26,3 +26,14 @@
 - 14:33 say: {"text":"Billy, morning, row. Holding at 419,108,-1050, health 20, hunger 20, no food, unarmed. Worf first for Trini's potatoes, I will not walk."}
 - 14:46 say: {"text":"Billy, morning, row. Holding at 419,-1050, no food, no weapon, no walk. Worf first for Trini's potatoes."}
 - 15:02 act: {"say":"Morning 1084, Billy at 419,108,-1050, health 20, hunger 20, unarmed, no food. Worf first for any food I find. I hold here and walk on no cell until two armed readers name it open."}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Worf, Jason, Zack: I am going to the bed at 415,107,-1050 to try to sleep. I will not walk beyond the row.","reaso
+- 15:08 act: {"actions":[],"say":"Billy at the bed 416,107,-1050. Sleep was refused because it is not night yet. I stay here with Jason and Worf in sight, and I walk nowhere."}
+- 15:12 act: {"actions":[{"do":"sleep"}],"say":"Billy, night 1084, at my bed 416,107,-1050. Trying to sleep now. No walk in the dark."}
+- 15:12 act: {"actions":[],"say":"Billy: sleep at night was blocked, the way was blocked. I am back at 419,108,-1050 in the row. I hold here until light. I will try a different bed only in daylight, with an armed 
+- 15:13 act: {"actions":[],"say":"Troi, I am well: health 20, hunger 20, unarmed, no food. I hold in the row until light, then I will try my bed again."}
+- 15:16 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy, morning 1085, at 419,108,-1050, health 20, hunger 20, unarmed, no food. Jason is in sight with his sword. I try the untrie
+- 15:29 act: {"say":"Billy, morning 1085, at 415,107,-1047, health 20, hunger 20, unarmed. I name no route yet. Zack, Trini: if anyone sees an open cell past 423 with an armed reader, say the exact cell and I will
+- 15:30 act: {"say":"Billy here at 415,107,-1047, health 20, hunger 20, no food, unarmed. Leonardo, I hear you. I have nothing to hand and no open route is named, so I hold. Trini, Worf first, then Leonardo or Zac
+- 15:40 act: {"say":"Billy at 415,107,-1047. I know no open cell past 423, so I name none. Trini, keep the potatoes for Worf. No one walks on my word. I hold."}
+- 15:43 act: {"say":"Troi, Billy here at 415,107,-1047. Health 20, hunger 20, no food, unarmed. I hold, and I name no route. Leonardo, hold where you are if you can."}
+- 16:09 act: {"say":"Billy here, 416,107,-1049, health 20, hunger 20, pack empty. Holding in the row. Worf, Trini holds 2 potatoes for you. Who can name an open cell past 423? Two readers, then we walk.","intent":
