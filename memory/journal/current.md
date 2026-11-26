@@ -106,3 +106,11 @@
 - 07:31 say: {"text":"The way to the bed at 413,107,-1041 is blocked. I am holding at 416,107,-1047 until light."}
 - 07:40 say: {"text":"Billy, dawn 1061. Health 20, hunger 20, unarmed, no food. I still see only planks to the east from 416,108,-1047. I will not walk until two readers name an open cell."}
 - 07:40 say: {"text":"Billy here, morning. Health 20, hunger 20, no food, no sword. Still planks to the east from where I stand. No walk until a route is named."}
+- 07:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Going to my bed for the night. Bcrusher, you still owe me 10 potatoes."}
+- 07:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 07:51 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- Day 1062 night to morning: held at 416,107,-1050 with Jason, Worf, Zack, Trini, Riker, Troi in the row. Morning view shows only gaps and people in grid; nobody names an open cell east, so no walk. Zack health 13, hunger 14; Worf hunger 6. No food in my pack.
+- Day 1062 dusk: both bed halves at 415,107,-1050 and -1051 refused sleep ("that block is a bed"). Holding at 416,107,-1050 in the row, unarmed, empty pack, health 20, hunger 20, not enclosed. No walk in the dark. Owed: Bcrusher 10 potatoes.
+- 07:51 act: {"actions":[],"say":"Billy, dusk 1062, at 416,107,-1050. Both bed halves refuse sleep again, and I have no planks to wall in. I hold here, unarmed, no walk in the dark. Jason, Worf, Zack: please say i
+- 07:51 act: {"actions":[],"say":"Billy, dusk 1062, holding at 416,107,-1050 with Jason, Worf and Zack in sight. No walk in the dark. At light we check for an open way east together.","intent":{"goal":"hold_until_
+- 07:57 act: {"actions":[],"say":"Billy, morning 1062, at 416,107,-1050. View shows a gap up ahead and to the right, but the grid reads only other folk, so I name no exact cell yet. Jason, Worf, Zack: name one exa
