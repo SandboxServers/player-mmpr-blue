@@ -47,3 +47,7 @@
 - 23:44 say: {"text":"Billy, light, at 416. Wesley, I do not give you a bed on my word; 1051 failed for you before. Trini, I see no open cell past 423 from here, so I name none. Holding."}
 - 23:50 say: {"text":"Billy here. Still at the row, health steady. Jason and Zack are near. Who has seen an open cell past 423?"}
 - 23:50 say: {"text":"Riker, I see no open cell past 423 either. I will not walk until one is named and checked by a second reader."}
+- 00:10 say: {"text":"Leonardo, Billy here, I have no food to give. Trini is coming to 423 with the potatoes. Stay still and let her see you."}
+- 00:29 act: {"say":"Leonardo, Billy here at 416,108,-1047 with only a wooden sword. I will not walk out alone to a pillager. Get out of its line, north toward the beds. Worf, if you are armed, we go together in f
+- 00:32 act: {"say":"Worf, Billy here, I agree. I am unarmed beyond a wooden sword. Come to me first so I can see you, then we walk west together to Leonardo at 405,107,-1045.","actions":[]}
+- 00:32 act: {"say":"Billy here at 416,108,-1047, holding still. Worf, agreed: no walk to Leonardo while the pillager is up. I will strike only what comes into reach, and I stay by the row.","actions":[]}
