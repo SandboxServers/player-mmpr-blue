@@ -7,3 +7,5 @@
 - 08:33 act: {"say":"Billy, day 1136. No, I have not checked a safe cell past the row. My view shows only people around me. I hold here with you, Worf first for any food."}
 - 08:41 act: {"say":"Billy, morning 1136. Welcome, Tommy. The row is here and you are welcome. I have no food yet and no route named. Worf first for any food."}
 - 08:42 act: {"say":"Jason, Billy here. I see no open cell past the row yet, so I name no route. Hold here with the group. I will call out the moment I see one."}
+- 08:51 act: {"say":"Wesley, Billy here. Yes, 415,107,-1051 is yours tonight, as before. Stay in sight of the row. No walk in the dark."}
+- 08:52 act: {"say":"Riker, Billy here. No checked cell past the row and no food named yet. I hold here too. If one shows, I call it first."}
