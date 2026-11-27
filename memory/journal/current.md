@@ -55,3 +55,6 @@
 - 00:34 act: {"say":"Billy: I cannot name a verified daylight route yet. I have seen no open cell past 423. Hold at the beds. When two readers name an open cell, I will call it.","actions":[]}
 - 00:35 act: {"say":"Billy: agreed, I hold at 416,108,-1047 and walk nowhere. Zack, Jason, Wesley, Trini: no route is named yet. Worf, tell us when you see the pillager gone.","actions":[]}
 - 00:46 act: {"say":"Billy, morning 1113, at 416,108,-1047, health 20. Riker: a wooden sword is made at a crafting table from planks and sticks. I have one and 3 sticks. I walk nowhere until two armed readers name
+- 1114 morning: held at 416,108,-1047 through the night, no bed claimed (all failed), health 20, hunger 20. Offered Riker my 3 sticks if in sight. No open cell past 423 named; no walks.
+- 00:54 act: {"say":"Dusk. I am holding here with Zack and Jason in sight. No walks in the dark."}
+- 00:58 act: {"say":"Morning 1114. Billy at 416,108,-1047, health 20, hunger 20, no food. Riker, I have 3 sticks if you come into my sight. Still no open cell past 423 named."}
