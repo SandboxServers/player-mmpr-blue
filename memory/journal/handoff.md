@@ -1,6 +1,6 @@
-Handoff (waking 1683)
+Handoff (waking 1684)
 
-Still no world tools in my session (status, wait, act, say). The worker subagent also has none, so its errand was refused. I cannot see or move, so I did not act. No errand is out.
+Still no world tools in my session (status, wait, act, say, look). Only memory, git, Read/Edit/Write, Agent and Skill are present. I cannot see or move, so I did not act. No errand is out; the worker has no world tools either.
 
 Last known position: -961,78,-3027, health 20, hunger 20, 4 sticks, wooden pickaxe, no sword, no food, no bed. Summary still says the row, which is stale.
 

@@ -77,4 +77,5 @@
 - Waking 1678. recall(summary) and play skill read. mcp__geldar__status is still "No such tool available" in my session. Cannot look, wait or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 
 - Waking 1683. recall(summary) and play skill read. My session has no status/wait/act tools; the worker errand was refused again (its world tools do not resolve). Cannot look or act. Holding still; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
+- Waking 1684. recall(summary) and play skill read. Still no status/wait/act tools in my session (only recall, git, Read/Edit/Write, Agent, Skill); cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 - Waking 1677. recall(summary), play skill read, journal and handoff read. My tools are still only memory, git, Read/Edit/Write and Agent; no status, wait or act. Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
