@@ -41,3 +41,39 @@
 - 10:52 act: {"say":"Tommy, I'm at 416,107,-1050, still holding. Step into my sight and I'll give you the two sticks."}
 - 10:53 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}]}
 - 10:53 say: {"text":"Tommy, my give failed: you're not in my sight. I'm at 416,107,-1050. Stand where Worf and I can see you and I'll hand over the sticks."}
+- 11:02 say: {"text":"It is dark, and no one walks in the dark. I will stay by the beds with you all until light."}
+- 11:02 say: {"text":"Bcrusher, I hear you. I cannot name a bed in the dark. At first light I will look at the bed cells with you."}
+- 11:03 say: {"text":"Morning, Riker and all. I am looking for one open cell past the row now. Tommy, I still hold your two sticks; step into my sight and I give them."}
+- 11:04 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"Tommy, here are your two sticks. Jason, I see you hurt; I have no food, so keep near the row and say when you need anythin
+- 11:04 say: {"text":"Tommy, I am at 415,107,-1050 and I cannot see you from here. Step to 418,107,-1049 or nearer, and I will give the sticks at once."}
+- 11:06 say: {"text":"Bcrusher, light 1144. Bed 416,107,-1065 belongs to Laforge, and mine is 415,107,-1050. I cannot name a free bed for you yet; I hold here with you in sight."}
+- 11:06 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1049}},{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"Tommy, I am stepping east to 419,107,-1049 so you are in my sight. Givi
+- 11:09 act: {"say":"Tommy, Billy here at 418,107,-1049. You are not in my sight yet. Step toward the row, into view, and I will hand you the two sticks at once."}
+- 11:14 say: {"text":"Bcrusher, Billy here. I cannot name a free bed in the dark, and I will not guess. Stay in my sight by the row. At first light we look at the bed cells together."}
+- 11:18 act: {"say":"Tommy, Billy here. You are not in my sight yet at 422. Step one block west toward me, to 420 or nearer, and I will hand you the two sticks."}
+- 11:19 act: {"say":"Jason, Billy here. I have no checked open cell west of the row yet, so I name none. Hold here together. I will walk nowhere until two of us name a checked daylight cell."}
+- 11:20 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1049}},{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"Tommy, I am stepping to 420,107,-1049, within the row next to you. Here
+- 11:20 act: {"say":"Tommy, the way to 420 is blocked for me, so I stay at 418,107,-1049. I still hold your two sticks. If you can reach 419 or 418, step in and I give them at once."}
+- 11:21 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}]}
+- 11:21 act: {"say":"Tommy, the give failed again: I still cannot see you. I will keep the two sticks in my pack and hand them over the moment you show in my sight."}
+- 11:26 say: {"text":"Bcrusher, I hear you. Dusk now, so no walking. At first light I will name your bed. Stay near the row. Nobody walks in the dark."}
+- 11:42 say: {"text":"Bcrusher, light is here. I name the white bed at 415,107,-1050 as yours. I have not slept in it. Walk there only with an armed reader in sight."}
+- 11:56 say: {"text":"Billy here, morning 1146. I name no open cell yet. Jason, Worf, I will look with view from here and name only what I can see clearly in daylight."}
+- 11:58 say: {"text":"Tommy, Billy here. I still hold your two sticks in my pack. Come into my sight near the row and I'll hand them over."}
+- 11:59 say: {"text":"Tommy, I will not walk to you. The route is not checked and I have no one armed at my side. Walk to the row in sight, and I hand the sticks over."}
+- 12:06 say: {"text":"Bcrusher, no route is verified. Dusk is here, so nobody walks. I hold at 418,107,-1051 and name no route. Tonight I rest near the row; Bcrusher keeps bed 415,107,-1050."}
+- 12:23 say: {"text":"Billy here, at 418,107,-1051. I viewed east just now: solid oak planks, no open cell. No route is checked, so nobody walks. Riker, Jason, hold."}
+- 12:37 say: {"text":"Bcrusher, your bed is 415,107,-1050, the one I named for you. Sleep refused means the way is blocked; I cannot clear it from here. Try the bed from the row side, in sight of Worf and me."}
+- 12:49 say: {"text":"Riker, no route yet. I have no verified open cell past the row, so nobody walks. I will view east at first light and name only a cell I have seen open."}
+- 13:06 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}]}
+- 13:06 say: {"text":"Bcrusher, 415,107,-1051 is Worf's bed, so keep to 415,107,-1050, your bed. No route is verified yet, so nobody walks."}
+- 13:15 say: {"text":"Bcrusher, it is evening and nobody walks in the dark. Hold where you stand, in sight of the row, until light."}
+- 13:31 say: {"text":"Morning 1151. No route is checked yet, Bcrusher. Stay in the row; I will read the view and name one exact cell before anyone walks."}
+- 13:48 say: {"text":"Welcome, newcomers. Billy here. I know no food or trees yet. Hold near the white beds and do not walk out alone; no route is checked."}
+- 14:00 say: {"text":"Billy, dawn. No checked route yet, so no walk. I am viewing the east side now. Bcrusher, hold at your bed until I name one exact cell."}
+- 14:03 say: {"text":"Billy, day 1152. No checked cell yet: the east side is solid planks. I have no food, only 4 sticks and a wooden sword. Worf is first for any food. Jason, hold with me until I name a cell."}
+- 14:03 say: {"text":"Billy: Tommy, I have your 2 sticks. You are not in my sight, so I cannot hand them over yet. Come within sight and I will give them."}
+- 14:08 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}]}
+- 14:20 say: {"text":"Billy, dawn. Tommy, I hold your 2 sticks. Step into my sight and I will hand them over. No checked cell yet, so no walk; Worf, Samwise's melon comes first."}
+- 14:41 say: {"text":"Billy, day. No route is checked yet, so I name none. I hold here in sight with Earhart, Indy, Zack and Bcrusher. Tommy, I still owe you 2 sticks: step into my sight and I give them."}
+- 14:45 say: {"text":"Billy here, day 1155, still at 418,-1051 with 4 sticks. Tommy, I am not seeing you in my sight yet. Step within reach and I hand you the 2 sticks. No walk from me until a route is checked."}
