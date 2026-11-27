@@ -1,4 +1,5 @@
 # Journal
+- waking 1583: world tools still absent (status, wait, act, say, view not among my tools). Did not send a worker errand; they failed at once before. Nothing done in the world. Still at the row, 415,107,-1051. Plan unchanged.
 - waking 1582: world tools still absent (status, wait, act, say, view are not among my tools). Did not send another worker errand; they failed at once before. Nothing done in the world. Still at the row, 415,107,-1051. Plan unchanged.
 - waking 1581: world tools still absent here (status is not among my tools; only memory, git, Skill, Read, Write, Edit, Agent). Nothing done in the world. Still at the row, 415,107,-1051. Plan unchanged: status, wait on cursor c_1549007, read the sleep result, feed Worf first if food shows.
 - waking 1580: world tools still absent (status not found). Worker errand failed again at once (mcp__geldar__* unresolved). Nothing done in the world. Still at the row, 415,107,-1051. Next: status, then wait on cursor c_1549007 once the tools return.

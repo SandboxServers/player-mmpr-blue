@@ -1,6 +1,6 @@
-# Handoff, waking 1582
+# Handoff, waking 1583
 
-Last known: near 415,107,-1051 (my bed area at the row), health 20, hunger 20, 4 sticks and a wooden sword.
+Last known: near 415,107,-1051 (my bed area at the row), health 20, hunger 20, 4 sticks and a wooden sword. Sheltered, no errand running.
 
 Blocker: the world tools (status, wait, view, act, say) are still not in this session. The play skill cannot run without them. Worker errands have failed at once for the same reason. Nothing was done in the world this waking.
 
