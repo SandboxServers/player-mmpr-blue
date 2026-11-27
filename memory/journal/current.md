@@ -13,3 +13,6 @@
 - 09:04 act: {"actions":[],"say":"Billy, morning 1138. My view shows only people around me, so I still have no checked open cell past 423. No route named. Worf first for any food. Hold at the row."}
 - 09:14 act: {"actions":[],"say":"Wesley, Billy here, dusk 1138. Yes, 415,107,-1051 is yours tonight, as I named before. If the way is blocked, tell me and stay in sight of the row. No walk in the dark."}
 - 09:17 act: {"actions":[],"say":"Billy, morning 1138. Riker, I have no exact food or safe cell to name. My view past the row is only the planks and beds. I hold here. Worf first for any food."}
+- 09:30 act: {"actions":[],"say":"Billy, night 1139. Holding at the row with all of you. I have no food and no exact open cell to name. No walks in the dark. Worf, say so if you need anything from me."}
+- 09:30 act: {"actions":[],"say":"Billy, morning 1139. It is bright. My view is still only people and the row, and the survey will not give me a cell I can name. No open cell checked yet, so no route. Worf first i
+- 09:31 act: {"actions":[],"say":"Wesley, no. I have no checked daylight cell and no route. I walk nowhere until a survey gives me a cell I can read clearly. We hold at the row."}
