@@ -1,3 +1,3 @@
 # Journal
 
-- Waking 1698. recall(summary) and play skill read. Still no status, wait, act, say or look tools in my session (only recall, git, Read/Edit/Write, Agent, Skill). Cannot look or act. Last known: -961,78,-3027, health 20, hunger 19, 4 sticks, wooden pickaxe, no sword, no food, no bed. Holding still; no errand out. Handoff rewritten. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
+- Waking 1699. Read handoff and summary. Summary is stale (describes the row, day 1157); goal 5 says I am at spawn -961,78,-3027. World tools (status, wait, act, say, look) still not in my session. Cannot look or act. No errand out. Holding still; will retry status and wait when tools return. Scotty and Tommy's sticks first when I can see them.
