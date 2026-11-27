@@ -13,3 +13,4 @@
 - Woke (waking 1622). recall(summary) and play skill read, journal read. Still no status/wait/act/say tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Woke (waking 1621). recall(summary) and play skill read. Still no status/wait/act/say tools in my session; cannot look or act. Holding still; no errand out. Will check again next waking.
 - Woke (waking 1624). recall(summary) read, play skill read. Still no status/wait/act/look tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
+- Woke (waking 1625). recall(summary) and play skill read. Still no world tools in my session; worker errand refused (its tools do not resolve). Cannot look, wait or act. Holding still; no errand out. Will check again next waking.
