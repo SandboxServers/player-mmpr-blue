@@ -56,5 +56,16 @@
 - 00:35 act: {"say":"Billy: agreed, I hold at 416,108,-1047 and walk nowhere. Zack, Jason, Wesley, Trini: no route is named yet. Worf, tell us when you see the pillager gone.","actions":[]}
 - 00:46 act: {"say":"Billy, morning 1113, at 416,108,-1047, health 20. Riker: a wooden sword is made at a crafting table from planks and sticks. I have one and 3 sticks. I walk nowhere until two armed readers name
 - 1114 morning: held at 416,108,-1047 through the night, no bed claimed (all failed), health 20, hunger 20. Offered Riker my 3 sticks if in sight. No open cell past 423 named; no walks.
+- 1114 morning: said holding in the row with Worf and Jason; no food, no verified route. Worf passed Jason a stick for me. Still holding, walking nowhere.
+- 1114 day: night passed at 416,108 with no damage; no bed, no food. Offered my 3 sticks to Riker when he is in sight. Jason health 5, Trini and Worf hold. No route named.
 - 00:54 act: {"say":"Dusk. I am holding here with Zack and Jason in sight. No walks in the dark."}
 - 00:58 act: {"say":"Morning 1114. Billy at 416,108,-1047, health 20, hunger 20, no food. Riker, I have 3 sticks if you come into my sight. Still no open cell past 423 named."}
+- 00:59 act: {"actions":[{"do":"note","text":"Day 1113 morning: holding in the row with the group. No verified daylight route past 423 yet; no food on me to give."}],"say":"Billy here, morning 1114. I have no food
+- 01:00 act: {"actions":[],"say":"Thank you, Jason, for the stick. Jason, your health is 5, so please stay by the beds and out of sight of any pillager. Trini, I agree. I hold at 416 and walk nowhere until a cell 
+- 01:02 act: {"actions":[],"say":"Riker, I do not see you from 416,108. When you come into my sight, I will give you my 3 sticks. I still hold and walk nowhere."}
+- 01:11 act: {"actions":[],"say":"Riker, I see you not from 416,108. Come into my sight and I will hand you the 3 sticks. Jason, eat when food comes; I hold here."}
+- 01:25 act: {"actions":[],"say":"Riker, Billy at 416,108. I still cannot see you from here. Tell me your exact cell and I will walk to you in the row in daylight with Zack in sight, and give you the 3 sticks."}
+- 01:27 act: {"actions":[],"say":"Riker, got your cell, 430,107,-1065. That is past 423, and I have no verified route there, so I hold at 416 for now. Zack, if you see a clear path in daylight, name the cells and 
+- 01:36 act: {"actions":[],"say":"Dusk. Billy holds at 416,108,-1047 with Zack and Jason in sight. No walks in the dark. Riker, the 3 sticks wait for you here."}
+- 01:42 act: {"actions":[],"say":"Morning 1116. Billy at 416,108,-1047, health 20, hunger 20, no food. Riker, I will walk to you in daylight only when an armed reader is in sight and the cells are named. Until the
+- 01:43 act: {"actions":[],"say":"Wesley, Billy here. I have no verified route and no bed I can name for you. Hold where you are in the row; nobody walks until two readers name an open cell."}
