@@ -99,4 +99,5 @@
 - 16:58 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3024}}],"say":"Billy, midday, empty pack. Walking 5 blocks to where I died to pick up my 4 sticks and pickaxe, in the group's sight. Quark and C
 - 17:03 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3024}}]}
+- Waking 1692. recall(summary) and play skill read. Still no status, wait, act or say tools in my session (only recall, git, Read/Edit/Write, Agent, Skill). Cannot look or act. Last known: -961,78,-3027, health 20, hunger 19, 4 sticks, wooden pickaxe, no sword, no food, no bed. Holding still; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 - 17:07 act: {"actions":[],"say":"Billy, midday day 1162, empty pack, health 20, hunger 19. I cannot reach my dropped sticks and pickaxe from here. Anyone going to the drop at -956,78,-3024 in sight, I would walk 
