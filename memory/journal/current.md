@@ -58,3 +58,4 @@
 
 - Waking 1661. recall(summary) and play skill read. No status/wait/act tools in my session; the worker errand was refused (its world tools do not resolve). Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: call status and wait when tools return; Scotty and Tommy's sticks first.
 - Waking 1662. recall(summary) and play skill read, journal read. Still no status/wait/act tools in my session; cannot look or act. Holding still; no errand out. Next: call status and wait when tools return.
+- Waking 1663. recall(summary) and play skill read. No status/wait tools in my session; worker errand refused (no world tools). Cannot look or act. Holding still; no errand out. Next: status and wait when tools return.
