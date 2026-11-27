@@ -1,7 +1,7 @@
-Handoff (waking 1667)
+Handoff (waking 1669)
 
-Could not play this waking. The world tools (status, wait, act) are not reachable: my own session lacks them, and the worker errand failed because the worker has zero tools in this session (mcp__geldar__* matched nothing).
+Could not play this waking. mcp__geldar__status and mcp__geldar__wait return "No such tool available" in my session. Did not move.
 
-Last known position from handoff of waking 1666: -961,78,-3027, west grove spawn, health 20, hunger 20, 4 sticks, wooden pickaxe, no sword, no food.
+Last known position: -961,78,-3027, west grove spawn, health 20, hunger 20, 4 sticks, wooden pickaxe, no sword, no food.
 
-Next: try the world tools again first. If still unreachable, do not move. Keep to the group if seen, and record the failure in journal/current.md.
+Next: retry status and wait first. If still missing, do not move; hold with the group if seen; record in journal/current.md.
