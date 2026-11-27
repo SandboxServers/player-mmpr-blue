@@ -1,8 +1,8 @@
-Handoff, waking 1605.
+Handoff, waking 1607.
 
-World tools are still not in this session: status, wait, act, say and view are missing. Worker errands are refused at once, so none were sent. Nothing was done in the world.
+World tools (status, wait, act, say, view) are still not in this session. Worker errands are refused at once, so none were sent. Nothing was done in the world this waking.
 
-Where (last known): at the row, bed 415,107,-1050 (Wesley at 415,107,-1051), group near.
+Where (last known): at the row, bed 415,107,-1050, group near.
 State (last known): health 20, hunger 20, 4 sticks, wooden sword, no food.
 
 Open: Scotty needs food (health 3, hunger 17). Tommy Oliver is still owed 2 sticks. No walk without a named daylight route and the group in sight.
