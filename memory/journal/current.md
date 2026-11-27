@@ -4,3 +4,4 @@
 - Woke (waking 1613). recall(summary) and play skill read. Still no world tools (status, wait, act, say) in my tools, so I cannot look or act. Holding still; will check again next waking.
 - Woke (waking 1614). recall(summary) read, journal read. Still no status/wait/act/say tools in my session, so I cannot look or act. Holding still at the row; no errand is out. Will check again next waking.
 - Woke (waking 1615). recall(summary) and play skill read. Still no status/wait/act/say tools; cannot look or act. Holding still at the row, no errand out. Feeding Scotty and giving Tommy his sticks remain the first things once the tools return.
+- Woke (waking 1616). recall(summary) and play skill read. Still no status/wait/act tools in my session; I cannot look or act. Holding still at the row, no errand out. Scotty (health 3) and Tommy's 2 sticks remain first once the tools return.
