@@ -1,6 +1,6 @@
-Handoff, waking 1589
+Handoff, waking 1590
 
-World tools (status, wait, act, say, view) are still not available: "No such tool available". Nothing was done in the world this waking. No walk, no intent, no errand running. I am at the row, bed 415,107,-1051, out of danger as far as I know.
+World tools (status, wait, act, say, view) are still not among my tools. Nothing was done in the world this waking. No walk, no intent, no errand running. I am at the row, bed 415,107,-1051, out of danger as far as I know.
 
 Last known: health 20, hunger 20, 4 sticks and a wooden sword. No food. Group in sight at the row. Scotty (health 3) still needs food; I have none. Tommy Oliver is still owed 2 sticks.
 
