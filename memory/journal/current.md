@@ -36,3 +36,4 @@
 - Waking 1646. World tools are present but every call (status, wait) returns rate_limited, retryAfter 1s, even after waits. Holding still; no errand out. Scotty and Tommy's sticks remain first once a call goes through.
 - Waking 1647. recall(summary) and play skill read. No status/wait/act tools in my session; the worker errand was refused (it has no world tools either). Cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Waking 1648. recall(summary) and play skill read. Still no status/wait/act/say/look tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
+- Waking 1649. recall(summary), play skill read, journal read. Still no world tools in my session; cannot look, wait or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
