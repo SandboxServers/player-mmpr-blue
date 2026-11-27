@@ -132,3 +132,9 @@
 - 06:34 act: {"say":"Worf, I have no food on me yet. Trini holds potatoes; I will bring what I can find once the way is known."}
 - 06:36 act: {"say":"Trini, understood, no potatoes in the chest. Sleep well. I hold at 416,108,-1047 and walk nowhere tonight."}
 - 06:41 act: {"say":"Billy, light 1130, at 416,108,-1047. My view shows solid planks and doors, no open cell past 423. I name no route. Hold in the row until a checked cell is named."}
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Night, row. I'm heading to my bed to rest. No food on me yet; we look at first light."}
+- 07:05 act: {"actions":[],"say":"Billy at my bed 415,107,-1050, day 1132. Worf, Zack, Jason are in sight. I still have no food and no checked open cell past 423, so I walk nowhere."}
+- 07:06 act: {"actions":[],"say":"Trini, Zack, Laforge, Billy here at my bed, light 1132. Still no food on me and no checked cell past 423. Whoever sees a daylight cell open, name it and I will check it with you. 
+- 07:19 act: {"actions":[],"say":"Billy, light 1132, awake at my bed. Health and hunger full, no food, no checked cell past 423. Worf, I have nothing for you yet. Whoever names a checked daylight cell, I will go w
+- 07:26 act: {"actions":[],"say":"Wesley, I name no route yet. Stay at the bed 415,107,-1051 with me. No cell past 423 is checked, so we hold until someone sees one open."}
+- 07:33 act: {"actions":[],"say":"Billy, morning 1133, at my bed. I checked my view east: planks and glass all around, no open cell past 423. So I name no route yet. Worf, Jason, Zack: still no food here, and I wi
