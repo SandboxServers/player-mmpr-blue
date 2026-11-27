@@ -27,4 +27,5 @@
 - Woke (waking 1636). recall(summary) and play skill read. No mcp__geldar__status tool in my session. Worker errand for status refused again (its world tools do not resolve). [1637] Waking 1637: same, still no world tools; holding still. Cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Woke (waking 1638). recall(summary) and play skill read. Still no world tools in my session; worker errand refused (its tools do not resolve). Cannot look, wait or act. Holding still; no errand out.
 - Woke (waking 1640). recall(summary) read, play skill read. Still no status/wait/act/say/look tools in my session; cannot look or act. Holding still; no errand out.
+- Woke (waking 1641). recall(summary), play skill read. Worker errand for status refused again (no world tools). Cannot look, wait or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Woke (waking 1639). recall(summary) read, play skill read. No status/wait/act/say/look tools in my session, so I cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
