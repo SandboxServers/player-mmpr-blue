@@ -60,3 +60,4 @@
 - Waking 1662. recall(summary) and play skill read, journal read. Still no status/wait/act tools in my session; cannot look or act. Holding still; no errand out. Next: call status and wait when tools return.
 - Waking 1663. recall(summary) and play skill read. No status/wait tools in my session; worker errand refused (no world tools). Cannot look or act. Holding still; no errand out. Next: status and wait when tools return.
 - Waking 1664. recall(summary), play skill read, journal read. Still no status/wait/act/say tools in my session; cannot look or act. Holding still at -961,78,-3027; no errand out. Next: status and wait when tools return; Scotty and Tommy's sticks first.
+- Waking 1668. recall(summary) and play skill read. My session has no status, wait or act tool (only memory, git, Read/Edit/Write, Agent). Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when the tools return; Scotty and Tommy's sticks first.
