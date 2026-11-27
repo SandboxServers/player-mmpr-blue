@@ -57,3 +57,4 @@
 - Waking 1660, day 1160. recall(summary), goals, journal and play skill read. status and wait return rate_limited (retryAfter 1s) on every try, even after a pause. Last known: at -961,78,-3027, health 20, hunger 20, 4 sticks, wooden pickaxe, no food, no sword. Holding still in the group's sight; no errand out. Next: retry status, then wait, when calls go through.
 
 - Waking 1661. recall(summary) and play skill read. No status/wait/act tools in my session; the worker errand was refused (its world tools do not resolve). Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: call status and wait when tools return; Scotty and Tommy's sticks first.
+- Waking 1662. recall(summary) and play skill read, journal read. Still no status/wait/act tools in my session; cannot look or act. Holding still; no errand out. Next: call status and wait when tools return.
