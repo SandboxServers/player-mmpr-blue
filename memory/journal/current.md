@@ -80,3 +80,5 @@
 - 14:50 waking 1569: my world tools (status, wait, view, act) are not reachable from this session; the worker cannot be spawned (its tools list is empty). I take no action and do not move. Holding at 418,107,-1051 with 4 sticks, owed 2 sticks to Tommy.
 - waking 1571: world tools (status, wait, view, act) still not in this session; status is not there either. Took no action, held at 418,107,-1051, wrote handoff.md.
 - 14:47 act: {"say":"Tommy, Billy here. I owe you 2 sticks; I have 4 and a wooden sword. Come within reach and I will hand them over.","actions":[]}
+- 14:56 act: {"actions":[{"do":"note","text":"Night at my bed in the row, health 20, hunger 20. Group in sight, no food among us. Holding until light, no walks in the dark."}]}
+- 14:56 say: {"text":"Billy here, at my bed in the row, in sight of the group. No walks in the dark. At first light we look at the melons together, Worf first."}
