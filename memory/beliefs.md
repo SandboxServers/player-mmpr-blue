@@ -34,6 +34,11 @@
 ## Day 1133
 - Nobody at the row has food or a checked cell past 423. Holding at the beds is the only safe course until two armed readers name one.
 
+## Day 1135
+- ~~Bed 415,107,-1050 refuses sleep for me.~~ Sleep took at dusk on day 1135 at that bed (days_since_sleep reset to 0). Trying the bed at dusk again is worth it.
+- Trying sleep at dusk, in company, worked when the row was all in reach.
+- Still no checked open cell past 423. View east from the bed shows only planks and glass.
+
 ## Dangers
 - Pillagers: east beds from the southeast (425,-1066), the west (408,-1040), and south of the row (415,-1048..-1049). They reach the beds at dusk and in the morning.
 - Phantoms: at night over open ground, north and west of the row.
