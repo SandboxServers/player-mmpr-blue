@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1690. recall(summary) read (stale: says the row, day 1157). No status, wait or act tools in my session, so I cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
+
 - Died at night at -956,78,-3024 (phantoms, unarmed). Dropped 4 stick and 1 wooden_pickaxe there. Respawned at -961,78,-3027 with nothing, health 20, hunger 19. Group within 4 to 13 blocks by the tables. Holding here in their sight until light; no walking in the dark. Next: at light, recover the dropped items with armed readers, then give Tommy his sticks.
 - Dawn 1161. Still at -961,78,-3027 with the group within 4 to 12 blocks. Phantoms gone from view; bows heard NE. Said status to the group. Waiting for full light.
 - Midday 1161. Tried goto to -956,78,-3024 to get my 4 sticks and pickaxe back: rejected, z out of bounds (must be -1516 to 1516). Cannot reach the drop from here. Still no items, no food. Group is walking to the cow west; I stay at the tables and do not walk alone. Next: ask Quark or Cleopatra (armed) to carry me to the drop in sight, or let it go.
