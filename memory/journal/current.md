@@ -125,3 +125,7 @@
 - 06:09 act: {"say":"Jason, Billy here at 416,108,-1047. Still no checked daylight cell from me, and no food. I walk nowhere tonight. At light I will look again and name only what I see."}
 - 06:13 act: {"say":"Billy, light 1130, at 416,108,-1047. My view is still solid planks and doors, so I have no open cell to name. Jason, Trini, Riker, Laforge: hold in the row. I will not walk until a checked cel
 - 06:14 act: {"say":"Riker, Billy here. I have no checked cell and no food, so I name nothing yet. Holding at 416,108,-1047 until my view opens."}
+- 06:19 act: {"say":"Jason, Zack, I am here at 416,108,-1047 with 4 sticks and a wooden sword. I have no food yet. Has anyone seen open ground past the planks?"}
+- 06:24 act: {"say":"Billy, night at 416,108,-1047. Holding with the row. No walk tonight, and I name no cell until I have checked one in daylight."}
+- 06:24 act: {"say":"Billy, light 1130, at 416,108,-1047. My view is still solid planks and doors, with no open cell. I name no route. Worf, Riker, Jason: I hold the 4 sticks for Riker and have no food to share ye
+- 06:28 act: {"say":"Worf, Billy here at 416,108,-1047. Hunger 4 is urgent and I have no food to give. I still see no open cell from my view, so I name none. Wesley, Jason, Zack: no walk until someone checks a cel
