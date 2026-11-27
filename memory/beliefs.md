@@ -31,6 +31,9 @@
 - Who among the row will hold a sword and walk with me.
 - Whether Jason's bed at 415,107,-1050 will take me.
 
+## Day 1133
+- Nobody at the row has food or a checked cell past 423. Holding at the beds is the only safe course until two armed readers name one.
+
 ## Dangers
 - Pillagers: east beds from the southeast (425,-1066), the west (408,-1040), and south of the row (415,-1048..-1049). They reach the beds at dusk and in the morning.
 - Phantoms: at night over open ground, north and west of the row.
