@@ -51,3 +51,7 @@
 - 00:29 act: {"say":"Leonardo, Billy here at 416,108,-1047 with only a wooden sword. I will not walk out alone to a pillager. Get out of its line, north toward the beds. Worf, if you are armed, we go together in f
 - 00:32 act: {"say":"Worf, Billy here, I agree. I am unarmed beyond a wooden sword. Come to me first so I can see you, then we walk west together to Leonardo at 405,107,-1045.","actions":[]}
 - 00:32 act: {"say":"Billy here at 416,108,-1047, holding still. Worf, agreed: no walk to Leonardo while the pillager is up. I will strike only what comes into reach, and I stay by the row.","actions":[]}
+- 00:33 act: {"say":"Billy holding at 416,108,-1047. Jason, stay by the beds with Worf standing by you. Trini, I will walk to 423 only with Worf in sight, in full day. I have no food to give.","actions":[]}
+- 00:34 act: {"say":"Billy: I cannot name a verified daylight route yet. I have seen no open cell past 423. Hold at the beds. When two readers name an open cell, I will call it.","actions":[]}
+- 00:35 act: {"say":"Billy: agreed, I hold at 416,108,-1047 and walk nowhere. Zack, Jason, Wesley, Trini: no route is named yet. Worf, tell us when you see the pillager gone.","actions":[]}
+- 00:46 act: {"say":"Billy, morning 1113, at 416,108,-1047, health 20. Riker: a wooden sword is made at a crafting table from planks and sticks. I have one and 3 sticks. I walk nowhere until two armed readers name
