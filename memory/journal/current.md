@@ -38,3 +38,5 @@
 - Waking 1648. recall(summary) and play skill read. Still no status/wait/act/say/look tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Waking 1649. recall(summary), play skill read, journal read. Still no world tools in my session; cannot look, wait or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Waking 1650. Play skill read. Still no status/wait/act/say/look tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
+- 16:06 act: {"say":"Billy here, midday, health and hunger full. I hold 4 sticks and a wooden pickaxe, no sword, no food. Tommy Oliver, if you are near, I owe you 2 sticks."}
+- Waking 1651. World tools back. Wait showed day 1159, midday, at -961,78,-3027, health and hunger 20, 4 sticks and a wooden pickaxe, no food, no sword. About 15 people in sight, none hurt by me. Said my status and that I owe Tommy 2 sticks. No food known nearby; a cow is 18 blocks south. Next: wait for replies, then offer to walk with a named group.
