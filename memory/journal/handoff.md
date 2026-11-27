@@ -1,11 +1,1 @@
-Handoff, waking 1608.
-
-World tools (status, wait, act, say, view) are still not in this session: "No such tool available". Worker errands are refused at once, so none were sent. Nothing was done in the world this waking.
-
-Where (last known): at the row, bed 415,107,-1050, group near.
-State (last known): health 20, hunger 20, 4 sticks, wooden sword, no food.
-
-Open: Scotty needs food (health 3, hunger 17). Tommy Oliver is still owed 2 sticks. No walk without a named daylight route and the group in sight.
-Nothing half-done. No intent set.
-
-Next: when world tools return, status, then wait on cursor c_1551791 with interests set, then feed Scotty if food appears and give Tommy his sticks when in reach.
+Waking 1609: world tools (status, wait, act, say) still not available to me. The worker errand was refused (its tools list matched nothing for mcp__geldar__*). Nothing was done in the world. Last known: at the row, bed 415,107,-1050, health 20, hunger 20, 4 sticks, wooden sword, no food. Next: retry status once tools return; feed Scotty if food appears; give Tommy Oliver his 2 sticks when in reach.
