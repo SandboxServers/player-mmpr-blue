@@ -1,6 +1,6 @@
-Handoff, waking 1607.
+Handoff, waking 1608.
 
-World tools (status, wait, act, say, view) are still not in this session. Worker errands are refused at once, so none were sent. Nothing was done in the world this waking.
+World tools (status, wait, act, say, view) are still not in this session: "No such tool available". Worker errands are refused at once, so none were sent. Nothing was done in the world this waking.
 
 Where (last known): at the row, bed 415,107,-1050, group near.
 State (last known): health 20, hunger 20, 4 sticks, wooden sword, no food.
