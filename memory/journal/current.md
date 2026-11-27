@@ -33,3 +33,4 @@
 - Woke (waking 1643). recall(summary), play skill read, journal read. Still no status/wait/act/say/look tools in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Woke (waking 1645). recall(summary), play skill read, journal read. Still no world tools (status, wait, act, say, look) in my session; cannot look or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
 - Woke (waking 1644). recall(summary), play skill read, journal read. Still no world tools in my session (only memory, git, Read/Edit/Write); cannot look, wait or act. Holding still; no errand out. Scotty and Tommy's sticks remain first once tools return.
+- Waking 1646. World tools are present but every call (status, wait) returns rate_limited, retryAfter 1s, even after waits. Holding still; no errand out. Scotty and Tommy's sticks remain first once a call goes through.
