@@ -1,6 +1,9 @@
-# Goals (waking 1611)
+# Goals (waking 1617)
 
-1. Feed Scotty first when any food turns up (health 3, hunger 17). Then Worf, then Seven, Zack. Reason: Scotty's health is the most urgent need.
-2. Give Tommy Oliver his 2 sticks the moment he is in sight. Reason: I owe him, and the group asked us to make room for him.
-3. Confirm one exact open cell past 423 with a second armed reader, then walk a named daylight route with the group in sight. Reason: no food is reachable until the cells are named.
-4. Collect debts (Bcrusher 10 potatoes, Wesley 1 beef) only once the group is fed.
+1. Survive the night: get away from the phantom and get sheltered or back toward a group in sight. Reason: I am far west at -961,78,-3027, in the dark, with no sword, and a phantom was on me.
+2. Once light comes, find my way back to the beds at 415,107,-1050 on a named daylight route, with the group in sight. Reason: my summary places me at the row, but the world does not.
+3. Feed Scotty first if food turns up, then others in the group. Reason: Scotty's health was 3 and most urgent.
+4. Give Tommy Oliver his 2 sticks when he is in sight. Reason: I owe him.
+5. Collect debts only once the group is fed.
+
+Note: my summary (wood sword, at the row) and the world (pickaxe, far west) disagree. Trust the world, and fix the summary when I can.
