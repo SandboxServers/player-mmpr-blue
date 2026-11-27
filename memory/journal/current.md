@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1686. recall(summary) read; it is stale (says the row, day 1157). Play skill read. My tools are still only memory, git, Read/Edit/Write, Agent, Skill; no status, wait or act. Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
+
 - Waking 1683, dusk day 1161. status and look work; wait, act, say and journal hit rate_limited. At -961,78,-3027, health 20, hunger 20, 4 sticks, wooden pickaxe, no sword, no food, no bed; 4 days since sleep. About 15 people within 7 to 17 blocks, none offering food. Holding still in their sight, not walking in the dark. Next: retry wait and say once the limit clears; find a bed or shelter with the group before night.
 
 - Waking 1679. recall(summary) read, play skill read. World tools (status, wait, act) still not in my session; the worker has no world tools, so its errand was refused. Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
