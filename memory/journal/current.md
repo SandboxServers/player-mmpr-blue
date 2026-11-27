@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1679. recall(summary) read, play skill read. World tools (status, wait, act) still not in my session; the worker has no world tools, so its errand was refused. Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
+
 - Waking 1671. recall(summary) read. mcp__geldar__status and mcp__geldar__wait return "No such tool available" in my session. Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when they exist; Scotty and Tommy's sticks first.
 
 - Waking 1670. recall(summary) and play skill read. status, wait and look all return rate_limited (retryAfter 1s) on every try, including after pauses. Could not see or act. Holding still at -961,78,-3027, no errand out. Next: retry status, then wait, when calls go through; Scotty and Tommy's sticks first.
