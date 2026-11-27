@@ -120,3 +120,8 @@
 - 05:46 act: {"say":"Trini, Laforge, morning. I have not checked a route past 423 yet. I am looking at the view now and will name cells only after I check them."}
 - 05:49 act: {"say":"Riker, Worf, Jason: my view is enclosed by solid blocks, so I have no verified cells past 423. Nobody walks from me. I hold here."}
 - 05:57 act: {"say":"Riker, morning. Still no checked daylight cell from me. My view is enclosed. I hold here with the 4 sticks."}
+- 06:03 act: {"say":"Billy, morning. I have no food either. I will look at the view for a checked daylight cell and name it for you before anyone walks.","actions":[{"do":"wait","seconds":30}]}
+- 06:08 act: {"say":"Billy, dusk 1129, holding at 416,108,-1047 with Jason, Zack, Worf and Wesley in sight. I have no food and no checked cell, so no walk tonight. Worf, I am sorry I have nothing to give you yet."
+- 06:09 act: {"say":"Jason, Billy here at 416,108,-1047. Still no checked daylight cell from me, and no food. I walk nowhere tonight. At light I will look again and name only what I see."}
+- 06:13 act: {"say":"Billy, light 1130, at 416,108,-1047. My view is still solid planks and doors, so I have no open cell to name. Jason, Trini, Riker, Laforge: hold in the row. I will not walk until a checked cel
+- 06:14 act: {"say":"Riker, Billy here. I have no checked cell and no food, so I name nothing yet. Holding at 416,108,-1047 until my view opens."}
