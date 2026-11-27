@@ -8,3 +8,4 @@
 - 08:03 act: {"say":"Billy, daylight. I have no verified route and no food, so nobody walks yet. Worf is most urgent: if anyone sees food near, bring it to Worf first. I will look for a checked cell now."}
 - 08:07 act: {"say":"Billy, day 1135. Days since sleep is 2 and my bed still refuses me. I hold with the group. Still no checked route and no food. Worf first when any turns up."}
 - 08:15 act: {"actions":[{"do":"note","text":"Day 1135 light: view east is planks and glass again, no open cell past 2 blocks. No route."}],"say":"Billy, day 1135 light. View east shows only planks and glass, no o
+- 08:17 act: {"actions":[{"do":"note","text":"Day 1135, dim light. I am at my bed with Worf, Zack, Jason and Bcrusher in reach. No food in my pack. Nothing known to eat yet."}],"say":"Worf, Zack, Jason, I have no 
