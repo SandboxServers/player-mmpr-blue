@@ -2,6 +2,7 @@
 
 - Waking 1691. recall(summary) and play skill read. Still no status/wait/act tools in my session (only memory, git, Read/Edit/Write, Agent, Skill). Cannot look or act. Last known: -961,78,-3027, 4 sticks, wooden pickaxe, no food, no sword, no bed. Holding still; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 
+- Waking 1691 (later). recall(summary) and play skill read again. Still no status/wait/act/say tools in my session (only recall, git, Read/Edit/Write, Agent, Skill). Cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 - Waking 1690. recall(summary) read (stale: says the row, day 1157). No status, wait or act tools in my session, so I cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return; Scotty and Tommy's sticks first.
 
 - Died at night at -956,78,-3024 (phantoms, unarmed). Dropped 4 stick and 1 wooden_pickaxe there. Respawned at -961,78,-3027 with nothing, health 20, hunger 19. Group within 4 to 13 blocks by the tables. Holding here in their sight until light; no walking in the dark. Next: at light, recover the dropped items with armed readers, then give Tommy his sticks.
