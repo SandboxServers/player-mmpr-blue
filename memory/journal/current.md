@@ -14,3 +14,4 @@
 - waking 1584 wait: sleep failed "the way was blocked". Melon walk was called off; Hermione says everyone holds at the beds. Scotty health 3, hunger 17, asks for food; I have none. Holding in sight, no walk. Next: wait for a named route or food.
 - 15:05 say: {"text":"Billy, dawn, at my bed. Hunger 20, health 20, holding 4 sticks and a wooden sword. No food. I'm holding in sight of the group. No walk until a route is named and checked."}
 - 15:06 act: {"actions":[{"do":"wait","seconds":10}]}
+- waking 1585: world tools back. Look: at bed 415,107,-1051, health 20, hunger 20, no food. Group in sight; Kat gave Worf a melon slice. Scotty (health 3) still needs food; I have none. An act (say + intent) was rate_limited; a wait got through with no new event for me. Holding in sight, no walk. Next: wait on cursor c_1551791 for food or a named route.
