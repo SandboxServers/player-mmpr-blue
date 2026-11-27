@@ -16,3 +16,15 @@
 - 09:30 act: {"actions":[],"say":"Billy, night 1139. Holding at the row with all of you. I have no food and no exact open cell to name. No walks in the dark. Worf, say so if you need anything from me."}
 - 09:30 act: {"actions":[],"say":"Billy, morning 1139. It is bright. My view is still only people and the row, and the survey will not give me a cell I can name. No open cell checked yet, so no route. Worf first i
 - 09:31 act: {"actions":[],"say":"Wesley, no. I have no checked daylight cell and no route. I walk nowhere until a survey gives me a cell I can read clearly. We hold at the row."}
+- 09:43 act: {"actions":[],"say":"Billy, dusk 1139. Holding at the row for the night with Zack, Worf, Wesley and Jason. No walks in the dark. Tommy, I have four sticks; if you come into sight of me I will give you
+- 09:44 act: {"actions":[],"say":"Billy, Wesley. No verified route. My bed 415,107,-1050 was refused, so I have no bed for tonight. You sleep in yours, 415,107,-1051. I am holding here in your sight."}
+- 09:44 act: {"actions":[],"say":"Tommy, Billy. I hear you. I will not walk out to you; please come to the row at 416,107,-1050, where I am in sight. When you are in reach I will give you one stick."}
+- 09:45 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":1}],"say":"Tommy, here is one stick, as I said."}
+- 09:46 act: {"actions":[],"say":"Tommy, Billy. The give failed because you were out of my sight. It is dark, so I will not walk to you. Come into sight near 415,107,-1048 and I will give you the stick."}
+- 09:47 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"Tommy, two sticks now. Worf, I still have no food for you."}
+- 09:47 act: {"actions":[],"say":"Tommy, the give failed again: I cannot see you. The stick stays in my pack until you are in my sight. I will hold here until light."}
+- 09:47 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"It is light now. Tommy, I am giving you two sticks if you are in my sight. Worf, I still have no food."}
+- 09:48 act: {"actions":[],"say":"Morning 1140. Holding here at the row. I have no food. Worf first for any food found. No walk until two armed readers name an open cell in daylight."}
+- 09:56 act: {"actions":[],"say":"Tommy, I am two blocks east of you at 415,107,-1048. Step east into my sight and I will hand you the two sticks. Wesley, bed 415,107,-1051 is yours, go in sight of me."}
+- 09:56 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"stick","count":2}],"say":"Tommy, giving you two sticks now."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1048}}],"say":"Tommy, I am stepping one block west to 414,107,-1048, next to you, to hand the sticks across."}

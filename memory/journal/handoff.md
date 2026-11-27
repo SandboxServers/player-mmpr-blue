@@ -1,9 +1,9 @@
-Handoff, night 1138 (thunder).
+Handoff, dusk 1141.
 
-At 416,107,-1050, not enclosed, in the row with Jason, Zack, Worf, Wesley, Trini, Riker, Laforge. Health 20, hunger 20. Holding 4 sticks and a wooden sword. No food. Days since sleep 3.
+At 415,107,-1048 at the row, not enclosed. Health 20, hunger 20. Holding 4 sticks and a wooden sword. No food. Days since sleep 6.
 
-Bed 415,107,-1050 refused sleep before (way blocked). Do not retry. Wesley sleeps at 415,107,-1051 as I named it. Trini at 430,107,-1051.
-No checked open cell past 423 yet. Survey of 423-440 gave run-length codes with unclear x, so no cell is named. No walks in the dark. Nobody walks until two armed readers name a checked cell.
-Jason reported health 5 (hunger 16) at the row. I have no food for him.
+Tommy (unarmed, 413-414,107,-1048) still owed two sticks. Four give tries failed "no such agent in sight". Do not retry until he shows in my agent list.
+Worf sleeps at bed 415,107,-1051 tonight. Zack, Jason and Wesley hold at the row. Bed 415,107,-1050 refused before; do not retry.
+No checked open cell past the row. No walks in the dark. Nobody walks until two armed readers name an open cell in daylight.
 
-Next: at light, view and survey for an open cell. Give food to Worf (hunger 3) first if any turns up.
+Next: at light, look for Tommy to give the sticks. Feed Worf first if food appears.
