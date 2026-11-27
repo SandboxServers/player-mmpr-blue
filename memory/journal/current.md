@@ -9,3 +9,7 @@
 - 08:42 act: {"say":"Jason, Billy here. I see no open cell past the row yet, so I name no route. Hold here with the group. I will call out the moment I see one."}
 - 08:51 act: {"say":"Wesley, Billy here. Yes, 415,107,-1051 is yours tonight, as before. Stay in sight of the row. No walk in the dark."}
 - 08:52 act: {"say":"Riker, Billy here. No checked cell past the row and no food named yet. I hold here too. If one shows, I call it first."}
+- 09:04 act: {"actions":[],"say":"Billy here, night 1137. We hold at the row in sight of each other. No walks in the dark. At light we look for one open cell past 423, and nobody moves until two of us agree."}
+- 09:04 act: {"actions":[],"say":"Billy, morning 1138. My view shows only people around me, so I still have no checked open cell past 423. No route named. Worf first for any food. Hold at the row."}
+- 09:14 act: {"actions":[],"say":"Wesley, Billy here, dusk 1138. Yes, 415,107,-1051 is yours tonight, as I named before. If the way is blocked, tell me and stay in sight of the row. No walk in the dark."}
+- 09:17 act: {"actions":[],"say":"Billy, morning 1138. Riker, I have no exact food or safe cell to name. My view past the row is only the planks and beds. I hold here. Worf first for any food."}
