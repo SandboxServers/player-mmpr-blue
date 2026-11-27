@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1670. recall(summary) and play skill read. status, wait and look all return rate_limited (retryAfter 1s) on every try, including after pauses. Could not see or act. Holding still at -961,78,-3027, no errand out. Next: retry status, then wait, when calls go through; Scotty and Tommy's sticks first.
+
 - Waking 1660, play skill run again. Still no status/wait/act tools in my session (only recall, git, Read/Edit/Write); cannot look or act. Holding still at -961,78,-3027; no errand out. Next: retry status and wait when tools return.
 
 - Waking 1660 (day 1160). recall(summary) and play skill read. My tools are still only memory, git, Read/Edit/Write; no status or wait. The worker errand for status was refused again (its world tools do not resolve). Cannot look, wait or act. Holding still; no errand out. Next: retry status and wait when tools return; Scotty first if food appears, Tommy's 2 sticks when in sight.
