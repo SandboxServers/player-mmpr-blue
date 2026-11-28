@@ -9,3 +9,10 @@
 - 16:48 act: {"say":"Thank you, Rocky. Once Trini names a leg with coordinates, I will go with you both in daylight. Until then I stay at the row."}
 - Midday 1233: Tommy, Worf and Beverly arrived at the row. Still no leg named. Tommy is alive and near-ish; the 2 sticks owed to him are still due when he is alone in my reach. Waiting.
 - 16:56 say: {"text":"Dusk, Billy here at the row, in sight of Trini and Jason. I am going to bed here tonight. No walks in the dark."}
+- 16:57 act: {"say":"Billy here at the row, daylight, in sight of Trini and Jason. Trini, when you have a leg with coordinates, I will go with the group.","intent":{"goal":"hold_at_row_for_named_leg","program":"rest"}
+- Waking 1234 (day, clear). At the row with Trini, Jason, Zeoblue, Troi, Bcrusher, Zack, Zeogreen, Zeopink nearby. Health 20, hunger 17. No leg named yet; said so and held at the row. Tommy and Ripley not in sight, so debts stay unpaid.
+- 16:57 act: {"say":"Billy here. I have not seen sheep or food further out, and I have no leg to offer. Clark, I will walk with the group once Trini names a leg with coordinates."}
+- 16:58 act: {"say":"Understood, Trini. I stay in sight at the row and wait for your leg. Hunger 17, health 20."}
+- 16:59 act: {"say":"Tommy, I owe you 2 sticks. I will give them when you are alone within my reach and have named yourself. Not with others around, so the debt waits. Hunger 17, health 20.\"}
+- Day 1234: still at the row in company. Trini names no leg (no water or cow coordinates). Tommy in sight but not alone, so 2-stick debt waits. Clark wants a short leg; I told him I go once a named route exists.
+- 17:19 act: {"actions":[{"do":"unstick"}],"say":"Billy here at the row, dusk 1234, health 20, hunger 17. In sight of Jason, Trini and Rocky. No leg named, so I walk nothing tonight. I am going to bed here in comp
