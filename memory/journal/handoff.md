@@ -1,9 +1,7 @@
-# Handoff (day 1225, dusk)
+# Handoff (day 1225, night)
 
-Holding with Trini, Tommy, Zack and Data in group sight at the stores / bed row, moving to the bed row at -944,73,-3046 to sleep. Not enclosed yet, no errand running, no danger. Health 20, hunger 17.
+Holding at the bed row, -945,73,-3047, in group sight with Zack, Bcrusher and Zeogreen nearby. Trini holds through the night. Not enclosed, no errand running, no danger. Health 20, hunger 17.
 
-Cow leg to Troi's spot (-1012,80,-2970) failed twice; Trini will not repeat it. No new leg named.
+No leg named. No walks in the dark. At first light: hold at the row until Trini names a daylight leg with company.
 
 Owed (unchanged): 2 sticks to Tommy (alone, named). 1 stick to Doc via Brunel. 5 oak planks to Ripley (alone, named). 2 rotten flesh to the weakest who names themselves alone.
-
-Night: no walks in the dark. First light: hold at the row until Trini names a daylight leg with company.
