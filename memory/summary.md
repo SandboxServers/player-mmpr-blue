@@ -1,15 +1,21 @@
-# Summary (day 1170, midday)
+# Summary (day 1188, night, slept at the bed row)
 
-I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027. Crafting tables are near -950,77,-3018. The Stores hall (food chests, carrot chest at -920,71,-3040) is near -920,-3040.
+I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 (west grove). The bed row is near -945,73,-3049; crafting table at -946,73,-3049. The Stores hall (food chests) is near -920,-3040.
 
-Right now: health 20, hunger 20, armed with a wooden sword (in pack). Pack: 2 sticks. No food, no planks. Standing at -919,75,-3038 at the Stores hall, in the group's sight.
+Right now: health 20, hunger 19, wooden sword. Pack: 3 sticks, 5 oak planks, 2 rotten flesh, 4 dirt, written book.
 
-Owed: 2 sticks. Tommy Oliver keeps 1 until he asks. Andy asked for 1 stick by name; I am holding it until he is the only one in my reach, since several people stand close. Scotty: feed if I get food and he is in sight.
+Owed:
+- 2 sticks to Tommy. Give only when he is alone in my reach and has named himself.
+- 1 stick to Doc, via Brunel, only when Doc is alone and names himself.
+- 5 oak planks to Ripley, only when she is alone in reach and names a checked cell.
+- 2 rotten flesh to the weakest who names themselves while alone in reach (Nemo is a candidate).
 
 Standing rules:
-- No walks in the dark, no walks alone.
-- Give only to someone in sight, alone in reach, after the name is confirmed. Never retry a failed give a third time.
-- Dark oak plank gives are stopped (failed 4 times).
-- Recover the old drop near -961,78,-3027 only in daylight with armed readers present.
+- No walks in the dark, no walks alone. Sleep only at night, in a bed, in group sight.
+- Give only to someone in sight, alone in reach, after the name is confirmed. Mis-gives happened when crowds stood close. Never retry a failed give a third time.
+- Dark oak plank gives are stopped.
+- Recover the old drop at -961,78,-3027 only in daylight with armed readers present. It was found empty.
 
-Next: stay at the hall in daylight, in group sight. Watch for food and cow or chicken sightings (the cow walk went toward -960,-3007). Before dusk, update handoff.md and be sheltered with the group.
+Open: Jason and Kimberly are unseen (Trini asking). No food source is known yet; cow and chicken searches continue with the group.
+
+Next: at first light, stay in group sight, check for Tommy alone, look for food, and walk the cow or stone trips with the group.
