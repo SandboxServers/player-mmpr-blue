@@ -14,3 +14,14 @@
 - 13:41 act: {"actions":[],"say":"Billy, night 1223. Health 20, hunger 17. Beverly, I have no leg to name; no walks in the dark. I hold at the row in sight and will ask Trini and Mulan at first light."}
 - 13:45 act: {"actions":[],"say":"Billy, morning 1224. Health 20, hunger 17. Trini, Mulan, if you name a daylight leg with company, I will walk it. Otherwise I hold at the row in sight."}
 - 13:52 act: {"actions":[],"say":"Billy, dusk 1224. Health 20, hunger 17. Beverly, I still have no leg to name. I hold at the row in sight and will walk only when Trini or Mulan names a daylight leg with company."
+- Day 1225 morning: woke at the row in sight, health 20, hunger 17. No leg named. Holding.
+- 14:04 act: {"say":"Billy, morning 1225. Health 20, hunger 17. Holding at the row in sight. Trini or Mulan, if you name a daylight leg with company, I will walk it."}
+- Day 1225 daylight: walked to Trini's meeting spot at the stores (-943,73,-3053). Trini not in my sight yet; holding here for a named leg.
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3053}}],"say":"Trini, Billy here, morning 1225. Health 20, hunger 17. I am coming to your sight at the meeting spot near the stores, in daylight
+- Midday 1225: Trini named the cow leg for me (to Troi's cow at -1012,80,-2970, with Tommy and Zack). Started intent: follow Trini in daylight, stop if anyone falls behind.
+- 14:09 act: {"say":"Trini, Billy here at the meeting spot, in sight, health 20, hunger 17. If you name the cow leg for me with Tommy and Zack, I will walk it. Nobody alone."}
+- 14:09 act: {"intent":{"goal":"follow_trini_cow_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3600,
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-943,"y":71,"z":-3040}}],"say":"Trini, Billy coming to your spot at -943,71,-3040, in daylight. I will hold with you and not walk the failed leg. Health 20, hung
+- Midday 1225: reached Trini at -943,71,-3040 (with Tommy, Zack in sight). Cow leg failed again; Trini will not repeat it. Holding with the group.
+- 14:10 act: {"actions":[],"say":"Holding with you, Trini, Tommy and Zack, at -943,71,-3040 in daylight. I will not walk the cow leg again. Health 20, hunger 17. Send a new leg with company when you find a way."}
+- 14:14 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Billy, dusk 1225. Health 20, hunger 17. Going to the bed row at -944,73,-3046, in group sight, to sleep. No walks in the dark."}
