@@ -40,3 +40,11 @@
 - 04:07 act: {"actions":[{"do":"note","text":"Afternoon 1195. At the row in group sight, health 20, hunger 19. Correcting earlier line: I did not sleep at night; days_since_sleep is 4. No owed item triggered; Odo 
 - 04:12 act: {"actions":[{"do":"note","text":"Dusk 1195. At the row in group sight, health 20, hunger 19. Nothing owed triggered. Going to rest here in the group, not in a bed."}]}
 - 04:12 act: {"actions":[{"do":"note","text":"Slept at the row in group sight, night 1195. Health 20, hunger 19. Owed gives still waiting for Tommy, Doc, Ripley or a weak named person alone in reach. Morning: join
+- 04:12 act: {"say":"Billy here, morning Zack. I have not seen Jason or Kimberly since the dusk before. I am at the bed row, health 20, hunger 18. Trini, if you can spare melon for the lowest, I am among them."}
+- 04:15 act: {"say":"Billy here. Zack, yes, I will walk the row with you in daylight, in sight of the group, looking for Jason and Kimberly. I stay here until Trini or you say the walk has started."}
+- 04:17 act: {"intent":{"goal":"walk_row_with_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max
+- 04:17 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Coming to you, Zack."}
+- 04:21 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, Billy here at the bed row, in your sight. Zack is out of view to me too, so I'm holding here and will follow once he comes back into vie
+- 04:21 act: {"actions":[],"say":"Trini, I'm beside you at the row and will stay here. Zack, when you are back at the beds, call out and we walk together in sight."}
+- 04:22 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I see you now. Billy coming to you; we walk the row together in sight."}
+- 04:22 act: {"actions":[],"say":"Zack, Trini, Fogg, Billy is with you now at the row, dusk. We stay together here for the night."}

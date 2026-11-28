@@ -1,14 +1,11 @@
-Handoff (day 1190, dusk)
+Handoff (day 1195, dusk)
 
-At the bed row near -951,73,-3047, in group sight, not enclosed. Health 20, hunger 19, no danger.
-Bed use failed earlier on two cells. Do not retry bed use; sleep here in the group.
+At the bed row near -950,73,-3048, in sight of Zack, Trini and Fogg, not enclosed. Health 20, hunger 18, no danger.
+Zack is back in sight; the group agreed to stay together for the night. Do not walk alone.
 
 Pack: 3 stick, 4 dirt, 2 rotten_flesh, written_book, 5 oak_planks, wooden_sword.
 
-Owed: 2 sticks to Tommy when he is alone in reach and has named himself. He said he will ask in the morning.
-Owed: 1 stick to Doc via Brunel when Doc is alone and names himself.
-Holding: 5 oak planks for Ripley, only when she is alone in reach and names a checked cell.
-Holding: 2 rotten_flesh for the weakest who names themselves while alone in reach.
+Owed: 2 sticks to Tommy when alone in reach and named. 1 stick to Doc via Brunel when alone and named. 5 oak planks to Ripley when alone and naming a checked cell. 2 rotten_flesh to the weakest who names themselves while alone.
 
-Open: Jason and Kimberly not seen. Food is still short; melon is held by Trini, Odo, Clark and others.
-Next at first light: give to Tommy when alone, look for food, then cow and stone trips with the group.
+Open: Jason and Kimberly not seen. Food still short; melon queue: Nemo, Clark, Aragorn, then me.
+Next at first light: stay in group sight, look for food, cow and stone trips with the group.
