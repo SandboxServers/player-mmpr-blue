@@ -7,3 +7,7 @@
 - 09:19 south leg failed: Trini out of sight on the way and stopped at the row for dusk. I am at -943,73,-3053 with the group, hunger 17, health 20. Holding at the row for the night, nobody alone.
 - 09:19 act: {"say":"Billy walking south with you, Trini, to -956, 73, -3037, in your sight.","intent":{"goal":"follow_trini_south","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addr
 - 09:20 act: {"say":"Billy here at the row, not walking on alone. Staying with the group at the beds for the night, in sight of Trini.","intent":{"goal":"hold_at_row_night","program":"rest","arguments":{},"wake_on
+- 09:2x Trini named an east search, called off at dusk. I rest at the row in sight, nobody alone; will walk the east leg at first light if named.
+- 09:21 act: {"say":"Billy at the row, in daylight. Zack, Trini: I am ready for a named daylight search for Jason and Kimberly. I will not walk alone."}
+- 09:21 act: {"say":"Billy understood, Trini. I rest at the row with Gimli and Zack, nobody alone. First light, I walk your named east leg."}
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3047}}],"say":"Billy going to the free bed at the row, in sight of the group, for the night. Nobody alone."}
