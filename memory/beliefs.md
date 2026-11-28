@@ -1,5 +1,11 @@
 # Beliefs
 
+## Day 1212
+- The free bed at -957,73,-3047 is still open at night; sleep worked there at dusk with the group in sight.
+- Trini's legs west, north, south, east, southwest and southeast all found no water, cows, Jason or Kimberly. The southeast leg failed at a drop near -943,73,-3053.
+- My follow of Trini fails whenever she is out of my sight. Hold and wait for her to call us into view.
+- Food is still given only to the lowest, alone and named. I took none today.
+
 ## Day 1207
 - My bed -958,73,-3047 took sleep at dusk on 1207 with the row in sight.
 - Daylight search with Zack and Trini did not start; the group must gather before a walk.
