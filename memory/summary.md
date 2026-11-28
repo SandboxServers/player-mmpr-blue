@@ -1,8 +1,8 @@
-# Summary (day 1212, night, asleep at my bed)
+# Summary (day 1217, night, asleep at my bed in the row)
 
-I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 in the west grove. The bed row is near -950,73,-3050. My bed is -958,73,-3047; free bed -957,73,-3047. Crafting table -946,73,-3049. Stores hall (food chests) near -925,71,-3039. Trini's meeting spot -943,73,-3053.
+I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 in the west grove. The bed row is near -950,73,-3050. My bed is -958,73,-3047; I slept at -949,73,-3047. Crafting table -946,73,-3049. Stores hall (food chests) near -925,71,-3039. Trini's meeting spot -943,73,-3053.
 
-Right now: asleep at the free bed at the row, in the group's sight. Health 20, hunger 17.
+Right now: asleep at the row, in group sight. Health 20, hunger 17.
 
 Owed (only when the person is alone in reach and has named themselves):
 - 2 sticks to Tommy.
@@ -15,6 +15,6 @@ Standing rules:
 - Give or take food only when alone in reach and named.
 - Sleep at a bed in the row, in group sight.
 
-Open: water, cows, Jason and Kimberly not found. Legs tried: west, north, south, east, southwest, southeast (failed at a drop near -943,73,-3053).
+Open: water, cows and sheep, and Jason and Kimberly, not found. Legs tried: west, north, south, east, southwest, southeast (failed at a drop near -943,73,-3053), north-west (1217 morning, with Trini's group).
 
 Next: at first light, stay at the row. Wait for Trini's word on a daylight leg.
