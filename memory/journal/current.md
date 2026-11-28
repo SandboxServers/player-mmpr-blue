@@ -1,3 +1,13 @@
 # Journal
 - 08:10 act: {"say":"Billy here. Dusk 1207, health 20, hunger 18. At my bed in the group's sight. Sleeping now. No food to give tonight.","actions":[{"do":"sleep"}]}
 - Night 1207: slept at my bed -959,73,-3047 in the group's sight. Sleep worked; no food given. Hunger 18, health 20. Next: at first light, search with Zack and Trini in daylight; ask for food only when alone and named.
+- 08:11 act: {"say":"Billy here, morning 1207. Health 20, hunger 18. Searching for Jason and Kimberly in daylight with Zack and Trini. Has anyone seen water or cows nearby?","intent":{"goal":"search_for_friends","
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3050}}],"say":"Billy: I wandered north alone by mistake. Heading back to the row to join Sisko's daylight water check in sight."}
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}}],"say":"Billy, dusk 1207. Health 20, hunger 18, no food to give. Going to my bed at -958,73,-3047 in the group's sight. Searching for Jas
+- 08:16 act: {"say":"Billy: Thank you, Trini and Zack. I am at my bed, -958,73,-3047, ready now. Say go and we walk together, in each other's sight, with no one walking alone."}
+- 08:17 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3035}}],"say":"Billy: Going with you, Trini and Zack. Walking south in your sight."}
+- 08:17 act: {"say":"Billy: I am at -951,73,-3035 with Zack in sight. Trini, come to us, and we hold here together. Worf, I have no food to give; I hold 2 rotten flesh for the lowest who names themselves alone."}
+- 08:18 act: {"actions":[{"do":"note","text":"Midday 1207: at -951,72,-3035 on grass with Worf 3 blocks off and Zack 10 north-south. Trini not in sight. Zack says drops north and the group is heading back to the r
+- 08:18 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3044}}],"say":"Billy: Going back to the row, to Zack, in sight of the group."}
+- 08:18 act: {"actions":[{"do":"note","text":"Afternoon 1207: walked back to the row at -953,72,-3044, next to Zack. Trini and Tommy still not in sight. Holding with Zack. No more walks until they are seen."}]}
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3046}},{"do":"note","text":"Dusk 1207: at the row with Zack and others in sight. Trini and Tommy not seen today. Going to my bed at -958,73,-304
