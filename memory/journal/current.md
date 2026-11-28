@@ -6,3 +6,4 @@
 - 08:25 act: {"say":"Billy: Agreed. Going east along the row with Zack and Trini, in sight, no one alone.","actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}}]}
 - 1208 day: east leg done, now at -946,73,-3050 at the row, in sight of many. Marco and Trini agreed to the short route. Bilbo named himself for carrots from Balboa, not me, so I did not give. Hunger 18, health 20. Next: hold at the row, wait for Zack and Trini before any search.
 - 08:34 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1208: going to my bed -958,73,-3047 in group sight. Owed items unchanged."}],"say":"Billy: Dusk. I go to my bed
+- 08:35 act: {"say":"Billy: Dusk. I am at my bed, in your sight. I will sleep here.","actions":[{"do":"sleep"}]}
