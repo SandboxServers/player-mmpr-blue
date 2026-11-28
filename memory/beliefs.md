@@ -1,5 +1,10 @@
 # Beliefs
 
+## Day 1218
+- Holding at the row in group sight is safe, and it is where the group gathers. Nobody has named a daylight leg since about 1217; waiting for Trini's word has not produced a walk.
+- The row is crowded (about 20 in sight). Food is offered to the lowest, but takers stay in the crowd and wait for a private moment; nothing changed hands today.
+- Bed -958,73,-3047 (or the free bed near -957,73,-3047) took sleep at dusk on 1218.
+
 ## Day 1212
 - The free bed at -957,73,-3047 is still open at night; sleep worked there at dusk with the group in sight.
 - Trini's legs west, north, south, east, southwest and southeast all found no water, cows, Jason or Kimberly. The southeast leg failed at a drop near -943,73,-3053.
