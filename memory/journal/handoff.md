@@ -1,9 +1,9 @@
-# Handoff (dusk 1236)
+# Handoff (dusk 1238)
 
-At the bed row, -944,73,-3060, in reach of Jason and Beverly, with Zack in reach. Health 20, hunger 17. Not enclosed. Enderman about the row; do not look at it, hold still.
+At the bed row, -944,73,-3060, in sight of Beverly, Zeogreen, Zeopink and Clark. Health 20, hunger 17. Not enclosed. Holding still for the night.
 
-Zack and Tommy died to the enderman near the row and lie near -944,73,-3052 and -943,73,-3053. Nobody goes back while it is near.
+No errand running. Still waiting for Trini to name a daylight leg to water and animals (coordinates needed).
 
-No errand running. Owed: 2 sticks to Tommy (not in reach now), 1 stick to Doc via Brunel, 5 oak planks to Ripley, 2 rotten flesh to the weakest who names themselves alone.
+Owed (only when the creditor is alone in reach and has named themselves): 2 sticks to Tommy, 1 stick to Doc via Brunel, 5 oak planks to Ripley, 2 rotten flesh to the weakest who names themselves alone.
 
-Plan: sleep at the bed row in company. At dawn, ask Trini for a daylight leg to water and cows.
+Next at dawn: ask Trini for a named leg. Do not walk in the dark.
