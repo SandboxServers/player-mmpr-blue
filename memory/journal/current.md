@@ -7,3 +7,9 @@
 - 1208 day: east leg done, now at -946,73,-3050 at the row, in sight of many. Marco and Trini agreed to the short route. Bilbo named himself for carrots from Balboa, not me, so I did not give. Hunger 18, health 20. Next: hold at the row, wait for Zack and Trini before any search.
 - 08:34 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1208: going to my bed -958,73,-3047 in group sight. Owed items unchanged."}],"say":"Billy: Dusk. I go to my bed
 - 08:35 act: {"say":"Billy: Dusk. I am at my bed, in your sight. I will sleep here.","actions":[{"do":"sleep"}]}
+- 08:36 act: {"say":"Billy here, day 1208, in the row's sight. I am looking for water and cows or sheep, in daylight. Trini, will you come with me?","intent":{"goal":"explore_for_water_and_animals","program":"expl
+- 08:37 act: {"say":"Billy: I went out alone further than I meant. Coming back to the row now, in sight.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3050}}]}
+- 08:37 act: {"say":"Billy: Gimli, I will go for water in company, in daylight, once Zack or Trini names the route. Holding at the row until then."}
+- 08:39 act: {"say":"Billy: Beverly, thank you. Trini, will you name the route? I will walk in your sight, no one alone. Until then I hold at the row."}
+- 08:39 act: {"say":"Billy: Yes, Trini. West with the group to -970,73,-3047 and back to the bed, all in sight, no one alone.","intent":{"goal":"west_route_with_group","program":"travel","arguments":{"target":{"x"
+- 08:40 act: {"say":"Billy: We are at -970,73,-3047. I see beds and no water or cows yet. I will go back to the row with the group.","intent":{"goal":"return_to_row_with_group","program":"travel","arguments":{"tar
