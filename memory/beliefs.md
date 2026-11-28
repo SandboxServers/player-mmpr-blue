@@ -1,5 +1,11 @@
 # Beliefs
 
+## Day 1203
+- Spawn -961,78,-3027; bed row near -948,73,-3048; my bed -958,73,-3047 (sleep worked at night 1203).
+- Food is held by others and given only to the lowest, when alone and named. Carrots: Uhura 5, Balboa 3, Ripley 2. Melon: Clark 5, Ellie 6, Aragorn 1, Trini 3. Chicken: Bilbo, Nemo.
+- Ripley asks my 5 planks on a checked cell when I come alone. Mulan's cell -955,73,-3051 was checked by Harriet.
+- Night 1203: still in group sight at the row, no danger.
+
 ## What worked
 - Feeding by hand works only when the person is in my sight and reachable. A give I sent with someone out of sight did not land (Beverly, Zack, Worf, Bcrusher, days 902-906).
 - Eating the moment food lands keeps hunger from falling further.
