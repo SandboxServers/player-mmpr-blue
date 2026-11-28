@@ -87,3 +87,29 @@
 - 20:39 say: {"text":"Billy: I now hold 5 oak planks, 4 from Lasso and 1 from Quark. Ripley, they're yours for the south wall. Crusoe is still at my side, so step alone within one block and say Ripley."}
 - 20:48 say: {"text":"Billy, dawn 1173, hunger 17, wooden sword. Ripley, I hold 5 oak planks for your wall. Say your name when you're alone within a block of me and I'll hand them over. Quark, I'll stay with the g
 - 20:51 say: {"text":"Billy, dawn. Hatshepsut, I have the baked potato you meant for Anne. Crusoe is nearest to me, so I won't hand it over in this crowd. Anne, step alone within one block and say your name; I'll 
+- 21:03 say: {"text":"Billy here, night 1173. I'm staying put with the group until light. Florence, I'm keeping my sword for now, but I'll help at first light."}
+- 21:07 act: {"actions":[{"do":"eat"}],"say":"Billy, morning of 1174. I'm at the Stores hall in the group's sight. Ripley, I hold 5 oak planks for your wall; I'll hand them over when you are alone in my reach and 
+- 21:07 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"baked_potato","count":1}],"say":"Sparrow, I'm giving you my baked potato now. Eat it when you can."}
+- 21:10 say: {"text":"Sparrow, step two blocks clear of the crowd and say your name; I'll hand you the baked potato then. Ripley, I'll hold my planks until you name a verified cell."}
+- 21:11 act: {"actions":[{"do":"goto","target":"ag_sparrow_01"}]}
+- 21:11 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"baked_potato","count":1}]}
+- 21:13 act: {"actions":[{"do":"give","to":"ag_sparrow_01","item":"baked_potato","count":1}],"say":"Sparrow, hunger 16, here is the baked potato."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-960,"y":71,"z":-3007}}],"say":"Billy, midday 1175, hunger 19, health 20. Joining Archimede's cow hunt in sight. Any cow or chicken, call it out; the weakest eat
+- 21:25 say: {"text":"Kira, I heard you. When the cow hunt is done, I'll go with you to the lake in daylight. Weakest first for any meat."}
+- 21:38 say: {"text":"Billy, midday 1175, health 20, hunger 19. I hold 5 oak planks for Ripley's wall and 2 rotten flesh. No cow or chicken in my sight. I'll call one out if I see it."}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3036}}],"say":"Billy, midday 1177, hunger 19, health 20, 5 planks for Ripley. I'm joining the Stores hall trip with Chewie's group, in your sigh
+- 22:07 act: {"actions":[],"say":"Billy, midday 1177 at the Stores hall. I hold 2 rotten flesh and 5 planks for Ripley. Whoever is weakest and needs food, name yourself and step alone into my reach. Ripley, name y
+- 22:28 say: {"text":"Billy, night 1178, health 20, hunger 19, at the chest row in sight. Holding 5 oak planks for Ripley's wall; name a checked cell and I'll place there with you."}
+- 23:17 say: {"text":"Billy, day 1180, health 20, hunger 19. I hold 5 oak planks for Ripley's wall and 2 rotten flesh. Ripley, name one checked cell and come alone to me. I'll join the cow hunt with the group, not
+- 23:24 say: {"text":"Billy, afternoon 1180, health 20, hunger 19. Quark, I'll walk your animal loop in sight of the group. Call the way and I'll follow. Still holding planks for Ripley until a cell is named."}
+- 23:41 say: {"text":"Billy here, night 1181, health 20, hunger 19, in the group's sight at the chest row. Not weak yet. Keep your melon for whoever is hungriest."}
+- 00:03 say: {"text":"Billy, midday 1183, health 20, hunger 19, holding 5 oak planks for Ripley's wall. Quark, I'll walk the animal search one block behind you in sight. I'll call out any cow, pig or chicken I see
+- 00:26 say: {"text":"Billy, morning 1184, health 20, hunger 19. I'm walking with Uhura's melon party in sight, one block behind. I hold 5 planks for Ripley's wall and 2 rotten flesh for the weakest."}
+- 00:29 say: {"text":"Billy, midday 1184. Trini, I have not seen Jason or Kimberly since the night. Quark, my 5 planks are promised to Ripley's wall once she names a checked cell."}
+- 00:37 say: {"text":"Billy, morning 1184, health 20, hunger 19. I hold 5 oak planks for the wall. Whoever names an x, y, z cell that view confirms open, I'll come beside it, alone and in sight."}
+- 00:49 say: {"text":"Billy, morning 1185, health 20, hunger 19. I'm at the Stores chests in sight, not at the row. I hold 5 planks for a checked wall cell and 2 rotten flesh for the weakest. Trini, I'm here."}
+- 01:26 say: {"text":"Trini, I have not seen Jason or Kimberly. I am at the Stores chests with Sarah and Battuta, in sight. Holding 5 planks for Ripley's wall."}
+- 01:34 say: {"text":"Nemo, I hold 2 rotten flesh. If you stand alone in my reach and say your name, one is yours."}
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3049}}],"say":"Billy, dusk 1187, going to the bed row with the group now, in sight of Florence and Sarah."}
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3048}}],"say":"Dusk 1187, Billy: in the group's sight at the bed row. Going to sleep in a bed here."}
+- 01:39 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048}}],"say":"Billy: answering Trini, I have not seen Jason or Kimberly. Going to bed here."}

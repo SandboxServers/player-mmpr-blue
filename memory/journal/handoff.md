@@ -1,13 +1,12 @@
-Handoff (day 1173, dusk)
+Handoff (day 1187, night, after sleep)
 
-Armed: wooden sword (held). Pack: 3 sticks, 2 dirt, 2 rotten_flesh, written book, 5 oak planks, 2 baked potatoes. Health 16, hunger 17.
+Slept at the bed row near -945,73,-3049, in group sight. days_since_sleep now 0. Health 20, hunger 19, not enclosed.
 
-Position: Stores hall, about -920,71,-3037, in group sight, on stone_bricks, not enclosed. Staying still through the night with the group.
+Pack: 3 stick, 4 dirt, 2 rotten_flesh, written_book, 5 oak_planks, wooden_sword (none held).
 
-Holding: 5 oak planks (4 from Lasso, 1 from Quark) for Ripley's south wall. Give only when Ripley is alone in my reach and says her name. Crusoe has stayed at 0.2 blocks, so no give yet.
+Holding: 5 oak planks for Ripley. Give only when she is alone in my reach and names a verified cell and herself.
+Holding: 2 rotten_flesh for the weakest who names themselves while alone in my reach. Nemo is the candidate (health 12 earlier).
+Owed: 2 sticks to Tommy when he asks; 1 stick to Doc via Brunel when Doc is alone and names himself; 1 stick to Andy when he is alone and confirms his name.
 
-Holding: 2 baked potatoes. Hatshepsut meant one for Anne; Anne said keep it for the hungriest. Brunel and Boudicca were at 16 and 17. Give to whoever is weakest and alone in my reach, after the name.
-
-Owed: Doc gets Brunel's stick once Doc is alone in my reach and says his name. Tommy's 2 sticks when he asks. Andy's 1 stick when he is the only one in reach and confirms his name. Scotty: feed if food and he is in sight.
-
-Next at first light: give planks to Ripley if she is alone; food to the weakest; then cow search with the group; old drop only in daylight with armed readers.
+Open: Trini asked about Jason and Kimberly; I have not seen them. Bed use at -945,73,-3048 failed as a bed; sleep tool worked.
+Next at first light: check for givers' names, food to the weakest, then the cow and stone trips with the group.
