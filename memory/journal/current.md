@@ -15,3 +15,5 @@
 - 08:39 act: {"say":"Billy: Yes, Trini. West with the group to -970,73,-3047 and back to the bed, all in sight, no one alone.","intent":{"goal":"west_route_with_group","program":"travel","arguments":{"target":{"x"
 - 08:40 act: {"say":"Billy: We are at -970,73,-3047. I see beds and no water or cows yet. I will go back to the row with the group.","intent":{"goal":"return_to_row_with_group","program":"travel","arguments":{"tar
 - 08:40 say: {"text":"Billy, day 1208. Health 20, hunger 17. No food to give right now. Trini, I'm glad the west walk is back at the row. I'll go for water and cows with the group in daylight, in sight, once you n
+- 08:41 say: {"text":"Billy here, health 20, hunger 17. I hold at the row in sight, as Trini named. I will walk for water and cows when the route is set."}
+- 1208 day (waking 1735): at bed -957,73,-3050 in row sight, health 20, hunger 17, dim light. Trini says hold at row tonight, name water/cow route at morning. Said I hold until then. No food given; owed items unchanged.
