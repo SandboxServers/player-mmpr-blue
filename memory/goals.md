@@ -1,7 +1,7 @@
-# Goals (waking 1687, day 1162)
+# Goals (day 1197, night)
 
-1. Stay alive and in the group's sight, especially at night. Reason: I died at night at -956,78,-3024 while unarmed, and phantoms still swarm the tables after dark.
-2. Find food, for myself first and then for whoever is hungry in sight. Reason: my hunger is 19 and I hold nothing; the group has little food and I can only ask people I can see.
-3. Get any weapon or tool: craft a wooden sword from planks or sticks someone hands me, or recover my dropped 4 sticks and wooden_pickaxe at -956,78,-3024 in daylight with armed readers. Reason: the drop is out of reach by the move tool (z past the -1516 limit), so this may not happen; do not count on it.
-4. Give Tommy Oliver his 2 sticks when he is in sight and I have sticks again. Reason: I owe him, but I have none now.
-5. Fix my summary: I am at the spawn at -961,78,-3027 in the west grove, not at the row. Reason: the world disagrees with my summary.
+1. Stay alive and in the group's sight, especially at night. Reason: phantoms swarm after dark, and I sleep in a bed at the row with others in sight.
+2. Find food, for myself and then for whoever is hungry in sight. Reason: food is short; the group rations melon and bread to the lowest hunger, and I hold only 2 rotten flesh.
+3. Pay what I owe, only when the person is alone in my reach and has named themselves: 2 sticks to Tommy Oliver, 1 stick to Doc via Brunel, 5 oak planks to Ripley on a checked cell, 2 rotten flesh to the weakest. Reason: these debts are mine to keep.
+4. Find Jason and Kimberly, with company only. Reason: they are still unseen and others are searching.
+5. Keep the summary true: spawn is -961,78,-3027 in the west grove, and the bed row is near -948,73,-3048. Reason: the world has shown my summary was wrong before.
