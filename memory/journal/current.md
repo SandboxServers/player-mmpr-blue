@@ -1,5 +1,6 @@
 # Journal
 - 1207 morning (waking 1731): woke at my bed -957,73,-3047, health 20, hunger 18. Said I am ready to search with Zack and Trini in daylight. Started a short explore leg, avoiding water. Next: check wait results, stay in group sight, ask for food only when alone and named.
+- 1208 day (waking 1734): west route with Trini done, no water or cows at -970,73,-3047. Health 20, hunger 17. Said I will join a water/cow search in company once a route is named. Holding at row in sight.
 - 08:24 act: {"say":"Billy: Zack, I hear you. My short search leg stopped, so I am holding at the row. Trini, Zack, Tommy, let us gather here in sight, then name the route together."}
 - 1208 morning: Trini, Zack and Tommy agreed to gather at the row and name one route together. Holding at -957,73,-3059 in sight until they name it. No food given; hunger 18.
 - 08:25 act: {"say":"Billy: Thank you, Tommy and Chewie. Zack, Trini, you know the ground better than I do. Name the one route, and I walk in your sight. I will hold here until then."}
@@ -13,3 +14,4 @@
 - 08:39 act: {"say":"Billy: Beverly, thank you. Trini, will you name the route? I will walk in your sight, no one alone. Until then I hold at the row."}
 - 08:39 act: {"say":"Billy: Yes, Trini. West with the group to -970,73,-3047 and back to the bed, all in sight, no one alone.","intent":{"goal":"west_route_with_group","program":"travel","arguments":{"target":{"x"
 - 08:40 act: {"say":"Billy: We are at -970,73,-3047. I see beds and no water or cows yet. I will go back to the row with the group.","intent":{"goal":"return_to_row_with_group","program":"travel","arguments":{"tar
+- 08:40 say: {"text":"Billy, day 1208. Health 20, hunger 17. No food to give right now. Trini, I'm glad the west walk is back at the row. I'll go for water and cows with the group in daylight, in sight, once you n
