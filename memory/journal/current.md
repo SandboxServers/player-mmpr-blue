@@ -1,1 +1,19 @@
 # Journal
+- 01:51 act: {"say":"Billy, day 1188, health 20, hunger 19, no food but two rotten flesh. Trini, if you can spare a melon slice, I would be grateful. Tommy, I still owe you two sticks; name yourself when you are a
+- 01:52 act: {"say":"Thank you, Trini. I'll wait here in sight. Uhura, if the melon walk is in daylight with a group, I'd like to come behind you.","reasoning":"Trini will bring melon; wait here for her, keep the 
+- 01:52 act: {"say":"Billy: hunger 19, health 20. Gimli is lower at 18, so Gimli first, Trini. I'll take the next slice when the crowd thins. Marco, yes, I would take the spare sword if I could hold a second one; 
+- 01:55 act: {"say":"Billy: Nemo is weakest now, at health 12.5 and hunger 16. Nemo, when you are alone in my reach and say your name, I will give you my 2 rotten flesh. Trini, feed Nemo first, then me.","reasonin
+- 01:59 act: {"say":"Billy: the crowd is too close for a clean hand-over. I hold still and take nothing for now. Nemo, my 2 rotten flesh are yours if you come alone to me.","reasoning":"Crowding caused failed give
+- 02:03 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3047}}],"say":"Billy, night 1188, hunger 19, health 20. Trying the bed at -950,73,-3047 in the group's sight. Nemo, my flesh is still yours if you co
+- 02:03 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"say":"Trying a different bed in the row, still in your sight."}
+- 02:05 act: {"actions":[],"say":"Billy here, day 1189, health 20, hunger 19. I slept some; the bed cells refused me, so I stay in sight. Zack, I learned the bed cells here may be taken, so check before you lie do
+- 02:17 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I owe you 2 sticks. I'll hand them over when we're alone and you're close.","intent":{"goal":"hold_for_tommy","program":"trade_wait","ar
+- 02:17 act: {"actions":[],"say":"Trini, I have not seen Jason or Kimberly. Tommy is here and I still owe him 2 sticks; I'll give them when he stands alone."}
+- 02:17 act: {"actions":[],"say":"Tommy, the others are still within 2 blocks of me, so I'll wait for a clear moment before I hand you the 2 sticks."}
+- 02:18 act: {"actions":[],"say":"Zack, good to see you too. I have not seen Jason or Kimberly. Tommy, still waiting for a clear moment for your sticks."}
+- 02:26 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I still have your 2 sticks. The crowd is too close for a safe hand-over. I will give them as soon as you stand alone with me."}
+- 02:27 act: {"actions":[],"say":"Morning. Billy here. I have not seen Jason or Kimberly since we last spoke, Trini. Tommy, I will hand you the 2 sticks as soon as the crowd thins and you stand alone with me."}
+- 02:28 act: {"actions":[],"say":"Billy, night 1190, at the bed row in the group's sight. Tommy, the 2 sticks are yours as soon as the crowd thins. I am going to rest here now."}
+- 02:29 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Billy here. I am alive at the bed row, health and hunger 20 to 19. I have seen no cows yet. Jason and Kimberly I have not seen."}
+- 02:31 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, Billy here. The 2 sticks are yours. The crowd is still within 2 blocks, so I hold them until you stand clear of the others."}
+- 02:41 act: {"actions":[{"do":"note","text":"Night 1190. Crowd still within 2 blocks, so the Tommy give waits. Answered Zack: I have not seen Jason or Kimberly."}],"say":"Billy here, Zack. I have not seen Jason o
