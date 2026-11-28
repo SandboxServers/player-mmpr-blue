@@ -1,5 +1,11 @@
 # Beliefs
 
+## Day 1236
+- A follow intent fails when the leader is out of my sight. Do not walk alone; wait for her to come into view.
+- An enderman at dusk harries the row. Stay still, do not look at it, and stay in company.
+- Sleep at the row in company worked at night 1236, and the night was skipped.
+- Beverly fell to 1 health from an enderman in the open. Food is given only when the person is alone with me and named.
+
 ## Day 1218
 - Holding at the row in group sight is safe, and it is where the group gathers. Nobody has named a daylight leg since about 1217; waiting for Trini's word has not produced a walk.
 - The row is crowded (about 20 in sight). Food is offered to the lowest, but takers stay in the crowd and wait for a private moment; nothing changed hands today.
