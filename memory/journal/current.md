@@ -1,13 +1,8 @@
 # Journal
-- 08:10 act: {"say":"Billy here. Dusk 1207, health 20, hunger 18. At my bed in the group's sight. Sleeping now. No food to give tonight.","actions":[{"do":"sleep"}]}
-- Night 1207: slept at my bed -959,73,-3047 in the group's sight. Sleep worked; no food given. Hunger 18, health 20. Next: at first light, search with Zack and Trini in daylight; ask for food only when alone and named.
-- 08:11 act: {"say":"Billy here, morning 1207. Health 20, hunger 18. Searching for Jason and Kimberly in daylight with Zack and Trini. Has anyone seen water or cows nearby?","intent":{"goal":"search_for_friends","
-- 08:11 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3050}}],"say":"Billy: I wandered north alone by mistake. Heading back to the row to join Sisko's daylight water check in sight."}
-- 08:15 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}}],"say":"Billy, dusk 1207. Health 20, hunger 18, no food to give. Going to my bed at -958,73,-3047 in the group's sight. Searching for Jas
-- 08:16 act: {"say":"Billy: Thank you, Trini and Zack. I am at my bed, -958,73,-3047, ready now. Say go and we walk together, in each other's sight, with no one walking alone."}
-- 08:17 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3035}}],"say":"Billy: Going with you, Trini and Zack. Walking south in your sight."}
-- 08:17 act: {"say":"Billy: I am at -951,73,-3035 with Zack in sight. Trini, come to us, and we hold here together. Worf, I have no food to give; I hold 2 rotten flesh for the lowest who names themselves alone."}
-- 08:18 act: {"actions":[{"do":"note","text":"Midday 1207: at -951,72,-3035 on grass with Worf 3 blocks off and Zack 10 north-south. Trini not in sight. Zack says drops north and the group is heading back to the r
-- 08:18 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3044}}],"say":"Billy: Going back to the row, to Zack, in sight of the group."}
-- 08:18 act: {"actions":[{"do":"note","text":"Afternoon 1207: walked back to the row at -953,72,-3044, next to Zack. Trini and Tommy still not in sight. Holding with Zack. No more walks until they are seen."}]}
-- 08:22 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3046}},{"do":"note","text":"Dusk 1207: at the row with Zack and others in sight. Trini and Tommy not seen today. Going to my bed at -958,73,-304
+- 1207 morning (waking 1731): woke at my bed -957,73,-3047, health 20, hunger 18. Said I am ready to search with Zack and Trini in daylight. Started a short explore leg, avoiding water. Next: check wait results, stay in group sight, ask for food only when alone and named.
+- 08:24 act: {"say":"Billy: Zack, I hear you. My short search leg stopped, so I am holding at the row. Trini, Zack, Tommy, let us gather here in sight, then name the route together."}
+- 1208 morning: Trini, Zack and Tommy agreed to gather at the row and name one route together. Holding at -957,73,-3059 in sight until they name it. No food given; hunger 18.
+- 08:25 act: {"say":"Billy: Thank you, Tommy and Chewie. Zack, Trini, you know the ground better than I do. Name the one route, and I walk in your sight. I will hold here until then."}
+- 08:25 act: {"say":"Billy: Agreed. Going east along the row with Zack and Trini, in sight, no one alone.","actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3050}}]}
+- 1208 day: east leg done, now at -946,73,-3050 at the row, in sight of many. Marco and Trini agreed to the short route. Bilbo named himself for carrots from Balboa, not me, so I did not give. Hunger 18, health 20. Next: hold at the row, wait for Zack and Trini before any search.
+- 08:34 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3047}},{"do":"note","text":"Dusk 1208: going to my bed -958,73,-3047 in group sight. Owed items unchanged."}],"say":"Billy: Dusk. I go to my bed
