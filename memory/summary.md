@@ -1,19 +1,19 @@
-# Summary (day 1197, night, at the bed row)
+# Summary (day 1198, night, at the bed row)
 
-I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 in the west grove. The bed row is near -948,73,-3048; crafting table at -946,73,-3049. The Stores hall (food chests) is near -925,71,-3039.
+I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 in the west grove. The bed row is near -948,73,-3048; I sleep at -958,73,-3047. Crafting table at -946,73,-3049. Stores hall (food chests) near -925,71,-3039.
 
-Right now: health 20, hunger 18, wooden sword. Pack: 3 sticks, 5 oak planks, 2 rotten flesh, 4 dirt, written book. In the group's sight at the row with Zack, Fogg and Tommy.
+Right now: health 20, hunger 18. Pack: 3 sticks, 5 oak planks, 2 rotten flesh, 4 dirt, written book, wooden sword.
 
 Owed:
-- 2 sticks to Tommy. Give only when he is alone in my reach and has named himself.
+- 2 sticks to Tommy, only when alone in my reach and named.
 - 1 stick to Doc, via Brunel, only when Doc is alone and names himself.
-- 5 oak planks to Ripley, only when she is alone in reach and names a checked cell.
-- 2 rotten flesh to the weakest who names themselves while alone in reach.
+- 5 oak planks to Ripley, only when alone in reach and naming a checked cell.
+- 2 rotten flesh to the weakest who names themselves while alone.
 
 Standing rules:
-- No walks in the dark, no walks alone. Sleep at night in a bed, in group sight.
+- No walks in the dark, no walks alone. Sleep in a bed at the row, in group sight.
 - Give only to someone in sight, alone in reach, after the name is confirmed. Never retry a failed give a third time.
 
-Open: Jason and Kimberly are unseen. Food is short; no food source known yet. Cow search continues with the group in daylight.
+Open: Jason and Kimberly unseen. Food is short; cows and sheep not yet found. Indy's stone walk waits on Sisko's checked route.
 
-Next: at first light, stay in group sight, check for Tommy alone, look for food, join the group's daylight search.
+Next: at first light, stay in group sight, ask for food, join the daylight search only with a checked route.
