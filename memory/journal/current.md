@@ -14,3 +14,6 @@
 - 11:01 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3048}}],"say":"Billy, morning 1215. Holding at the row in group sight, nobody alone. I will try the bed just south of me, and sleep there when night 
 - 11:02 act: {"intent":{"goal":"walk_named_leg","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wo
 - 11:08 say: {"text":"Billy, morning 1216. Health 20, hunger 17. Holding at the row in group sight, nobody alone. Trini, name me for a leg and I walk in your sight."}
+- 11:14 act: {"say":"Billy, morning 1216. Health 20, hunger 17. Holding at the row in sight. Nobody alone, so nothing handed over. Waiting for Trini to name a daylight leg."}
+- 11:20 act: {"say":"Billy: Ripley, I hear you. The planks stay with me until you stand alone in my reach and name yourself. Not in the crowd. I hold at the row."}
+- 11:25 act: {"actions":[{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Billy, night 1217. Holding at the bed in the row, in group sight, nobody alone. Sleeping now."}
