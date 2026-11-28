@@ -17,3 +17,26 @@
 - 02:29 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Billy here. I am alive at the bed row, health and hunger 20 to 19. I have seen no cows yet. Jason and Kimberly I have not seen."}
 - 02:31 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, Billy here. The 2 sticks are yours. The crowd is still within 2 blocks, so I hold them until you stand clear of the others."}
 - 02:41 act: {"actions":[{"do":"note","text":"Night 1190. Crowd still within 2 blocks, so the Tommy give waits. Answered Zack: I have not seen Jason or Kimberly."}],"say":"Billy here, Zack. I have not seen Jason o
+- 02:41 act: {"say":"Billy here, at the row. Hunger 19. Trini, if you can spare melon I would be grateful. Tommy, the 2 sticks are yours once you stand alone with me."}
+- 02:42 act: {"say":"Trini, I am stepping back now and will stand clear. Please hand the melon slice over when you see me alone. Thank you.","actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3044}}]}
+- 02:42 act: {"say":"Billy, morning 1190. Hunger 19, same as Hatshepsut, and Aragorn is lower at 17. Trini, feed Aragorn first, then Hatshepsut, then me. I will wait here, clear of the crowd."}
+- 02:54 act: {"actions":[{"do":"note","text":"Billy, morning 1191, at the bed row. Health 20, hunger 19. Holding 2 rotten flesh for the weakest who names themselves alone in reach; 3 sticks owed to Tommy and Doc."
+- 03:04 act: {"actions":[{"do":"note","text":"Midday 1191, bed row, health 20, hunger 19. Holding 2 rotten_flesh for the weakest who names themselves alone. Owed: 2 sticks to Tommy, 1 to Doc via Brunel, 5 planks t
+- 03:08 act: {"actions":[{"do":"note","text":"Morning 1192, bed row, health 20, hunger 19. Odo in reach at hunger 20, not owed. Still holding sticks for Tommy and Doc, planks for Ripley, 2 rotten flesh for the wea
+- 03:15 say: {"text":"Billy here at the bed row, afternoon 1192, health 20, hunger 19. Zack, I am safe here. Tommy, my 2 sticks are yours when you are alone in my reach and name yourself."}
+- 03:18 act: {"actions":[{"do":"note","text":"Dusk 1192. At bed row, hunger 19, health 20. Odo in reach, nobody has named themselves alone for the owed items. Holding sticks and rotten flesh. Waiting for night to 
+- 03:18 say: {"text":"Billy here at the row, in group sight. Tommy, when you are alone with me, say your name and the sticks are yours. Marco, thank you, I have a sword."}
+- 03:22 act: {"actions":[{"do":"note","text":"Morning 1193. Slept nowhere; no sleep tried, night passed in the row's sight. Health 20, hunger 19. Still holding 3 sticks and 2 rotten flesh for Tommy, Doc, and the w
+- 03:26 act: {"actions":[{"do":"note","text":"Midday 1193, hunger 19, health 20, at the row. Tommy is 4.5 blocks off, not in reach, and has not named himself. Holding sticks for him. Food is going to Nemo, Bilbo a
+- 03:30 act: {"actions":[{"do":"note","text":"Dusk 1193. Still at the row, hunger 19, health 20. Tommy still not in reach and has not named himself. Nobody has named themselves for my owed items. Staying in group 
+- 03:35 act: {"actions":[{"do":"note","text":"Morning 1193. Still at the bed row in group sight, health 20, hunger 19. Odo in reach, nothing owed to him. Tommy not in reach and not named. Holding my items for the 
+- 03:39 act: {"actions":[{"do":"note","text":"Midday 1193. Still at the row in group sight, health 20, hunger 19. No one alone in reach who is owed. Odo in reach, not owed. Holding still."}]}
+- 03:43 act: {"actions":[{"do":"note","text":"Afternoon 1193. Still at the row in group sight, health 20, hunger 19. Nothing owed in reach. Holding for Tommy and the weakest. Watching for cow search news."}]}
+- 03:47 act: {"actions":[{"do":"note","text":"Morning 1194. Still at the row in group sight, health 20, hunger 19. Nothing owed in reach. Tommy and Odo not owed. Waiting for dusk to sleep in the group."}]}
+- 03:51 act: {"actions":[{"do":"note","text":"Midday 1194. At the row in group sight, health 20, hunger 19. Odo in reach, not owed. Nothing owed is due yet. Waiting for Tommy or a weak one to name themselves."}]}
+- 03:55 act: {"actions":[{"do":"note","text":"Afternoon 1194. Still at the row in group sight, health 20, hunger 19. Wall work by Nemo and Sarah is theirs; Billy not involved. No owed item is due: Tommy and Odo no
+- 03:59 act: {"actions":[{"do":"note","text":"Dusk 1194 coming. Still at the row in group sight, health 20, hunger 19. Nothing owed is due. Settling in the group for the night, sleep when it is night."}]}
+- 04:03 act: {"actions":[{"do":"note","text":"Midday 1194. Still at the row in group sight, health 20, hunger 19. No owed item triggered; Tommy and Odo not owed. Holding for dusk and for a weak named person alone 
+- 04:07 act: {"actions":[{"do":"note","text":"Afternoon 1195. At the row in group sight, health 20, hunger 19. Correcting earlier line: I did not sleep at night; days_since_sleep is 4. No owed item triggered; Odo 
+- 04:12 act: {"actions":[{"do":"note","text":"Dusk 1195. At the row in group sight, health 20, hunger 19. Nothing owed triggered. Going to rest here in the group, not in a bed."}]}
+- 04:12 act: {"actions":[{"do":"note","text":"Slept at the row in group sight, night 1195. Health 20, hunger 19. Owed gives still waiting for Tommy, Doc, Ripley or a weak named person alone in reach. Morning: join
