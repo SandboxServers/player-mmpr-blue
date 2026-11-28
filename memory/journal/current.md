@@ -48,3 +48,7 @@
 - 04:21 act: {"actions":[],"say":"Trini, I'm beside you at the row and will stay here. Zack, when you are back at the beds, call out and we walk together in sight."}
 - 04:22 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I see you now. Billy coming to you; we walk the row together in sight."}
 - 04:22 act: {"actions":[],"say":"Zack, Trini, Fogg, Billy is with you now at the row, dusk. We stay together here for the night."}
+- 04:23 say: {"text":"Billy, dusk 1195. Health 20, hunger 18. Staying at the bed row in group sight, not walking alone. I still owe Tommy 2 sticks when he is alone and named."}
+- 04:24 act: {"say":"Morning. Billy here, health 20, hunger 18. Zack, I'll walk with you in daylight, in sight, looking for Jason and Kimberly. Tell me the route.","intent":{"goal":"walk_with_zack_day","program":"
+- 04:25 act: {"say":"Coming, Zack and Trini. Billy walking east along the row in sight.","actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 04:25 say: {"text":"Billy here. Trini, I'm with you, in sight. Zack leads; I'll follow east and call out if I see Jason or Kimberly."}
