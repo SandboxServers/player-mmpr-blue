@@ -17,3 +17,5 @@
 - 08:40 say: {"text":"Billy, day 1208. Health 20, hunger 17. No food to give right now. Trini, I'm glad the west walk is back at the row. I'll go for water and cows with the group in daylight, in sight, once you n
 - 08:41 say: {"text":"Billy here, health 20, hunger 17. I hold at the row in sight, as Trini named. I will walk for water and cows when the route is set."}
 - 1208 day (waking 1735): at bed -957,73,-3050 in row sight, health 20, hunger 17, dim light. Trini says hold at row tonight, name water/cow route at morning. Said I hold until then. No food given; owed items unchanged.
+- 1208 day (waking 1736): at my bed row, health 20, hunger 17, in sight. Tommy asked to walk with us once a route is named. I told him I owe him 2 sticks and will hand them over when he is alone in reach. No errand running. Holding at row.
+- 08:41 act: {"say":"Tommy, Billy here. Trini and I search for Jason and Kimberly in daylight. Name the route you want and we will walk it with you. I owe you two sticks; I will hand them over when you are alone i
