@@ -8,3 +8,4 @@ Night 1236: at the row with Zack, Jason, Bcrusher. Sleep failed (enderman near).
 - 20:05 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3059}}]}
 - 20:08 act: {"say":"Morning. Zeopink, thank you; I will take the melon only when you are alone with me in reach. Trini, Data: is there a daylight leg with coordinates for water, cows or sheep? I walk only in comp
 - Day 1243 dawn: Zeopink offered a melon; I take food only when they are alone with me. Beverly and Bcrusher also waiting for a named leg. Still none from Trini or Data. Walking nothing; holding at the row.
+- 20:19 act: {"say":"Still here at the row, Billy. Staying put until dawn. Tommy, I owe you two sticks when you are alone with me in reach."}
