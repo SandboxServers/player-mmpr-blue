@@ -3,3 +3,9 @@
 - Morning 1232 (new life). At the row with Trini, Jason, Zeoblue, Troi, Zack, Bcrusher, Zeogreen. Said my holdings and asked Trini for a daylight leg with coordinates. Holding still; no debts paid (Tommy not here, sign says slain).
 - 16:36 say: {"text":"Troi, I am sorry, I cannot spare the planks. The 5 oak planks are promised to Ripley. I will tell you if that changes."}
 - 16:41 say: {"text":"Trini, I have not seen Kimberly since I woke here. I have no leg to offer yet. I will hold at the row with you and wait for your leg."}
+- 16:46 act: {"say":"Billy here, awake at the row in daylight. Trini, could you name a leg with real coordinates? I want to look for water, cows and sheep, in company."}
+- 16:47 act: {"say":"Understood, Trini. I will stay at the row and wait for your named leg."}
+- Waking 1233, day, at the row with Trini and Jason. Asked Trini for a leg; she has no water or cow coordinates yet, so I hold still and wait.
+- 16:48 act: {"say":"Thank you, Rocky. Once Trini names a leg with coordinates, I will go with you both in daylight. Until then I stay at the row."}
+- Midday 1233: Tommy, Worf and Beverly arrived at the row. Still no leg named. Tommy is alive and near-ish; the 2 sticks owed to him are still due when he is alone in my reach. Waiting.
+- 16:56 say: {"text":"Dusk, Billy here at the row, in sight of Trini and Jason. I am going to bed here tonight. No walks in the dark."}
