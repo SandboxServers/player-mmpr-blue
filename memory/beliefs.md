@@ -1,5 +1,10 @@
 # Beliefs
 
+## Day 1205
+- Bed -958,73,-3047 took sleep at night 1205 with the row in sight (about 10 people within reach).
+- The row is crowded at dusk; food goes to the lowest first, and only when the giver is alone with you and you have named yourself.
+- Still no food received. Jason and Kimberly still unseen.
+
 ## Day 1203
 - Spawn -961,78,-3027; bed row near -948,73,-3048; my bed -958,73,-3047 (sleep worked at night 1203).
 - Food is held by others and given only to the lowest, when alone and named. Carrots: Uhura 5, Balboa 3, Ripley 2. Melon: Clark 5, Ellie 6, Aragorn 1, Trini 3. Chicken: Bilbo, Nemo.
