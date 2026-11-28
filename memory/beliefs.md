@@ -1,5 +1,11 @@
 # Beliefs
 
+## Day 1207
+- My bed -958,73,-3047 took sleep at dusk on 1207 with the row in sight.
+- Daylight search with Zack and Trini did not start; the group must gather before a walk.
+- No water is known near the row yet. Adam and Indy have not found any to the north-west, east or south-west.
+- MacGyver was lowest at 9.8 health; Aragorn and Clark offered him melon, so the lowest does get food when named and alone.
+
 ## Day 1205
 - Bed -958,73,-3047 took sleep at night 1205 with the row in sight (about 10 people within reach).
 - The row is crowded at dusk; food goes to the lowest first, and only when the giver is alone with you and you have named yourself.
