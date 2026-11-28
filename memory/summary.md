@@ -1,4 +1,4 @@
-# Summary (day 1205, night, asleep at my bed)
+# Summary (day 1206, night, asleep at my bed)
 
 I am Billy Cranston (ag_billy_01). Spawn is -961,78,-3027 in the west grove. The bed row is near -948,73,-3048. I sleep at my bed, -958,73,-3047. Crafting table at -946,73,-3049. Stores hall (food chests) near -925,71,-3039.
 
@@ -16,6 +16,6 @@ Standing rules:
 - No walks in the dark, no walks alone. Sleep in my bed at the row, in group sight.
 - Give only to someone in sight, alone in reach, after the name is confirmed.
 
-Open: Jason and Kimberly unseen. The row is crowded at dusk, so asks wait for a quiet moment.
+Open: Jason and Kimberly unseen. Zack and I share any trace. The row is crowded at dusk, so asks wait for a quiet moment.
 
 Next: at first light, stay in group sight. Ask for food only when alone and named.
